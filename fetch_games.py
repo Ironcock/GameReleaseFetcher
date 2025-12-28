@@ -7,59 +7,57 @@ import sys
 import time
 
 # CONFIGURATION
-# The script prioritizes the environment variable for GitHub Actions, fallback for local testing.
-API_KEY = os.environ.get("RAWG_API_KEY") or "0ac6ccd2428642d8be0bdf14a1077985"
+API_KEY = os.environ.get("RAWG_API_KEY") 
 BASE_URL = "https://api.rawg.io/api/games"
 
-# CONTENT FILTERING RULES
-# 1. HARD BLOCK: These tags immediately remove the game.
-BLACKLIST_TAGS = ['nsfw', 'erotica', 'hentai', 'porn', 'uncensored']
+# 1. API REQUEST PARAMETERS (Exact Specs)
+PC_PARENT_PLATFORM_ID = 1  # Catches Steam, Epic, etc.
 
-# 2. CONDITIONAL BLOCK: These tags are allowed ONLY if the game is popular.
-# 'mature' is EXCLUDED so standard action games are safe.
-CONDITIONAL_TAGS = ['nudity', 'sexual-content', 'adult']
-MIN_ADDED_FOR_MATURE = 10
+# 2. CONTENT FILTERING LOGIC
+# Hard Block: Always remove these, no matter what.
+BLACKLIST = ['nsfw', 'erotica', 'hentai', 'porn', 'uncensored', 'sex']
+
+# Conditional Block: Remove ONLY if unpopular (shovelware check).
+# CRITICAL: 'mature' is EXCLUDED. It is safe.
+CONDITIONAL = ['nudity', 'sexual-content', 'adult'] 
 
 def get_date_range(days_back=0, days_forward=0):
-    """Generates a date string for RAWG API (YYYY-MM-DD,YYYY-MM-DD)"""
     today = datetime.date.today()
     start = today - timedelta(days=days_back)
     end = today + timedelta(days=days_forward)
     return f"{start},{end}"
 
-def is_filtered_adult_content(game_tags, added_count):
+def is_valid_game(game):
     """
-    Filters out adult content based on tags and popularity.
-    Returns True if the game should be SKIPPED.
+    Implements the Smart Filter logic.
+    Returns True if the game should be kept.
     """
-    # 1. Check Hard Blacklist
-    if any(tag in BLACKLIST_TAGS for tag in game_tags):
-        return True
-    
-    # 2. Check Conditional Tags
-    if any(tag in CONDITIONAL_TAGS for tag in game_tags):
-        # If the game has sexual tags but very few users own it, assume it's shovelware.
-        if added_count < MIN_ADDED_FOR_MATURE:
-            return True
+    tags = [t['slug'] for t in game.get('tags', [])]
+    added_count = game.get('added', 0)
+
+    # Check 1: Hard Block
+    if any(tag in BLACKLIST for tag in tags):
+        return False 
+
+    # Check 2: Conditional Block
+    # If game has 'nudity'/'sexual-content' AND < 10 owners, it's shovelware.
+    if any(tag in CONDITIONAL for tag in tags):
+        if added_count < 10:
+            return False 
             
-    return False
+    return True
 
 def fetch_games(endpoint_params, target_limit=500):
-    """Fetches games from RAWG across multiple pages to reach the target limit."""
     games_data = []
     page = 1
-    
-    # DEEP CRAWL SETTING:
-    # 40 items per page * 25 pages = 1000 items checked.
-    # This ensures we find 500 valid items even if filters delete 50% of the raw data.
-    max_pages = 25 
+    max_pages = 25 # Safety limit
     
     print(f"   > Fetching target: {target_limit} items...")
 
     while len(games_data) < target_limit and page < max_pages:
         params = {
             "key": API_KEY,
-            "page_size": 40,
+            "page_size": 40, # Max allowed
             "page": page,
             **endpoint_params
         }
@@ -71,26 +69,19 @@ def fetch_games(endpoint_params, target_limit=500):
             results = data.get("results", [])
             
             if not results:
-                print("   > API returned empty results. Stopping.")
                 break
 
-            skipped_count = 0
             for game in results:
                 if len(games_data) >= target_limit:
                     break
 
-                # Extract Tags and Adds for Filtering
-                tags_list = [t['slug'] for t in game.get('tags', [])]
-                added_count = game.get('added', 0)
-
-                # APPLY CONTENT FILTER
-                if is_filtered_adult_content(tags_list, added_count):
-                    skipped_count += 1
+                # --- 3. THE SMART FILTER ---
+                if not is_valid_game(game):
                     continue
 
-                # EXTRACT DATA
-                screenshots = [s['image'] for s in game.get('short_screenshots', [])]
-                
+                # --- 4. DATA MAPPING ---
+                short_screenshots = [s['image'] for s in game.get('short_screenshots', [])]
+                tags_list = [t['slug'] for t in game.get('tags', [])]
                 platforms = []
                 if game.get('parent_platforms'):
                     platforms = [p['platform']['slug'] for p in game['parent_platforms']]
@@ -102,9 +93,9 @@ def fetch_games(endpoint_params, target_limit=500):
                     "ImageURL": game.get('background_image') or "", 
                     "StoreURL": f"https://rawg.io/games/{game['slug']}",
                     "Metacritic": game.get('metacritic'),
-                    "AddedCount": added_count,
+                    "AddedCount": game.get('added', 0),
                     "Rating": game.get('rating', 0.0),
-                    "ShortScreenshots": screenshots, 
+                    "ShortScreenshots": short_screenshots,
                     "Genres": [g['name'] for g in game.get('genres', [])][:3],
                     "Tags": tags_list,
                     "Platforms": platforms
@@ -112,11 +103,9 @@ def fetch_games(endpoint_params, target_limit=500):
                 
                 games_data.append(game_obj)
             
-            # Progress Log
-            print(f"   > Page {page}: Accepted {len(results) - skipped_count}/{len(results)} games. Total gathered: {len(games_data)}")
-            
+            print(f"   > Page {page} done. Count: {len(games_data)}")
             page += 1
-            time.sleep(0.2) # Safety delay to avoid rate limiting
+            time.sleep(0.2)
             
         except Exception as e:
             print(f"Error on page {page}: {e}")
@@ -125,56 +114,46 @@ def fetch_games(endpoint_params, target_limit=500):
     return games_data
 
 def generate_daily_feed():
-    """Pipeline: Generates the daily update for New Releases and Upcoming games."""
-    print("--- Starting Daily Feed Generation ---")
+    print("--- Starting Daily Feed ---")
     data = {}
     
-    # NEW RELEASES: 
-    # - Last 30 days
-    # - PC Only (parent_platforms=1)
-    # - Ordered by Newest First (ordering=-released)
+    # A. New Releases (Last 30 Days)
+    # Ordered by: -released (Newest first)
     print("Fetching New Releases (Last 30 Days)...")
     data["NewReleases"] = fetch_games({
         "dates": get_date_range(days_back=30, days_forward=0),
-        "parent_platforms": 1,
-        "ordering": "-released"
+        "ordering": "-released", 
+        "parent_platforms": PC_PARENT_PLATFORM_ID 
     }, target_limit=500)
 
-    # UPCOMING: 
-    # - Next 90 days
-    # - PC Only
-    # - Ordered by Closest Date First (ordering=released)
+    # B. Upcoming (Next 90 Days)
+    # Ordered by: released (Soonest first)
     print("Fetching Upcoming (Next 90 Days)...")
     data["Upcoming"] = fetch_games({
         "dates": get_date_range(days_back=0, days_forward=90),
-        "parent_platforms": 1,
-        "ordering": "released"
+        "ordering": "released", 
+        "parent_platforms": PC_PARENT_PLATFORM_ID
     }, target_limit=500)
 
     with open('daily_games.json', 'w') as f:
         json.dump(data, f, indent=2)
-    print(">> daily_games.json generated.")
 
 def generate_monthly_feed():
-    """Pipeline: Generates the stable monthly update for the Hall of Fame."""
-    print("--- Starting Monthly Feed Generation ---")
+    print("--- Starting Monthly Feed ---")
     data = {}
     
-    # TOP GAMES: 
-    # - PC Only (parent_platforms=1)
-    # - Ordered by Metacritic score
-    print("Fetching Top 250 (Hall of Fame)...")
+    # C. Hall of Fame (Top 250)
+    # Ordered by: -metacritic
+    print("Fetching Hall of Fame...")
     data["HallOfFame"] = fetch_games({
-        "parent_platforms": 1,
         "ordering": "-metacritic",
+        "parent_platforms": PC_PARENT_PLATFORM_ID
     }, target_limit=250)
 
     with open('top_games.json', 'w') as f:
         json.dump(data, f, indent=2)
-    print(">> top_games.json generated.")
 
 if __name__ == "__main__":
-    # Check for the --monthly flag to run Pipeline B
     if len(sys.argv) > 1 and sys.argv[1] == "--monthly":
         generate_monthly_feed()
     else:
