@@ -18,9 +18,10 @@ jobs:
       env:
         RAWG_API_KEY: ${{ secrets.RAWG_API_KEY }}
       run: python fetch_top.py
-    - name: Commit
+    - name: Commit and Push
       run: |
         git config --global user.name "GitHub Actions Bot"
         git config --global user.email "actions@github.com"
         git add top_games.json
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Update top 100 games" && git push)
+        # Check if there are changes; if not, do nothing
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update top 100 games" && git pull --rebase && git push)
