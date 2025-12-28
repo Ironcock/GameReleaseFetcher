@@ -10,15 +10,11 @@ import time
 API_KEY = os.environ.get("RAWG_API_KEY") 
 BASE_URL = "https://api.rawg.io/api/games"
 
-# 1. API REQUEST PARAMETERS (Exact Specs)
-PC_PARENT_PLATFORM_ID = 1  # Catches Steam, Epic, etc.
+# 1. API REQUEST PARAMETERS
+PC_PARENT_PLATFORM_ID = 1  # PC
 
 # 2. CONTENT FILTERING LOGIC
-# Hard Block: Always remove these, no matter what.
 BLACKLIST = ['nsfw', 'erotica', 'hentai', 'porn', 'uncensored', 'sex']
-
-# Conditional Block: Remove ONLY if unpopular (shovelware check).
-# CRITICAL: 'mature' is EXCLUDED. It is safe.
 CONDITIONAL = ['nudity', 'sexual-content', 'adult'] 
 
 def get_date_range(days_back=0, days_forward=0):
@@ -29,10 +25,15 @@ def get_date_range(days_back=0, days_forward=0):
 
 def is_valid_game(game):
     """
-    Implements the Smart Filter logic.
-    Returns True if the game should be kept.
+    Implements the Smart Filter logic with NULL safety (Crash Fix).
     """
-    tags = [t['slug'] for t in game.get('tags', [])]
+    # FIX: Handle case where tags is None/Null to prevent crashes
+    raw_tags = game.get('tags')
+    if not raw_tags:
+        tags = []
+    else:
+        tags = [t['slug'] for t in raw_tags]
+        
     added_count = game.get('added', 0)
 
     # Check 1: Hard Block
@@ -40,7 +41,7 @@ def is_valid_game(game):
         return False 
 
     # Check 2: Conditional Block
-    # If game has 'nudity'/'sexual-content' AND < 10 owners, it's shovelware.
+    # If game has 'nudity' but < 10 owners, it's assumed shovelware.
     if any(tag in CONDITIONAL for tag in tags):
         if added_count < 10:
             return False 
@@ -50,14 +51,14 @@ def is_valid_game(game):
 def fetch_games(endpoint_params, target_limit=500):
     games_data = []
     page = 1
-    max_pages = 25 # Safety limit
+    max_pages = 25 
     
     print(f"   > Fetching target: {target_limit} items...")
 
     while len(games_data) < target_limit and page < max_pages:
         params = {
             "key": API_KEY,
-            "page_size": 40, # Max allowed
+            "page_size": 40,
             "page": page,
             **endpoint_params
         }
@@ -81,7 +82,11 @@ def fetch_games(endpoint_params, target_limit=500):
 
                 # --- 4. DATA MAPPING ---
                 short_screenshots = [s['image'] for s in game.get('short_screenshots', [])]
-                tags_list = [t['slug'] for t in game.get('tags', [])]
+                
+                # FIX: Handle null tags safely here too for the JSON output
+                raw_tags = game.get('tags')
+                tags_list = [t['slug'] for t in raw_tags] if raw_tags else []
+                
                 platforms = []
                 if game.get('parent_platforms'):
                     platforms = [p['platform']['slug'] for p in game['parent_platforms']]
@@ -117,8 +122,7 @@ def generate_daily_feed():
     print("--- Starting Daily Feed ---")
     data = {}
     
-    # A. New Releases (Last 30 Days)
-    # Ordered by: -released (Newest first)
+    # A. New Releases (Last 30 Days) | Ordered by Date (-released)
     print("Fetching New Releases (Last 30 Days)...")
     data["NewReleases"] = fetch_games({
         "dates": get_date_range(days_back=30, days_forward=0),
@@ -126,8 +130,7 @@ def generate_daily_feed():
         "parent_platforms": PC_PARENT_PLATFORM_ID 
     }, target_limit=500)
 
-    # B. Upcoming (Next 90 Days)
-    # Ordered by: released (Soonest first)
+    # B. Upcoming (Next 90 Days) | Ordered by Date (released)
     print("Fetching Upcoming (Next 90 Days)...")
     data["Upcoming"] = fetch_games({
         "dates": get_date_range(days_back=0, days_forward=90),
@@ -142,8 +145,7 @@ def generate_monthly_feed():
     print("--- Starting Monthly Feed ---")
     data = {}
     
-    # C. Hall of Fame (Top 250)
-    # Ordered by: -metacritic
+    # C. Hall of Fame (Top 250) | Ordered by Metacritic
     print("Fetching Hall of Fame...")
     data["HallOfFame"] = fetch_games({
         "ordering": "-metacritic",
