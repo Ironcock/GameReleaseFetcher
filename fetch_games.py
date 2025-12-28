@@ -9,10 +9,11 @@ import time
 # CONFIGURATION
 API_KEY = os.environ.get("RAWG_API_KEY") 
 BASE_URL = "https://api.rawg.io/api/games"
+PC_PLATFORM_ID = 4  # RAWG ID for PC
 
 # --- SAFETY CONFIGURATION ---
 
-# 1. HARD BANS: Instant rejection, regardless of popularity.
+# 1. HARD BANS: Instant rejection.
 HARD_BANNED_TAGS = {
     "nsfw", 
     "hentai", 
@@ -21,8 +22,7 @@ HARD_BANNED_TAGS = {
     "sex" 
 }
 
-# 2. RISKY TAGS: Allowed ONLY if Added Count > 100.
-# If a game has these tags but is obscure (<100 adds), we assume it's shovelware porn.
+# 2. RISKY TAGS: Allowed ONLY if Added Count > Threshold.
 RISKY_TAGS = {
     "nudity", 
     "sexual-content", 
@@ -30,7 +30,7 @@ RISKY_TAGS = {
     "mature-content"
 }
 
-# 3. TITLE BLACKLIST: Catch obvious shovelware titles
+# 3. TITLE BLACKLIST
 BANNED_TITLE_KEYWORDS = [
     "hentai", "porn", "sex ", "waifu", "uncensored", "boobs", "milf"
 ]
@@ -42,32 +42,26 @@ def get_date_range(days_back=0, days_forward=0):
     return f"{start},{end}"
 
 def is_safe_for_work(game):
-    """
-    Returns False if game is NSFW.
-    Allows 'Nudity'/'Mature' ONLY if the game is popular (>100 adds).
-    """
-    # 1. ESRB Check (Adults Only is always a hard no)
+    # 1. ESRB Check
     if game.get("esrb_rating"):
         slug = game["esrb_rating"].get("slug")
         if slug == "adults-only":
             return False
 
-    # 2. Tag Check (Hard Ban vs Conditional Ban)
+    # 2. Tag Check
     if game.get("tags"):
         for tag in game["tags"]:
             slug = tag.get("slug")
             
-            # Level 1: Hard Ban
             if slug in HARD_BANNED_TAGS:
                 return False
                 
-            # Level 2: Conditional Ban (The "Shovelware Filter")
             if slug in RISKY_TAGS:
-                # If it has nudity but nobody plays it (<100), ban it.
-                if game.get("added", 0) < 100:
+                # Threshold = 10 (Allows new releases, blocks junk)
+                if game.get("added", 0) < 10: 
                     return False
 
-    # 3. Title Check (Blunt force for items without tags)
+    # 3. Title Check
     title_lower = game.get("name", "").lower()
     if any(bad_word in title_lower for bad_word in BANNED_TITLE_KEYWORDS):
         return False
@@ -79,7 +73,7 @@ def fetch_games(endpoint_params, target_limit=100):
     page = 1
     max_pages = 25 
     
-    print(f"   > Fetching target: {target_limit} items (Crowd-Verified Safe Mode)...")
+    print(f"   > Fetching target: {target_limit} items...")
 
     while len(games_data) < target_limit and page < max_pages:
         params = {
@@ -102,11 +96,9 @@ def fetch_games(endpoint_params, target_limit=100):
                 if len(games_data) >= target_limit:
                     break
 
-                # --- SAFETY LOGIC ---
                 if not is_safe_for_work(game):
                     continue
 
-                # EXTRACT DATA
                 screenshots = [s['image'] for s in game.get('short_screenshots', [])]
                 platforms = []
                 if game.get('parent_platforms'):
@@ -145,16 +137,19 @@ def generate_daily_feed():
     print("--- Starting Daily Feed (New & Upcoming) ---")
     data = {}
     
+    # We strictly enforce PC_PLATFORM_ID here to ensure the list isn't filled with mobile/console games
     print("Fetching New Releases (Last 30 Days)...")
     data["NewReleases"] = fetch_games({
         "dates": get_date_range(days_back=30, days_forward=0),
         "ordering": "-added", 
+        "parent_platforms": PC_PLATFORM_ID 
     }, target_limit=100)
 
     print("Fetching Upcoming (Next 3 Months)...")
     data["Upcoming"] = fetch_games({
         "dates": get_date_range(days_back=0, days_forward=90),
         "ordering": "-added", 
+        "parent_platforms": PC_PLATFORM_ID
     }, target_limit=150)
 
     with open('daily_games.json', 'w') as f:
@@ -167,6 +162,7 @@ def generate_monthly_feed():
     print("Fetching Top 250...")
     data["HallOfFame"] = fetch_games({
         "ordering": "-metacritic",
+        "parent_platforms": PC_PLATFORM_ID
     }, target_limit=250)
 
     with open('top_games.json', 'w') as f:
@@ -177,3 +173,8 @@ if __name__ == "__main__":
         generate_monthly_feed()
     else:
         generate_daily_feed()
+
+# Command to push:
+# git add .
+# git commit -m "Restore PC Platform constraint to fix missing games"
+# git push
