@@ -24,11 +24,23 @@
         "Action"
       ],
       "Tags": [
-        "Multiplayer",
-        "Atmospheric",
-        "Open World",
-        "First-Person",
-        "Sci-fi"
+        "multiplayer",
+        "atmospheric",
+        "open-world",
+        "first-person",
+        "sci-fi",
+        "fps",
+        "exploration",
+        "sandbox",
+        "online-multiplayer",
+        "action-adventure",
+        "space",
+        "realistic",
+        "cinematic",
+        "cyberpunk",
+        "3rd-person-perspective",
+        "space-sim",
+        "flying"
       ],
       "Platforms": [
         "pc"
@@ -56,11 +68,14 @@
         "Adventure"
       ],
       "Tags": [
-        "Singleplayer",
-        "Atmospheric",
-        "First-Person",
-        "Sci-fi",
-        "Horror"
+        "singleplayer",
+        "atmospheric",
+        "first-person",
+        "sci-fi",
+        "horror",
+        "gore",
+        "survival",
+        "survival-horror"
       ],
       "Platforms": [
         "pc",
@@ -207,11 +222,54 @@
         "Sports"
       ],
       "Tags": [
-        "Singleplayer",
-        "\u0414\u043b\u044f \u043e\u0434\u043d\u043e\u0433\u043e \u0438\u0433\u0440\u043e\u043a\u0430",
-        "\u042d\u043a\u0448\u0435\u043d",
-        "\u0418\u043d\u0434\u0438",
-        "Steam Cloud"
+        "singleplayer",
+        "dlia-odnogo-igroka",
+        "ekshen",
+        "indi-2",
+        "steam-cloud",
+        "kazualnaia-igra",
+        "retro-2",
+        "arkada",
+        "retro",
+        "moddable",
+        "podderzhka-modifikatsii",
+        "tsvetastaia",
+        "3d",
+        "colorful",
+        "gonki",
+        "vid-sverkhu",
+        "top-down",
+        "90-e",
+        "story",
+        "management",
+        "stilizatsiia",
+        "driving",
+        "vozhdenie",
+        "1990s",
+        "stylized",
+        "1980s",
+        "race",
+        "history",
+        "journey",
+        "cars",
+        "leaderboards",
+        "tutorial",
+        "obuchenie",
+        "evolution",
+        "sun",
+        "elements",
+        "un-jugador",
+        "logros-de-steam",
+        "attack",
+        "technology",
+        "sport",
+        "compat-total-con-control",
+        "sport-2",
+        "chase",
+        "climb",
+        "slide",
+        "prestamo-familiar",
+        "course"
       ],
       "Platforms": [
         "pc"
@@ -239,7 +297,7 @@
       "Tags": [
         "car",
         "coin",
-        "DOS"
+        "dos"
       ],
       "Platforms": [
         "pc"
@@ -267,9 +325,13 @@
       "Tags": [
         "work",
         "unique",
-        "Horses",
+        "horses",
         "summer",
-        "farm"
+        "farm",
+        "horse",
+        "break",
+        "college",
+        "fusion"
       ],
       "Platforms": [
         "pc"
@@ -294,11 +356,12 @@
       ],
       "Genres": [],
       "Tags": [
-        "Zombies",
-        "Blood",
-        "Destruction",
+        "zombies",
+        "blood",
+        "destruction",
         "death",
-        "future"
+        "future",
+        "midi"
       ],
       "Platforms": [
         "pc"
@@ -328,9 +391,9 @@
         "Puzzle"
       ],
       "Tags": [
-        "Zombies",
-        "Hand-drawn",
-        "Hidden Object",
+        "zombies",
+        "hand-drawn",
+        "hidden-object",
         "cats"
       ],
       "Platforms": [
@@ -359,11 +422,24 @@
         "Shooter"
       ],
       "Tags": [
-        "Third Person",
-        "In-App Purchases",
-        "Military",
+        "third-person",
+        "in-app-purchases",
+        "military",
         "online",
-        "Time Manipulation"
+        "time-manipulation",
+        "invisibility",
+        "tps",
+        "special-forces",
+        "squad-tactics",
+        "team-deathmatch-2",
+        "upgradeable-weapons",
+        "weapon-modification",
+        "camouflage",
+        "conquest-mode",
+        "cover-system",
+        "modern-military",
+        "modern-warfare-2",
+        "over-the-shoulder"
       ],
       "Platforms": [
         "pc"
@@ -389,11 +465,26 @@
       ],
       "Genres": [],
       "Tags": [
-        "Story",
+        "story",
         "character",
-        "Romance",
-        "Economy",
-        "Soundtrack"
+        "romance",
+        "economy",
+        "soundtrack",
+        "weapons",
+        "secrets",
+        "mod",
+        "hero",
+        "island",
+        "obstacles",
+        "winter",
+        "characters",
+        "gold",
+        "travel",
+        "town",
+        "choices",
+        "kingdom",
+        "hunter",
+        "jeu-de-role-2"
       ],
       "Platforms": [
         "pc"
@@ -423,11 +514,11 @@
         "Indie"
       ],
       "Tags": [
-        "2D",
-        "Management",
-        "Relaxing",
-        "Tower Defense",
-        "Minimalist"
+        "2d",
+        "management",
+        "relaxing",
+        "tower-defense",
+        "minimalist"
       ],
       "Platforms": [
         "pc"
@@ -453,11 +544,21 @@
       ],
       "Genres": [],
       "Tags": [
-        "Exploration",
+        "exploration",
         "combat",
         "explore",
         "secrets",
-        "sword"
+        "sword",
+        "gun",
+        "shop",
+        "mountains",
+        "enemies",
+        "search",
+        "travel",
+        "skills",
+        "landscape",
+        "road",
+        "beginner"
       ],
       "Platforms": [
         "pc",
@@ -487,8 +588,8 @@
         "Action"
       ],
       "Tags": [
-        "Sci-fi",
-        "Pixel Graphics",
+        "sci-fi",
+        "pixel-graphics",
         "1980s",
         "retro-futuristic",
         "action-platformer"
@@ -520,11 +621,24 @@
         "Adventure"
       ],
       "Tags": [
-        "Atmospheric",
-        "Fantasy",
-        "Violent",
-        "Dark",
-        "Nudity"
+        "atmospheric",
+        "fantasy",
+        "violent",
+        "dark",
+        "nudity",
+        "mystery",
+        "choices-matter",
+        "mature",
+        "cinematic",
+        "story",
+        "detective",
+        "episodic",
+        "comic-book",
+        "choose-your-own-adventure",
+        "quick-time-events",
+        "noir",
+        "snow",
+        "wolf"
       ],
       "Platforms": [
         "pc",
@@ -686,7 +800,7 @@
       ],
       "Tags": [
         "stack",
-        "Ludum Dare 40",
+        "ludum-dare-40",
         "stone",
         "cairn"
       ],
@@ -809,7 +923,7 @@
         "Adventure"
       ],
       "Tags": [
-        "Aventure"
+        "aventure"
       ],
       "Platforms": [
         "pc"
@@ -878,11 +992,14 @@
         "RPG"
       ],
       "Tags": [
-        "RPG",
-        "Story Rich",
-        "Sci-fi",
-        "Tactical",
-        "Cyberpunk"
+        "rpg",
+        "story-rich",
+        "sci-fi",
+        "tactical",
+        "cyberpunk",
+        "tactical-rpg",
+        "turn-based-2",
+        "party-management"
       ],
       "Platforms": [
         "pc",
