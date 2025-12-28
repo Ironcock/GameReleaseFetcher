@@ -1,639 +1,149 @@
 {
   "NewReleases": [
     {
-      "ID": 41700,
-      "Title": "Star Citizen",
-      "ReleaseDate": "2025-12-11",
-      "ImageURL": "https://media.rawg.io/media/games/926/9268bcfde5bea6f457a6833a55b653e9.jpg",
-      "StoreURL": "https://rawg.io/games/star-citizen",
+      "ID": 1015499,
+      "Title": "Bound Between Desks",
+      "ReleaseDate": "2025-12-25",
+      "ImageURL": "https://media.rawg.io/media/screenshots/2a6/2a62922684b935ec28ac60db76e0e0d4.jpg",
+      "StoreURL": "https://rawg.io/games/bound-between-desks",
       "Metacritic": null,
-      "AddedCount": 271,
-      "Rating": 3.54,
-      "ShortScreenshots": [
-        "https://media.rawg.io/media/games/926/9268bcfde5bea6f457a6833a55b653e9.jpg",
-        "https://media.rawg.io/media/screenshots/135/135bfdfec6fb5c5a4541c8cafcd069dd.jpg",
-        "https://media.rawg.io/media/screenshots/cb4/cb4f28ec91b657d6de8434334f79e94d.jpg",
-        "https://media.rawg.io/media/screenshots/919/919e33af4d7378adce12a3778636b7b7.jpg",
-        "https://media.rawg.io/media/screenshots/bbf/bbf63e2947f38b58700558a4da417e61.jpg",
-        "https://media.rawg.io/media/screenshots/26b/26b992c35bdcbdfeccf9a8706fcf00be.jpg",
-        "https://media.rawg.io/media/screenshots/577/5775a19c52b4746305067ab3e07dd3a3.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Adventure",
-        "Action"
-      ],
-      "Tags": [
-        "multiplayer",
-        "atmospheric",
-        "open-world",
-        "first-person",
-        "sci-fi",
-        "fps",
-        "exploration",
-        "sandbox",
-        "online-multiplayer",
-        "action-adventure",
-        "space",
-        "realistic",
-        "cinematic",
-        "cyberpunk",
-        "3rd-person-perspective",
-        "space-sim",
-        "flying"
-      ],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 41626,
-      "Title": "Routine",
-      "ReleaseDate": "2025-12-04",
-      "ImageURL": "https://media.rawg.io/media/games/c2c/c2c572ae82b7631f482eb1bc84903fac.jpg",
-      "StoreURL": "https://rawg.io/games/routine",
-      "Metacritic": null,
-      "AddedCount": 90,
-      "Rating": 3.33,
-      "ShortScreenshots": [
-        "https://media.rawg.io/media/games/c2c/c2c572ae82b7631f482eb1bc84903fac.jpg",
-        "https://media.rawg.io/media/screenshots/e10/e10820def5bfdbc8a36be03045c5a779.jpg",
-        "https://media.rawg.io/media/screenshots/565/5659d232ce09c2bb261078864f285613.jpg",
-        "https://media.rawg.io/media/screenshots/3ac/3ac87f2e8c7e2fe9b854871de4d5c21a.jpg",
-        "https://media.rawg.io/media/screenshots/cba/cba65fd8995534c5c9859c6246827890.jpg",
-        "https://media.rawg.io/media/screenshots/568/56894278cd2a9ed41d88e5a5ea5794a7.jpg",
-        "https://media.rawg.io/media/screenshots/6e1/6e1cd575921b93fc083a5c7e461acac7.jpg"
-      ],
-      "Genres": [
-        "Adventure"
-      ],
-      "Tags": [
-        "singleplayer",
-        "atmospheric",
-        "first-person",
-        "sci-fi",
-        "horror",
-        "gore",
-        "survival",
-        "survival-horror"
-      ],
-      "Platforms": [
-        "pc",
-        "mac"
-      ]
-    },
-    {
-      "ID": 983913,
-      "Title": "Metroid Prime 4: Beyond",
-      "ReleaseDate": "2025-12-04",
-      "ImageURL": "https://media.rawg.io/media/games/de7/de7678219604a2e47fae734699f4444c.jpeg",
-      "StoreURL": "https://rawg.io/games/metroid-prime-4-beyond",
-      "Metacritic": null,
-      "AddedCount": 48,
-      "Rating": 3.33,
-      "ShortScreenshots": [
-        "https://media.rawg.io/media/games/de7/de7678219604a2e47fae734699f4444c.jpeg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Action"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "nintendo"
-      ]
-    },
-    {
-      "ID": 455518,
-      "Title": "Skate Story",
-      "ReleaseDate": "2025-12-08",
-      "ImageURL": "https://media.rawg.io/media/games/53e/53e81bf358eceeae921de5bf2bc667c0.jpg",
-      "StoreURL": "https://rawg.io/games/skate-story",
-      "Metacritic": null,
-      "AddedCount": 44,
+      "AddedCount": 0,
       "Rating": 0.0,
       "ShortScreenshots": [
-        "https://media.rawg.io/media/games/53e/53e81bf358eceeae921de5bf2bc667c0.jpg",
-        "https://media.rawg.io/media/screenshots/049/04958de2258a4da79d6d958f814b1941.jpg"
-      ],
-      "Genres": [
-        "Action"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc",
-        "mac"
-      ]
-    },
-    {
-      "ID": 998289,
-      "Title": "Terminator 2D: No Fate",
-      "ReleaseDate": "2025-12-12",
-      "ImageURL": "https://media.rawg.io/media/games/458/45856718997a655e2c1c6c2dd8fe2f44.jpg",
-      "StoreURL": "https://rawg.io/games/terminator-2d-no-fate",
-      "Metacritic": null,
-      "AddedCount": 32,
-      "Rating": 4.17,
-      "ShortScreenshots": [
-        "https://media.rawg.io/media/games/458/45856718997a655e2c1c6c2dd8fe2f44.jpg",
-        "https://media.rawg.io/media/screenshots/315/315ee48abb3db5401ad4a6c126c5a6fa.jpg"
-      ],
-      "Genres": [
-        "Platformer",
-        "Action"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc",
-        "playstation",
-        "xbox",
-        "ios",
-        "nintendo"
-      ]
-    },
-    {
-      "ID": 1007659,
-      "Title": "Octopath Traveler 0",
-      "ReleaseDate": "2025-12-04",
-      "ImageURL": "https://media.rawg.io/media/screenshots/f1b/f1b0778dffc9162299536461bf9238cf.jpg",
-      "StoreURL": "https://rawg.io/games/octopath-traveler-0",
-      "Metacritic": null,
-      "AddedCount": 22,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://media.rawg.io/media/screenshots/f1b/f1b0778dffc9162299536461bf9238cf.jpg",
-        "https://media.rawg.io/media/screenshots/f1b/f1b0778dffc9162299536461bf9238cf.jpg"
-      ],
-      "Genres": [
-        "RPG"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc",
-        "playstation",
-        "xbox",
-        "nintendo"
-      ]
-    },
-    {
-      "ID": 1015335,
-      "Title": "Marvel Cosmic Invasion",
-      "ReleaseDate": "2025-12-01",
-      "ImageURL": "https://media.rawg.io/media/games/d38/d383be9a8e6b802295d9e6aeac901943.jpg",
-      "StoreURL": "https://rawg.io/games/marvel-cosmic-invasion",
-      "Metacritic": null,
-      "AddedCount": 21,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://media.rawg.io/media/games/d38/d383be9a8e6b802295d9e6aeac901943.jpg"
-      ],
-      "Genres": [
-        "Action"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc",
-        "playstation",
-        "xbox",
-        "linux",
-        "nintendo"
-      ]
-    },
-    {
-      "ID": 1012465,
-      "Title": "Sleep Awake",
-      "ReleaseDate": "2025-12-02",
-      "ImageURL": "https://media.rawg.io/media/games/417/41718aab46385f39ad1fbe6fc054a2df.jpg",
-      "StoreURL": "https://rawg.io/games/sleep-awake",
-      "Metacritic": null,
-      "AddedCount": 8,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://media.rawg.io/media/games/417/41718aab46385f39ad1fbe6fc054a2df.jpg"
-      ],
-      "Genres": [
-        "Action"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 1004632,
-      "Title": "Formula Legends",
-      "ReleaseDate": "2025-12-17",
-      "ImageURL": "https://media.rawg.io/media/screenshots/9a1/9a16519bb29b1306386c1811c26dbd5f.jpg",
-      "StoreURL": "https://rawg.io/games/formula-legends",
-      "Metacritic": null,
-      "AddedCount": 7,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://media.rawg.io/media/screenshots/9a1/9a16519bb29b1306386c1811c26dbd5f.jpg",
-        "https://media.rawg.io/media/screenshots/6b4/6b4c3e21425c8808d7ad3303b2ab4f32.jpg",
-        "https://media.rawg.io/media/screenshots/8ac/8ac18fa47ca24697a3283458527e4514.jpg",
-        "https://media.rawg.io/media/screenshots/575/5752160d6d445b5e8352811c73effd9b.jpg",
-        "https://media.rawg.io/media/screenshots/914/914ff57fd632bc6388561810946bd84c.jpg",
-        "https://media.rawg.io/media/screenshots/ae1/ae123feb7de6367cff13f31b6e60010f.jpg",
-        "https://media.rawg.io/media/screenshots/a39/a390c5e3adb9aca800c9885820ed0eb9.jpg"
+        "https://media.rawg.io/media/screenshots/2a6/2a62922684b935ec28ac60db76e0e0d4.jpg",
+        "https://media.rawg.io/media/screenshots/917/917115b771f02a7b6e9a6c9a8f0e6292.jpg",
+        "https://media.rawg.io/media/screenshots/b11/b11aa93c72aed5d95122d49585c1c50b.jpg",
+        "https://media.rawg.io/media/screenshots/0f7/0f776cd0f3ecaaf20fd18da9c50bfdc7.jpg",
+        "https://media.rawg.io/media/screenshots/2be/2be9007a28e75fa5ece0d6ecfa13cb66.jpg",
+        "https://media.rawg.io/media/screenshots/e12/e12a8096a7c2699940f397f638f02264.jpg",
+        "https://media.rawg.io/media/screenshots/735/735943d2dea820960e9250f843743c48.jpg"
       ],
       "Genres": [
         "Casual",
         "Indie",
+        "Adventure"
+      ],
+      "Tags": [
+        "singleplayer",
+        "dlia-odnogo-igroka",
+        "prikliuchenie",
+        "steam-achievements",
+        "indi-2",
+        "glubokii-siuzhet",
+        "story-rich",
+        "kazualnaia-igra",
+        "2d",
+        "horror",
+        "exploration",
+        "anime-2",
+        "anime",
+        "resheniia-s-posledstviiami",
+        "taina",
+        "mystery",
+        "choices-matter",
+        "multiple-endings",
+        "vizualnaia-novella",
+        "visual-novel",
+        "drama",
+        "issledovaniia",
+        "emotsionalnaia",
+        "drama-2",
+        "romance",
+        "narration",
+        "emotional",
+        "choose-your-own-adventure",
+        "psikhologicheskaia",
+        "psychological",
+        "neskolko-kontsovok",
+        "povestvovatelnaia",
+        "vyberi-sebe-prikliuchenie",
+        "romantika"
+      ],
+      "Platforms": [
+        "pc",
+        "mac",
+        "linux"
+      ]
+    },
+    {
+      "ID": 1015502,
+      "Title": "Hypercar Racing",
+      "ReleaseDate": "2025-12-25",
+      "ImageURL": "https://media.rawg.io/media/screenshots/381/381ab13aec16c89311f0cbc7944a4026.jpg",
+      "StoreURL": "https://rawg.io/games/hypercar-racing",
+      "Metacritic": null,
+      "AddedCount": 0,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://media.rawg.io/media/screenshots/381/381ab13aec16c89311f0cbc7944a4026.jpg",
+        "https://media.rawg.io/media/screenshots/4c1/4c1d5ed90fd3567c381114c9de209763.jpg",
+        "https://media.rawg.io/media/screenshots/590/590c8580ef5bd4d1a66f4d7550100af6.jpg",
+        "https://media.rawg.io/media/screenshots/507/507dccd7b222ffb5889c4c31eeea2fff.jpg",
+        "https://media.rawg.io/media/screenshots/11a/11a2021e0d1d2a3d4323ef61e5ffe9ee.jpg",
+        "https://media.rawg.io/media/screenshots/d89/d8934d59ee780e502e9c39054185a2da.jpg",
+        "https://media.rawg.io/media/screenshots/d28/d28613768f50c8f9a5faa779730ebe0c.jpg"
+      ],
+      "Genres": [
+        "Racing",
+        "Simulation",
         "Sports"
       ],
       "Tags": [
         "singleplayer",
         "dlia-odnogo-igroka",
-        "ekshen",
-        "indi-2",
+        "steam-achievements",
+        "multiplayer",
+        "full-controller-support",
         "steam-cloud",
-        "kazualnaia-igra",
-        "retro-2",
+        "dlia-neskolkikh-igrokov",
+        "ot-tretego-litsa",
+        "third-person",
+        "simuliator",
+        "steam-leaderboards",
+        "split-screen",
+        "lokalnyi-multipleer",
+        "local-multiplayer",
         "arkada",
-        "retro",
-        "moddable",
-        "podderzhka-modifikatsii",
+        "pvp",
+        "igrok-protiv-igroka",
         "tsvetastaia",
         "3d",
         "colorful",
         "gonki",
-        "vid-sverkhu",
-        "top-down",
-        "90-e",
-        "story",
-        "management",
-        "stilizatsiia",
         "driving",
         "vozhdenie",
-        "1990s",
-        "stylized",
-        "1980s",
-        "race",
-        "history",
-        "journey",
-        "cars",
-        "leaderboards",
-        "tutorial",
-        "obuchenie",
-        "evolution",
-        "sun",
-        "elements",
-        "un-jugador",
-        "logros-de-steam",
-        "attack",
-        "technology",
-        "sport",
-        "compat-total-con-control",
-        "sport-2",
-        "chase",
-        "climb",
-        "slide",
-        "prestamo-familiar",
-        "course"
+        "lokalnaia-igra-na-chetverykh",
+        "4-player-local",
+        "family-sharing",
+        "remote-play-together",
+        "sharedsplit-screen-pvp",
+        "stereo-sound",
+        "custom-volume-controls",
+        "save-anytime",
+        "sport-2"
       ],
       "Platforms": [
         "pc"
-      ]
-    },
-    {
-      "ID": 1011996,
-      "Title": "She's Leaving",
-      "ReleaseDate": "2025-12-01",
-      "ImageURL": "https://media.rawg.io/media/screenshots/d12/d127eaad0b23695656545b860671096d.jpg",
-      "StoreURL": "https://rawg.io/games/shes-leaving",
-      "Metacritic": null,
-      "AddedCount": 6,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://media.rawg.io/media/screenshots/d12/d127eaad0b23695656545b860671096d.jpg",
-        "https://media.rawg.io/media/screenshots/9c5/9c53f9f99c64f0988e2c26b5f0bfbaab.jpg",
-        "https://media.rawg.io/media/screenshots/01c/01ce7d515166f6bfdea128f0d051b2f0.jpg",
-        "https://media.rawg.io/media/screenshots/206/20688e14fb552b8cd45a7243d2a2b3ce.jpg",
-        "https://media.rawg.io/media/screenshots/15f/15f75978d0eda6de76ae4c315bd1ea69.jpg",
-        "https://media.rawg.io/media/screenshots/b3a/b3a23754c397b7dea02c11238d5b10d0.jpg",
-        "https://media.rawg.io/media/screenshots/494/49482cbd0d2b8a317876a4d7f36904d7.jpg"
-      ],
-      "Genres": [],
-      "Tags": [
-        "car",
-        "coin",
-        "dos"
-      ],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 1015292,
-      "Title": "HORSES",
-      "ReleaseDate": "2025-12-01",
-      "ImageURL": "https://media.rawg.io/media/screenshots/933/933dc57938731ead2fd060a57817bef5.jpg",
-      "StoreURL": "https://rawg.io/games/horses",
-      "Metacritic": null,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://media.rawg.io/media/screenshots/933/933dc57938731ead2fd060a57817bef5.jpg",
-        "https://media.rawg.io/media/screenshots/a87/a87b170cb13287edb7b930fc0a140da6.jpg",
-        "https://media.rawg.io/media/screenshots/e7f/e7f5b65c9e5e222732f05ba7ea846961.jpg",
-        "https://media.rawg.io/media/screenshots/e1e/e1ebb63de1c92669ac87bbbf67e3356d.jpg",
-        "https://media.rawg.io/media/screenshots/d3e/d3e66de839e4272723a8ce6270486d7f.jpg",
-        "https://media.rawg.io/media/screenshots/b08/b08064e6f12b2134cd1cdc7bfe2a0804.jpg",
-        "https://media.rawg.io/media/screenshots/2e9/2e99d4f44dbb9f341e4d0d1f1b93d8e7.jpg"
-      ],
-      "Genres": [],
-      "Tags": [
-        "work",
-        "unique",
-        "horses",
-        "summer",
-        "farm",
-        "horse",
-        "break",
-        "college",
-        "fusion"
-      ],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 1011341,
-      "Title": "Blood: Refreshed Supply",
-      "ReleaseDate": "2025-12-03",
-      "ImageURL": "https://media.rawg.io/media/screenshots/63e/63ec6431e4fae90ff0c956a75d41d460.jpg",
-      "StoreURL": "https://rawg.io/games/blood-refreshed-supply",
-      "Metacritic": null,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://media.rawg.io/media/screenshots/63e/63ec6431e4fae90ff0c956a75d41d460.jpg",
-        "https://media.rawg.io/media/screenshots/5d8/5d81e3fc77ec46f867feb3611119637f.jpg",
-        "https://media.rawg.io/media/screenshots/08f/08f8a038be48e32103fd4cc00643d2b6.jpg",
-        "https://media.rawg.io/media/screenshots/6b6/6b6162c760d84db095acd5b8387c0061.jpg",
-        "https://media.rawg.io/media/screenshots/f9d/f9d272ec09c66ec68d11a1e62dd8205d.jpg",
-        "https://media.rawg.io/media/screenshots/63e/63ec6431e4fae90ff0c956a75d41d460.jpg"
-      ],
-      "Genres": [],
-      "Tags": [
-        "zombies",
-        "blood",
-        "destruction",
-        "death",
-        "future",
-        "midi"
-      ],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 1015376,
-      "Title": "Hidden Cats vs Zombies 2",
-      "ReleaseDate": "2025-12-01",
-      "ImageURL": "https://media.rawg.io/media/screenshots/017/017d77d5e71e47f9020ebeaddba865ec.jpg",
-      "StoreURL": "https://rawg.io/games/hidden-cats-vs-zombies-2",
-      "Metacritic": null,
-      "AddedCount": 2,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://media.rawg.io/media/screenshots/017/017d77d5e71e47f9020ebeaddba865ec.jpg",
-        "https://media.rawg.io/media/screenshots/db2/db2fb7d2a9bf64a9d32deb49afc901a6.jpg",
-        "https://media.rawg.io/media/screenshots/808/8080edd7fccb58b991e48ffd2ce22817.jpg",
-        "https://media.rawg.io/media/screenshots/73d/73d7c1ad1f313d91697e949236eab6a3.jpg",
-        "https://media.rawg.io/media/screenshots/1a0/1a000433024e91021f3e46fcb6ec3d65.jpg",
-        "https://media.rawg.io/media/screenshots/2f7/2f76733745d018a9758d9e5ff5224e51.jpg",
-        "https://media.rawg.io/media/screenshots/017/017d77d5e71e47f9020ebeaddba865ec.jpg"
-      ],
-      "Genres": [
-        "Casual",
-        "Family",
-        "Puzzle"
-      ],
-      "Tags": [
-        "zombies",
-        "hand-drawn",
-        "hidden-object",
-        "cats"
-      ],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 1005611,
-      "Title": "Shadows of Soldiers",
-      "ReleaseDate": "2025-12-15",
-      "ImageURL": "https://media.rawg.io/media/screenshots/c5d/c5d4894d448472cee59fac6859252e94.jpg",
-      "StoreURL": "https://rawg.io/games/shadows-of-soldiers",
-      "Metacritic": null,
-      "AddedCount": 2,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://media.rawg.io/media/screenshots/c5d/c5d4894d448472cee59fac6859252e94.jpg",
-        "https://media.rawg.io/media/screenshots/fe3/fe37b33ca288f1f22905d24765238ba2.jpg",
-        "https://media.rawg.io/media/screenshots/5a1/5a1eca5e04dd7b81f9b736cbb442f5fd.jpg",
-        "https://media.rawg.io/media/screenshots/610/61090cdbef67d0b4f54ed8cb8f58482a.jpg",
-        "https://media.rawg.io/media/screenshots/929/9298d94be24e34a0f3a86665086fb9cd.jpg",
-        "https://media.rawg.io/media/screenshots/181/181c89cf89203fc71c284b5162db45fa.jpg",
-        "https://media.rawg.io/media/screenshots/82d/82d1256a44c6dd6a849d7bd7835895f4.jpg"
-      ],
-      "Genres": [
-        "Shooter"
-      ],
-      "Tags": [
-        "third-person",
-        "in-app-purchases",
-        "military",
-        "online",
-        "time-manipulation",
-        "invisibility",
-        "tps",
-        "special-forces",
-        "squad-tactics",
-        "team-deathmatch-2",
-        "upgradeable-weapons",
-        "weapon-modification",
-        "camouflage",
-        "conquest-mode",
-        "cover-system",
-        "modern-military",
-        "modern-warfare-2",
-        "over-the-shoulder"
-      ],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 1015474,
-      "Title": "A Game About Feeding A Black Hole",
-      "ReleaseDate": "2025-12-15",
-      "ImageURL": "",
-      "StoreURL": "https://rawg.io/games/a-game-about-feeding-a-black-hole",
-      "Metacritic": null,
-      "AddedCount": 2,
-      "Rating": 0.0,
-      "ShortScreenshots": [],
-      "Genres": [
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": []
-    },
-    {
-      "ID": 1015353,
-      "Title": "Golden Gate 2: Goddess Heart",
-      "ReleaseDate": "2025-12-11",
-      "ImageURL": "https://media.rawg.io/media/screenshots/f4a/f4afd0a06789f3096b32c058ddded693.jpg",
-      "StoreURL": "https://rawg.io/games/golden-gate-2-goddess-heart",
-      "Metacritic": null,
-      "AddedCount": 2,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://media.rawg.io/media/screenshots/f4a/f4afd0a06789f3096b32c058ddded693.jpg",
-        "https://media.rawg.io/media/screenshots/f95/f9552e5820e281f0bcbb26466458ea46.jpg",
-        "https://media.rawg.io/media/screenshots/e8a/e8afcdf477fa6d4f2273c5f39c303a01.jpg",
-        "https://media.rawg.io/media/screenshots/94d/94d9e5a838dbc523723b23289b984e0c.jpg",
-        "https://media.rawg.io/media/screenshots/4df/4dfe94447f25c6677084421d3970ff60.jpg",
-        "https://media.rawg.io/media/screenshots/65b/65b9e2d2196bc6bed8d407e4bc929ad9.jpg",
-        "https://media.rawg.io/media/screenshots/15a/15ab72d0f708eae2307c58b0c32e0455.jpg"
-      ],
-      "Genres": [],
-      "Tags": [
-        "story",
-        "character",
-        "romance",
-        "economy",
-        "soundtrack",
-        "weapons",
-        "secrets",
-        "mod",
-        "hero",
-        "island",
-        "obstacles",
-        "winter",
-        "characters",
-        "gold",
-        "travel",
-        "town",
-        "choices",
-        "kingdom",
-        "hunter",
-        "jeu-de-role-2"
-      ],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 1015450,
-      "Title": "Outhold",
-      "ReleaseDate": "2025-12-12",
-      "ImageURL": "https://media.rawg.io/media/screenshots/f6d/f6ddcffae0f3424d0c07d4d2c441ca95.jpg",
-      "StoreURL": "https://rawg.io/games/outhold",
-      "Metacritic": null,
-      "AddedCount": 2,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://media.rawg.io/media/screenshots/f6d/f6ddcffae0f3424d0c07d4d2c441ca95.jpg",
-        "https://media.rawg.io/media/screenshots/dfd/dfd1a09f66c32ba2287d573d33c470b1.jpg",
-        "https://media.rawg.io/media/screenshots/471/471a55b1e967ce0f1a42f18ce15544ec.jpg",
-        "https://media.rawg.io/media/screenshots/86b/86b42ea9f2cd3600a563ce4cf83221db.jpg",
-        "https://media.rawg.io/media/screenshots/e3d/e3dfe13d4cfa082b90287a66250f7e12.jpg",
-        "https://media.rawg.io/media/screenshots/1d0/1d0536fc2b38af448519ea415f7bd1ce.jpg",
-        "https://media.rawg.io/media/screenshots/f6d/f6ddcffae0f3424d0c07d4d2c441ca95.jpg"
-      ],
-      "Genres": [
-        "Casual",
-        "Strategy",
-        "Indie"
-      ],
-      "Tags": [
-        "2d",
-        "management",
-        "relaxing",
-        "tower-defense",
-        "minimalist"
-      ],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 1015393,
-      "Title": "Angeline Era",
-      "ReleaseDate": "2025-12-07",
-      "ImageURL": "https://media.rawg.io/media/screenshots/417/417b450b5fc3e60a824d56f5023fad92.jpg",
-      "StoreURL": "https://rawg.io/games/angeline-era",
-      "Metacritic": null,
-      "AddedCount": 1,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://media.rawg.io/media/screenshots/417/417b450b5fc3e60a824d56f5023fad92.jpg",
-        "https://media.rawg.io/media/screenshots/61b/61b8e322db5a4f113ed187046d8eadb6.jpg",
-        "https://media.rawg.io/media/screenshots/78c/78c217a1d7294f499799c2546224f32f.jpg",
-        "https://media.rawg.io/media/screenshots/43b/43ba159222501cce81b6b345e083759c.jpg",
-        "https://media.rawg.io/media/screenshots/793/793350002b3733913bb2c1eaae65c4c3.jpg",
-        "https://media.rawg.io/media/screenshots/412/412dcac085fb38a1df51c6dc3101d165.jpg",
-        "https://media.rawg.io/media/screenshots/bf4/bf457966954b1bfca15633d465e1ac46.jpg"
-      ],
-      "Genres": [],
-      "Tags": [
-        "exploration",
-        "combat",
-        "explore",
-        "secrets",
-        "sword",
-        "gun",
-        "shop",
-        "mountains",
-        "enemies",
-        "search",
-        "travel",
-        "skills",
-        "landscape",
-        "road",
-        "beginner"
-      ],
-      "Platforms": [
-        "pc",
-        "mac"
       ]
     }
   ],
   "Upcoming": [
     {
-      "ID": 616693,
-      "Title": "Replaced",
-      "ReleaseDate": "2026-03-12",
-      "ImageURL": "https://media.rawg.io/media/games/041/041e04184322bc859d617b790d8bfab9.jpg",
-      "StoreURL": "https://rawg.io/games/replaced",
+      "ID": 975842,
+      "Title": "Sunkissed City",
+      "ReleaseDate": "2025-12-30",
+      "ImageURL": "",
+      "StoreURL": "https://rawg.io/games/sunkissed-city",
       "Metacritic": null,
-      "AddedCount": 601,
-      "Rating": 3.5,
-      "ShortScreenshots": [
-        "https://media.rawg.io/media/games/041/041e04184322bc859d617b790d8bfab9.jpg",
-        "https://media.rawg.io/media/screenshots/6a6/6a6a3d193fac79cfc8093441f9ab28dd.jpg",
-        "https://media.rawg.io/media/screenshots/d9c/d9c3839d3992d0370ac4860a1a3da816.jpg",
-        "https://media.rawg.io/media/screenshots/806/806f480327cbda64fd668a22299450ea.jpg",
-        "https://media.rawg.io/media/screenshots/c0e/c0e109d1bf9d7f235ebdba3b65935834.jpg"
-      ],
+      "AddedCount": 2,
+      "Rating": 0.0,
+      "ShortScreenshots": [],
       "Genres": [
-        "Platformer",
-        "Action"
+        "Simulation"
       ],
-      "Tags": [
-        "sci-fi",
-        "pixel-graphics",
-        "1980s",
-        "retro-futuristic",
-        "action-platformer"
-      ],
+      "Tags": [],
       "Platforms": [
-        "pc",
-        "xbox"
+        "pc"
       ]
     },
     {
@@ -684,29 +194,31 @@
       ]
     },
     {
-      "ID": 529829,
-      "Title": "Crimson Desert",
-      "ReleaseDate": "2026-03-19",
-      "ImageURL": "https://media.rawg.io/media/games/64c/64c9c6faa2c5745b0a4c16542cce3862.jpg",
-      "StoreURL": "https://rawg.io/games/crimson-desert",
+      "ID": 984637,
+      "Title": "Cairn (2025)",
+      "ReleaseDate": "2025-12-31",
+      "ImageURL": "https://media.rawg.io/media/games/147/1474adaa706b6dc0dfe098b9aa237143.jpg",
+      "StoreURL": "https://rawg.io/games/cairn-2025",
       "Metacritic": null,
-      "AddedCount": 184,
-      "Rating": 3.5,
+      "AddedCount": 30,
+      "Rating": 0.0,
       "ShortScreenshots": [
-        "https://media.rawg.io/media/games/64c/64c9c6faa2c5745b0a4c16542cce3862.jpg",
-        "https://media.rawg.io/media/screenshots/db1/db13b535ce6539774459f4a5890d1da5.jpg",
-        "https://media.rawg.io/media/screenshots/a6f/a6f876b7fe5f558f942920a33d75d432.jpg",
-        "https://media.rawg.io/media/screenshots/bd5/bd52be2b0f166bd43501e3088144d771.jpg"
+        "https://media.rawg.io/media/games/147/1474adaa706b6dc0dfe098b9aa237143.jpg",
+        "https://media.rawg.io/media/screenshots/ba8/ba8c752a3e39aeef0732c8b6b8abc93c.jpg",
+        "https://media.rawg.io/media/screenshots/2d3/2d31b4bbfbcc94fd863b4e0990940443.jpg",
+        "https://media.rawg.io/media/screenshots/33b/33be40f73320f5e543f9316cb2faed14.jpg",
+        "https://media.rawg.io/media/screenshots/7ef/7eff37dc8744971239643e925ed8269d.jpg",
+        "https://media.rawg.io/media/screenshots/fa0/fa06366234bed081b2aae13ad0a66551.jpg",
+        "https://media.rawg.io/media/screenshots/b36/b36fb579a6a65c55a21e97b448d2fa70.jpg"
       ],
       "Genres": [
-        "Action",
-        "RPG"
+        "Indie",
+        "Adventure",
+        "Simulation"
       ],
       "Tags": [],
       "Platforms": [
-        "pc",
-        "playstation",
-        "xbox"
+        "pc"
       ]
     },
     {
@@ -737,272 +249,6 @@
       ]
     },
     {
-      "ID": 1004511,
-      "Title": "Resident Evil 9: Requiem",
-      "ReleaseDate": "2026-02-27",
-      "ImageURL": "https://media.rawg.io/media/games/ed6/ed613937e113a4d43fa0db771e527a2f.jpg",
-      "StoreURL": "https://rawg.io/games/resident-evil-9-requiem",
-      "Metacritic": null,
-      "AddedCount": 150,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://media.rawg.io/media/games/ed6/ed613937e113a4d43fa0db771e527a2f.jpg",
-        "https://media.rawg.io/media/screenshots/7ea/7ea1b2a87e47df90eaf5ae6847b7c6f5.jpg",
-        "https://media.rawg.io/media/screenshots/22c/22c0b1bab65fc16a2da31963fdf81ca5.jpg",
-        "https://media.rawg.io/media/screenshots/00f/00f3bd2acd50dfba3033704a7eacdfe7.jpg",
-        "https://media.rawg.io/media/screenshots/280/280ce5a48659d0f7739342e9d598803f.jpg",
-        "https://media.rawg.io/media/screenshots/cd5/cd51046ddebe53b6faae1787305e52b1.jpg"
-      ],
-      "Genres": [
-        "Action"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc",
-        "playstation",
-        "xbox"
-      ]
-    },
-    {
-      "ID": 988099,
-      "Title": "Reanimal",
-      "ReleaseDate": "2026-02-12",
-      "ImageURL": "https://media.rawg.io/media/games/299/299e031b1a8082298a4aeb5355d45571.jpg",
-      "StoreURL": "https://rawg.io/games/reanimal",
-      "Metacritic": null,
-      "AddedCount": 73,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://media.rawg.io/media/games/299/299e031b1a8082298a4aeb5355d45571.jpg",
-        "https://media.rawg.io/media/screenshots/432/432dce729c3765c62b7f865962a90668.jpg",
-        "https://media.rawg.io/media/screenshots/f99/f99bacf62806daf47c8920a80861dad5.jpg",
-        "https://media.rawg.io/media/screenshots/59b/59b2c6d18c3074599446b6cfea94ce30.jpg",
-        "https://media.rawg.io/media/screenshots/7a9/7a96a9dcc5b952122b06c1642ec15cc7.jpg",
-        "https://media.rawg.io/media/screenshots/2d6/2d68abf4350c6a4ee7e2b4823eaea6e2.jpg",
-        "https://media.rawg.io/media/screenshots/470/4703a2a0f7345f06be32b0fa0c111e18.jpg"
-      ],
-      "Genres": [
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc",
-        "playstation",
-        "xbox",
-        "nintendo"
-      ]
-    },
-    {
-      "ID": 984637,
-      "Title": "Cairn (2025)",
-      "ReleaseDate": "2025-12-31",
-      "ImageURL": "https://media.rawg.io/media/games/147/1474adaa706b6dc0dfe098b9aa237143.jpg",
-      "StoreURL": "https://rawg.io/games/cairn-2025",
-      "Metacritic": null,
-      "AddedCount": 30,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://media.rawg.io/media/games/147/1474adaa706b6dc0dfe098b9aa237143.jpg",
-        "https://media.rawg.io/media/screenshots/ba8/ba8c752a3e39aeef0732c8b6b8abc93c.jpg",
-        "https://media.rawg.io/media/screenshots/2d3/2d31b4bbfbcc94fd863b4e0990940443.jpg",
-        "https://media.rawg.io/media/screenshots/33b/33be40f73320f5e543f9316cb2faed14.jpg",
-        "https://media.rawg.io/media/screenshots/7ef/7eff37dc8744971239643e925ed8269d.jpg",
-        "https://media.rawg.io/media/screenshots/fa0/fa06366234bed081b2aae13ad0a66551.jpg",
-        "https://media.rawg.io/media/screenshots/b36/b36fb579a6a65c55a21e97b448d2fa70.jpg"
-      ],
-      "Genres": [
-        "Indie",
-        "Adventure",
-        "Simulation"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 997551,
-      "Title": "Saros",
-      "ReleaseDate": "2026-03-20",
-      "ImageURL": "https://media.rawg.io/media/games/be8/be86ee5cf3a427c784efec1661f9b194.jpg",
-      "StoreURL": "https://rawg.io/games/saros",
-      "Metacritic": null,
-      "AddedCount": 26,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://media.rawg.io/media/games/be8/be86ee5cf3a427c784efec1661f9b194.jpg",
-        "https://media.rawg.io/media/screenshots/f86/f86e48c78344c76d63022a443fdfe5cd.jpg",
-        "https://media.rawg.io/media/screenshots/834/8340e77dd05321c6b03750894bb413bc.jpg",
-        "https://media.rawg.io/media/screenshots/5f4/5f47bb5242600707d0ae4d8f16621ab7.jpg",
-        "https://media.rawg.io/media/screenshots/a91/a91239e253cceda2589620a136767e1f.jpg"
-      ],
-      "Genres": [
-        "Action"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "playstation"
-      ]
-    },
-    {
-      "ID": 139102,
-      "Title": "Cairn",
-      "ReleaseDate": "2026-01-29",
-      "ImageURL": "https://media.rawg.io/media/games/e13/e1395f34907fdcc9da63e72e24d868f8.jpg",
-      "StoreURL": "https://rawg.io/games/cairn",
-      "Metacritic": null,
-      "AddedCount": 21,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://media.rawg.io/media/games/e13/e1395f34907fdcc9da63e72e24d868f8.jpg"
-      ],
-      "Genres": [
-        "Adventure"
-      ],
-      "Tags": [
-        "stack",
-        "ludum-dare-40",
-        "stone",
-        "cairn"
-      ],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 1004516,
-      "Title": "MOUSE: P.I. For Hire",
-      "ReleaseDate": "2026-03-19",
-      "ImageURL": "https://media.rawg.io/media/games/cf1/cf13436dea02745b8844d98bfa887740.jpg",
-      "StoreURL": "https://rawg.io/games/mouse-pi-for-hire",
-      "Metacritic": null,
-      "AddedCount": 20,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://media.rawg.io/media/games/cf1/cf13436dea02745b8844d98bfa887740.jpg",
-        "https://media.rawg.io/media/screenshots/88a/88a4a845c74799bf9fd703194f102975.jpg",
-        "https://media.rawg.io/media/screenshots/b64/b64a2dfac70e48fb87503c72ba8ffca0.jpg",
-        "https://media.rawg.io/media/screenshots/72a/72a2359e6a59c6cd10783dacb43b6c3f.jpg"
-      ],
-      "Genres": [
-        "Indie",
-        "Action"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc",
-        "playstation",
-        "xbox",
-        "nintendo"
-      ]
-    },
-    {
-      "ID": 1010939,
-      "Title": "Yakuza Kiwami 3 & Dark Ties",
-      "ReleaseDate": "2026-02-12",
-      "ImageURL": "https://media.rawg.io/media/games/910/9101d577869a5c24675b80f58d4be72c.jpg",
-      "StoreURL": "https://rawg.io/games/yakuza-kiwami-3",
-      "Metacritic": null,
-      "AddedCount": 17,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://media.rawg.io/media/games/910/9101d577869a5c24675b80f58d4be72c.jpg"
-      ],
-      "Genres": [
-        "Action"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc",
-        "nintendo"
-      ]
-    },
-    {
-      "ID": 961860,
-      "Title": "Toxic Commando",
-      "ReleaseDate": "2026-03-12",
-      "ImageURL": "https://media.rawg.io/media/screenshots/582/582a5ef9dab7d6ee95321ccd886444b3.jpg",
-      "StoreURL": "https://rawg.io/games/toxic-commando",
-      "Metacritic": null,
-      "AddedCount": 11,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://media.rawg.io/media/screenshots/582/582a5ef9dab7d6ee95321ccd886444b3.jpg",
-        "https://media.rawg.io/media/screenshots/582/582a5ef9dab7d6ee95321ccd886444b3.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Action"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc",
-        "playstation",
-        "xbox"
-      ]
-    },
-    {
-      "ID": 1008982,
-      "Title": "High On Life 2",
-      "ReleaseDate": "2026-02-13",
-      "ImageURL": "https://media.rawg.io/media/games/d50/d5090542cf920bd922d079899f95ec05.jpg",
-      "StoreURL": "https://rawg.io/games/high-on-life-2",
-      "Metacritic": null,
-      "AddedCount": 8,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://media.rawg.io/media/games/d50/d5090542cf920bd922d079899f95ec05.jpg"
-      ],
-      "Genres": [
-        "Shooter"
-      ],
-      "Tags": [],
-      "Platforms": []
-    },
-    {
-      "ID": 1010940,
-      "Title": "Nioh 3",
-      "ReleaseDate": "2026-02-06",
-      "ImageURL": "https://media.rawg.io/media/games/6bd/6bd65a6d301afd49a35b95a882896fad.jpg",
-      "StoreURL": "https://rawg.io/games/nioh-3",
-      "Metacritic": null,
-      "AddedCount": 7,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://media.rawg.io/media/games/6bd/6bd65a6d301afd49a35b95a882896fad.jpg"
-      ],
-      "Genres": [
-        "Action"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc",
-        "playstation"
-      ]
-    },
-    {
-      "ID": 1015346,
-      "Title": "ROMEO IS A DEAD MAN",
-      "ReleaseDate": "2026-02-11",
-      "ImageURL": "https://media.rawg.io/media/screenshots/17b/17b4dbbfadc06f0f24e94f91aeae343f.jpg",
-      "StoreURL": "https://rawg.io/games/romeo-is-a-dead-man",
-      "Metacritic": null,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://media.rawg.io/media/screenshots/17b/17b4dbbfadc06f0f24e94f91aeae343f.jpg",
-        "https://media.rawg.io/media/screenshots/e0d/e0d18aa5b7c661f167ba787c1f3c36d6.jpg",
-        "https://media.rawg.io/media/screenshots/0e4/0e4cfe122e981ca62690e880b51e9f9d.jpg",
-        "https://media.rawg.io/media/screenshots/17b/17b4dbbfadc06f0f24e94f91aeae343f.jpg"
-      ],
-      "Genres": [
-        "Adventure",
-        "Action"
-      ],
-      "Tags": [],
-      "Platforms": []
-    },
-    {
       "ID": 1012141,
       "Title": "Pathologic 3",
       "ReleaseDate": "2026-01-08",
@@ -1028,86 +274,6 @@
       ],
       "Platforms": [
         "pc"
-      ]
-    },
-    {
-      "ID": 1010947,
-      "Title": "Code Vein 2",
-      "ReleaseDate": "2026-01-30",
-      "ImageURL": "https://media.rawg.io/media/games/189/1895eab697131b69161c388807115888.jpg",
-      "StoreURL": "https://rawg.io/games/code-vein-2",
-      "Metacritic": null,
-      "AddedCount": 4,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://media.rawg.io/media/games/189/1895eab697131b69161c388807115888.jpg"
-      ],
-      "Genres": [
-        "Action"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc",
-        "playstation"
-      ]
-    },
-    {
-      "ID": 975842,
-      "Title": "Sunkissed City",
-      "ReleaseDate": "2025-12-30",
-      "ImageURL": "",
-      "StoreURL": "https://rawg.io/games/sunkissed-city",
-      "Metacritic": null,
-      "AddedCount": 2,
-      "Rating": 0.0,
-      "ShortScreenshots": [],
-      "Genres": [
-        "Simulation"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 1015390,
-      "Title": "Humanity Echo: Cyberpunk Tactical RPG",
-      "ReleaseDate": "2026-03-19",
-      "ImageURL": "https://media.rawg.io/media/screenshots/b7c/b7cf253341570017e510727be72f3834.jpg",
-      "StoreURL": "https://rawg.io/games/humanity-echo-cyberpunk-tactical-rpg",
-      "Metacritic": null,
-      "AddedCount": 1,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://media.rawg.io/media/screenshots/b7c/b7cf253341570017e510727be72f3834.jpg",
-        "https://media.rawg.io/media/screenshots/f3b/f3b30dd43d8f2c021201b574b48c0d0f.jpg",
-        "https://media.rawg.io/media/screenshots/c68/c68e38ec81193911cd0cc6e3740dafc6.jpg",
-        "https://media.rawg.io/media/screenshots/7a4/7a4bc412ab5e2291eb28b32370e759a7.jpg",
-        "https://media.rawg.io/media/screenshots/cb9/cb97dbdd9150f7875ff15575dc61c790.jpg",
-        "https://media.rawg.io/media/screenshots/75b/75b660d47b471a9b0f62722d990deb35.jpg",
-        "https://media.rawg.io/media/screenshots/e7a/e7a4b9c8300d5c2972d0c7d1d801fd79.jpg"
-      ],
-      "Genres": [
-        "Strategy",
-        "Indie",
-        "RPG"
-      ],
-      "Tags": [
-        "rpg",
-        "story-rich",
-        "sci-fi",
-        "tactical",
-        "cyberpunk",
-        "tactical-rpg",
-        "turn-based-2",
-        "party-management"
-      ],
-      "Platforms": [
-        "pc",
-        "ios",
-        "android",
-        "mac",
-        "linux"
       ]
     },
     {
@@ -1138,34 +304,6 @@
       "Platforms": [
         "pc",
         "android"
-      ]
-    },
-    {
-      "ID": 1013637,
-      "Title": "Pirates: Rogue's Fortune",
-      "ReleaseDate": "2026-03-04",
-      "ImageURL": "https://media.rawg.io/media/screenshots/8e3/8e3749f57d0b410b08ef8a556c47698c.jpg",
-      "StoreURL": "https://rawg.io/games/pirates-rogues-fortune",
-      "Metacritic": null,
-      "AddedCount": 1,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://media.rawg.io/media/screenshots/8e3/8e3749f57d0b410b08ef8a556c47698c.jpg",
-        "https://media.rawg.io/media/screenshots/b8f/b8f3ec9030a62e3bafe673f65a48812e.jpg",
-        "https://media.rawg.io/media/screenshots/1be/1be75e222bcab11d468d6eee03e25bde.jpg",
-        "https://media.rawg.io/media/screenshots/1bb/1bb03b4db5c2adcb454ca793cdadd6ba.jpg",
-        "https://media.rawg.io/media/screenshots/8ea/8eaeb563ab980f167b8f506df89f8a15.jpg",
-        "https://media.rawg.io/media/screenshots/176/176ca38c7991d0e77902402072e133c5.jpg",
-        "https://media.rawg.io/media/screenshots/62d/62d34252982cd2f2d92f8ef1080df1aa.jpg"
-      ],
-      "Genres": [
-        "Indie",
-        "Adventure",
-        "Action"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
       ]
     }
   ]
