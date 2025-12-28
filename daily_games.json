@@ -83,6 +83,27 @@
       ]
     },
     {
+      "ID": 983913,
+      "Title": "Metroid Prime 4: Beyond",
+      "ReleaseDate": "2025-12-04",
+      "ImageURL": "https://media.rawg.io/media/games/de7/de7678219604a2e47fae734699f4444c.jpeg",
+      "StoreURL": "https://rawg.io/games/metroid-prime-4-beyond",
+      "Metacritic": null,
+      "AddedCount": 48,
+      "Rating": 3.33,
+      "ShortScreenshots": [
+        "https://media.rawg.io/media/games/de7/de7678219604a2e47fae734699f4444c.jpeg"
+      ],
+      "Genres": [
+        "Shooter",
+        "Action"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "nintendo"
+      ]
+    },
+    {
       "ID": 455518,
       "Title": "Skate Story",
       "ReleaseDate": "2025-12-08",
@@ -446,6 +467,22 @@
       ]
     },
     {
+      "ID": 1015474,
+      "Title": "A Game About Feeding A Black Hole",
+      "ReleaseDate": "2025-12-15",
+      "ImageURL": "",
+      "StoreURL": "https://rawg.io/games/a-game-about-feeding-a-black-hole",
+      "Metacritic": null,
+      "AddedCount": 2,
+      "Rating": 0.0,
+      "ShortScreenshots": [],
+      "Genres": [
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": []
+    },
+    {
       "ID": 1015353,
       "Title": "Golden Gate 2: Goddess Heart",
       "ReleaseDate": "2025-12-11",
@@ -784,6 +821,30 @@
       ]
     },
     {
+      "ID": 997551,
+      "Title": "Saros",
+      "ReleaseDate": "2026-03-20",
+      "ImageURL": "https://media.rawg.io/media/games/be8/be86ee5cf3a427c784efec1661f9b194.jpg",
+      "StoreURL": "https://rawg.io/games/saros",
+      "Metacritic": null,
+      "AddedCount": 26,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://media.rawg.io/media/games/be8/be86ee5cf3a427c784efec1661f9b194.jpg",
+        "https://media.rawg.io/media/screenshots/f86/f86e48c78344c76d63022a443fdfe5cd.jpg",
+        "https://media.rawg.io/media/screenshots/834/8340e77dd05321c6b03750894bb413bc.jpg",
+        "https://media.rawg.io/media/screenshots/5f4/5f47bb5242600707d0ae4d8f16621ab7.jpg",
+        "https://media.rawg.io/media/screenshots/a91/a91239e253cceda2589620a136767e1f.jpg"
+      ],
+      "Genres": [
+        "Action"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "playstation"
+      ]
+    },
+    {
       "ID": 139102,
       "Title": "Cairn",
       "ReleaseDate": "2026-01-29",
@@ -881,6 +942,24 @@
       ]
     },
     {
+      "ID": 1008982,
+      "Title": "High On Life 2",
+      "ReleaseDate": "2026-02-13",
+      "ImageURL": "https://media.rawg.io/media/games/d50/d5090542cf920bd922d079899f95ec05.jpg",
+      "StoreURL": "https://rawg.io/games/high-on-life-2",
+      "Metacritic": null,
+      "AddedCount": 8,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://media.rawg.io/media/games/d50/d5090542cf920bd922d079899f95ec05.jpg"
+      ],
+      "Genres": [
+        "Shooter"
+      ],
+      "Tags": [],
+      "Platforms": []
+    },
+    {
       "ID": 1010940,
       "Title": "Nioh 3",
       "ReleaseDate": "2026-02-06",
@@ -900,6 +979,28 @@
         "pc",
         "playstation"
       ]
+    },
+    {
+      "ID": 1015346,
+      "Title": "ROMEO IS A DEAD MAN",
+      "ReleaseDate": "2026-02-11",
+      "ImageURL": "https://media.rawg.io/media/screenshots/17b/17b4dbbfadc06f0f24e94f91aeae343f.jpg",
+      "StoreURL": "https://rawg.io/games/romeo-is-a-dead-man",
+      "Metacritic": null,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://media.rawg.io/media/screenshots/17b/17b4dbbfadc06f0f24e94f91aeae343f.jpg",
+        "https://media.rawg.io/media/screenshots/e0d/e0d18aa5b7c661f167ba787c1f3c36d6.jpg",
+        "https://media.rawg.io/media/screenshots/0e4/0e4cfe122e981ca62690e880b51e9f9d.jpg",
+        "https://media.rawg.io/media/screenshots/17b/17b4dbbfadc06f0f24e94f91aeae343f.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Action"
+      ],
+      "Tags": [],
+      "Platforms": []
     },
     {
       "ID": 1012141,
