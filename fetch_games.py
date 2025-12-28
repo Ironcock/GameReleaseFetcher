@@ -7,6 +7,7 @@ from datetime import datetime, timedelta
 API_KEY = os.environ["RAWG_API_KEY"]
 
 def get_trailer(game_id):
+    """Try to get the Official 4K Trailer"""
     try:
         url = f"https://api.rawg.io/api/games/{game_id}/movies"
         response = requests.get(url, params={"key": API_KEY})
@@ -16,6 +17,23 @@ def get_trailer(game_id):
                 return data["results"][0].get("data", {}).get("max", "")
     except:
         pass
+    return ""
+
+def get_clip_fallback(game):
+    """Robust Clip Finder: Checks all resolution folders"""
+    clip_obj = game.get("clip")
+    if not clip_obj:
+        return ""
+    
+    # 1. Try direct string
+    if clip_obj.get("clip"):
+        return clip_obj.get("clip")
+        
+    # 2. Deep Search (Fixes the missing video bug)
+    clips = clip_obj.get("clips", {})
+    if clips:
+        return clips.get("640") or clips.get("320") or clips.get("full") or ""
+        
     return ""
 
 def process_game(game, deep_fetch=False):
@@ -32,8 +50,9 @@ def process_game(game, deep_fetch=False):
     if deep_fetch:
         video_url = get_trailer(game.get("id"))
     
-    if not video_url and game.get("clip"):
-        video_url = game.get("clip", {}).get("clip", "")
+    # Fallback to robust finder if trailer fails
+    if not video_url:
+        video_url = get_clip_fallback(game)
 
     return {
         "Title": game.get("name"),
@@ -70,10 +89,13 @@ def fetch_section(name, params, limit, deep_limit):
 
 def main():
     today = datetime.now().date()
+    
+    # 1. NEW RELEASES
     start_new = (today - timedelta(days=30)).strftime("%Y-%m-%d")
     end_new = today.strftime("%Y-%m-%d")
     new_games = fetch_section("NewReleases", {"dates": f"{start_new},{end_new}", "ordering": "-added"}, 60, 10)
 
+    # 2. UPCOMING
     start_up = (today + timedelta(days=1)).strftime("%Y-%m-%d")
     end_up = (today + timedelta(days=60)).strftime("%Y-%m-%d")
     upcoming_games = fetch_section("Upcoming", {"dates": f"{start_up},{end_up}", "ordering": "-added"}, 100, 15)
