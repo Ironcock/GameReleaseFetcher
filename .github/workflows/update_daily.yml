@@ -1,0 +1,26 @@
+name: Daily Update (New & Upcoming)
+on:
+  schedule:
+    - cron: '0 8 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update-daily:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+    - run: pip install requests
+    - name: Run Daily Script
+      env:
+        RAWG_API_KEY: ${{ secrets.RAWG_API_KEY }}
+      run: python fetch_games.py
+    - name: Commit
+      run: |
+        git config --global user.name "GitHub Actions Bot"
+        git config --global user.email "actions@github.com"
+        git add daily_games.json
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update daily games" && git push)

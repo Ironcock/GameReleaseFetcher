@@ -2,7 +2,6 @@ import os
 import requests
 import json
 import time
-from datetime import datetime, timedelta
 
 API_KEY = os.environ["RAWG_API_KEY"]
 
@@ -18,7 +17,7 @@ def get_trailer(game_id):
         pass
     return ""
 
-def process_game(game, deep_fetch=False):
+def process_game(game):
     specs = {"Min": "TBA", "Rec": "TBA"}
     if game.get("platforms"):
         for p in game.get("platforms"):
@@ -27,11 +26,8 @@ def process_game(game, deep_fetch=False):
                 specs["Min"] = raw.get("minimum", "TBA")
                 specs["Rec"] = raw.get("recommended", "TBA")
                 break
-
-    video_url = ""
-    if deep_fetch:
-        video_url = get_trailer(game.get("id"))
     
+    video_url = get_trailer(game.get("id"))
     if not video_url and game.get("clip"):
         video_url = game.get("clip", {}).get("clip", "")
 
@@ -41,45 +37,36 @@ def process_game(game, deep_fetch=False):
         "ImageURL": game.get("background_image"),
         "StoreURL": f"https://rawg.io/games/{game.get('slug')}",
         "VideoURL": video_url,
-        "Rating": game.get("metacritic"),
-        "Popularity": game.get("added", 0),
+        "Metacritic": game.get("metacritic"),
+        "MetacriticURL": game.get("metacritic_url", ""),
+        "RedditURL": game.get("reddit_url", ""),
+        "WebsiteURL": game.get("website", ""),
         "Genres": [g.get("name") for g in game.get("genres", [])],
         "Specs": specs
     }
 
-def fetch_section(name, params, limit, deep_limit):
-    print(f"--- Fetching {name} ---")
-    results = []
+def main():
+    print("--- Starting Monthly Deep Fetch (Top 100) ---")
+    all_games = []
     url = "https://api.rawg.io/api/games"
-    params["key"] = API_KEY
-    params["parent_platforms"] = "1"
-    params["page_size"] = 40
+    params = {
+        "key": API_KEY, "parent_platforms": "1", "ordering": "-metacritic",
+        "metacritic": "85,100", "page_size": 25
+    }
     
-    while url and len(results) < limit:
+    while url and len(all_games) < 100:
         if url == "https://api.rawg.io/api/games":
             resp = requests.get(url, params=params)
         else:
-            resp = requests.get(url)
+            resp = requests.get(url) 
         data = resp.json()
         for g in data.get("results", []):
-            is_top = len(results) < deep_limit
-            results.append(process_game(g, deep_fetch=is_top))
-            if is_top: time.sleep(0.2)
+            all_games.append(process_game(g))
+            time.sleep(0.1)
         url = data.get("next")
-    return results
-
-def main():
-    today = datetime.now().date()
-    start_new = (today - timedelta(days=30)).strftime("%Y-%m-%d")
-    end_new = today.strftime("%Y-%m-%d")
-    new_games = fetch_section("NewReleases", {"dates": f"{start_new},{end_new}", "ordering": "-added"}, 60, 10)
-
-    start_up = (today + timedelta(days=1)).strftime("%Y-%m-%d")
-    end_up = (today + timedelta(days=60)).strftime("%Y-%m-%d")
-    upcoming_games = fetch_section("Upcoming", {"dates": f"{start_up},{end_up}", "ordering": "-added"}, 100, 15)
-
-    with open("daily_games.json", "w") as f:
-        json.dump({"NewReleases": new_games, "Upcoming": upcoming_games}, f, indent=2)
+        
+    with open("top_games.json", "w") as f:
+        json.dump(all_games, f, indent=2)
 
 if __name__ == "__main__":
     main()
