@@ -20,43 +20,6 @@
     }
   },
   {
-    "Title": "Half-Life 2: Update",
-    "ReleaseDate": "2015-03-27",
-    "ImageURL": "https://media.rawg.io/media/screenshots/bb7/bb7463d103dc40f6f3a3c9ac3b4b11a5.jpg",
-    "StoreURL": "https://rawg.io/games/half-life-2-update",
-    "VideoURL": "",
-    "Metacritic": 96,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Shooter"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Half-Life",
-    "ReleaseDate": "1998-11-19",
-    "ImageURL": "https://media.rawg.io/media/games/6c5/6c55e22185876626881b76c11922b073.jpg",
-    "StoreURL": "https://rawg.io/games/half-life",
-    "VideoURL": "",
-    "Metacritic": 96,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Shooter",
-      "Action"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
     "Title": "Red Dead Redemption 2",
     "ReleaseDate": "2018-10-26",
     "ImageURL": "https://media.rawg.io/media/games/511/5118aff5091cb3efec399c808f8c598f.jpg",
@@ -75,86 +38,10 @@
     }
   },
   {
-    "Title": "BioShock",
-    "ReleaseDate": "2007-08-21",
-    "ImageURL": "https://media.rawg.io/media/games/bc0/bc06a29ceac58652b684deefe7d56099.jpg",
-    "StoreURL": "https://rawg.io/games/bioshock",
-    "VideoURL": "",
-    "Metacritic": 96,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Shooter",
-      "Action"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Half-Life 2",
-    "ReleaseDate": "2004-11-16",
-    "ImageURL": "https://media.rawg.io/media/games/b8c/b8c243eaa0fbac8115e0cdccac3f91dc.jpg",
-    "StoreURL": "https://rawg.io/games/half-life-2",
-    "VideoURL": "",
-    "Metacritic": 96,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Shooter",
-      "Action"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Grand Theft Auto IV: Complete Edition",
-    "ReleaseDate": "2010-10-27",
-    "ImageURL": "https://media.rawg.io/media/screenshots/e59/e59cc96f38cc93af5a396173878018d7.jpg",
-    "StoreURL": "https://rawg.io/games/grand-theft-auto-iv-complete-edition",
-    "VideoURL": "",
-    "Metacritic": 95,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Adventure",
-      "Action"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
     "Title": "Divinity: Original Sin 2",
     "ReleaseDate": "2017-09-14",
     "ImageURL": "https://media.rawg.io/media/games/424/424facd40f4eb1f2794fe4b4bb28a277.jpg",
     "StoreURL": "https://rawg.io/games/divinity-original-sin-2",
-    "VideoURL": "https://steamcdn-a.akamaihd.net/steam/apps/256693901/movie_max.mp4",
-    "Metacritic": 95,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Strategy",
-      "RPG"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Baldur's Gate II: Shadows of Amn",
-    "ReleaseDate": "2000-09-21",
-    "ImageURL": "https://media.rawg.io/media/games/c16/c160077f8977cb22f14e56408c1560ef.jpg",
-    "StoreURL": "https://rawg.io/games/baldurs-gate-ii-shadows-of-amn",
     "VideoURL": "",
     "Metacritic": 95,
     "MetacriticURL": "",
@@ -163,62 +50,6 @@
     "Genres": [
       "Strategy",
       "RPG"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Portal 2",
-    "ReleaseDate": "2011-04-18",
-    "ImageURL": "https://media.rawg.io/media/games/2ba/2bac0e87cf45e5b508f227d281c9252a.jpg",
-    "StoreURL": "https://rawg.io/games/portal-2",
-    "VideoURL": "",
-    "Metacritic": 95,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Shooter",
-      "Puzzle"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Grand Theft Auto IV",
-    "ReleaseDate": "2008-04-29",
-    "ImageURL": "https://media.rawg.io/media/games/4a0/4a0a1316102366260e6f38fd2a9cfdce.jpg",
-    "StoreURL": "https://rawg.io/games/grand-theft-auto-iv",
-    "VideoURL": "",
-    "Metacritic": 95,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Action"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Red Dead Redemption",
-    "ReleaseDate": "2010-05-18",
-    "ImageURL": "https://media.rawg.io/media/games/686/686909717c3aa01518bc42ae2bf4259e.jpg",
-    "StoreURL": "https://rawg.io/games/red-dead-redemption",
-    "VideoURL": "",
-    "Metacritic": 95,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Shooter",
-      "Action"
     ],
     "Specs": {
       "Min": "TBA",
@@ -263,285 +94,6 @@
     }
   },
   {
-    "Title": "The Orange Box",
-    "ReleaseDate": "2008-01-01",
-    "ImageURL": "https://media.rawg.io/media/games/55a/55a685051caa3d478836fa7c1d074694.jpg",
-    "StoreURL": "https://rawg.io/games/the-orange-box",
-    "VideoURL": "",
-    "Metacritic": 94,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Shooter"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "The Elder Scrolls IV: Oblivion",
-    "ReleaseDate": "2006-03-20",
-    "ImageURL": "https://media.rawg.io/media/games/615/61503312a95d451198d80d9bae275f79.jpg",
-    "StoreURL": "https://rawg.io/games/the-elder-scrolls-iv-oblivion",
-    "VideoURL": "",
-    "Metacritic": 94,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Indie",
-      "Adventure",
-      "RPG"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Diablo",
-    "ReleaseDate": "1996-12-31",
-    "ImageURL": "https://media.rawg.io/media/games/923/923a5dd13b6e79dd23ab2d09934f0e8d.jpg",
-    "StoreURL": "https://rawg.io/games/diablo",
-    "VideoURL": "",
-    "Metacritic": 94,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Action",
-      "RPG"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Grand Theft Auto: Vice City",
-    "ReleaseDate": "2002-10-27",
-    "ImageURL": "https://media.rawg.io/media/games/13a/13a528ac9cf48bbb6be5d35fe029336d.jpg",
-    "StoreURL": "https://rawg.io/games/grand-theft-auto-vice-city",
-    "VideoURL": "",
-    "Metacritic": 94,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Action"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Sid Meier's Civilization 2",
-    "ReleaseDate": "1996-02-29",
-    "ImageURL": "https://media.rawg.io/media/screenshots/1d0/1d05c811684f86d9b382814109385073.jpg",
-    "StoreURL": "https://rawg.io/games/sid-meiers-civilization-2",
-    "VideoURL": "",
-    "Metacritic": 94,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Strategy"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "The Elder Scrolls V: Skyrim Legendary Edition",
-    "ReleaseDate": "2013-06-04",
-    "ImageURL": "https://media.rawg.io/media/games/6db/6db2d022f77b1c99116bbf6750ec2c7d.jpg",
-    "StoreURL": "https://rawg.io/games/the-elder-scrolls-v-skyrim-legendary-edition",
-    "VideoURL": "",
-    "Metacritic": 94,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Adventure",
-      "RPG"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Tony Hawk's Pro Skater 3",
-    "ReleaseDate": "2001-10-28",
-    "ImageURL": "https://media.rawg.io/media/screenshots/a2b/a2baa14bf592e3973650faacbf60fe74.jpg",
-    "StoreURL": "https://rawg.io/games/tony-hawks-pro-skater-3",
-    "VideoURL": "",
-    "Metacritic": 94,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Arcade",
-      "Sports"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "The Elder Scrolls IV: Oblivion Game of the Year Edition",
-    "ReleaseDate": "2009-06-16",
-    "ImageURL": "https://media.rawg.io/media/games/886/8868f9ea0c91d45316319ebf5dd4fc64.jpg",
-    "StoreURL": "https://rawg.io/games/the-elder-scrolls-iv-oblivion-game-of-the-year-edi",
-    "VideoURL": "",
-    "Metacritic": 94,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "RPG"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Quake",
-    "ReleaseDate": "1996-06-22",
-    "ImageURL": "https://media.rawg.io/media/games/3a8/3a82d7f5c90ab082fe475e28d58bee8b.jpg",
-    "StoreURL": "https://rawg.io/games/quake",
-    "VideoURL": "",
-    "Metacritic": 94,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Shooter",
-      "Action"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Batman: Arkham City",
-    "ReleaseDate": "2011-10-18",
-    "ImageURL": "https://media.rawg.io/media/games/b5a/b5a1226bfd971284a735a4a0969086b3.jpg",
-    "StoreURL": "https://rawg.io/games/batman-arkham-city-2",
-    "VideoURL": "",
-    "Metacritic": 94,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Action"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "BioShock Infinite",
-    "ReleaseDate": "2013-03-26",
-    "ImageURL": "https://media.rawg.io/media/games/fc1/fc1307a2774506b5bd65d7e8424664a7.jpg",
-    "StoreURL": "https://rawg.io/games/bioshock-infinite",
-    "VideoURL": "",
-    "Metacritic": 94,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Shooter",
-      "Action"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "The Elder Scrolls V: Skyrim",
-    "ReleaseDate": "2011-11-11",
-    "ImageURL": "https://media.rawg.io/media/games/7cf/7cfc9220b401b7a300e409e539c9afd5.jpg",
-    "StoreURL": "https://rawg.io/games/the-elder-scrolls-v-skyrim",
-    "VideoURL": "",
-    "Metacritic": 94,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Action",
-      "RPG"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Grim Fandango",
-    "ReleaseDate": "1998-10-14",
-    "ImageURL": "https://media.rawg.io/media/screenshots/a07/a07491535ca7c6e175c9c22299c786d6.jpg",
-    "StoreURL": "https://rawg.io/games/grim-fandango",
-    "VideoURL": "",
-    "Metacritic": 94,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Adventure"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Metal Gear Solid",
-    "ReleaseDate": "1998-09-03",
-    "ImageURL": "https://media.rawg.io/media/games/bbc/bbce6f1659d35ffc16aed8b66e9990a1.jpg",
-    "StoreURL": "https://rawg.io/games/metal-gear-solid-1",
-    "VideoURL": "",
-    "Metacritic": 94,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Action"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Divinity: Original Sin - Enhanced Edition",
-    "ReleaseDate": "2015-10-27",
-    "ImageURL": "https://media.rawg.io/media/games/33b/33b825c76382931df0fd8ecddf5caebe.jpg",
-    "StoreURL": "https://rawg.io/games/divinity-original-sin-enhanced-edition",
-    "VideoURL": "",
-    "Metacritic": 94,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Indie",
-      "RPG"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
     "Title": "Divinity: Original Sin 2 - Definitive Edition",
     "ReleaseDate": "2018-08-31",
     "ImageURL": "https://media.rawg.io/media/games/cd2/cd2a1a360839002bceadc5a8b3c7dbf7.jpg",
@@ -553,63 +105,6 @@
     "WebsiteURL": "",
     "Genres": [
       "RPG"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Command & Conquer",
-    "ReleaseDate": "1995-08-31",
-    "ImageURL": "https://media.rawg.io/media/games/c62/c62e21b805e3f4c13e99702d2eca6a65.jpg",
-    "StoreURL": "https://rawg.io/games/command-conquer-old",
-    "VideoURL": "",
-    "Metacritic": 94,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Strategy"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Mass Effect 2",
-    "ReleaseDate": "2010-01-26",
-    "ImageURL": "https://media.rawg.io/media/games/3cf/3cff89996570cf29a10eb9cd967dcf73.jpg",
-    "StoreURL": "https://rawg.io/games/mass-effect-2",
-    "VideoURL": "",
-    "Metacritic": 94,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Action",
-      "RPG"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Jet Set Radio",
-    "ReleaseDate": "2000-06-29",
-    "ImageURL": "https://media.rawg.io/media/games/fd7/fd794a9f0ffe816038d981b3acc3eec9.jpg",
-    "StoreURL": "https://rawg.io/games/jet-set-radio-2012",
-    "VideoURL": "",
-    "Metacritic": 94,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Platformer",
-      "Action",
-      "Sports"
     ],
     "Specs": {
       "Min": "TBA",
@@ -636,24 +131,6 @@
     }
   },
   {
-    "Title": "Sid Meier's Civilization IV",
-    "ReleaseDate": "2005-10-25",
-    "ImageURL": "https://media.rawg.io/media/screenshots/85c/85c91c5064d2cdd56a949c8008868318.jpg",
-    "StoreURL": "https://rawg.io/games/sid-meiers-civilization-iv",
-    "VideoURL": "",
-    "Metacritic": 94,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Strategy"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
     "Title": "God of War (2018)",
     "ReleaseDate": "2018-04-20",
     "ImageURL": "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg",
@@ -665,63 +142,6 @@
     "WebsiteURL": "",
     "Genres": [
       "Action"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Dwarf Fortress",
-    "ReleaseDate": "2006-08-08",
-    "ImageURL": "https://media.rawg.io/media/screenshots/b20/b20a30ae9d910d948a24ca234eb4553d.jpg",
-    "StoreURL": "https://rawg.io/games/dwarf-fortress",
-    "VideoURL": "",
-    "Metacritic": 93,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Strategy",
-      "Indie",
-      "RPG",
-      "Simulation"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "StarCraft II: Wings of Liberty",
-    "ReleaseDate": "2010-07-27",
-    "ImageURL": "https://media.rawg.io/media/games/5f7/5f7191716faebcf102a357c5c2889394.jpg",
-    "StoreURL": "https://rawg.io/games/starcraft-ii-wings-of-liberty",
-    "VideoURL": "",
-    "Metacritic": 93,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Strategy"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Company of Heroes",
-    "ReleaseDate": "2006-09-11",
-    "ImageURL": "https://media.rawg.io/media/games/0fa/0fadc446fd1e9ae9e23a32793d9a5406.jpg",
-    "StoreURL": "https://rawg.io/games/company-of-heroes",
-    "VideoURL": "https://steamcdn-a.akamaihd.net/steam/apps/256697741/movie_max.mp4",
-    "Metacritic": 93,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Strategy"
     ],
     "Specs": {
       "Min": "TBA",
@@ -741,84 +161,6 @@
     "Genres": [
       "Shooter",
       "Adventure",
-      "Action"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Cut the Rope",
-    "ReleaseDate": "2010-10-04",
-    "ImageURL": "https://media.rawg.io/media/games/242/242011264968168c61e4efc71059f2ed.jpg",
-    "StoreURL": "https://rawg.io/games/cut-the-rope",
-    "VideoURL": "",
-    "Metacritic": 93,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Casual",
-      "Indie",
-      "Arcade",
-      "Puzzle"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "World of Warcraft",
-    "ReleaseDate": "2004-11-23",
-    "ImageURL": "https://media.rawg.io/media/games/0d9/0d930ea604ee240c5af30c58f73ddf48.jpg",
-    "StoreURL": "https://rawg.io/games/world-of-warcraft",
-    "VideoURL": "",
-    "Metacritic": 93,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Massively Multiplayer",
-      "RPG"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Okami",
-    "ReleaseDate": "2006-04-20",
-    "ImageURL": "https://media.rawg.io/media/games/922/92244532ff3c3f277824c0cf8941f187.jpg",
-    "StoreURL": "https://rawg.io/games/okami",
-    "VideoURL": "",
-    "Metacritic": 93,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Adventure",
-      "Action"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Grand Theft Auto III",
-    "ReleaseDate": "2001-10-22",
-    "ImageURL": "https://media.rawg.io/media/games/5fa/5fae5fec3c943179e09da67a4427d68f.jpg",
-    "StoreURL": "https://rawg.io/games/grand-theft-auto-iii",
-    "VideoURL": "",
-    "Metacritic": 93,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Shooter",
       "Action"
     ],
     "Specs": {
@@ -848,253 +190,6 @@
     }
   },
   {
-    "Title": "Maniac Mansion: Day of the Tentacle",
-    "ReleaseDate": "1993-06-25",
-    "ImageURL": "https://media.rawg.io/media/screenshots/f6b/f6b30c8c391dfe473a4f8cd58358f91d.jpg",
-    "StoreURL": "https://rawg.io/games/maniac-mansion-day-of-the-tentacle",
-    "VideoURL": "",
-    "Metacritic": 93,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Adventure",
-      "Puzzle"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Unreal Tournament 2004: Editor's Choice Edition",
-    "ReleaseDate": "2004-03-17",
-    "ImageURL": "https://media.rawg.io/media/games/c02/c027f7cf3d558f9072b2c27a3955f256.jpg",
-    "StoreURL": "https://rawg.io/games/unreal-tournament-2004-editors-choice-edition",
-    "VideoURL": "",
-    "Metacritic": 93,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Action"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Grand Theft Auto: San Andreas",
-    "ReleaseDate": "2004-10-26",
-    "ImageURL": "https://media.rawg.io/media/games/960/960b601d9541cec776c5fa42a00bf6c4.jpg",
-    "StoreURL": "https://rawg.io/games/grand-theft-auto-san-andreas",
-    "VideoURL": "",
-    "Metacritic": 93,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Action"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Unreal Tournament 2004",
-    "ReleaseDate": "2004-03-16",
-    "ImageURL": "https://media.rawg.io/media/games/59c/59ccb40e955d56d3d4d0656dd93b132c.jpg",
-    "StoreURL": "https://rawg.io/games/unreal-tournament-2004",
-    "VideoURL": "",
-    "Metacritic": 93,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Shooter",
-      "Action"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Homeworld",
-    "ReleaseDate": "1999-09-01",
-    "ImageURL": "https://media.rawg.io/media/screenshots/ff8/ff8088234acae0fb0d01c82a6089c0c9.jpg",
-    "StoreURL": "https://rawg.io/games/homeworld",
-    "VideoURL": "",
-    "Metacritic": 93,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Strategy"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "StarCraft II",
-    "ReleaseDate": "2010-07-27",
-    "ImageURL": "https://media.rawg.io/media/games/960/9605c08bf8535c00adbb0a3896f0c484.jpg",
-    "StoreURL": "https://rawg.io/games/starcraft-2",
-    "VideoURL": "",
-    "Metacritic": 93,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Strategy"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Sid Meier's Alpha Centauri",
-    "ReleaseDate": "1999-02-12",
-    "ImageURL": "https://media.rawg.io/media/screenshots/106/106678630cda8df5ec76864790e07051.jpg",
-    "StoreURL": "https://rawg.io/games/sid-meiers-alpha-centauri",
-    "VideoURL": "",
-    "Metacritic": 92,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Strategy"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "The Walking Dead: Season 1",
-    "ReleaseDate": "2012-04-23",
-    "ImageURL": "https://media.rawg.io/media/games/8d6/8d69eb6c32ed6acfd75f82d532144993.jpg",
-    "StoreURL": "https://rawg.io/games/the-walking-dead",
-    "VideoURL": "",
-    "Metacritic": 92,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Adventure",
-      "Action"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Thief Gold",
-    "ReleaseDate": "1999-10-29",
-    "ImageURL": "https://media.rawg.io/media/games/934/934db575e66d63f2a6e86a2c688c141b.jpeg",
-    "StoreURL": "https://rawg.io/games/thief-gold",
-    "VideoURL": "",
-    "Metacritic": 92,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Action",
-      "Simulation"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "FINAL FANTASY VI",
-    "ReleaseDate": "1994-04-02",
-    "ImageURL": "https://media.rawg.io/media/games/98c/98c87b286cd2a2ba942167df384a9bd3.jpg",
-    "StoreURL": "https://rawg.io/games/final-fantasy-vi",
-    "VideoURL": "",
-    "Metacritic": 92,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "RPG"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Unreal Tournament",
-    "ReleaseDate": "1999-11-22",
-    "ImageURL": "https://media.rawg.io/media/screenshots/dbd/dbd43988f23859529e1a8c600c6a7e24.jpg",
-    "StoreURL": "https://rawg.io/games/unreal-tournament",
-    "VideoURL": "",
-    "Metacritic": 92,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Shooter",
-      "Action"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Threes!",
-    "ReleaseDate": "2014-02-05",
-    "ImageURL": "https://media.rawg.io/media/screenshots/050/0500fb770cac48c373d2969a1d2b96e7.jpeg",
-    "StoreURL": "https://rawg.io/games/threes",
-    "VideoURL": "",
-    "Metacritic": 92,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Educational",
-      "Puzzle",
-      "Casual",
-      "Card",
-      "Indie"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Prune",
-    "ReleaseDate": "2015-07-23",
-    "ImageURL": "https://media.rawg.io/media/screenshots/a3a/a3aff5a4b9b3451b34ff7950d8c4d5f2.jpg",
-    "StoreURL": "https://rawg.io/games/prune",
-    "VideoURL": "",
-    "Metacritic": 92,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Puzzle",
-      "Casual",
-      "Simulation",
-      "Indie",
-      "Family"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
     "Title": "Out of the Park Baseball 17",
     "ReleaseDate": "2016-03-22",
     "ImageURL": "https://media.rawg.io/media/games/4cf/4cf1688e353c31d67bba3f2ba52d9416.jpg",
@@ -1116,104 +211,10 @@
     }
   },
   {
-    "Title": "Call of Duty 4: Modern Warfare",
-    "ReleaseDate": "2007-11-05",
-    "ImageURL": "https://media.rawg.io/media/games/9fb/9fbaea2168caea1f806546dfdaaeb1da.jpg",
-    "StoreURL": "https://rawg.io/games/modern-warfare",
-    "VideoURL": "",
-    "Metacritic": 92,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Shooter",
-      "Action"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Sid Meier's Gettysburg!",
-    "ReleaseDate": "1997-09-30",
-    "ImageURL": "https://media.rawg.io/media/screenshots/dd7/dd7f21a6294ae75ea211752af6987944.jpg",
-    "StoreURL": "https://rawg.io/games/sid-meiers-gettysburg",
-    "VideoURL": "",
-    "Metacritic": 92,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Strategy"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Galactic Civilizations II: Ultimate Edition",
-    "ReleaseDate": "2011-12-02",
-    "ImageURL": "https://media.rawg.io/media/games/3d8/3d8e76154123ef352d8d3216da061a2d.jpg",
-    "StoreURL": "https://rawg.io/games/galactic-civilizations-ii-ultimate-edition",
-    "VideoURL": "",
-    "Metacritic": 92,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Strategy"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
     "Title": "OKAMI HD",
     "ReleaseDate": "2017-12-12",
     "ImageURL": "https://media.rawg.io/media/games/a38/a3857b2445c70ac5dbe73b210a827ad8.jpg",
     "StoreURL": "https://rawg.io/games/okami-hd-da-shen-jue-jing-ban",
-    "VideoURL": "https://steamcdn-a.akamaihd.net/steam/apps/256696531/movie_max.mp4",
-    "Metacritic": 92,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Adventure",
-      "Action"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Unreal Tournament: Game of the Year Edition",
-    "ReleaseDate": "2000-10-25",
-    "ImageURL": "https://media.rawg.io/media/games/737/7376aef37a0d0c9f6b2aae0f437e3eab.jpg",
-    "StoreURL": "https://rawg.io/games/unreal-tournament-game-of-the-year-edition",
-    "VideoURL": "",
-    "Metacritic": 92,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Shooter",
-      "Massively Multiplayer",
-      "Action"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Tom Clancy's Splinter Cell Chaos Theory",
-    "ReleaseDate": "2005-03-21",
-    "ImageURL": "https://media.rawg.io/media/games/83b/83b59a9d512bec8bc8bda6b539b215b2.jpg",
-    "StoreURL": "https://rawg.io/games/splinter-cell-chaos-theory",
     "VideoURL": "",
     "Metacritic": 92,
     "MetacriticURL": "",
@@ -1222,44 +223,6 @@
     "Genres": [
       "Adventure",
       "Action"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Undertale",
-    "ReleaseDate": "2015-09-14",
-    "ImageURL": "https://media.rawg.io/media/games/ffe/ffed87105b14f5beff72ff44a7793fd5.jpg",
-    "StoreURL": "https://rawg.io/games/undertale",
-    "VideoURL": "",
-    "Metacritic": 92,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Indie",
-      "RPG"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Forza Motorsport (2005)",
-    "ReleaseDate": "2005-05-03",
-    "ImageURL": "https://media.rawg.io/media/games/ae9/ae9e6138ec47798de07b158a36dadd19.jpeg",
-    "StoreURL": "https://rawg.io/games/forza-motorsport",
-    "VideoURL": "",
-    "Metacritic": 92,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Casual",
-      "Racing"
     ],
     "Specs": {
       "Min": "TBA",
@@ -1289,42 +252,6 @@
     }
   },
   {
-    "Title": "Thief: The Dark Project",
-    "ReleaseDate": "1998-12-02",
-    "ImageURL": "https://media.rawg.io/media/games/86d/86d7f559c312a2082e4b1c1a184b8215.jpg",
-    "StoreURL": "https://rawg.io/games/thief-the-dark-project",
-    "VideoURL": "",
-    "Metacritic": 92,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Action"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Age of Empires II: Age of Kings",
-    "ReleaseDate": "1999-09-30",
-    "ImageURL": "https://media.rawg.io/media/screenshots/e90/e90a4f0b878b0206888a56c4155705c8.jpg",
-    "StoreURL": "https://rawg.io/games/age-of-empires-ii-age-of-kings",
-    "VideoURL": "",
-    "Metacritic": 92,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Strategy"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
     "Title": "The Witcher 3 Wild Hunt - Complete Edition",
     "ReleaseDate": "2016-08-30",
     "ImageURL": "https://media.rawg.io/media/games/52b/52be96c19be0d79eeb8664e4ca2aabd5.jpg",
@@ -1337,24 +264,6 @@
     "Genres": [
       "Adventure",
       "RPG"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Warcraft 3: Reign of Chaos",
-    "ReleaseDate": "2002-07-03",
-    "ImageURL": "https://media.rawg.io/media/games/667/667b4447a90c4896bfd48400ae76af28.jpg",
-    "StoreURL": "https://rawg.io/games/warcraft-3-reign-of-chaos",
-    "VideoURL": "",
-    "Metacritic": 92,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Strategy"
     ],
     "Specs": {
       "Min": "TBA",
@@ -1380,180 +289,6 @@
     }
   },
   {
-    "Title": "Braid",
-    "ReleaseDate": "2008-08-06",
-    "ImageURL": "https://media.rawg.io/media/games/a5a/a5abaa1b5cc1567b026fa3aa9fbd828e.jpg",
-    "StoreURL": "https://rawg.io/games/braid",
-    "VideoURL": "",
-    "Metacritic": 92,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Action",
-      "Puzzle",
-      "Arcade",
-      "Indie",
-      "Platformer"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Rome: Total War - Collection",
-    "ReleaseDate": "2007-08-27",
-    "ImageURL": "https://media.rawg.io/media/screenshots/d2c/d2c1101d697afb7a3c7b5b27c104a47d.jpg",
-    "StoreURL": "https://rawg.io/games/rome-total-war-collection",
-    "VideoURL": "",
-    "Metacritic": 92,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Strategy"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Grand Theft Auto V",
-    "ReleaseDate": "2013-09-17",
-    "ImageURL": "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg",
-    "StoreURL": "https://rawg.io/games/grand-theft-auto-v",
-    "VideoURL": "https://steamcdn-a.akamaihd.net/steam/apps/256693661/movie_max.mp4",
-    "Metacritic": 92,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Action"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Alto's Adventure",
-    "ReleaseDate": "2015-02-19",
-    "ImageURL": "https://media.rawg.io/media/screenshots/4db/4dbe6762d5b7721e7ac412d6ab7661db.jpg",
-    "StoreURL": "https://rawg.io/games/altos-adventure",
-    "VideoURL": "",
-    "Metacritic": 92,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Action",
-      "Sports"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "System Shock 2",
-    "ReleaseDate": "1999-08-11",
-    "ImageURL": "https://media.rawg.io/media/games/65f/65f661f1487395055ba05e0a95fc0330.jpg",
-    "StoreURL": "https://rawg.io/games/system-shock-2",
-    "VideoURL": "https://steamcdn-a.akamaihd.net/steam/apps/2028664/movie_max.mp4",
-    "Metacritic": 92,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Shooter",
-      "Action",
-      "RPG"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Journey",
-    "ReleaseDate": "2012-03-13",
-    "ImageURL": "https://media.rawg.io/media/games/baf/baf9905270314e07e6850cffdb51df41.jpg",
-    "StoreURL": "https://rawg.io/games/journey",
-    "VideoURL": "",
-    "Metacritic": 92,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Family",
-      "Indie",
-      "Adventure"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Team Fortress 2",
-    "ReleaseDate": "2007-10-10",
-    "ImageURL": "https://media.rawg.io/media/games/46d/46d98e6910fbc0706e2948a7cc9b10c5.jpg",
-    "StoreURL": "https://rawg.io/games/team-fortress-2",
-    "VideoURL": "",
-    "Metacritic": 92,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Shooter",
-      "Action"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "The Witcher 3: Wild Hunt",
-    "ReleaseDate": "2015-05-18",
-    "ImageURL": "https://media.rawg.io/media/games/618/618c2031a07bbff6b4f611f10b6bcdbc.jpg",
-    "StoreURL": "https://rawg.io/games/the-witcher-3-wild-hunt",
-    "VideoURL": "",
-    "Metacritic": 92,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Action",
-      "RPG"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "World of Warcraft: Wrath of the Lich King",
-    "ReleaseDate": "2008-11-13",
-    "ImageURL": "https://media.rawg.io/media/games/437/437de3c9cbcde991cd06c85e024902bb.jpg",
-    "StoreURL": "https://rawg.io/games/world-of-warcraft-wrath-of-the-lich-king",
-    "VideoURL": "",
-    "Metacritic": 91,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Massively Multiplayer",
-      "RPG"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
     "Title": "DRAGON QUEST XI: Echoes of an Elusive Age",
     "ReleaseDate": "2017-07-29",
     "ImageURL": "https://media.rawg.io/media/games/e04/e041cc430f6b6681477580d3bcddf29f.jpg",
@@ -1564,43 +299,6 @@
     "RedditURL": "",
     "WebsiteURL": "",
     "Genres": [
-      "RPG"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Medal of Honor: Allied Assault",
-    "ReleaseDate": "2002-01-22",
-    "ImageURL": "https://media.rawg.io/media/games/8eb/8ebcb680e97bf8172a0b758f60e1e53d.jpg",
-    "StoreURL": "https://rawg.io/games/medal-of-honor-allied-assault",
-    "VideoURL": "",
-    "Metacritic": 91,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Shooter"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Fallout 3: Game of the Year Edition",
-    "ReleaseDate": "2009-10-13",
-    "ImageURL": "https://media.rawg.io/media/games/e53/e5372e767149bc88106e1da0ae7e9104.jpg",
-    "StoreURL": "https://rawg.io/games/fallout-3-game-of-the-year-edition",
-    "VideoURL": "",
-    "Metacritic": 91,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Action",
       "RPG"
     ],
     "Specs": {
@@ -1629,108 +327,11 @@
     }
   },
   {
-    "Title": "Tom Clancy's Splinter Cell",
-    "ReleaseDate": "2002-11-17",
-    "ImageURL": "https://media.rawg.io/media/games/104/104e82a52297cc7ddd3b05b7e68be04f.jpg",
-    "StoreURL": "https://rawg.io/games/splinter-cell",
-    "VideoURL": "",
-    "Metacritic": 91,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Adventure",
-      "Action"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Crysis",
-    "ReleaseDate": "2007-11-12",
-    "ImageURL": "https://media.rawg.io/media/games/90f/90fd5e569bc4c4a666c588a732124908.jpg",
-    "StoreURL": "https://rawg.io/games/crysis",
-    "VideoURL": "",
-    "Metacritic": 91,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Shooter",
-      "Action"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Myth: The Fallen Lords",
-    "ReleaseDate": "1997-11-25",
-    "ImageURL": "https://media.rawg.io/media/screenshots/429/4298bf275abdb9382748ae7c1ee8cd55.jpg",
-    "StoreURL": "https://rawg.io/games/myth-the-fallen-lords",
-    "VideoURL": "",
-    "Metacritic": 91,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Strategy"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "World of Warcraft: The Burning Crusade",
-    "ReleaseDate": "2007-01-16",
-    "ImageURL": "https://media.rawg.io/media/games/5da/5dac0ce6914ccd23b760de2729ba8eb2.jpg",
-    "StoreURL": "https://rawg.io/games/world-of-warcraft-the-burning-crusade",
-    "VideoURL": "",
-    "Metacritic": 91,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Massively Multiplayer",
-      "RPG"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Ticket to Ride",
-    "ReleaseDate": "2009-12-18",
-    "ImageURL": "https://media.rawg.io/media/screenshots/768/768e36d4b62a1481fef737c6920fbfc7.jpg",
-    "StoreURL": "https://rawg.io/games/ticket-to-ride",
-    "VideoURL": "",
-    "Metacritic": 91,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Casual",
-      "Strategy",
-      "Simulation",
-      "Indie",
-      "Board Games"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
     "Title": "Death Road to Canada",
     "ReleaseDate": "2016-07-20",
     "ImageURL": "https://media.rawg.io/media/screenshots/e1c/e1c6229f98a42b082d911fdcf27615bd.jpeg",
     "StoreURL": "https://rawg.io/games/death-road-to-canada",
-    "VideoURL": "https://steamcdn-a.akamaihd.net/steam/apps/256692168/movie_max.mp4",
+    "VideoURL": "",
     "Metacritic": 91,
     "MetacriticURL": "",
     "RedditURL": "",
@@ -1740,48 +341,6 @@
       "Adventure",
       "Action",
       "RPG"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Mark of the Ninja",
-    "ReleaseDate": "2012-09-07",
-    "ImageURL": "https://media.rawg.io/media/games/b17/b17485d757ca36b5f1ad376b6b096885.jpg",
-    "StoreURL": "https://rawg.io/games/mark-of-the-ninja",
-    "VideoURL": "",
-    "Metacritic": 91,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Platformer",
-      "Indie",
-      "Action"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "FEZ",
-    "ReleaseDate": "2012-04-13",
-    "ImageURL": "https://media.rawg.io/media/games/4cb/4cb855e8ef1578415a928e53c9f51867.png",
-    "StoreURL": "https://rawg.io/games/fez",
-    "VideoURL": "",
-    "Metacritic": 91,
-    "MetacriticURL": "",
-    "RedditURL": "",
-    "WebsiteURL": "",
-    "Genres": [
-      "Adventure",
-      "Action",
-      "Puzzle",
-      "Indie",
-      "Platformer"
     ],
     "Specs": {
       "Min": "TBA",
@@ -1793,7 +352,7 @@
     "ReleaseDate": "2016-07-11",
     "ImageURL": "https://media.rawg.io/media/screenshots/fe8/fe81a278bb7fa0fa73a30bf77afcea50.jpg",
     "StoreURL": "https://rawg.io/games/tumblestone",
-    "VideoURL": "https://steamcdn-a.akamaihd.net/steam/apps/256672261/movie_max.mp4",
+    "VideoURL": "",
     "Metacritic": 91,
     "MetacriticURL": "",
     "RedditURL": "",
@@ -1849,17 +408,17 @@
     }
   },
   {
-    "Title": "Call of Duty",
-    "ReleaseDate": "2003-10-29",
-    "ImageURL": "https://media.rawg.io/media/games/9c5/9c5bc0b6e67102bc96dcf1ba41509e42.jpg",
-    "StoreURL": "https://rawg.io/games/call-of-duty",
+    "Title": "BIOHAZARD RE:2 Z Version",
+    "ReleaseDate": "2019-01-25",
+    "ImageURL": "https://media.rawg.io/media/games/b4a/b4a03dedb5158a2e56f209b357f9ce02.jpg",
+    "StoreURL": "https://rawg.io/games/biohazard-re2-z-version",
     "VideoURL": "",
     "Metacritic": 91,
     "MetacriticURL": "",
     "RedditURL": "",
     "WebsiteURL": "",
     "Genres": [
-      "Shooter"
+      "Action"
     ],
     "Specs": {
       "Min": "TBA",
@@ -1867,10 +426,30 @@
     }
   },
   {
-    "Title": "Asphalt 8: Airborne",
-    "ReleaseDate": "2013-08-22",
-    "ImageURL": "https://media.rawg.io/media/screenshots/8a0/8a08bbf37f602041183946d0b029d218.jpg",
-    "StoreURL": "https://rawg.io/games/asphalt-8-airborne",
+    "Title": "Cinco Paus",
+    "ReleaseDate": "2017-12-25",
+    "ImageURL": "https://media.rawg.io/media/screenshots/7f8/7f829865f51d2e64aec7ce63711c2e8b.jpg",
+    "StoreURL": "https://rawg.io/games/cinco-paus",
+    "VideoURL": "",
+    "Metacritic": 91,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Strategy",
+      "Adventure",
+      "Puzzle"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Rez Infinite",
+    "ReleaseDate": "2016-10-13",
+    "ImageURL": "https://media.rawg.io/media/screenshots/d5d/d5d517e6a0cb5c2722256bf21ad295f8.jpg",
+    "StoreURL": "https://rawg.io/games/rez-infinite",
     "VideoURL": "",
     "Metacritic": 91,
     "MetacriticURL": "",
@@ -1878,6 +457,334 @@
     "WebsiteURL": "",
     "Genres": [
       "Casual",
+      "Indie",
+      "Action"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "DRAGON QUEST XI S: Echoes of an Elusive Age - Definitive Edition",
+    "ReleaseDate": "2019-09-27",
+    "ImageURL": "https://media.rawg.io/media/screenshots/7af/7afce909f5f8510015209451984b683e.jpg",
+    "StoreURL": "https://rawg.io/games/dragon-quest-xi-s-echoes-of-an-elusive-age-definit",
+    "VideoURL": "",
+    "Metacritic": 91,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Adventure",
+      "RPG"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Ori and the Will of the Wisps",
+    "ReleaseDate": "2020-03-10",
+    "ImageURL": "https://media.rawg.io/media/games/718/71891d2484a592d871e91dc826707e1c.jpg",
+    "StoreURL": "https://rawg.io/games/ori-and-the-will-of-the-wisps",
+    "VideoURL": "",
+    "Metacritic": 91,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Platformer",
+      "Adventure",
+      "Action"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Celeste",
+    "ReleaseDate": "2018-01-25",
+    "ImageURL": "https://media.rawg.io/media/games/594/59487800889ebac294c7c2c070d02356.jpg",
+    "StoreURL": "https://rawg.io/games/celeste",
+    "VideoURL": "",
+    "Metacritic": 91,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Platformer",
+      "Indie"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Overwatch",
+    "ReleaseDate": "2016-05-24",
+    "ImageURL": "https://media.rawg.io/media/games/4ea/4ea507ceebeabb43edbc09468f5aaac6.jpg",
+    "StoreURL": "https://rawg.io/games/overwatch",
+    "VideoURL": "",
+    "Metacritic": 91,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Casual",
+      "Shooter",
+      "Massively Multiplayer",
+      "Action"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Tetris Effect",
+    "ReleaseDate": "2018-11-09",
+    "ImageURL": "https://media.rawg.io/media/games/59d/59d568770eecc7b3f18fcedd314b68d3.jpg",
+    "StoreURL": "https://rawg.io/games/tetris-effect",
+    "VideoURL": "",
+    "Metacritic": 90,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Puzzle"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Tadpole Treble",
+    "ReleaseDate": "2016-08-11",
+    "ImageURL": "https://media.rawg.io/media/screenshots/0cb/0cb5186b1fe1ff908a05ec71d062fd3c.jpg",
+    "StoreURL": "https://rawg.io/games/tadpole-treble",
+    "VideoURL": "",
+    "Metacritic": 90,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Indie",
+      "Adventure",
+      "Action"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Microsoft Flight Simulator 2020",
+    "ReleaseDate": "2020-08-18",
+    "ImageURL": "https://media.rawg.io/media/games/89c/89ceadfd42109aa0d80e9c5dbc86f277.jpg",
+    "StoreURL": "https://rawg.io/games/microsoft-flight-simulator",
+    "VideoURL": "",
+    "Metacritic": 90,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Simulation"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "NBA 2K17",
+    "ReleaseDate": "2016-09-16",
+    "ImageURL": "https://media.rawg.io/media/games/5ee/5eec6d58cd7a4dde9c6486359c7e6842.jpg",
+    "StoreURL": "https://rawg.io/games/nba-2k17",
+    "VideoURL": "",
+    "Metacritic": 90,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Action",
+      "Sports"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Sekiro: Shadows Die Twice",
+    "ReleaseDate": "2019-03-22",
+    "ImageURL": "https://media.rawg.io/media/games/67f/67f62d1f062a6164f57575e0604ee9f6.jpg",
+    "StoreURL": "https://rawg.io/games/shadows-die-twice",
+    "VideoURL": "",
+    "Metacritic": 90,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Action",
+      "RPG"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Sea of Stars",
+    "ReleaseDate": "2023-08-28",
+    "ImageURL": "https://media.rawg.io/media/games/1de/1de8ff69ed31d7a47d4f7770f23f20b8.jpg",
+    "StoreURL": "https://rawg.io/games/sea-of-stars-2",
+    "VideoURL": "",
+    "Metacritic": 90,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "RPG"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Spelunky 2",
+    "ReleaseDate": "2020-09-15",
+    "ImageURL": "https://media.rawg.io/media/games/686/68625f8bef120a2a6074c394baf27f77.jpg",
+    "StoreURL": "https://rawg.io/games/spelunky-2",
+    "VideoURL": "",
+    "Metacritic": 90,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Platformer",
+      "Indie",
+      "Action"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Into the Breach",
+    "ReleaseDate": "2018-02-26",
+    "ImageURL": "https://media.rawg.io/media/games/800/800d07ca648a9778a8230f40088e0866.jpg",
+    "StoreURL": "https://rawg.io/games/into-the-breach",
+    "VideoURL": "",
+    "Metacritic": 90,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Strategy",
+      "Indie",
+      "RPG"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Beat Saber",
+    "ReleaseDate": "2019-05-21",
+    "ImageURL": "https://media.rawg.io/media/screenshots/90f/90f61894908915eff8455e7b43d466a2.jpg",
+    "StoreURL": "https://rawg.io/games/beat-saber",
+    "VideoURL": "",
+    "Metacritic": 90,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Indie",
+      "Action"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Diablo IV",
+    "ReleaseDate": "2023-06-06",
+    "ImageURL": "https://media.rawg.io/media/games/77d/77d51f8f4a07c3eecb0f8504027b1bf0.jpg",
+    "StoreURL": "https://rawg.io/games/diablo-iv",
+    "VideoURL": "",
+    "Metacritic": 90,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Action",
+      "RPG"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "The Stanley Parable: Ultra Deluxe",
+    "ReleaseDate": "2022-04-27",
+    "ImageURL": "https://media.rawg.io/media/games/c4e/c4e3ad247e93d3a5dc40aa215a778a9c.jpg",
+    "StoreURL": "https://rawg.io/games/the-stanley-parable-ultra-deluxe",
+    "VideoURL": "",
+    "Metacritic": 90,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Casual",
+      "Indie",
+      "Adventure"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Tetris Effect: Connected",
+    "ReleaseDate": "2020-11-10",
+    "ImageURL": "https://media.rawg.io/media/games/377/3770f2c7020bcb6cc2072f073f27fb4c.jpg",
+    "StoreURL": "https://rawg.io/games/tetris-effect-connected",
+    "VideoURL": "",
+    "Metacritic": 90,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Casual",
+      "Indie",
+      "Puzzle"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Forza Horizon 4",
+    "ReleaseDate": "2018-10-02",
+    "ImageURL": "https://media.rawg.io/media/games/786/7863e587bac630de82fca50d799236a9.jpg",
+    "StoreURL": "https://rawg.io/games/forza-horizon-4",
+    "VideoURL": "",
+    "Metacritic": 90,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
       "Racing",
       "Arcade"
     ],
@@ -1887,17 +794,2135 @@
     }
   },
   {
-    "Title": "Halo 3",
-    "ReleaseDate": "2007-09-25",
-    "ImageURL": "https://media.rawg.io/media/games/982/982ff61d574fed5e416cb1867b40d9b0.jpg",
-    "StoreURL": "https://rawg.io/games/halo-3",
+    "Title": "Stephen's Sausage Roll",
+    "ReleaseDate": "2016-04-17",
+    "ImageURL": "https://media.rawg.io/media/screenshots/87d/87dcf05a48b9178d6ac72d8595d4e055.jpg",
+    "StoreURL": "https://rawg.io/games/stephens-sausage-roll",
     "VideoURL": "",
-    "Metacritic": 91,
+    "Metacritic": 90,
     "MetacriticURL": "",
     "RedditURL": "",
     "WebsiteURL": "",
     "Genres": [
-      "Shooter"
+      "Indie"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Disco Elysium: Final Cut",
+    "ReleaseDate": "2021-03-30",
+    "ImageURL": "https://media.rawg.io/media/games/0af/0afe9e8ace196123d8c7cf22172cec63.jpg",
+    "StoreURL": "https://rawg.io/games/disco-elysium-final-cut",
+    "VideoURL": "",
+    "Metacritic": 90,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Adventure",
+      "RPG"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Framed 2",
+    "ReleaseDate": "2017-06-14",
+    "ImageURL": "https://media.rawg.io/media/screenshots/08a/08a3b137380a9e0576c1c635fbb2c65f.jpg",
+    "StoreURL": "https://rawg.io/games/framed-2",
+    "VideoURL": "",
+    "Metacritic": 89,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Adventure",
+      "Puzzle"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Chained Echoes",
+    "ReleaseDate": "2022-12-08",
+    "ImageURL": "https://media.rawg.io/media/games/54a/54a8908159b95eda884e91463529192b.jpg",
+    "StoreURL": "https://rawg.io/games/chained-echoes",
+    "VideoURL": "",
+    "Metacritic": 89,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Indie",
+      "RPG"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Dicey Dungeons",
+    "ReleaseDate": "2019-08-12",
+    "ImageURL": "https://media.rawg.io/media/games/0e4/0e4d3e51d6366a64997d8a41749b6681.jpg",
+    "StoreURL": "https://rawg.io/games/dicey-dungeons",
+    "VideoURL": "",
+    "Metacritic": 89,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Strategy",
+      "Indie",
+      "RPG"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Nex Machina",
+    "ReleaseDate": "2017-06-19",
+    "ImageURL": "https://media.rawg.io/media/games/ec6/ec615a8bee92ca26c14950712f19753b.jpg",
+    "StoreURL": "https://rawg.io/games/nex-machina",
+    "VideoURL": "",
+    "Metacritic": 89,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Indie",
+      "Action"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Monster Hunter World: Iceborne",
+    "ReleaseDate": "2019-09-06",
+    "ImageURL": "https://media.rawg.io/media/games/543/543e7e11e48333820aaa3d38f778c434.jpg",
+    "StoreURL": "https://rawg.io/games/monster-hunter-world-iceborne",
+    "VideoURL": "",
+    "Metacritic": 89,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Massively Multiplayer",
+      "Action",
+      "RPG"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Gravity Circuit",
+    "ReleaseDate": "2023-07-13",
+    "ImageURL": "https://media.rawg.io/media/screenshots/369/369ff58b26c480f6ab485e9f20b7b930.jpg",
+    "StoreURL": "https://rawg.io/games/gravity-circuit",
+    "VideoURL": "",
+    "Metacritic": 89,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Indie",
+      "Action"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Stardew Valley",
+    "ReleaseDate": "2016-02-25",
+    "ImageURL": "https://media.rawg.io/media/games/713/713269608dc8f2f40f5a670a14b2de94.jpg",
+    "StoreURL": "https://rawg.io/games/stardew-valley",
+    "VideoURL": "",
+    "Metacritic": 89,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Indie",
+      "RPG",
+      "Simulation"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "F1 2017",
+    "ReleaseDate": "2017-08-24",
+    "ImageURL": "https://media.rawg.io/media/games/e83/e83713396a250b37971155d79fb48398.jpg",
+    "StoreURL": "https://rawg.io/games/f1-2017",
+    "VideoURL": "",
+    "Metacritic": 89,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Racing",
+      "Sports"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Star Control: Kessari Quadrant",
+    "ReleaseDate": "2017-10-19",
+    "ImageURL": "https://media.rawg.io/media/games/ab7/ab7f43c6de58879c3c6465c333a96303.jpg",
+    "StoreURL": "https://rawg.io/games/star-control-kessari-quadrant",
+    "VideoURL": "",
+    "Metacritic": 89,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Indie",
+      "Strategy",
+      "Adventure",
+      "Action"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Dark Souls III",
+    "ReleaseDate": "2016-04-11",
+    "ImageURL": "https://media.rawg.io/media/games/da1/da1b267764d77221f07a4386b6548e5a.jpg",
+    "StoreURL": "https://rawg.io/games/dark-souls-iii",
+    "VideoURL": "",
+    "Metacritic": 89,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Action",
+      "RPG"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Horizon Zero Dawn",
+    "ReleaseDate": "2017-02-28",
+    "ImageURL": "https://media.rawg.io/media/games/b7d/b7d3f1715fa8381a4e780173a197a615.jpg",
+    "StoreURL": "https://rawg.io/games/horizon-zero-dawn",
+    "VideoURL": "",
+    "Metacritic": 89,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Action",
+      "RPG"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Cuphead: The Delicious Last Course",
+    "ReleaseDate": "2022-06-30",
+    "ImageURL": "https://media.rawg.io/media/games/01b/01b85423bbfb5f8bc6bcf29dc0cfd6d9.jpg",
+    "StoreURL": "https://rawg.io/games/cuphead-the-delicious-last-course",
+    "VideoURL": "",
+    "Metacritic": 89,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Platformer"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Lone Echo",
+    "ReleaseDate": "2017-07-20",
+    "ImageURL": "https://media.rawg.io/media/games/ec5/ec52ef3b071427407f78fe81d460ce30.jpg",
+    "StoreURL": "https://rawg.io/games/lone-echo",
+    "VideoURL": "",
+    "Metacritic": 89,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Adventure",
+      "Action",
+      "Simulation"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Chicory: A Colorful Tale",
+    "ReleaseDate": "2021-06-10",
+    "ImageURL": "https://media.rawg.io/media/games/710/71095dec34962a167121a9d67838818f.jpg",
+    "StoreURL": "https://rawg.io/games/chicory-a-colorful-tale",
+    "VideoURL": "",
+    "Metacritic": 89,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Indie",
+      "Adventure",
+      "RPG"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Monster Hunter: World",
+    "ReleaseDate": "2018-01-26",
+    "ImageURL": "https://media.rawg.io/media/games/21c/21cc15d233117c6809ec86870559e105.jpg",
+    "StoreURL": "https://rawg.io/games/monster-hunter-world-2",
+    "VideoURL": "",
+    "Metacritic": 89,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Adventure",
+      "Action",
+      "RPG"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Mortal Kombat 11 Ultimate",
+    "ReleaseDate": "2020-11-17",
+    "ImageURL": "https://media.rawg.io/media/screenshots/837/837544531ee999e51a548ecc6fb29804.jpg",
+    "StoreURL": "https://rawg.io/games/mortal-kombat-11-ultimate",
+    "VideoURL": "",
+    "Metacritic": 89,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Action",
+      "Fighting"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Mark of the Ninja: Remastered",
+    "ReleaseDate": "2018-10-08",
+    "ImageURL": "https://media.rawg.io/media/games/55f/55fa333bffb3ad768ea85d590205c9c2.jpeg",
+    "StoreURL": "https://rawg.io/games/mark-of-the-ninja-remastered",
+    "VideoURL": "",
+    "Metacritic": 89,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Platformer",
+      "Indie",
+      "Action"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "What Remains of Edith Finch",
+    "ReleaseDate": "2017-04-23",
+    "ImageURL": "https://media.rawg.io/media/games/34e/34e100b1f648de99f32d477065f04653.jpg",
+    "StoreURL": "https://rawg.io/games/what-remains-of-edith-finch",
+    "VideoURL": "",
+    "Metacritic": 89,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Indie",
+      "Adventure"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Legends of Runeterra",
+    "ReleaseDate": "2020-04-28",
+    "ImageURL": "https://media.rawg.io/media/games/533/5333339e3251bbe60124f134d8ef9049.jpg",
+    "StoreURL": "https://rawg.io/games/legends-of-runeterra",
+    "VideoURL": "",
+    "Metacritic": 88,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Card",
+      "Strategy"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "SteamWorld Dig 2",
+    "ReleaseDate": "2017-09-21",
+    "ImageURL": "https://media.rawg.io/media/games/95a/95adc7a2135783dfd2204f694200c836.jpg",
+    "StoreURL": "https://rawg.io/games/steamworld-dig-2",
+    "VideoURL": "",
+    "Metacritic": 88,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Indie",
+      "Platformer",
+      "Adventure",
+      "Action"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Deathloop",
+    "ReleaseDate": "2021-09-14",
+    "ImageURL": "https://media.rawg.io/media/games/018/01857c5ff9579c48fa8bd76b4d83a946.jpg",
+    "StoreURL": "https://rawg.io/games/deathloop-2",
+    "VideoURL": "",
+    "Metacritic": 88,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Action",
+      "RPG"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Devil May Cry 5",
+    "ReleaseDate": "2019-03-08",
+    "ImageURL": "https://media.rawg.io/media/games/9fb/9fbf956a16249def7625ab5dc3d09515.jpg",
+    "StoreURL": "https://rawg.io/games/devil-may-cry-5",
+    "VideoURL": "",
+    "Metacritic": 88,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Action"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Return Of The Obra Dinn",
+    "ReleaseDate": "2018-10-17",
+    "ImageURL": "https://media.rawg.io/media/games/052/052f9afc7aaeea3e2c5d46eafa92c64e.jpg",
+    "StoreURL": "https://rawg.io/games/return-of-the-obra-dinn",
+    "VideoURL": "",
+    "Metacritic": 88,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Indie",
+      "Adventure"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Hollow Knight",
+    "ReleaseDate": "2017-02-23",
+    "ImageURL": "https://media.rawg.io/media/games/4cf/4cfc6b7f1850590a4634b08bfab308ab.jpg",
+    "StoreURL": "https://rawg.io/games/hollow-knight",
+    "VideoURL": "",
+    "Metacritic": 88,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Platformer",
+      "Indie",
+      "Action"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Alto's Odyssey",
+    "ReleaseDate": "2018-02-21",
+    "ImageURL": "https://media.rawg.io/media/games/ff6/ff64f7b2a47d8b90987b5ceb530958e0.jpg",
+    "StoreURL": "https://rawg.io/games/altos-odyssey",
+    "VideoURL": "",
+    "Metacritic": 88,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Arcade",
+      "Action",
+      "Sports"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Injustice 2",
+    "ReleaseDate": "2017-05-09",
+    "ImageURL": "https://media.rawg.io/media/games/e42/e428e70c97064037326d7863a43a0454.jpg",
+    "StoreURL": "https://rawg.io/games/injustice-2",
+    "VideoURL": "",
+    "Metacritic": 88,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Fighting"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Rise of the Tomb Raider: 20 Year Celebration",
+    "ReleaseDate": "2016-02-08",
+    "ImageURL": "https://media.rawg.io/media/games/451/451e5c6d5420d4862b9de70441cdc11a.jpg",
+    "StoreURL": "https://rawg.io/games/rise-of-the-tomb-raider-20-year-celebration",
+    "VideoURL": "",
+    "Metacritic": 88,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Adventure",
+      "Action"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Sid Meier\u2019s Civilization VI",
+    "ReleaseDate": "2016-10-20",
+    "ImageURL": "https://media.rawg.io/media/games/997/997ab4d67e96fb20a4092383477d4463.jpg",
+    "StoreURL": "https://rawg.io/games/civilization-vi",
+    "VideoURL": "",
+    "Metacritic": 88,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Strategy",
+      "Simulation"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Forza Horizon 3",
+    "ReleaseDate": "2016-09-27",
+    "ImageURL": "https://media.rawg.io/media/games/30a/30afe3a3cb06849dc032ef3b9295f180.jpg",
+    "StoreURL": "https://rawg.io/games/forza-horizon-3",
+    "VideoURL": "",
+    "Metacritic": 88,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Racing",
+      "Arcade"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Night in the Woods",
+    "ReleaseDate": "2017-02-21",
+    "ImageURL": "https://media.rawg.io/media/games/b0a/b0a370527fea0e824225269d4a8797db.jpg",
+    "StoreURL": "https://rawg.io/games/night-in-the-woods",
+    "VideoURL": "",
+    "Metacritic": 88,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Adventure"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "It Takes Two",
+    "ReleaseDate": "2021-03-26",
+    "ImageURL": "https://media.rawg.io/media/games/d47/d479582ed0a46496ad34f65c7099d7e5.jpg",
+    "StoreURL": "https://rawg.io/games/it-takes-two-2",
+    "VideoURL": "",
+    "Metacritic": 88,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Platformer",
+      "Adventure",
+      "Action"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Ratchet & Clank: Rift Apart",
+    "ReleaseDate": "2021-06-11",
+    "ImageURL": "https://media.rawg.io/media/games/ccf/ccfd3fd488a8ed61145a3da96c080131.jpg",
+    "StoreURL": "https://rawg.io/games/ratchet-clank-rift-apart",
+    "VideoURL": "",
+    "Metacritic": 88,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Adventure",
+      "Action"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Psychonauts 2",
+    "ReleaseDate": "2021-08-24",
+    "ImageURL": "https://media.rawg.io/media/games/c3c/c3c536cc4d32623ba928020dfd39a648.jpg",
+    "StoreURL": "https://rawg.io/games/psychonauts-2",
+    "VideoURL": "",
+    "Metacritic": 88,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Platformer",
+      "Adventure",
+      "Action"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "F1 2020",
+    "ReleaseDate": "2020-07-10",
+    "ImageURL": "https://media.rawg.io/media/games/cd6/cd64ec71d501de0eb32f6b1f50e4c060.jpg",
+    "StoreURL": "https://rawg.io/games/f1-2020",
+    "VideoURL": "",
+    "Metacritic": 88,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Racing",
+      "Sports"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Owlboy",
+    "ReleaseDate": "2016-10-31",
+    "ImageURL": "https://media.rawg.io/media/games/0fc/0fc933e3dfbbf4306840ef429d73fa9a.jpg",
+    "StoreURL": "https://rawg.io/games/owlboy",
+    "VideoURL": "",
+    "Metacritic": 88,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Indie",
+      "Platformer",
+      "Adventure",
+      "Action"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Tony Hawk's Pro Skater 1 + 2",
+    "ReleaseDate": "2020-09-04",
+    "ImageURL": "https://media.rawg.io/media/games/088/0885c48293746aad6df30735f30d0836.jpg",
+    "StoreURL": "https://rawg.io/games/tony-hawks-pro-skater-12",
+    "VideoURL": "",
+    "Metacritic": 88,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Arcade",
+      "Sports"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Grindstone",
+    "ReleaseDate": "2019-09-19",
+    "ImageURL": "https://media.rawg.io/media/games/0d7/0d736a6bf0461699dbe840409ba88769.jpg",
+    "StoreURL": "https://rawg.io/games/grindstone-2",
+    "VideoURL": "",
+    "Metacritic": 88,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Casual",
+      "Strategy",
+      "Indie",
+      "Puzzle"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "West of Loathing",
+    "ReleaseDate": "2017-08-09",
+    "ImageURL": "https://media.rawg.io/media/games/d11/d116eb848dad9bc60d63d1b209f5d3c8.jpeg",
+    "StoreURL": "https://rawg.io/games/west-of-loathing",
+    "VideoURL": "",
+    "Metacritic": 88,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Indie",
+      "Adventure",
+      "RPG"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Mass Effect: Legendary Edition",
+    "ReleaseDate": "2021-05-14",
+    "ImageURL": "https://media.rawg.io/media/games/64e/64e2a77f37ddc48d102127234af99886.jpg",
+    "StoreURL": "https://rawg.io/games/mass-effect-legendary-edition",
+    "VideoURL": "",
+    "Metacritic": 88,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Shooter",
+      "Adventure",
+      "Action",
+      "RPG"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Battlefield 1",
+    "ReleaseDate": "2016-10-21",
+    "ImageURL": "https://media.rawg.io/media/games/998/9980c4296f311d8bcc5b451ca51e4fe1.jpg",
+    "StoreURL": "https://rawg.io/games/battlefield-1",
+    "VideoURL": "",
+    "Metacritic": 88,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Shooter",
+      "Action"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Dead Cells",
+    "ReleaseDate": "2018-08-07",
+    "ImageURL": "https://media.rawg.io/media/games/f90/f90ee1a4239247a822771c40488e68c5.jpg",
+    "StoreURL": "https://rawg.io/games/dead-cells",
+    "VideoURL": "",
+    "Metacritic": 88,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Platformer",
+      "Indie",
+      "Action",
+      "RPG"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Ori and the Blind Forest: Definitive Edition",
+    "ReleaseDate": "2016-04-27",
+    "ImageURL": "https://media.rawg.io/media/games/04a/04a7e7e185fb51493bdcbe1693a8b3dc.jpg",
+    "StoreURL": "https://rawg.io/games/ori-and-the-blind-forest-definitive-edition",
+    "VideoURL": "",
+    "Metacritic": 88,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Platformer",
+      "Adventure"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Final Fantasy XVI",
+    "ReleaseDate": "2023-06-22",
+    "ImageURL": "https://media.rawg.io/media/games/22e/22e68bb62b3013283972cecf98ed51dc.jpg",
+    "StoreURL": "https://rawg.io/games/final-fantasy-xvi",
+    "VideoURL": "",
+    "Metacritic": 88,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Action",
+      "RPG"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Forza Horizon 3 Hot Wheels",
+    "ReleaseDate": "2017-05-09",
+    "ImageURL": "https://media.rawg.io/media/games/1e1/1e1874d7692f99a293a013174c8b1681.jpg",
+    "StoreURL": "https://rawg.io/games/forza-horizon-3-hot-wheels",
+    "VideoURL": "",
+    "Metacritic": 88,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Racing",
+      "Simulation"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Final Fantasy XIV: Stormblood",
+    "ReleaseDate": "2017-06-20",
+    "ImageURL": "https://media.rawg.io/media/screenshots/178/1783d7a5adb87956a604cd88ff6eaace_RA2RU0H.jpg",
+    "StoreURL": "https://rawg.io/games/final-fantasy-xiv-stormblood",
+    "VideoURL": "",
+    "Metacritic": 88,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Massively Multiplayer",
+      "RPG"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "World of Warcraft: Legion",
+    "ReleaseDate": "2016-08-30",
+    "ImageURL": "https://media.rawg.io/media/games/e61/e61f516a8a17eaa80ce484e5fd751e5b.jpg",
+    "StoreURL": "https://rawg.io/games/world-of-warcraft-legion",
+    "VideoURL": "",
+    "Metacritic": 88,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Massively Multiplayer",
+      "RPG"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Rogue Legacy 2",
+    "ReleaseDate": "2022-04-28",
+    "ImageURL": "https://media.rawg.io/media/games/776/776ebcf6f05c98eab89af736e6f38283.jpg",
+    "StoreURL": "https://rawg.io/games/rogue-legacy-2",
+    "VideoURL": "",
+    "Metacritic": 88,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Indie",
+      "Adventure",
+      "Action",
+      "RPG"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Asgard's Wrath",
+    "ReleaseDate": "2019-10-10",
+    "ImageURL": "https://media.rawg.io/media/screenshots/505/505c9e7aaa2c92d4dacef166a74cc422.jpg",
+    "StoreURL": "https://rawg.io/games/asgards-wrath",
+    "VideoURL": "",
+    "Metacritic": 88,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Action",
+      "RPG"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "XCOM 2",
+    "ReleaseDate": "2016-02-04",
+    "ImageURL": "https://media.rawg.io/media/games/9bf/9bfac18ff678f41a4674250fa0e04a52.jpg",
+    "StoreURL": "https://rawg.io/games/xcom-2",
+    "VideoURL": "",
+    "Metacritic": 88,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Strategy",
+      "RPG"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "There Is No Game: Wrong Dimension",
+    "ReleaseDate": "2020-08-05",
+    "ImageURL": "https://media.rawg.io/media/games/c32/c3214fdd63f48b9ad2b5d87bfdec0885.jpg",
+    "StoreURL": "https://rawg.io/games/there-is-no-game-wd",
+    "VideoURL": "",
+    "Metacritic": 88,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Casual",
+      "Indie",
+      "Adventure",
+      "Puzzle"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Nioh",
+    "ReleaseDate": "2017-02-07",
+    "ImageURL": "https://media.rawg.io/media/games/f84/f84c7c45e074117fb81fecf427f8b41f.jpg",
+    "StoreURL": "https://rawg.io/games/nioh",
+    "VideoURL": "",
+    "Metacritic": 88,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Action",
+      "RPG"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Starfield",
+    "ReleaseDate": "2023-09-06",
+    "ImageURL": "https://media.rawg.io/media/games/ba8/ba82c971336adfd290e4c0eab6504fcf.jpg",
+    "StoreURL": "https://rawg.io/games/starfield",
+    "VideoURL": "",
+    "Metacritic": 88,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Adventure",
+      "RPG"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Neon White",
+    "ReleaseDate": "2022-06-16",
+    "ImageURL": "https://media.rawg.io/media/games/a12/a120fc7faed7666f8c320a755137e316.jpg",
+    "StoreURL": "https://rawg.io/games/neon-white",
+    "VideoURL": "",
+    "Metacritic": 88,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Indie",
+      "Shooter",
+      "Adventure",
+      "Action"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "F1 2019",
+    "ReleaseDate": "2019-06-28",
+    "ImageURL": "https://media.rawg.io/media/games/a0f/a0f0aeea046abebc1a41cbd670ff1425.jpg",
+    "StoreURL": "https://rawg.io/games/f1-2019",
+    "VideoURL": "",
+    "Metacritic": 87,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Racing",
+      "Simulation",
+      "Sports"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Orcs Must Die! Unchained",
+    "ReleaseDate": "2016-03-29",
+    "ImageURL": "https://media.rawg.io/media/screenshots/968/968df3dbb85d2d7aa96ace33a7b2c9af.jpg",
+    "StoreURL": "https://rawg.io/games/orcs-must-die-unchained",
+    "VideoURL": "",
+    "Metacritic": 87,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Strategy",
+      "Action"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Cuphead",
+    "ReleaseDate": "2017-09-29",
+    "ImageURL": "https://media.rawg.io/media/games/226/2262cea0b385db6cf399f4be831603b0.jpg",
+    "StoreURL": "https://rawg.io/games/cuphead",
+    "VideoURL": "",
+    "Metacritic": 87,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Platformer",
+      "Indie",
+      "Action"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Monster Hunter Rise",
+    "ReleaseDate": "2021-03-26",
+    "ImageURL": "https://media.rawg.io/media/games/dbb/dbba6100aae179b5f24052c9141d426d.jpg",
+    "StoreURL": "https://rawg.io/games/monster-hunter-rise",
+    "VideoURL": "",
+    "Metacritic": 87,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Action",
+      "RPG"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Vignettes",
+    "ReleaseDate": "2017-04-20",
+    "ImageURL": "https://media.rawg.io/media/screenshots/c52/c52a20a35ec717a9d4901a394c849199.jpg",
+    "StoreURL": "https://rawg.io/games/vignettes",
+    "VideoURL": "",
+    "Metacritic": 87,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Casual",
+      "Indie",
+      "Adventure",
+      "Puzzle"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Marvel's Spider-Man",
+    "ReleaseDate": "2018-09-07",
+    "ImageURL": "https://media.rawg.io/media/games/9aa/9aa42d16d425fa6f179fc9dc2f763647.jpg",
+    "StoreURL": "https://rawg.io/games/marvels-spider-man",
+    "VideoURL": "",
+    "Metacritic": 87,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Action"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "HEX: Shards of Fate",
+    "ReleaseDate": "2016-04-19",
+    "ImageURL": "https://media.rawg.io/media/screenshots/13e/13e89e8cbfd6a999c58f3a774dcd799f.jpg",
+    "StoreURL": "https://rawg.io/games/hex-shards-of-fate",
+    "VideoURL": "",
+    "Metacritic": 87,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Strategy",
+      "Adventure",
+      "RPG"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "RimWorld",
+    "ReleaseDate": "2016-07-15",
+    "ImageURL": "https://media.rawg.io/media/screenshots/4d8/4d85fbe90066fdbef295a618640c4a82.jpg",
+    "StoreURL": "https://rawg.io/games/rimworld",
+    "VideoURL": "",
+    "Metacritic": 87,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Strategy",
+      "Indie",
+      "Simulation"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Final Fantasy XII: The Zodiac Age",
+    "ReleaseDate": "2017-07-11",
+    "ImageURL": "https://media.rawg.io/media/games/f35/f351f8f406f2ea12088b5e1b034f73b9.jpeg",
+    "StoreURL": "https://rawg.io/games/final-fantasy-xii-the-zodiac-age",
+    "VideoURL": "",
+    "Metacritic": 87,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "RPG"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Hellblade: Senua's Sacrifice VR Edition",
+    "ReleaseDate": "2018-07-31",
+    "ImageURL": "https://media.rawg.io/media/screenshots/015/015988a097b5a0e78b4ecd631e85daba.jpg",
+    "StoreURL": "https://rawg.io/games/hellblade-senuas-sacrifice-vr-edition",
+    "VideoURL": "",
+    "Metacritic": 87,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Indie",
+      "Adventure",
+      "Action"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "INSIDE",
+    "ReleaseDate": "2016-06-28",
+    "ImageURL": "https://media.rawg.io/media/games/d5a/d5a24f9f71315427fa6e966fdd98dfa6.jpg",
+    "StoreURL": "https://rawg.io/games/inside",
+    "VideoURL": "",
+    "Metacritic": 87,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Adventure",
+      "Action",
+      "Puzzle",
+      "Indie",
+      "Platformer"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "The Witness",
+    "ReleaseDate": "2016-01-25",
+    "ImageURL": "https://media.rawg.io/media/games/00b/00b164224ebaf381104d0b215a37afb3.jpg",
+    "StoreURL": "https://rawg.io/games/the-witness",
+    "VideoURL": "",
+    "Metacritic": 87,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Indie",
+      "Adventure",
+      "Puzzle"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Sunless Skies",
+    "ReleaseDate": "2017-08-30",
+    "ImageURL": "https://media.rawg.io/media/screenshots/d2f/d2f5f87a6e6df6b988dac391605f0b60.jpg",
+    "StoreURL": "https://rawg.io/games/sunless-skies",
+    "VideoURL": "",
+    "Metacritic": 87,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Indie",
+      "Adventure",
+      "RPG"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Titanfall 2",
+    "ReleaseDate": "2016-10-28",
+    "ImageURL": "https://media.rawg.io/media/games/569/56978b5a77f13aa2ec5d09ec81d01cad.jpg",
+    "StoreURL": "https://rawg.io/games/titanfall-2",
+    "VideoURL": "",
+    "Metacritic": 87,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Shooter",
+      "Action"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Pistol Whip",
+    "ReleaseDate": "2019-11-07",
+    "ImageURL": "https://media.rawg.io/media/screenshots/619/6196b2342cec75dcd0dad9f835485a14.jpg",
+    "StoreURL": "https://rawg.io/games/pistol-whip",
+    "VideoURL": "",
+    "Metacritic": 87,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Shooter",
+      "Indie",
+      "Action"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Final Fantasy VII",
+    "ReleaseDate": "2020-04-10",
+    "ImageURL": "https://media.rawg.io/media/games/d89/d89bd0cf4fcdc10820892980cbba0f49.jpg",
+    "StoreURL": "https://rawg.io/games/final-fantasy-vii-remake",
+    "VideoURL": "",
+    "Metacritic": 87,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Adventure",
+      "Action",
+      "RPG"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Synth Riders",
+    "ReleaseDate": "2018-07-12",
+    "ImageURL": "https://media.rawg.io/media/screenshots/1af/1af606e2a8f72509574e68bc6d64a3ef.jpg",
+    "StoreURL": "https://rawg.io/games/synth-riders",
+    "VideoURL": "",
+    "Metacritic": 86,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Casual",
+      "Indie",
+      "Action"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Out of the Park Baseball 18",
+    "ReleaseDate": "2017-03-24",
+    "ImageURL": "https://media.rawg.io/media/screenshots/b39/b391578253709e1c8b3a8285981708aa.jpg",
+    "StoreURL": "https://rawg.io/games/out-of-the-park-baseball-18",
+    "VideoURL": "",
+    "Metacritic": 86,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Strategy",
+      "Indie",
+      "Simulation",
+      "Sports"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "F1 2016",
+    "ReleaseDate": "2016-08-18",
+    "ImageURL": "https://media.rawg.io/media/games/b19/b192f86683c33c41e08dd2c18681c6ee.jpg",
+    "StoreURL": "https://rawg.io/games/f1-2016",
+    "VideoURL": "",
+    "Metacritic": 86,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Racing",
+      "Sports"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Overcooked! All You Can Eat",
+    "ReleaseDate": "2020-11-12",
+    "ImageURL": "https://media.rawg.io/media/screenshots/2a6/2a61b0ed0bf014f9f6fbbc8294d08f39.jpg",
+    "StoreURL": "https://rawg.io/games/overcooked-all-you-can-eat",
+    "VideoURL": "",
+    "Metacritic": 86,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Action",
+      "Casual",
+      "Strategy",
+      "Simulation",
+      "Family",
+      "Indie"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "DRAGON BALL FighterZ",
+    "ReleaseDate": "2018-01-25",
+    "ImageURL": "https://media.rawg.io/media/games/96b/96b9420bbd4bd1b79bf2a67f7779733a.jpg",
+    "StoreURL": "https://rawg.io/games/dragon-ball-fighterz",
+    "VideoURL": "",
+    "Metacritic": 86,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Action",
+      "Fighting"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Monster Train",
+    "ReleaseDate": "2020-05-20",
+    "ImageURL": "https://media.rawg.io/media/screenshots/3f5/3f58a7b2a2b290994eb798eb72ca3fb2.jpg",
+    "StoreURL": "https://rawg.io/games/monster-train",
+    "VideoURL": "",
+    "Metacritic": 86,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Card",
+      "Strategy"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Florence",
+    "ReleaseDate": "2018-02-13",
+    "ImageURL": "https://media.rawg.io/media/games/a52/a52908e971191d326caba0bf9857b856.jpg",
+    "StoreURL": "https://rawg.io/games/florence",
+    "VideoURL": "",
+    "Metacritic": 86,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Adventure",
+      "Puzzle",
+      "Casual",
+      "Family",
+      "Indie"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Wolfenstein II: The New Colossus",
+    "ReleaseDate": "2017-10-25",
+    "ImageURL": "https://media.rawg.io/media/games/a0e/a0ef08621301a1eab5e04fa5c96978fa.jpeg",
+    "StoreURL": "https://rawg.io/games/wolfenstein-2-the-new-colossus",
+    "VideoURL": "",
+    "Metacritic": 86,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Shooter",
+      "Action"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Inscryption",
+    "ReleaseDate": "2021-10-19",
+    "ImageURL": "https://media.rawg.io/media/games/73e/73efc5c0ac6f354271dae610276f617c.jpg",
+    "StoreURL": "https://rawg.io/games/inscryption",
+    "VideoURL": "",
+    "Metacritic": 86,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Indie",
+      "Strategy",
+      "Adventure"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "KINGDOM HEARTS HD 1.5 +2.5 ReMIX",
+    "ReleaseDate": "2017-03-28",
+    "ImageURL": "https://media.rawg.io/media/games/c97/c970331a996c14ff50077bd00f9fd3b1.jpg",
+    "StoreURL": "https://rawg.io/games/kingdom-hearts-hd-1525-remix",
+    "VideoURL": "",
+    "Metacritic": 86,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Action",
+      "RPG"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Until You Fall",
+    "ReleaseDate": "2020-09-29",
+    "ImageURL": "https://media.rawg.io/media/screenshots/e15/e15d26cf406f942bf4ddb4f83c130419.jpg",
+    "StoreURL": "https://rawg.io/games/until-you-fall",
+    "VideoURL": "",
+    "Metacritic": 86,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Indie",
+      "Adventure",
+      "Action"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Devotion",
+    "ReleaseDate": "2019-02-18",
+    "ImageURL": "https://media.rawg.io/media/games/c3a/c3a4ecea3f9ccf77125aa4ad5bbc9961.jpg",
+    "StoreURL": "https://rawg.io/games/devotion-2",
+    "VideoURL": "",
+    "Metacritic": 86,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Indie",
+      "Adventure"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Iconoclasts",
+    "ReleaseDate": "2018-01-23",
+    "ImageURL": "https://media.rawg.io/media/games/01a/01a73c4a2d3d5b67e369047896749a95.jpg",
+    "StoreURL": "https://rawg.io/games/iconoclasts",
+    "VideoURL": "",
+    "Metacritic": 86,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Indie",
+      "Platformer",
+      "Adventure",
+      "Action"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Call of Duty: Modern Warfare Remastered",
+    "ReleaseDate": "2016-10-05",
+    "ImageURL": "https://media.rawg.io/media/games/509/509c81a5da92a8d0645d9e160d155017.jpg",
+    "StoreURL": "https://rawg.io/games/call-of-duty-modern-warfare-remastered",
+    "VideoURL": "",
+    "Metacritic": 86,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Shooter",
+      "Action"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "NieR:Automata",
+    "ReleaseDate": "2017-03-17",
+    "ImageURL": "https://media.rawg.io/media/games/5a4/5a44112251d70a25291cc33757220fce.jpg",
+    "StoreURL": "https://rawg.io/games/nierautomata",
+    "VideoURL": "",
+    "Metacritic": 86,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Action",
+      "RPG"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Paradigm",
+    "ReleaseDate": "2017-04-04",
+    "ImageURL": "https://media.rawg.io/media/screenshots/b6c/b6ca8ba20caa7677aa2f5a506d9d84aa.jpg",
+    "StoreURL": "https://rawg.io/games/paradigm",
+    "VideoURL": "",
+    "Metacritic": 86,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Indie",
+      "Adventure",
+      "Puzzle"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Crusader Kings III",
+    "ReleaseDate": "2020-09-01",
+    "ImageURL": "https://media.rawg.io/media/games/77e/77e8a4a7b377a081aabd0dbf688417e1.jpg",
+    "StoreURL": "https://rawg.io/games/crusader-kings-iii",
+    "VideoURL": "",
+    "Metacritic": 86,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Strategy",
+      "RPG",
+      "Simulation"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Slay the Spire",
+    "ReleaseDate": "2019-01-22",
+    "ImageURL": "https://media.rawg.io/media/games/f52/f5206d55f918edf8ee07803101106fa6.jpg",
+    "StoreURL": "https://rawg.io/games/slay-the-spire",
+    "VideoURL": "",
+    "Metacritic": 86,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Card",
+      "Strategy",
+      "Indie",
+      "RPG"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Monster Slayers",
+    "ReleaseDate": "2017-03-23",
+    "ImageURL": "https://media.rawg.io/media/screenshots/8c7/8c7f85dcd24fe3ede787a364e184f1d4.jpg",
+    "StoreURL": "https://rawg.io/games/monster-slayers",
+    "VideoURL": "",
+    "Metacritic": 86,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Indie",
+      "Action",
+      "RPG"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Mega Man X Legacy Collection",
+    "ReleaseDate": "2018-07-24",
+    "ImageURL": "https://media.rawg.io/media/games/250/250a012af7e4cd0d24863e5993e0620c.jpg",
+    "StoreURL": "https://rawg.io/games/mega-man-x-legacy-collection",
+    "VideoURL": "",
+    "Metacritic": 86,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Action"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
+    "ReleaseDate": "2022-06-16",
+    "ImageURL": "https://media.rawg.io/media/games/aac/aac683272f862540a18625f02f5f3679.jpg",
+    "StoreURL": "https://rawg.io/games/teenage-mutant-ninja-turtles-shredders-revenge",
+    "VideoURL": "",
+    "Metacritic": 86,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Adventure",
+      "Action",
+      "Fighting",
+      "Casual",
+      "Arcade",
+      "Indie"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Black Mesa",
+    "ReleaseDate": "2020-03-06",
+    "ImageURL": "https://media.rawg.io/media/games/009/009e4e84975d6a60173ec1199db25aa3.jpg",
+    "StoreURL": "https://rawg.io/games/black-mesa",
+    "VideoURL": "",
+    "Metacritic": 86,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Shooter",
+      "Indie",
+      "Action"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Zero Escape: The Nonary Games",
+    "ReleaseDate": "2017-03-24",
+    "ImageURL": "https://media.rawg.io/media/screenshots/28f/28f81553112c263932cc5157f6ff92ec.jpg",
+    "StoreURL": "https://rawg.io/games/zero-escape-the-nonary-games",
+    "VideoURL": "",
+    "Metacritic": 86,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Adventure"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "The Room 4: Old Sins",
+    "ReleaseDate": "2018-01-25",
+    "ImageURL": "https://media.rawg.io/media/games/ac1/ac157870541bc1c4b5a03d5ee528a747.jpg",
+    "StoreURL": "https://rawg.io/games/the-room-old-sins",
+    "VideoURL": "",
+    "Metacritic": 86,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Adventure",
+      "Puzzle"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Dishonored 2",
+    "ReleaseDate": "2016-11-10",
+    "ImageURL": "https://media.rawg.io/media/games/f6b/f6bed028b02369d4cab548f4f9337e81.jpg",
+    "StoreURL": "https://rawg.io/games/dishonored-2",
+    "VideoURL": "",
+    "Metacritic": 86,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Action",
+      "RPG"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Marvel's Spider-Man: Miles Morales",
+    "ReleaseDate": "2020-11-12",
+    "ImageURL": "https://media.rawg.io/media/games/048/048b46cdc66cbc7e235e1f359c2a77ec.jpg",
+    "StoreURL": "https://rawg.io/games/marvels-spider-man-miles-morales",
+    "VideoURL": "",
+    "Metacritic": 86,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Action"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Tunic",
+    "ReleaseDate": "2022-03-16",
+    "ImageURL": "https://media.rawg.io/media/games/2c1/2c1984e128ac48b89953ed4de4904a3b.jpg",
+    "StoreURL": "https://rawg.io/games/tunic",
+    "VideoURL": "",
+    "Metacritic": 86,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Indie",
+      "Adventure",
+      "Action"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Horizon Forbidden West",
+    "ReleaseDate": "2022-02-18",
+    "ImageURL": "https://media.rawg.io/media/games/bf7/bf73b105ccbba42107986bbcd96fcada.jpg",
+    "StoreURL": "https://rawg.io/games/horizon-zero-dawn-2",
+    "VideoURL": "",
+    "Metacritic": 86,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Adventure",
+      "Action",
+      "RPG"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "The Last Friend",
+    "ReleaseDate": "2021-09-30",
+    "ImageURL": "https://media.rawg.io/media/screenshots/bf1/bf17a9d9d264738bf417ed11a2b203e2.jpg",
+    "StoreURL": "https://rawg.io/games/the-last-friend",
+    "VideoURL": "",
+    "Metacritic": 86,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Strategy",
+      "Indie"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "STEINS;GATE ELITE",
+    "ReleaseDate": "2018-02-19",
+    "ImageURL": "https://media.rawg.io/media/games/785/785a779cf35486a6fb89ad416d79a1f5.jpg",
+    "StoreURL": "https://rawg.io/games/steinsgate-elite",
+    "VideoURL": "",
+    "Metacritic": 86,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Adventure",
+      "RPG"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Nioh 2 \u2013 The Complete Edition",
+    "ReleaseDate": "2021-02-05",
+    "ImageURL": "https://media.rawg.io/media/games/191/191245618591a873d1ecfcad6b164e8e.jpg",
+    "StoreURL": "https://rawg.io/games/nioh-2-the-complete-edition",
+    "VideoURL": "",
+    "Metacritic": 86,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Action",
+      "RPG"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "DOOM Eternal",
+    "ReleaseDate": "2020-03-20",
+    "ImageURL": "https://media.rawg.io/media/games/3ea/3ea3c9bbd940b6cb7f2139e42d3d443f.jpg",
+    "StoreURL": "https://rawg.io/games/doom-eternal",
+    "VideoURL": "",
+    "Metacritic": 86,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Shooter",
+      "Action"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Oxygen Not Included",
+    "ReleaseDate": "2017-05-18",
+    "ImageURL": "https://media.rawg.io/media/games/000/0002b2686a50b30762fb6040a8d9187f.jpg",
+    "StoreURL": "https://rawg.io/games/oxygen-not-included",
+    "VideoURL": "",
+    "Metacritic": 86,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Strategy",
+      "Indie",
+      "Simulation"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Ender Lilies: Quietus of the Knights",
+    "ReleaseDate": "2021-06-22",
+    "ImageURL": "https://media.rawg.io/media/games/f6e/f6ebc5c1953b3733a6fcaa484ad72497.jpg",
+    "StoreURL": "https://rawg.io/games/ender-lilies-quietus-of-the-knights",
+    "VideoURL": "",
+    "Metacritic": 86,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Platformer",
+      "Indie",
+      "Action",
+      "RPG"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Total War: WARHAMMER II",
+    "ReleaseDate": "2017-09-28",
+    "ImageURL": "https://media.rawg.io/media/games/a20/a20d2e07179b4a71dd5276a5c4cc0f61.jpg",
+    "StoreURL": "https://rawg.io/games/total-war-warhammer-ii",
+    "VideoURL": "",
+    "Metacritic": 86,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Strategy",
+      "Action"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Football Manager 2019",
+    "ReleaseDate": "2018-11-02",
+    "ImageURL": "https://media.rawg.io/media/games/2e2/2e2d9ffd0c533abffd3b94dbbd64fd4c.jpg",
+    "StoreURL": "https://rawg.io/games/football-manager-2019",
+    "VideoURL": "",
+    "Metacritic": 86,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Simulation",
+      "Sports"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Pony Island",
+    "ReleaseDate": "2016-01-04",
+    "ImageURL": "https://media.rawg.io/media/games/1cb/1cb8247e712e8797003387083acf30c0.jpg",
+    "StoreURL": "https://rawg.io/games/pony-island",
+    "VideoURL": "",
+    "Metacritic": 86,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Arcade",
+      "Indie",
+      "Adventure",
+      "Puzzle"
+    ],
+    "Specs": {
+      "Min": "TBA",
+      "Rec": "TBA"
+    }
+  },
+  {
+    "Title": "Day of the Tentacle Remastered",
+    "ReleaseDate": "2016-03-21",
+    "ImageURL": "https://media.rawg.io/media/games/764/7648a8802fae5247298d775c85e9535f.jpg",
+    "StoreURL": "https://rawg.io/games/day-of-the-tentacle-remastered",
+    "VideoURL": "",
+    "Metacritic": 86,
+    "MetacriticURL": "",
+    "RedditURL": "",
+    "WebsiteURL": "",
+    "Genres": [
+      "Family",
+      "Adventure"
     ],
     "Specs": {
       "Min": "TBA",
