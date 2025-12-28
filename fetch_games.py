@@ -10,18 +10,76 @@ import time
 API_KEY = os.environ.get("RAWG_API_KEY") 
 BASE_URL = "https://api.rawg.io/api/games"
 
+# --- SAFETY CONFIGURATION ---
+
+# 1. HARD BANS: Instant rejection, regardless of popularity.
+HARD_BANNED_TAGS = {
+    "nsfw", 
+    "hentai", 
+    "erotica", 
+    "porn",
+    "sex" 
+}
+
+# 2. RISKY TAGS: Allowed ONLY if Added Count > 100.
+# If a game has these tags but is obscure (<100 adds), we assume it's shovelware porn.
+RISKY_TAGS = {
+    "nudity", 
+    "sexual-content", 
+    "mature", 
+    "mature-content"
+}
+
+# 3. TITLE BLACKLIST: Catch obvious shovelware titles
+BANNED_TITLE_KEYWORDS = [
+    "hentai", "porn", "sex ", "waifu", "uncensored", "boobs", "milf"
+]
+
 def get_date_range(days_back=0, days_forward=0):
     today = datetime.date.today()
     start = today - timedelta(days=days_back)
     end = today + timedelta(days=days_forward)
     return f"{start},{end}"
 
+def is_safe_for_work(game):
+    """
+    Returns False if game is NSFW.
+    Allows 'Nudity'/'Mature' ONLY if the game is popular (>100 adds).
+    """
+    # 1. ESRB Check (Adults Only is always a hard no)
+    if game.get("esrb_rating"):
+        slug = game["esrb_rating"].get("slug")
+        if slug == "adults-only":
+            return False
+
+    # 2. Tag Check (Hard Ban vs Conditional Ban)
+    if game.get("tags"):
+        for tag in game["tags"]:
+            slug = tag.get("slug")
+            
+            # Level 1: Hard Ban
+            if slug in HARD_BANNED_TAGS:
+                return False
+                
+            # Level 2: Conditional Ban (The "Shovelware Filter")
+            if slug in RISKY_TAGS:
+                # If it has nudity but nobody plays it (<100), ban it.
+                if game.get("added", 0) < 100:
+                    return False
+
+    # 3. Title Check (Blunt force for items without tags)
+    title_lower = game.get("name", "").lower()
+    if any(bad_word in title_lower for bad_word in BANNED_TITLE_KEYWORDS):
+        return False
+        
+    return True
+
 def fetch_games(endpoint_params, target_limit=100):
     games_data = []
     page = 1
-    max_pages = 20 # Safety cap
+    max_pages = 25 
     
-    print(f"   > Fetching target: {target_limit} items...")
+    print(f"   > Fetching target: {target_limit} items (Crowd-Verified Safe Mode)...")
 
     while len(games_data) < target_limit and page < max_pages:
         params = {
@@ -44,14 +102,18 @@ def fetch_games(endpoint_params, target_limit=100):
                 if len(games_data) >= target_limit:
                     break
 
-                # EXTRACT DATA (Rich Schema)
+                # --- SAFETY LOGIC ---
+                if not is_safe_for_work(game):
+                    continue
+
+                # EXTRACT DATA
                 screenshots = [s['image'] for s in game.get('short_screenshots', [])]
-                
-                # Get all platforms (Client will filter for PC later)
                 platforms = []
                 if game.get('parent_platforms'):
                     platforms = [p['platform']['slug'] for p in game['parent_platforms']]
                 
+                tags_list = [t['name'] for t in game.get('tags', [])][:5]
+
                 game_obj = {
                     "ID": game['id'],
                     "Title": game['name'],
@@ -63,7 +125,8 @@ def fetch_games(endpoint_params, target_limit=100):
                     "Rating": game.get('rating', 0.0),
                     "ShortScreenshots": screenshots, 
                     "Genres": [g['name'] for g in game.get('genres', [])][:3],
-                    "Platforms": platforms # Now includes everything (Xbox, PS5, PC)
+                    "Tags": tags_list,
+                    "Platforms": platforms
                 }
                 
                 games_data.append(game_obj)
@@ -82,19 +145,16 @@ def generate_daily_feed():
     print("--- Starting Daily Feed (New & Upcoming) ---")
     data = {}
     
-    # 1. New Releases (Last 30 Days)
-    # Fetch broadly. Client will filter "PC Only" and "Popularity > X"
     print("Fetching New Releases (Last 30 Days)...")
     data["NewReleases"] = fetch_games({
         "dates": get_date_range(days_back=30, days_forward=0),
-        "ordering": "-added", # Most popular first
+        "ordering": "-added", 
     }, target_limit=100)
 
-    # 2. Upcoming (Next 90 Days)
     print("Fetching Upcoming (Next 3 Months)...")
     data["Upcoming"] = fetch_games({
         "dates": get_date_range(days_back=0, days_forward=90),
-        "ordering": "-added", # Sort by Hype (most added)
+        "ordering": "-added", 
     }, target_limit=150)
 
     with open('daily_games.json', 'w') as f:
@@ -104,8 +164,6 @@ def generate_monthly_feed():
     print("--- Starting Monthly Feed (Top 250) ---")
     data = {}
     
-    # 3. Top 250 All Time
-    # We fetch 250. Client filters out the old stuff (pre-2005) or non-PC.
     print("Fetching Top 250...")
     data["HallOfFame"] = fetch_games({
         "ordering": "-metacritic",
