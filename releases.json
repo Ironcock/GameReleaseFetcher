@@ -1,290 +1,1008 @@
-[
-  {
-    "Title": "Replaced",
-    "ReleaseDate": "2026-03-12",
-    "ImageURL": "https://media.rawg.io/media/games/041/041e04184322bc859d617b790d8bfab9.jpg",
-    "StoreURL": "https://rawg.io/games/replaced",
-    "VideoURL": "",
-    "Genres": [
-      "Platformer",
-      "Action"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
+{
+  "NewReleases": [],
+  "Upcoming30": [
+    {
+      "Title": "The Wolf Among Us 2",
+      "ReleaseDate": "2025-12-31",
+      "ImageURL": "https://media.rawg.io/media/games/845/84539f8f33fea2c753cca0ce3a6d168f.jpg",
+      "StoreURL": "https://rawg.io/games/wolf-among-us-2",
+      "VideoURL": "",
+      "Rating": null,
+      "Genres": [
+        "Adventure"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "M\u041eUSE",
+      "ReleaseDate": "2025-12-31",
+      "ImageURL": "https://media.rawg.io/media/screenshots/f47/f47de914dea47278808fdb39dac48273.jpg",
+      "StoreURL": "https://rawg.io/games/mouse-3",
+      "VideoURL": "",
+      "Rating": null,
+      "Genres": [
+        "Shooter",
+        "Action"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "Cairn (2025)",
+      "ReleaseDate": "2025-12-31",
+      "ImageURL": "https://media.rawg.io/media/games/147/1474adaa706b6dc0dfe098b9aa237143.jpg",
+      "StoreURL": "https://rawg.io/games/cairn-2025",
+      "VideoURL": "",
+      "Rating": null,
+      "Genres": [
+        "Indie",
+        "Adventure"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "Pathologic 3",
+      "ReleaseDate": "2026-01-08",
+      "ImageURL": "https://media.rawg.io/media/games/99b/99b4035609a6d464fb559f813c759d34.jpg",
+      "StoreURL": "https://rawg.io/games/pathologic-3",
+      "VideoURL": "",
+      "Rating": null,
+      "Genres": [
+        "Adventure"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "Sunkissed City",
+      "ReleaseDate": "2025-12-30",
+      "ImageURL": null,
+      "StoreURL": "https://rawg.io/games/sunkissed-city",
+      "VideoURL": "",
+      "Rating": null,
+      "Genres": [
+        "Simulation"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "FodFru",
+      "ReleaseDate": "2026-01-10",
+      "ImageURL": "https://media.rawg.io/media/screenshots/fc9/fc9c22106e6999c941b834ad967f26d0.jpg",
+      "StoreURL": "https://rawg.io/games/fodfru",
+      "VideoURL": "",
+      "Rating": null,
+      "Genres": [
+        "Platformer",
+        "Adventure"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "Hack And Climb!",
+      "ReleaseDate": "2026-01-20",
+      "ImageURL": "https://media.rawg.io/media/screenshots/209/209ebdea318ce3862b64e11283ff6e07.jpg",
+      "StoreURL": "https://rawg.io/games/hack-and-climb-2",
+      "VideoURL": "",
+      "Rating": null,
+      "Genres": [
+        "Casual",
+        "Indie"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "Nova Roma",
+      "ReleaseDate": "2026-01-21",
+      "ImageURL": "https://media.rawg.io/media/screenshots/2d2/2d29082b5628d8008f7c1f33999c201a.jpg",
+      "StoreURL": "https://rawg.io/games/nova-roma",
+      "VideoURL": "",
+      "Rating": null,
+      "Genres": [],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
     }
-  },
-  {
-    "Title": "The Wolf Among Us 2",
-    "ReleaseDate": "2025-12-31",
-    "ImageURL": "https://media.rawg.io/media/games/845/84539f8f33fea2c753cca0ce3a6d168f.jpg",
-    "StoreURL": "https://rawg.io/games/wolf-among-us-2",
-    "VideoURL": "",
-    "Genres": [
-      "Adventure"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
+  ],
+  "Upcoming90": [
+    {
+      "Title": "Replaced",
+      "ReleaseDate": "2026-03-12",
+      "ImageURL": "https://media.rawg.io/media/games/041/041e04184322bc859d617b790d8bfab9.jpg",
+      "StoreURL": "https://rawg.io/games/replaced",
+      "VideoURL": "",
+      "Rating": null,
+      "Genres": [
+        "Platformer",
+        "Action"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "Crimson Desert",
+      "ReleaseDate": "2026-03-19",
+      "ImageURL": "https://media.rawg.io/media/games/64c/64c9c6faa2c5745b0a4c16542cce3862.jpg",
+      "StoreURL": "https://rawg.io/games/crimson-desert",
+      "VideoURL": "",
+      "Rating": null,
+      "Genres": [
+        "Action",
+        "RPG"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "Resident Evil 9: Requiem",
+      "ReleaseDate": "2026-02-27",
+      "ImageURL": "https://media.rawg.io/media/games/ed6/ed613937e113a4d43fa0db771e527a2f.jpg",
+      "StoreURL": "https://rawg.io/games/resident-evil-9-requiem",
+      "VideoURL": "",
+      "Rating": null,
+      "Genres": [
+        "Action"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "Reanimal",
+      "ReleaseDate": "2026-02-12",
+      "ImageURL": "https://media.rawg.io/media/games/299/299e031b1a8082298a4aeb5355d45571.jpg",
+      "StoreURL": "https://rawg.io/games/reanimal",
+      "VideoURL": "",
+      "Rating": null,
+      "Genres": [
+        "Adventure"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "Cairn",
+      "ReleaseDate": "2026-01-29",
+      "ImageURL": "https://media.rawg.io/media/games/e13/e1395f34907fdcc9da63e72e24d868f8.jpg",
+      "StoreURL": "https://rawg.io/games/cairn",
+      "VideoURL": "",
+      "Rating": null,
+      "Genres": [
+        "Adventure"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "MOUSE: P.I. For Hire",
+      "ReleaseDate": "2026-03-19",
+      "ImageURL": "https://media.rawg.io/media/games/cf1/cf13436dea02745b8844d98bfa887740.jpg",
+      "StoreURL": "https://rawg.io/games/mouse-pi-for-hire",
+      "VideoURL": "",
+      "Rating": null,
+      "Genres": [
+        "Indie",
+        "Action"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "Yakuza Kiwami 3 & Dark Ties",
+      "ReleaseDate": "2026-02-12",
+      "ImageURL": "https://media.rawg.io/media/games/910/9101d577869a5c24675b80f58d4be72c.jpg",
+      "StoreURL": "https://rawg.io/games/yakuza-kiwami-3",
+      "VideoURL": "",
+      "Rating": null,
+      "Genres": [
+        "Action"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "Toxic Commando",
+      "ReleaseDate": "2026-03-12",
+      "ImageURL": "https://media.rawg.io/media/screenshots/582/582a5ef9dab7d6ee95321ccd886444b3.jpg",
+      "StoreURL": "https://rawg.io/games/toxic-commando",
+      "VideoURL": "",
+      "Rating": null,
+      "Genres": [
+        "Shooter",
+        "Action"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "Nioh 3",
+      "ReleaseDate": "2026-02-06",
+      "ImageURL": "https://media.rawg.io/media/games/6bd/6bd65a6d301afd49a35b95a882896fad.jpg",
+      "StoreURL": "https://rawg.io/games/nioh-3",
+      "VideoURL": "",
+      "Rating": null,
+      "Genres": [
+        "Action"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "Code Vein 2",
+      "ReleaseDate": "2026-01-30",
+      "ImageURL": "https://media.rawg.io/media/games/189/1895eab697131b69161c388807115888.jpg",
+      "StoreURL": "https://rawg.io/games/code-vein-2",
+      "VideoURL": "",
+      "Rating": null,
+      "Genres": [
+        "Action"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "Humanity Echo: Cyberpunk Tactical RPG",
+      "ReleaseDate": "2026-03-19",
+      "ImageURL": "https://media.rawg.io/media/screenshots/b7c/b7cf253341570017e510727be72f3834.jpg",
+      "StoreURL": "https://rawg.io/games/humanity-echo-cyberpunk-tactical-rpg",
+      "VideoURL": "",
+      "Rating": null,
+      "Genres": [
+        "Strategy",
+        "Indie"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "Pirates: Rogue's Fortune",
+      "ReleaseDate": "2026-03-04",
+      "ImageURL": "https://media.rawg.io/media/screenshots/8e3/8e3749f57d0b410b08ef8a556c47698c.jpg",
+      "StoreURL": "https://rawg.io/games/pirates-rogues-fortune",
+      "VideoURL": "",
+      "Rating": null,
+      "Genres": [
+        "Indie",
+        "Adventure"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "MENACE (2026)",
+      "ReleaseDate": "2026-02-04",
+      "ImageURL": "https://media.rawg.io/media/screenshots/56b/56b5341d1495f5d5ba0f1f9c181abbb6.jpg",
+      "StoreURL": "https://rawg.io/games/menace-2026",
+      "VideoURL": "",
+      "Rating": null,
+      "Genres": [],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "The 18th Attic - Paranormal Anomaly Hunting Game",
+      "ReleaseDate": "2026-02-01",
+      "ImageURL": "https://media.rawg.io/media/screenshots/9c0/9c02e150a93ec5870141f5c29923a0a1.jpg",
+      "StoreURL": "https://rawg.io/games/the-18th-attic-paranormal-anomaly-hunting-game",
+      "VideoURL": "",
+      "Rating": null,
+      "Genres": [],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "Etrange Overlord",
+      "ReleaseDate": "2026-03-25",
+      "ImageURL": "https://media.rawg.io/media/screenshots/57d/57d386558575a023acc3cafe955cf818.jpg",
+      "StoreURL": "https://rawg.io/games/etrange-overlord",
+      "VideoURL": "",
+      "Rating": null,
+      "Genres": [],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "FRONT MISSION 3: Remake",
+      "ReleaseDate": "2026-01-29",
+      "ImageURL": "https://media.rawg.io/media/screenshots/805/8054c6a279110ca35b819761665a711b.jpg",
+      "StoreURL": "https://rawg.io/games/front-mission-3-remake",
+      "VideoURL": "",
+      "Rating": null,
+      "Genres": [],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "Code Vein II",
+      "ReleaseDate": "2026-01-30",
+      "ImageURL": null,
+      "StoreURL": "https://rawg.io/games/code-vein-ii",
+      "VideoURL": "",
+      "Rating": null,
+      "Genres": [
+        "Action",
+        "RPG"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
     }
-  },
-  {
-    "Title": "Crimson Desert",
-    "ReleaseDate": "2026-03-19",
-    "ImageURL": "https://media.rawg.io/media/games/64c/64c9c6faa2c5745b0a4c16542cce3862.jpg",
-    "StoreURL": "https://rawg.io/games/crimson-desert",
-    "VideoURL": "",
-    "Genres": [
-      "Action",
-      "RPG"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
+  ],
+  "TopGames": [
+    {
+      "Title": "Baldur's Gate III",
+      "ReleaseDate": "2023-08-03",
+      "ImageURL": "https://media.rawg.io/media/games/699/69907ecf13f172e9e144069769c3be73.jpg",
+      "StoreURL": "https://rawg.io/games/baldurs-gate-3",
+      "VideoURL": "",
+      "Rating": 97,
+      "Genres": [
+        "Strategy",
+        "Adventure"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "Half-Life 2: Update",
+      "ReleaseDate": "2015-03-27",
+      "ImageURL": "https://media.rawg.io/media/screenshots/bb7/bb7463d103dc40f6f3a3c9ac3b4b11a5.jpg",
+      "StoreURL": "https://rawg.io/games/half-life-2-update",
+      "VideoURL": "",
+      "Rating": 96,
+      "Genres": [
+        "Shooter"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "Half-Life",
+      "ReleaseDate": "1998-11-19",
+      "ImageURL": "https://media.rawg.io/media/games/6c5/6c55e22185876626881b76c11922b073.jpg",
+      "StoreURL": "https://rawg.io/games/half-life",
+      "VideoURL": "",
+      "Rating": 96,
+      "Genres": [
+        "Shooter",
+        "Action"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "Red Dead Redemption 2",
+      "ReleaseDate": "2018-10-26",
+      "ImageURL": "https://media.rawg.io/media/games/511/5118aff5091cb3efec399c808f8c598f.jpg",
+      "StoreURL": "https://rawg.io/games/red-dead-redemption-2",
+      "VideoURL": "",
+      "Rating": 96,
+      "Genres": [
+        "Action"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "BioShock",
+      "ReleaseDate": "2007-08-21",
+      "ImageURL": "https://media.rawg.io/media/games/bc0/bc06a29ceac58652b684deefe7d56099.jpg",
+      "StoreURL": "https://rawg.io/games/bioshock",
+      "VideoURL": "",
+      "Rating": 96,
+      "Genres": [
+        "Shooter",
+        "Action"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "Half-Life 2",
+      "ReleaseDate": "2004-11-16",
+      "ImageURL": "https://media.rawg.io/media/games/b8c/b8c243eaa0fbac8115e0cdccac3f91dc.jpg",
+      "StoreURL": "https://rawg.io/games/half-life-2",
+      "VideoURL": "",
+      "Rating": 96,
+      "Genres": [
+        "Shooter",
+        "Action"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "Grand Theft Auto IV: Complete Edition",
+      "ReleaseDate": "2010-10-27",
+      "ImageURL": "https://media.rawg.io/media/screenshots/e59/e59cc96f38cc93af5a396173878018d7.jpg",
+      "StoreURL": "https://rawg.io/games/grand-theft-auto-iv-complete-edition",
+      "VideoURL": "",
+      "Rating": 95,
+      "Genres": [
+        "Adventure",
+        "Action"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "Divinity: Original Sin 2",
+      "ReleaseDate": "2017-09-14",
+      "ImageURL": "https://media.rawg.io/media/games/424/424facd40f4eb1f2794fe4b4bb28a277.jpg",
+      "StoreURL": "https://rawg.io/games/divinity-original-sin-2",
+      "VideoURL": "",
+      "Rating": 95,
+      "Genres": [
+        "Strategy",
+        "RPG"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "Baldur's Gate II: Shadows of Amn",
+      "ReleaseDate": "2000-09-21",
+      "ImageURL": "https://media.rawg.io/media/games/c16/c160077f8977cb22f14e56408c1560ef.jpg",
+      "StoreURL": "https://rawg.io/games/baldurs-gate-ii-shadows-of-amn",
+      "VideoURL": "",
+      "Rating": 95,
+      "Genres": [
+        "Strategy",
+        "RPG"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "Portal 2",
+      "ReleaseDate": "2011-04-18",
+      "ImageURL": "https://media.rawg.io/media/games/2ba/2bac0e87cf45e5b508f227d281c9252a.jpg",
+      "StoreURL": "https://rawg.io/games/portal-2",
+      "VideoURL": "",
+      "Rating": 95,
+      "Genres": [
+        "Shooter",
+        "Puzzle"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "Grand Theft Auto IV",
+      "ReleaseDate": "2008-04-29",
+      "ImageURL": "https://media.rawg.io/media/games/4a0/4a0a1316102366260e6f38fd2a9cfdce.jpg",
+      "StoreURL": "https://rawg.io/games/grand-theft-auto-iv",
+      "VideoURL": "",
+      "Rating": 95,
+      "Genres": [
+        "Action"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "Red Dead Redemption",
+      "ReleaseDate": "2010-05-18",
+      "ImageURL": "https://media.rawg.io/media/games/686/686909717c3aa01518bc42ae2bf4259e.jpg",
+      "StoreURL": "https://rawg.io/games/red-dead-redemption",
+      "VideoURL": "",
+      "Rating": 95,
+      "Genres": [
+        "Shooter",
+        "Action"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "XCOM 2: War of the Chosen",
+      "ReleaseDate": "2017-08-29",
+      "ImageURL": "https://media.rawg.io/media/games/824/8244534a6db2180e177271cebb9c002f.jpg",
+      "StoreURL": "https://rawg.io/games/xcom-2-war-of-the-chosen",
+      "VideoURL": "",
+      "Rating": 95,
+      "Genres": [
+        "Strategy"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "Elden Ring",
+      "ReleaseDate": "2022-02-25",
+      "ImageURL": "https://media.rawg.io/media/games/b29/b294fdd866dcdb643e7bab370a552855.jpg",
+      "StoreURL": "https://rawg.io/games/elden-ring",
+      "VideoURL": "",
+      "Rating": 95,
+      "Genres": [
+        "Action",
+        "RPG"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "The Orange Box",
+      "ReleaseDate": "2008-01-01",
+      "ImageURL": "https://media.rawg.io/media/games/55a/55a685051caa3d478836fa7c1d074694.jpg",
+      "StoreURL": "https://rawg.io/games/the-orange-box",
+      "VideoURL": "",
+      "Rating": 94,
+      "Genres": [
+        "Shooter"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "The Elder Scrolls IV: Oblivion",
+      "ReleaseDate": "2006-03-20",
+      "ImageURL": "https://media.rawg.io/media/games/615/61503312a95d451198d80d9bae275f79.jpg",
+      "StoreURL": "https://rawg.io/games/the-elder-scrolls-iv-oblivion",
+      "VideoURL": "",
+      "Rating": 94,
+      "Genres": [
+        "Indie",
+        "Adventure"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "Diablo",
+      "ReleaseDate": "1996-12-31",
+      "ImageURL": "https://media.rawg.io/media/games/923/923a5dd13b6e79dd23ab2d09934f0e8d.jpg",
+      "StoreURL": "https://rawg.io/games/diablo",
+      "VideoURL": "",
+      "Rating": 94,
+      "Genres": [
+        "Action",
+        "RPG"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "Grand Theft Auto: Vice City",
+      "ReleaseDate": "2002-10-27",
+      "ImageURL": "https://media.rawg.io/media/games/13a/13a528ac9cf48bbb6be5d35fe029336d.jpg",
+      "StoreURL": "https://rawg.io/games/grand-theft-auto-vice-city",
+      "VideoURL": "",
+      "Rating": 94,
+      "Genres": [
+        "Action"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "Sid Meier's Civilization 2",
+      "ReleaseDate": "1996-02-29",
+      "ImageURL": "https://media.rawg.io/media/screenshots/1d0/1d05c811684f86d9b382814109385073.jpg",
+      "StoreURL": "https://rawg.io/games/sid-meiers-civilization-2",
+      "VideoURL": "",
+      "Rating": 94,
+      "Genres": [
+        "Strategy"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "The Elder Scrolls V: Skyrim Legendary Edition",
+      "ReleaseDate": "2013-06-04",
+      "ImageURL": "https://media.rawg.io/media/games/6db/6db2d022f77b1c99116bbf6750ec2c7d.jpg",
+      "StoreURL": "https://rawg.io/games/the-elder-scrolls-v-skyrim-legendary-edition",
+      "VideoURL": "",
+      "Rating": 94,
+      "Genres": [
+        "Adventure",
+        "RPG"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "Tony Hawk's Pro Skater 3",
+      "ReleaseDate": "2001-10-28",
+      "ImageURL": "https://media.rawg.io/media/screenshots/a2b/a2baa14bf592e3973650faacbf60fe74.jpg",
+      "StoreURL": "https://rawg.io/games/tony-hawks-pro-skater-3",
+      "VideoURL": "",
+      "Rating": 94,
+      "Genres": [
+        "Arcade",
+        "Sports"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "The Elder Scrolls IV: Oblivion Game of the Year Edition",
+      "ReleaseDate": "2009-06-16",
+      "ImageURL": "https://media.rawg.io/media/games/886/8868f9ea0c91d45316319ebf5dd4fc64.jpg",
+      "StoreURL": "https://rawg.io/games/the-elder-scrolls-iv-oblivion-game-of-the-year-edi",
+      "VideoURL": "",
+      "Rating": 94,
+      "Genres": [
+        "RPG"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "Quake",
+      "ReleaseDate": "1996-06-22",
+      "ImageURL": "https://media.rawg.io/media/games/3a8/3a82d7f5c90ab082fe475e28d58bee8b.jpg",
+      "StoreURL": "https://rawg.io/games/quake",
+      "VideoURL": "",
+      "Rating": 94,
+      "Genres": [
+        "Shooter",
+        "Action"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "Batman: Arkham City",
+      "ReleaseDate": "2011-10-18",
+      "ImageURL": "https://media.rawg.io/media/games/b5a/b5a1226bfd971284a735a4a0969086b3.jpg",
+      "StoreURL": "https://rawg.io/games/batman-arkham-city-2",
+      "VideoURL": "",
+      "Rating": 94,
+      "Genres": [
+        "Action"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "BioShock Infinite",
+      "ReleaseDate": "2013-03-26",
+      "ImageURL": "https://media.rawg.io/media/games/fc1/fc1307a2774506b5bd65d7e8424664a7.jpg",
+      "StoreURL": "https://rawg.io/games/bioshock-infinite",
+      "VideoURL": "",
+      "Rating": 94,
+      "Genres": [
+        "Shooter",
+        "Action"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "The Elder Scrolls V: Skyrim",
+      "ReleaseDate": "2011-11-11",
+      "ImageURL": "https://media.rawg.io/media/games/7cf/7cfc9220b401b7a300e409e539c9afd5.jpg",
+      "StoreURL": "https://rawg.io/games/the-elder-scrolls-v-skyrim",
+      "VideoURL": "",
+      "Rating": 94,
+      "Genres": [
+        "Action",
+        "RPG"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "Grim Fandango",
+      "ReleaseDate": "1998-10-14",
+      "ImageURL": "https://media.rawg.io/media/screenshots/a07/a07491535ca7c6e175c9c22299c786d6.jpg",
+      "StoreURL": "https://rawg.io/games/grim-fandango",
+      "VideoURL": "",
+      "Rating": 94,
+      "Genres": [
+        "Adventure"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "Metal Gear Solid",
+      "ReleaseDate": "1998-09-03",
+      "ImageURL": "https://media.rawg.io/media/games/bbc/bbce6f1659d35ffc16aed8b66e9990a1.jpg",
+      "StoreURL": "https://rawg.io/games/metal-gear-solid-1",
+      "VideoURL": "",
+      "Rating": 94,
+      "Genres": [
+        "Action"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "Divinity: Original Sin - Enhanced Edition",
+      "ReleaseDate": "2015-10-27",
+      "ImageURL": "https://media.rawg.io/media/games/33b/33b825c76382931df0fd8ecddf5caebe.jpg",
+      "StoreURL": "https://rawg.io/games/divinity-original-sin-enhanced-edition",
+      "VideoURL": "",
+      "Rating": 94,
+      "Genres": [
+        "Indie",
+        "RPG"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "Divinity: Original Sin 2 - Definitive Edition",
+      "ReleaseDate": "2018-08-31",
+      "ImageURL": "https://media.rawg.io/media/games/cd2/cd2a1a360839002bceadc5a8b3c7dbf7.jpg",
+      "StoreURL": "https://rawg.io/games/divinity-original-sin-ii-definitive-edition",
+      "VideoURL": "",
+      "Rating": 94,
+      "Genres": [
+        "RPG"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "Command & Conquer",
+      "ReleaseDate": "1995-08-31",
+      "ImageURL": "https://media.rawg.io/media/games/c62/c62e21b805e3f4c13e99702d2eca6a65.jpg",
+      "StoreURL": "https://rawg.io/games/command-conquer-old",
+      "VideoURL": "",
+      "Rating": 94,
+      "Genres": [
+        "Strategy"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "Mass Effect 2",
+      "ReleaseDate": "2010-01-26",
+      "ImageURL": "https://media.rawg.io/media/games/3cf/3cff89996570cf29a10eb9cd967dcf73.jpg",
+      "StoreURL": "https://rawg.io/games/mass-effect-2",
+      "VideoURL": "",
+      "Rating": 94,
+      "Genres": [
+        "Action",
+        "RPG"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "Jet Set Radio",
+      "ReleaseDate": "2000-06-29",
+      "ImageURL": "https://media.rawg.io/media/games/fd7/fd794a9f0ffe816038d981b3acc3eec9.jpg",
+      "StoreURL": "https://rawg.io/games/jet-set-radio-2012",
+      "VideoURL": "",
+      "Rating": 94,
+      "Genres": [
+        "Platformer",
+        "Action"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "Persona 5 Royal",
+      "ReleaseDate": "2020-03-31",
+      "ImageURL": "https://media.rawg.io/media/games/a9c/a9c789951de65da545d51f664b4f2ce0.jpg",
+      "StoreURL": "https://rawg.io/games/persona-5-royal",
+      "VideoURL": "",
+      "Rating": 94,
+      "Genres": [
+        "Adventure",
+        "RPG"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "Sid Meier's Civilization IV",
+      "ReleaseDate": "2005-10-25",
+      "ImageURL": "https://media.rawg.io/media/screenshots/85c/85c91c5064d2cdd56a949c8008868318.jpg",
+      "StoreURL": "https://rawg.io/games/sid-meiers-civilization-iv",
+      "VideoURL": "",
+      "Rating": 94,
+      "Genres": [
+        "Strategy"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "God of War (2018)",
+      "ReleaseDate": "2018-04-20",
+      "ImageURL": "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg",
+      "StoreURL": "https://rawg.io/games/god-of-war-2",
+      "VideoURL": "",
+      "Rating": 94,
+      "Genres": [
+        "Action"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "Dwarf Fortress",
+      "ReleaseDate": "2006-08-08",
+      "ImageURL": "https://media.rawg.io/media/screenshots/b20/b20a30ae9d910d948a24ca234eb4553d.jpg",
+      "StoreURL": "https://rawg.io/games/dwarf-fortress",
+      "VideoURL": "",
+      "Rating": 93,
+      "Genres": [
+        "Strategy",
+        "Indie"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "StarCraft II: Wings of Liberty",
+      "ReleaseDate": "2010-07-27",
+      "ImageURL": "https://media.rawg.io/media/games/5f7/5f7191716faebcf102a357c5c2889394.jpg",
+      "StoreURL": "https://rawg.io/games/starcraft-ii-wings-of-liberty",
+      "VideoURL": "",
+      "Rating": 93,
+      "Genres": [
+        "Strategy"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "Company of Heroes",
+      "ReleaseDate": "2006-09-11",
+      "ImageURL": "https://media.rawg.io/media/games/0fa/0fadc446fd1e9ae9e23a32793d9a5406.jpg",
+      "StoreURL": "https://rawg.io/games/company-of-heroes",
+      "VideoURL": "",
+      "Rating": 93,
+      "Genres": [
+        "Strategy"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
+    },
+    {
+      "Title": "Half-Life: Alyx",
+      "ReleaseDate": "2020-03-23",
+      "ImageURL": "https://media.rawg.io/media/games/855/8552c056d729f34c951c30f3cfef9da8.jpg",
+      "StoreURL": "https://rawg.io/games/half-life-alyx",
+      "VideoURL": "",
+      "Rating": 93,
+      "Genres": [
+        "Shooter",
+        "Adventure"
+      ],
+      "Specs": {
+        "Min": "TBA",
+        "Rec": "TBA"
+      }
     }
-  },
-  {
-    "Title": "Pragmata",
-    "ReleaseDate": "2026-04-24",
-    "ImageURL": "https://media.rawg.io/media/games/019/0192f08452e0d8ead71940e90a3cdf70.jpg",
-    "StoreURL": "https://rawg.io/games/pragmata",
-    "VideoURL": "",
-    "Genres": [
-      "Action"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "M\u041eUSE",
-    "ReleaseDate": "2025-12-31",
-    "ImageURL": "https://media.rawg.io/media/screenshots/f47/f47de914dea47278808fdb39dac48273.jpg",
-    "StoreURL": "https://rawg.io/games/mouse-3",
-    "VideoURL": "",
-    "Genres": [
-      "Shooter",
-      "Action"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Resident Evil 9: Requiem",
-    "ReleaseDate": "2026-02-27",
-    "ImageURL": "https://media.rawg.io/media/games/ed6/ed613937e113a4d43fa0db771e527a2f.jpg",
-    "StoreURL": "https://rawg.io/games/resident-evil-9-requiem",
-    "VideoURL": "",
-    "Genres": [
-      "Action"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "007 First Light",
-    "ReleaseDate": "2026-05-27",
-    "ImageURL": "https://media.rawg.io/media/games/86f/86f2dc1b9671f25a13ff92e069b51786.jpg",
-    "StoreURL": "https://rawg.io/games/007-first-light",
-    "VideoURL": "",
-    "Genres": [
-      "Action"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Reanimal",
-    "ReleaseDate": "2026-02-12",
-    "ImageURL": "https://media.rawg.io/media/games/299/299e031b1a8082298a4aeb5355d45571.jpg",
-    "StoreURL": "https://rawg.io/games/reanimal",
-    "VideoURL": "",
-    "Genres": [
-      "Adventure"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Cairn (2025)",
-    "ReleaseDate": "2025-12-31",
-    "ImageURL": "https://media.rawg.io/media/games/147/1474adaa706b6dc0dfe098b9aa237143.jpg",
-    "StoreURL": "https://rawg.io/games/cairn-2025",
-    "VideoURL": "",
-    "Genres": [
-      "Indie",
-      "Adventure"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Saros",
-    "ReleaseDate": "2026-03-20",
-    "ImageURL": "https://media.rawg.io/media/games/be8/be86ee5cf3a427c784efec1661f9b194.jpg",
-    "StoreURL": "https://rawg.io/games/saros",
-    "VideoURL": "",
-    "Genres": [
-      "Action"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Cairn",
-    "ReleaseDate": "2026-01-29",
-    "ImageURL": "https://media.rawg.io/media/games/e13/e1395f34907fdcc9da63e72e24d868f8.jpg",
-    "StoreURL": "https://rawg.io/games/cairn",
-    "VideoURL": "",
-    "Genres": [
-      "Adventure"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "MOUSE: P.I. For Hire",
-    "ReleaseDate": "2026-03-19",
-    "ImageURL": "https://media.rawg.io/media/games/cf1/cf13436dea02745b8844d98bfa887740.jpg",
-    "StoreURL": "https://rawg.io/games/mouse-pi-for-hire",
-    "VideoURL": "",
-    "Genres": [
-      "Indie",
-      "Action"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Yakuza Kiwami 3 & Dark Ties",
-    "ReleaseDate": "2026-02-12",
-    "ImageURL": "https://media.rawg.io/media/games/910/9101d577869a5c24675b80f58d4be72c.jpg",
-    "StoreURL": "https://rawg.io/games/yakuza-kiwami-3",
-    "VideoURL": "",
-    "Genres": [
-      "Action"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "LEGO Batman: Legacy of the Dark Knight",
-    "ReleaseDate": "2026-05-29",
-    "ImageURL": "https://media.rawg.io/media/screenshots/876/876e333fbb4862e1ba54bfff36db1e2d.jpg",
-    "StoreURL": "https://rawg.io/games/lego-batman-legacy-of-the-dark-knight",
-    "VideoURL": "",
-    "Genres": [
-      "Adventure",
-      "Action"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Toxic Commando",
-    "ReleaseDate": "2026-03-12",
-    "ImageURL": "https://media.rawg.io/media/screenshots/582/582a5ef9dab7d6ee95321ccd886444b3.jpg",
-    "StoreURL": "https://rawg.io/games/toxic-commando",
-    "VideoURL": "",
-    "Genres": [
-      "Shooter",
-      "Action"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "High On Life 2",
-    "ReleaseDate": "2026-02-13",
-    "ImageURL": "https://media.rawg.io/media/games/d50/d5090542cf920bd922d079899f95ec05.jpg",
-    "StoreURL": "https://rawg.io/games/high-on-life-2",
-    "VideoURL": "",
-    "Genres": [
-      "Shooter"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Nioh 3",
-    "ReleaseDate": "2026-02-06",
-    "ImageURL": "https://media.rawg.io/media/games/6bd/6bd65a6d301afd49a35b95a882896fad.jpg",
-    "StoreURL": "https://rawg.io/games/nioh-3",
-    "VideoURL": "",
-    "Genres": [
-      "Action"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Cthulhu: The Cosmic Abyss",
-    "ReleaseDate": "2026-04-16",
-    "ImageURL": "https://media.rawg.io/media/games/3c1/3c1dcc78fc1618fb9b829fd9f7c50ab9.jpg",
-    "StoreURL": "https://rawg.io/games/cthulhu-the-cosmic-abyss",
-    "VideoURL": "",
-    "Genres": [
-      "Action"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "ROMEO IS A DEAD MAN",
-    "ReleaseDate": "2026-02-11",
-    "ImageURL": "https://media.rawg.io/media/screenshots/17b/17b4dbbfadc06f0f24e94f91aeae343f.jpg",
-    "StoreURL": "https://rawg.io/games/romeo-is-a-dead-man",
-    "VideoURL": "",
-    "Genres": [
-      "Adventure",
-      "Action"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  },
-  {
-    "Title": "Pathologic 3",
-    "ReleaseDate": "2026-01-08",
-    "ImageURL": "https://media.rawg.io/media/games/99b/99b4035609a6d464fb559f813c759d34.jpg",
-    "StoreURL": "https://rawg.io/games/pathologic-3",
-    "VideoURL": "",
-    "Genres": [
-      "Adventure"
-    ],
-    "Specs": {
-      "Min": "TBA",
-      "Rec": "TBA"
-    }
-  }
-]
+  ]
+}
