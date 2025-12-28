@@ -1,4 +1,4 @@
-name: Monthly Update (Top 100)
+name: Monthly Update (Hall of Fame)
 on:
   schedule:
     - cron: '0 0 1 * *'
@@ -17,11 +17,11 @@ jobs:
     - name: Run Monthly Script
       env:
         RAWG_API_KEY: ${{ secrets.RAWG_API_KEY }}
-      run: python fetch_top.py
+      # We run the script with the MONTHLY flag
+      run: python fetch_games.py --monthly
     - name: Commit and Push
       run: |
         git config --global user.name "GitHub Actions Bot"
         git config --global user.email "actions@github.com"
         git add top_games.json
-        # Check if there are changes; if not, do nothing
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Update top 100 games" && git pull --rebase && git push)
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update Hall of Fame" && git pull --rebase && git push)

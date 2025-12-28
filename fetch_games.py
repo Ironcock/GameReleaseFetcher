@@ -1,85 +1,148 @@
-import os
 import requests
 import json
-import time
-from datetime import datetime, timedelta
+import datetime
+from datetime import timedelta
+import re
+import os
+import sys
 
-API_KEY = os.environ["RAWG_API_KEY"]
+# CONFIGURATION
+# SECURE THIS: Use environment variable from GitHub Actions
+API_KEY = os.environ.get("RAWG_API_KEY") 
+BASE_URL = "https://api.rawg.io/api/games"
 
-def get_hover_clip(game):
-    clip_obj = game.get("clip")
-    if not clip_obj:
-        return ""
+# FILTERS
+PC_PLATFORM_ID = 4
+MIN_ADDED_COUNT_HOF = 1500  # "Baseball Filter"
+
+def get_date_range(days_back=0, days_forward=0):
+    today = datetime.date.today()
+    start = today - timedelta(days=days_back)
+    end = today + timedelta(days=days_forward)
+    return f"{start},{end}"
+
+def clean_game_name(name):
+    name = name.lower()
+    subs = ["goty", "game of the year", "complete edition", "definitive edition", 
+            "director's cut", "final cut", "enhanced edition", "remastered"]
+    for sub in subs:
+        name = name.replace(sub, "")
+    name = re.sub(r'[^a-z0-9]', '', name)
+    return name
+
+def fetch_games(endpoint_params, limit=20, clean_duplicates=False):
+    games_data = []
+    seen_names = set()
+    page = 1
     
-    if clip_obj.get("clip"):
-        return clip_obj.get("clip")
-    
-    clips = clip_obj.get("clips", {})
-    if clips:
-        return clips.get("640") or clips.get("320") or clips.get("full") or ""
-
-    return ""
-
-def process_game(game):
-    specs = {"Min": "TBA", "Rec": "TBA"}
-    if game.get("platforms"):
-        for p in game.get("platforms"):
-            if p.get("platform", {}).get("slug") == "pc":
-                raw = p.get("requirements") or p.get("requirements_en") or {}
-                specs["Min"] = raw.get("minimum", "TBA")
-                specs["Rec"] = raw.get("recommended", "TBA")
+    while len(games_data) < limit:
+        params = {
+            "key": API_KEY,
+            "page_size": 40, 
+            "page": page,
+            **endpoint_params
+        }
+        
+        try:
+            response = requests.get(BASE_URL, params=params)
+            response.raise_for_status()
+            data = response.json()
+            results = data.get("results", [])
+            
+            if not results:
                 break
 
-    return {
-        "Title": game.get("name"),
-        "ReleaseDate": game.get("released"),
-        "ImageURL": game.get("background_image"),
-        "StoreURL": f"https://rawg.io/games/{game.get('slug')}",
-        "VideoURL": get_hover_clip(game),
-        "Rating": game.get("metacritic"),
-        "Popularity": game.get("added", 0),
-        "Genres": [g.get("name") for g in game.get("genres", [])],
-        "Specs": specs
-    }
+            for game in results:
+                if len(games_data) >= limit:
+                    break
 
-def fetch_section(name, params, limit):
-    print(f"--- Fetching {name} ---")
-    results = []
-    url = "https://api.rawg.io/api/games"
-    params["key"] = API_KEY
-    params["parent_platforms"] = "1"
-    params["page_size"] = 40
-    
-    while url and len(results) < limit:
-        if url == "https://api.rawg.io/api/games":
-            resp = requests.get(url, params=params)
-        else:
-            resp = requests.get(url)
-        data = resp.json()
-        for g in data.get("results", []):
-            # No dedupe needed for daily sections usually
-            results.append(process_game(g))
-            if len(results) >= limit: break
+                # 1. Hall of Fame "Obscurity" Filter
+                if clean_duplicates and game.get('added', 0) < MIN_ADDED_COUNT_HOF:
+                    continue 
+
+                # 2. Duplicate/Edition Filter
+                if clean_duplicates:
+                    clean_name = clean_game_name(game['name'])
+                    if clean_name in seen_names:
+                        continue
+                    seen_names.add(clean_name)
+                    
+                    bad_keywords = ["dlc", "soundtrack", "expansion pass", "season pass", "bonus content"]
+                    if any(bad in game['name'].lower() for bad in bad_keywords):
+                        continue
+
+                # 3. Map Data to New Schema
+                # Extract screenshots for the "Hover Scrub" feature
+                screenshots = [s['image'] for s in game.get('short_screenshots', [])]
+                
+                # Robust Platform Check (handle missing parent_platforms)
+                platforms = []
+                if game.get('parent_platforms'):
+                    platforms = [p['platform']['slug'] for p in game['parent_platforms']]
+                
+                game_obj = {
+                    "ID": game['id'],
+                    "Title": game['name'],
+                    "ReleaseDate": game.get('released', 'TBA'),
+                    "ImageURL": game.get('background_image') or "", 
+                    "StoreURL": f"https://rawg.io/games/{game['slug']}",
+                    "Metacritic": game.get('metacritic'),
+                    "AddedCount": game.get('added', 0),
+                    "Rating": game.get('rating', 0.0),
+                    "ShortScreenshots": screenshots, 
+                    "Genres": [g['name'] for g in game.get('genres', [])][:3],
+                    "Platforms": platforms
+                }
+                
+                games_data.append(game_obj)
             
-        url = data.get("next")
-        time.sleep(0.2)
-    return results
+            page += 1
+            
+        except Exception as e:
+            print(f"Error fetching page {page}: {e}")
+            break
 
-def main():
-    today = datetime.now().date()
+    return games_data
+
+def generate_daily_feed():
+    print("--- Starting Pipeline A (Daily) ---")
+    data = {}
     
-    # 1. NEW RELEASES
-    start_new = (today - timedelta(days=30)).strftime("%Y-%m-%d")
-    end_new = today.strftime("%Y-%m-%d")
-    new_games = fetch_section("NewReleases", {"dates": f"{start_new},{end_new}", "ordering": "-added"}, 60)
+    print("Fetching New Releases...")
+    data["NewReleases"] = fetch_games({
+        "dates": get_date_range(days_back=45, days_forward=0),
+        "ordering": "-added", 
+        "parent_platforms": PC_PLATFORM_ID 
+    }, limit=15)
 
-    # 2. UPCOMING
-    start_up = (today + timedelta(days=1)).strftime("%Y-%m-%d")
-    end_up = (today + timedelta(days=60)).strftime("%Y-%m-%d")
-    upcoming_games = fetch_section("Upcoming", {"dates": f"{start_up},{end_up}", "ordering": "-added"}, 100)
+    print("Fetching Upcoming...")
+    data["Upcoming"] = fetch_games({
+        "dates": get_date_range(days_back=0, days_forward=180),
+        "ordering": "released",
+        "parent_platforms": PC_PLATFORM_ID
+    }, limit=15)
 
-    with open("daily_games.json", "w") as f:
-        json.dump({"NewReleases": new_games, "Upcoming": upcoming_games}, f, indent=2)
+    with open('daily_games.json', 'w') as f:
+        json.dump(data, f, indent=2)
+    print("Saved daily_games.json")
+
+def generate_monthly_feed():
+    print("--- Starting Pipeline B (Monthly) ---")
+    data = {}
+    
+    print("Fetching Hall of Fame...")
+    data["HallOfFame"] = fetch_games({
+        "ordering": "-metacritic",
+        "parent_platforms": PC_PLATFORM_ID,
+    }, limit=20, clean_duplicates=True)
+
+    with open('top_games.json', 'w') as f:
+        json.dump(data, f, indent=2)
+    print("Saved top_games.json")
 
 if __name__ == "__main__":
-    main()
+    if len(sys.argv) > 1 and sys.argv[1] == "--monthly":
+        generate_monthly_feed()
+    else:
+        # Default to daily if no flag or --daily provided
+        generate_daily_feed()
