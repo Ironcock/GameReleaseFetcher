@@ -23,6 +23,9 @@
         "Adventure",
         "RPG"
       ],
+      "Tags": [
+        "Singleplayer"
+      ],
       "Platforms": [
         "nintendo"
       ]
@@ -40,6 +43,7 @@
       "Genres": [
         "Fighting"
       ],
+      "Tags": [],
       "Platforms": [
         "xbox",
         "sega"
@@ -66,6 +70,9 @@
       "Genres": [
         "Action",
         "Fighting"
+      ],
+      "Tags": [
+        "2 players"
       ],
       "Platforms": [
         "xbox",
@@ -97,6 +104,13 @@
         "RPG",
         "Strategy"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Steam Achievements",
+        "Multiplayer",
+        "Steam Cloud",
+        "RPG"
+      ],
       "Platforms": [
         "pc",
         "playstation",
@@ -127,6 +141,9 @@
         "Shooter",
         "Adventure"
       ],
+      "Tags": [
+        "Singleplayer"
+      ],
       "Platforms": [
         "nintendo"
       ]
@@ -152,6 +169,9 @@
       "Genres": [
         "Action",
         "Shooter"
+      ],
+      "Tags": [
+        "exclusive"
       ],
       "Platforms": [
         "xbox",
@@ -180,6 +200,13 @@
         "Arcade",
         "Platformer"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Local Multiplayer",
+        "Family Friendly",
+        "exclusive",
+        "Cute"
+      ],
       "Platforms": [
         "nintendo"
       ]
@@ -205,6 +232,13 @@
       "Genres": [
         "Platformer"
       ],
+      "Tags": [
+        "collect",
+        "Solo",
+        "galaxy",
+        "light",
+        "castle"
+      ],
       "Platforms": [
         "nintendo"
       ]
@@ -229,6 +263,13 @@
       ],
       "Genres": [
         "Platformer"
+      ],
+      "Tags": [
+        "console",
+        "planet",
+        "Gravity",
+        "NES",
+        "mario"
       ],
       "Platforms": [
         "nintendo"
@@ -257,6 +298,13 @@
         "Adventure",
         "RPG"
       ],
+      "Tags": [
+        "RPG",
+        "Open World",
+        "Sandbox",
+        "Action-Adventure",
+        "exclusive"
+      ],
       "Platforms": [
         "nintendo"
       ]
@@ -282,6 +330,7 @@
       "Genres": [
         "Shooter"
       ],
+      "Tags": [],
       "Platforms": [
         "pc"
       ]
@@ -308,6 +357,13 @@
         "Action",
         "Adventure"
       ],
+      "Tags": [
+        "Singleplayer",
+        "RPG",
+        "Open World",
+        "Sandbox",
+        "exclusive"
+      ],
       "Platforms": [
         "nintendo"
       ]
@@ -330,6 +386,11 @@
       ],
       "Genres": [
         "Fighting"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Multiplayer",
+        "exclusive"
       ],
       "Platforms": [
         "playstation"
@@ -356,6 +417,12 @@
       "Genres": [
         "Shooter"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Multiplayer",
+        "exclusive",
+        "true exclusive"
+      ],
       "Platforms": [
         "nintendo"
       ]
@@ -381,6 +448,12 @@
       "Genres": [
         "Racing"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Multiplayer",
+        "exclusive",
+        "true exclusive"
+      ],
       "Platforms": [
         "playstation"
       ]
@@ -405,6 +478,11 @@
       "Genres": [
         "Action",
         "Shooter"
+      ],
+      "Tags": [
+        "Atmospheric",
+        "Stealth",
+        "Action-Adventure"
       ],
       "Platforms": [
         "playstation",
@@ -433,6 +511,9 @@
         "Action",
         "Shooter"
       ],
+      "Tags": [
+        "Story"
+      ],
       "Platforms": [
         "playstation"
       ]
@@ -458,6 +539,13 @@
       "Genres": [
         "Action",
         "Shooter"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Multiplayer",
+        "Atmospheric",
+        "Great Soundtrack",
+        "Story Rich"
       ],
       "Platforms": [
         "pc",
@@ -489,6 +577,13 @@
         "Action",
         "Shooter"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Steam Achievements",
+        "Multiplayer",
+        "Steam Cloud",
+        "Atmospheric"
+      ],
       "Platforms": [
         "pc",
         "xbox",
@@ -519,6 +614,13 @@
         "Action",
         "Shooter"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Atmospheric",
+        "Great Soundtrack",
+        "RPG",
+        "Story Rich"
+      ],
       "Platforms": [
         "pc",
         "playstation",
@@ -547,33 +649,12 @@
       "Genres": [
         "Action"
       ],
-      "Platforms": [
-        "pc",
-        "playstation",
-        "xbox"
-      ]
-    },
-    {
-      "ID": 378578,
-      "Title": "Grand Theft Auto IV: Complete Edition",
-      "ReleaseDate": "2010-10-27",
-      "ImageURL": "https://media.rawg.io/media/screenshots/e59/e59cc96f38cc93af5a396173878018d7.jpg",
-      "StoreURL": "https://rawg.io/games/grand-theft-auto-iv-complete-edition",
-      "Metacritic": 95,
-      "AddedCount": 232,
-      "Rating": 4.58,
-      "ShortScreenshots": [
-        "https://media.rawg.io/media/screenshots/e59/e59cc96f38cc93af5a396173878018d7.jpg",
-        "https://media.rawg.io/media/screenshots/c82/c8278ac80481cf297730fbecac162428.jpg",
-        "https://media.rawg.io/media/screenshots/f1d/f1d10446805403a28b374fbd0f4bcc89.jpg",
-        "https://media.rawg.io/media/screenshots/1a6/1a6aa2235c187a2849e21db5cf8bfa07.jpg",
-        "https://media.rawg.io/media/screenshots/ce5/ce534ab69b8e122e0e466a1b0d15f33c.jpg",
-        "https://media.rawg.io/media/screenshots/0c7/0c71726d8be588e7c6b20795d1b81c25.jpeg",
-        "https://media.rawg.io/media/screenshots/cfc/cfc33207ca709e50d5e49e8987b85e7b.jpg"
-      ],
-      "Genres": [
-        "Action",
-        "Adventure"
+      "Tags": [
+        "Singleplayer",
+        "Multiplayer",
+        "Atmospheric",
+        "Great Soundtrack",
+        "Co-op"
       ],
       "Platforms": [
         "pc",
@@ -602,6 +683,10 @@
         "Adventure",
         "RPG"
       ],
+      "Tags": [
+        "demo",
+        "zelda"
+      ],
       "Platforms": [
         "nintendo"
       ]
@@ -628,6 +713,13 @@
         "Action",
         "RPG"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Steam Achievements",
+        "Multiplayer",
+        "Full controller support",
+        "Atmospheric"
+      ],
       "Platforms": [
         "pc",
         "playstation",
@@ -653,6 +745,13 @@
       ],
       "Genres": [
         "Strategy"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Steam Achievements",
+        "Multiplayer",
+        "Steam Cloud",
+        "Tactical"
       ],
       "Platforms": [
         "pc",
@@ -684,6 +783,13 @@
         "RPG",
         "Strategy"
       ],
+      "Tags": [
+        "Dark",
+        "Magic",
+        "Blood",
+        "battle",
+        "Destruction"
+      ],
       "Platforms": [
         "pc",
         "android",
@@ -712,6 +818,9 @@
         "Action",
         "Adventure"
       ],
+      "Tags": [
+        "Singleplayer"
+      ],
       "Platforms": [
         "nintendo"
       ]
@@ -738,6 +847,13 @@
         "Action",
         "Adventure"
       ],
+      "Tags": [
+        "Dark",
+        "console",
+        "hero",
+        "NES",
+        "princess"
+      ],
       "Platforms": [
         "nintendo"
       ]
@@ -763,6 +879,13 @@
       "Genres": [
         "RPG",
         "Strategy"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Multiplayer",
+        "Full controller support",
+        "Steam Cloud",
+        "Atmospheric"
       ],
       "Platforms": [
         "pc",
@@ -793,6 +916,13 @@
         "Action",
         "Shooter"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Steam Achievements",
+        "Multiplayer",
+        "Full controller support",
+        "Atmospheric"
+      ],
       "Platforms": [
         "pc",
         "playstation",
@@ -821,6 +951,13 @@
       "Genres": [
         "Action"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Multiplayer",
+        "Atmospheric",
+        "Co-op",
+        "Open World"
+      ],
       "Platforms": [
         "pc",
         "playstation",
@@ -848,6 +985,13 @@
       "Genres": [
         "Shooter",
         "Puzzle"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Steam Achievements",
+        "Multiplayer",
+        "Full controller support",
+        "Steam Cloud"
       ],
       "Platforms": [
         "pc",
@@ -879,6 +1023,9 @@
         "Action",
         "Adventure"
       ],
+      "Tags": [
+        "exclusive"
+      ],
       "Platforms": [
         "playstation"
       ]
@@ -904,6 +1051,13 @@
       "Genres": [
         "Action",
         "Adventure"
+      ],
+      "Tags": [
+        "Multiplayer",
+        "Atmospheric",
+        "Survival",
+        "Stealth",
+        "Action-Adventure"
       ],
       "Platforms": [
         "playstation"
@@ -931,6 +1085,10 @@
         "Action",
         "Arcade"
       ],
+      "Tags": [
+        "Sandbox",
+        "exclusive"
+      ],
       "Platforms": [
         "playstation"
       ]
@@ -951,6 +1109,7 @@
       "Genres": [
         "Shooter"
       ],
+      "Tags": [],
       "Platforms": [
         "playstation"
       ]
@@ -976,6 +1135,13 @@
       "Genres": [
         "Adventure",
         "RPG"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Great Soundtrack"
       ],
       "Platforms": [
         "pc",
@@ -1004,6 +1170,13 @@
       ],
       "Genres": [
         "RPG"
+      ],
+      "Tags": [
+        "PvP",
+        "combat",
+        "battle",
+        "party",
+        "explore"
       ],
       "Platforms": [
         "pc",
@@ -1035,6 +1208,13 @@
       "Genres": [
         "Action"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Atmospheric"
+      ],
       "Platforms": [
         "pc",
         "playstation"
@@ -1060,6 +1240,10 @@
       ],
       "Genres": [
         "Action"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "exclusive"
       ],
       "Platforms": [
         "pc",
@@ -1088,6 +1272,9 @@
       "Genres": [
         "Platformer"
       ],
+      "Tags": [
+        "Singleplayer"
+      ],
       "Platforms": [
         "nintendo"
       ]
@@ -1113,6 +1300,13 @@
       "Genres": [
         "Action",
         "Shooter"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Multiplayer",
+        "Steam Cloud",
+        "Atmospheric",
+        "Great Soundtrack"
       ],
       "Platforms": [
         "pc",
@@ -1148,6 +1342,13 @@
         "Sports",
         "Platformer"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Full controller support",
+        "Atmospheric",
+        "Great Soundtrack",
+        "Open World"
+      ],
       "Platforms": [
         "pc",
         "playstation",
@@ -1179,6 +1380,11 @@
       "Genres": [
         "Strategy"
       ],
+      "Tags": [
+        "RTS",
+        "Story",
+        "c"
+      ],
       "Platforms": [
         "pc",
         "playstation",
@@ -1207,6 +1413,13 @@
       "Genres": [
         "RPG"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Multiplayer",
+        "RPG",
+        "Controller",
+        "exclusive"
+      ],
       "Platforms": [
         "playstation"
       ]
@@ -1233,6 +1446,7 @@
         "Adventure",
         "RPG"
       ],
+      "Tags": [],
       "Platforms": [
         "pc",
         "playstation",
@@ -1260,6 +1474,13 @@
       "Genres": [
         "Action",
         "Adventure"
+      ],
+      "Tags": [
+        "Dark",
+        "Zombies",
+        "battle",
+        "city",
+        "fight"
       ],
       "Platforms": [
         "playstation",
@@ -1290,6 +1511,10 @@
         "Sports",
         "Arcade"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Multiplayer"
+      ],
       "Platforms": [
         "pc",
         "playstation",
@@ -1319,6 +1544,7 @@
       "Genres": [
         "Strategy"
       ],
+      "Tags": [],
       "Platforms": [
         "pc"
       ]
@@ -1344,6 +1570,12 @@
       "Genres": [
         "Action",
         "RPG"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Multiplayer",
+        "cooperative",
+        "role-playing"
       ],
       "Platforms": [
         "pc",
@@ -1372,6 +1604,7 @@
       "Genres": [
         "Adventure"
       ],
+      "Tags": [],
       "Platforms": [
         "pc"
       ]
@@ -1394,6 +1627,13 @@
       ],
       "Genres": [
         "Action"
+      ],
+      "Tags": [
+        "Atmospheric",
+        "Story Rich",
+        "Hack and Slash",
+        "Blood",
+        "Mythology"
       ],
       "Platforms": [
         "playstation"
@@ -1419,6 +1659,13 @@
       ],
       "Genres": [
         "Action"
+      ],
+      "Tags": [
+        "Horror",
+        "Story",
+        "city",
+        "Soundtrack",
+        "Flight"
       ],
       "Platforms": [
         "pc",
@@ -1448,6 +1695,13 @@
       ],
       "Genres": [
         "Shooter"
+      ],
+      "Tags": [
+        "Multiplayer",
+        "Space",
+        "Aliens",
+        "Story",
+        "puzzles"
       ],
       "Platforms": [
         "pc",
@@ -1479,6 +1733,13 @@
         "Racing",
         "Arcade"
       ],
+      "Tags": [
+        "Multiplayer",
+        "online",
+        "battle",
+        "speed",
+        "car"
+      ],
       "Platforms": [
         "playstation",
         "xbox"
@@ -1507,6 +1768,11 @@
         "RPG",
         "Puzzle"
       ],
+      "Tags": [
+        "role-playing",
+        "exclusive",
+        "true exclusive"
+      ],
       "Platforms": [
         "nintendo"
       ]
@@ -1526,6 +1792,7 @@
       "Genres": [
         "Platformer"
       ],
+      "Tags": [],
       "Platforms": [
         "nintendo"
       ]
@@ -1551,6 +1818,13 @@
       "Genres": [
         "RPG",
         "Indie"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Steam Achievements",
+        "Multiplayer",
+        "Full controller support",
+        "Steam Cloud"
       ],
       "Platforms": [
         "pc",
@@ -1581,6 +1855,13 @@
       "Genres": [
         "RPG"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Steam Cloud",
+        "Atmospheric",
+        "Great Soundtrack",
+        "RPG"
+      ],
       "Platforms": [
         "pc",
         "playstation",
@@ -1608,6 +1889,13 @@
       "Genres": [
         "Strategy"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Multiplayer",
+        "Great Soundtrack",
+        "Classic",
+        "Tactical"
+      ],
       "Platforms": [
         "pc",
         "mac"
@@ -1634,6 +1922,13 @@
       "Genres": [
         "Action",
         "RPG"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Steam Achievements",
+        "Steam Cloud",
+        "Atmospheric",
+        "steam-trading-cards"
       ],
       "Platforms": [
         "pc",
@@ -1665,6 +1960,13 @@
         "RPG",
         "Indie"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Steam Achievements",
+        "RPG",
+        "First-Person",
+        "Horror"
+      ],
       "Platforms": [
         "pc",
         "playstation",
@@ -1690,6 +1992,11 @@
       "Genres": [
         "Action",
         "Shooter"
+      ],
+      "Tags": [
+        "Sci-fi",
+        "mobile",
+        "first-person-shooter"
       ],
       "Platforms": [
         "playstation",
@@ -1719,6 +2026,13 @@
         "Action",
         "RPG"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Atmospheric",
+        "Great Soundtrack",
+        "RPG",
+        "Story Rich"
+      ],
       "Platforms": [
         "pc",
         "playstation",
@@ -1746,6 +2060,13 @@
       "Genres": [
         "Action",
         "Shooter"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Atmospheric"
       ],
       "Platforms": [
         "pc",
@@ -1777,6 +2098,10 @@
         "Action",
         "Shooter"
       ],
+      "Tags": [
+        "exclusive",
+        "true exclusive"
+      ],
       "Platforms": [
         "playstation"
       ]
@@ -1801,6 +2126,13 @@
       ],
       "Genres": [
         "Action"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Multiplayer",
+        "Atmospheric",
+        "Great Soundtrack",
+        "Open World"
       ],
       "Platforms": [
         "pc",
@@ -1834,6 +2166,13 @@
         "Shooter",
         "Adventure"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Steam Achievements",
+        "Atmospheric",
+        "Great Soundtrack",
+        "Story Rich"
+      ],
       "Platforms": [
         "pc"
       ]
@@ -1860,6 +2199,13 @@
         "Simulation",
         "Sports"
       ],
+      "Tags": [
+        "Multiplayer",
+        "Soccer",
+        "simulator",
+        "Singe-player",
+        "sport"
+      ],
       "Platforms": [
         "playstation"
       ]
@@ -1878,6 +2224,10 @@
       ],
       "Genres": [
         "Action"
+      ],
+      "Tags": [
+        "exclusive",
+        "true exclusive"
       ],
       "Platforms": [
         "playstation"
@@ -1904,6 +2254,13 @@
       "Genres": [
         "Action",
         "Adventure",
+        "RPG"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Full controller support",
+        "Atmospheric",
+        "Great Soundtrack",
         "RPG"
       ],
       "Platforms": [
@@ -1934,6 +2291,13 @@
       "Genres": [
         "Fighting"
       ],
+      "Tags": [
+        "Multiplayer",
+        "character",
+        "arena",
+        "fighter",
+        "mario"
+      ],
       "Platforms": [
         "nintendo"
       ]
@@ -1960,6 +2324,13 @@
         "RPG",
         "Strategy",
         "Simulation"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "RPG",
+        "Horror",
+        "Fantasy",
+        "Gore"
       ],
       "Platforms": [
         "pc",
@@ -1988,6 +2359,9 @@
       "Genres": [
         "RPG"
       ],
+      "Tags": [
+        "Singleplayer"
+      ],
       "Platforms": [
         "nintendo",
         "sega"
@@ -2014,6 +2388,10 @@
       "Genres": [
         "Sports",
         "Racing"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Multiplayer"
       ],
       "Platforms": [
         "playstation",
@@ -2042,6 +2420,10 @@
       "Genres": [
         "Racing"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Multiplayer"
+      ],
       "Platforms": [
         "nintendo"
       ]
@@ -2066,6 +2448,12 @@
       ],
       "Genres": [
         "Racing"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Multiplayer",
+        "exclusive",
+        "driving-simulator"
       ],
       "Platforms": [
         "playstation",
@@ -2093,6 +2481,13 @@
       "Genres": [
         "Action",
         "Adventure"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "RPG",
+        "Music",
+        "achievements",
+        "battle"
       ],
       "Platforms": [
         "playstation",
@@ -2125,6 +2520,13 @@
         "Shooter",
         "Adventure"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Atmospheric",
+        "Survival",
+        "Violent",
+        "Stealth"
+      ],
       "Platforms": [
         "playstation"
       ]
@@ -2149,6 +2551,13 @@
       ],
       "Genres": [
         "Action"
+      ],
+      "Tags": [
+        "War",
+        "Story",
+        "console",
+        "Mythology",
+        "history"
       ],
       "Platforms": [
         "playstation"
@@ -2175,6 +2584,7 @@
       "Genres": [
         "Strategy"
       ],
+      "Tags": [],
       "Platforms": [
         "pc",
         "mac"
@@ -2202,6 +2612,7 @@
         "Action",
         "Shooter"
       ],
+      "Tags": [],
       "Platforms": [
         "pc",
         "mac",
@@ -2230,6 +2641,10 @@
         "Adventure",
         "Puzzle"
       ],
+      "Tags": [
+        "Point & Click",
+        "Single player only"
+      ],
       "Platforms": [
         "pc",
         "mac"
@@ -2256,6 +2671,7 @@
       "Genres": [
         "Strategy"
       ],
+      "Tags": [],
       "Platforms": [
         "pc"
       ]
@@ -2280,6 +2696,9 @@
       ],
       "Genres": [
         "Shooter"
+      ],
+      "Tags": [
+        "exclusive"
       ],
       "Platforms": [
         "xbox"
@@ -2307,6 +2726,10 @@
         "Action",
         "Platformer"
       ],
+      "Tags": [
+        "3D",
+        "Platform"
+      ],
       "Platforms": [
         "nintendo"
       ]
@@ -2331,6 +2754,9 @@
       ],
       "Genres": [
         "Adventure"
+      ],
+      "Tags": [
+        "exclusive"
       ],
       "Platforms": [
         "nintendo"
@@ -2357,6 +2783,11 @@
       "Genres": [
         "Action",
         "Adventure"
+      ],
+      "Tags": [
+        "challenge",
+        "destroy",
+        "evil"
       ],
       "Platforms": [
         "pc",
@@ -2387,6 +2818,10 @@
         "Casual",
         "Fighting"
       ],
+      "Tags": [
+        "exclusive",
+        "true exclusive"
+      ],
       "Platforms": [
         "nintendo"
       ]
@@ -2411,6 +2846,10 @@
       ],
       "Genres": [
         "RPG"
+      ],
+      "Tags": [
+        "RPG",
+        "role-playing"
       ],
       "Platforms": [
         "nintendo"
@@ -2438,6 +2877,11 @@
         "RPG",
         "Massively Multiplayer"
       ],
+      "Tags": [
+        "Multiplayer",
+        "Fantasy",
+        "Online multiplayer"
+      ],
       "Platforms": [
         "pc",
         "mac"
@@ -2464,6 +2908,12 @@
       "Genres": [
         "Strategy"
       ],
+      "Tags": [
+        "Sci-fi",
+        "exclusive",
+        "RTS",
+        "true exclusive"
+      ],
       "Platforms": [
         "pc",
         "mac"
@@ -2489,6 +2939,13 @@
       ],
       "Genres": [
         "Action"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Multiplayer",
+        "Atmospheric",
+        "steam-trading-cards",
+        "Great Soundtrack"
       ],
       "Platforms": [
         "pc",
@@ -2517,6 +2974,13 @@
       "Genres": [
         "Strategy"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Multiplayer",
+        "Steam Cloud",
+        "steam-trading-cards",
+        "Co-op"
+      ],
       "Platforms": [
         "pc",
         "ios"
@@ -2544,6 +3008,11 @@
         "Action",
         "Shooter"
       ],
+      "Tags": [
+        "Atmospheric",
+        "Action-Adventure",
+        "3rd-Person Perspective"
+      ],
       "Platforms": [
         "playstation"
       ]
@@ -2570,6 +3039,11 @@
         "Arcade",
         "Casual",
         "Indie"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "puzzles",
+        "Touch-Friendly"
       ],
       "Platforms": [
         "pc",
@@ -2600,6 +3074,13 @@
         "Action",
         "Shooter"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Multiplayer",
+        "Atmospheric",
+        "Great Soundtrack",
+        "Story Rich"
+      ],
       "Platforms": [
         "pc",
         "playstation",
@@ -2629,6 +3110,13 @@
       ],
       "Genres": [
         "Action"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Multiplayer",
+        "Atmospheric",
+        "Great Soundtrack",
+        "Story Rich"
       ],
       "Platforms": [
         "pc",
@@ -2662,6 +3150,13 @@
         "Adventure",
         "RPG"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Atmospheric",
+        "RPG",
+        "Exploration",
+        "Action-Adventure"
+      ],
       "Platforms": [
         "playstation"
       ]
@@ -2687,6 +3182,10 @@
       "Genres": [
         "Action",
         "RPG"
+      ],
+      "Tags": [
+        "exclusive",
+        "true exclusive"
       ],
       "Platforms": [
         "playstation"
@@ -2715,6 +3214,13 @@
         "Strategy",
         "Casual"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Atmospheric"
+      ],
       "Platforms": [
         "pc",
         "mac"
@@ -2741,6 +3247,10 @@
       "Genres": [
         "Fighting"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Multiplayer"
+      ],
       "Platforms": [
         "playstation",
         "xbox",
@@ -2760,6 +3270,7 @@
       "Genres": [
         "Fighting"
       ],
+      "Tags": [],
       "Platforms": [
         "playstation",
         "xbox",
@@ -2785,6 +3296,13 @@
       "Genres": [
         "Racing",
         "Casual"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Steam Achievements",
+        "Multiplayer",
+        "Full controller support",
+        "First-Person"
       ],
       "Platforms": [
         "pc",
@@ -2812,6 +3330,13 @@
       "Genres": [
         "RPG"
       ],
+      "Tags": [
+        "Fantasy",
+        "Story",
+        "death",
+        "Movie",
+        "Dreams"
+      ],
       "Platforms": [
         "playstation"
       ]
@@ -2832,6 +3357,13 @@
       "Genres": [
         "Adventure",
         "RPG"
+      ],
+      "Tags": [
+        "Fantasy",
+        "War",
+        "combat",
+        "Magic",
+        "explore"
       ],
       "Platforms": [
         "pc",
@@ -2863,6 +3395,13 @@
         "Adventure",
         "RPG"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Multiplayer",
+        "Controller",
+        "exclusive",
+        "Story"
+      ],
       "Platforms": [
         "playstation"
       ]
@@ -2887,6 +3426,11 @@
       ],
       "Genres": [
         "Sports"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Multiplayer",
+        "skateboarding"
       ],
       "Platforms": [
         "playstation",
@@ -2916,6 +3460,13 @@
         "Action",
         "Arcade"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Multiplayer",
+        "Music",
+        "battle",
+        "Cartoon"
+      ],
       "Platforms": [
         "playstation"
       ]
@@ -2941,6 +3492,12 @@
       "Genres": [
         "Action",
         "Fighting"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Multiplayer",
+        "exclusive",
+        "true exclusive"
       ],
       "Platforms": [
         "nintendo"
@@ -2968,6 +3525,10 @@
         "Action",
         "Adventure"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Multiplayer"
+      ],
       "Platforms": [
         "nintendo"
       ]
@@ -2994,6 +3555,11 @@
         "Action",
         "Adventure"
       ],
+      "Tags": [
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
+      ],
       "Platforms": [
         "nintendo"
       ]
@@ -3018,6 +3584,13 @@
       ],
       "Genres": [
         "Racing"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Multiplayer",
+        "console",
+        "water",
+        "NES"
       ],
       "Platforms": [
         "nintendo"
@@ -3045,6 +3618,10 @@
         "Action",
         "Platformer"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Multiplayer"
+      ],
       "Platforms": [
         "nintendo"
       ]
@@ -3068,6 +3645,13 @@
       "Genres": [
         "Action",
         "Shooter"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Multiplayer",
+        "War",
+        "exclusive",
+        "Military"
       ],
       "Platforms": [
         "playstation"
@@ -3094,6 +3678,10 @@
       "Genres": [
         "Sports",
         "Racing"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Multiplayer"
       ],
       "Platforms": [
         "playstation",
@@ -3122,6 +3710,10 @@
         "Adventure",
         "Platformer"
       ],
+      "Tags": [
+        "exclusive",
+        "true exclusive"
+      ],
       "Platforms": [
         "nintendo"
       ]
@@ -3147,6 +3739,12 @@
       "Genres": [
         "Action",
         "Adventure"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Atmospheric",
+        "Story Rich",
+        "Female Protagonist"
       ],
       "Platforms": [
         "pc",
@@ -3176,6 +3774,12 @@
       "Genres": [
         "RPG"
       ],
+      "Tags": [
+        "Horror",
+        "War",
+        "Blood",
+        "love"
+      ],
       "Platforms": [
         "pc",
         "playstation",
@@ -3203,6 +3807,9 @@
       "Genres": [
         "RPG"
       ],
+      "Tags": [
+        "exclusive"
+      ],
       "Platforms": [
         "playstation"
       ]
@@ -3228,6 +3835,13 @@
       "Genres": [
         "Action"
       ],
+      "Tags": [
+        "RPG",
+        "War",
+        "Story",
+        "character",
+        "Mythology"
+      ],
       "Platforms": [
         "playstation"
       ]
@@ -3252,6 +3866,9 @@
       ],
       "Genres": [
         "Strategy"
+      ],
+      "Tags": [
+        "RTS"
       ],
       "Platforms": [
         "pc",
@@ -3279,6 +3896,13 @@
       "Genres": [
         "Action",
         "Shooter"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Multiplayer",
+        "Sci-fi",
+        "Fast-Paced",
+        "Competitive"
       ],
       "Platforms": [
         "pc",
@@ -3309,6 +3933,7 @@
       "Genres": [
         "Action"
       ],
+      "Tags": [],
       "Platforms": [
         "pc"
       ]
@@ -3333,6 +3958,10 @@
       ],
       "Genres": [
         "Strategy"
+      ],
+      "Tags": [
+        "exclusive",
+        "true exclusive"
       ],
       "Platforms": [
         "pc",
@@ -3360,6 +3989,7 @@
       "Genres": [
         "Strategy"
       ],
+      "Tags": [],
       "Platforms": [
         "pc"
       ]
@@ -3385,6 +4015,7 @@
       "Genres": [
         "Strategy"
       ],
+      "Tags": [],
       "Platforms": [
         "pc"
       ]
@@ -3409,6 +4040,13 @@
       ],
       "Genres": [
         "Racing"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Online multiplayer",
+        "exclusive",
+        "Realistic",
+        "true exclusive"
       ],
       "Platforms": [
         "xbox"
@@ -3437,6 +4075,11 @@
         "Adventure",
         "Puzzle"
       ],
+      "Tags": [
+        "Singleplayer",
+        "fun",
+        "bird"
+      ],
       "Platforms": [
         "xbox",
         "nintendo"
@@ -3464,6 +4107,10 @@
         "RPG",
         "Strategy"
       ],
+      "Tags": [
+        "exclusive",
+        "true exclusive"
+      ],
       "Platforms": [
         "nintendo"
       ]
@@ -3490,6 +4137,9 @@
         "Action",
         "Platformer"
       ],
+      "Tags": [
+        "Singleplayer"
+      ],
       "Platforms": [
         "nintendo"
       ]
@@ -3514,6 +4164,13 @@
       ],
       "Genres": [
         "Strategy"
+      ],
+      "Tags": [
+        "exclusive",
+        "Turn-Based",
+        "Isometric",
+        "Medieval",
+        "Turn-Based Strategy"
       ],
       "Platforms": [
         "nintendo"
@@ -3541,6 +4198,10 @@
         "Arcade",
         "Platformer"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Multiplayer"
+      ],
       "Platforms": [
         "nintendo"
       ]
@@ -3567,6 +4228,13 @@
         "Action",
         "Platformer"
       ],
+      "Tags": [
+        "console",
+        "island",
+        "fire",
+        "NES",
+        "mario"
+      ],
       "Platforms": [
         "nintendo"
       ]
@@ -3591,6 +4259,11 @@
       ],
       "Genres": [
         "Action"
+      ],
+      "Tags": [
+        "Hack and Slash",
+        "exclusive",
+        "true exclusive"
       ],
       "Platforms": [
         "nintendo"
@@ -3617,6 +4290,13 @@
       "Genres": [
         "Racing"
       ],
+      "Tags": [
+        "Multiplayer",
+        "Funny",
+        "Family Friendly",
+        "exclusive",
+        "Cartoon"
+      ],
       "Platforms": [
         "nintendo"
       ]
@@ -3642,6 +4322,13 @@
       "Genres": [
         "Action",
         "Adventure"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Full controller support",
+        "Atmospheric",
+        "Story Rich",
+        "Third Person"
       ],
       "Platforms": [
         "pc",
@@ -3676,6 +4363,13 @@
         "Shooter",
         "Massively Multiplayer"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Multiplayer",
+        "Great Soundtrack",
+        "Co-op",
+        "cooperative"
+      ],
       "Platforms": [
         "pc"
       ]
@@ -3701,6 +4395,13 @@
       "Genres": [
         "Action",
         "Adventure"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Multiplayer",
+        "Atmospheric",
+        "Great Soundtrack",
+        "Co-op"
       ],
       "Platforms": [
         "pc",
@@ -3730,6 +4431,13 @@
       "Genres": [
         "Strategy"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Sci-fi",
+        "Space",
+        "Turn-Based",
+        "Turn-Based Strategy"
+      ],
       "Platforms": [
         "pc"
       ]
@@ -3756,6 +4464,13 @@
         "Strategy",
         "Simulation",
         "Sports"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Steam Achievements",
+        "Multiplayer",
+        "steam-trading-cards",
+        "Steam Workshop"
       ],
       "Platforms": [
         "pc",
@@ -3784,6 +4499,13 @@
       "Genres": [
         "Strategy"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Multiplayer",
+        "Atmospheric",
+        "steam-trading-cards",
+        "Great Soundtrack"
+      ],
       "Platforms": [
         "pc",
         "ios"
@@ -3810,6 +4532,13 @@
       "Genres": [
         "RPG",
         "Indie"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Great Soundtrack",
+        "RPG",
+        "Story Rich",
+        "2D"
       ],
       "Platforms": [
         "pc",
@@ -3842,6 +4571,13 @@
         "Action",
         "Shooter"
       ],
+      "Tags": [
+        "Steam Achievements",
+        "Multiplayer",
+        "steam-trading-cards",
+        "Co-op",
+        "cooperative"
+      ],
       "Platforms": [
         "pc",
         "mac",
@@ -3869,6 +4605,13 @@
       "Genres": [
         "Action",
         "Shooter",
+        "RPG"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Atmospheric",
+        "steam-trading-cards",
+        "Great Soundtrack",
         "RPG"
       ],
       "Platforms": [
@@ -3899,6 +4642,13 @@
         "Action",
         "Simulation"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Atmospheric",
+        "Story Rich",
+        "First-Person",
+        "Horror"
+      ],
       "Platforms": [
         "pc"
       ]
@@ -3924,6 +4674,11 @@
       "Genres": [
         "Action"
       ],
+      "Tags": [
+        "Atmospheric",
+        "Third Person",
+        "cover-shooter"
+      ],
       "Platforms": [
         "playstation"
       ]
@@ -3948,6 +4703,10 @@
       ],
       "Genres": [
         "Arcade"
+      ],
+      "Tags": [
+        "Music",
+        "party"
       ],
       "Platforms": [
         "playstation",
@@ -3977,6 +4736,13 @@
         "Action",
         "Arcade",
         "Indie"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Atmospheric"
       ],
       "Platforms": [
         "pc",
@@ -4009,6 +4775,13 @@
         "Action",
         "Shooter"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Multiplayer",
+        "Atmospheric",
+        "Great Soundtrack",
+        "Co-op"
+      ],
       "Platforms": [
         "pc",
         "playstation",
@@ -4038,6 +4811,13 @@
       "Genres": [
         "Action"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Steam Achievements",
+        "Multiplayer",
+        "Full controller support",
+        "Atmospheric"
+      ],
       "Platforms": [
         "pc",
         "playstation",
@@ -4066,6 +4846,13 @@
         "Action",
         "RPG"
       ],
+      "Tags": [
+        "Atmospheric",
+        "Story Rich",
+        "Third Person",
+        "Exploration",
+        "Character Customization"
+      ],
       "Platforms": [
         "playstation"
       ]
@@ -4090,6 +4877,13 @@
       ],
       "Genres": [
         "Action",
+        "RPG"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Full controller support",
+        "Atmospheric",
+        "Great Soundtrack",
         "RPG"
       ],
       "Platforms": [
@@ -4123,6 +4917,13 @@
         "Family",
         "Indie"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Steam Achievements",
+        "Multiplayer",
+        "Full controller support",
+        "Atmospheric"
+      ],
       "Platforms": [
         "pc",
         "playstation",
@@ -4152,6 +4953,13 @@
         "Casual",
         "Family"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Steam Cloud",
+        "2D",
+        "Story",
+        "Relaxing"
+      ],
       "Platforms": [
         "pc",
         "ios",
@@ -4178,6 +4986,13 @@
       ],
       "Genres": [
         "RPG"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Steam Achievements",
+        "Multiplayer",
+        "Full controller support",
+        "Steam Cloud"
       ],
       "Platforms": [
         "pc",
@@ -4207,6 +5022,13 @@
       "Genres": [
         "Action",
         "Sports"
+      ],
+      "Tags": [
+        "Physics",
+        "Music",
+        "Minimalist",
+        "friends",
+        "nature"
       ],
       "Platforms": [
         "pc",
@@ -4240,6 +5062,13 @@
         "Card",
         "Educational"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "2D"
+      ],
       "Platforms": [
         "pc",
         "xbox",
@@ -4270,6 +5099,13 @@
         "Adventure",
         "RPG"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "RPG"
+      ],
       "Platforms": [
         "pc",
         "playstation",
@@ -4294,6 +5130,13 @@
       ],
       "Genres": [
         "Action"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Steam Achievements",
+        "Steam Cloud",
+        "Atmospheric",
+        "Great Soundtrack"
       ],
       "Platforms": [
         "pc",
@@ -4323,6 +5166,10 @@
         "Adventure",
         "Platformer"
       ],
+      "Tags": [
+        "exclusive",
+        "true exclusive"
+      ],
       "Platforms": [
         "playstation"
       ]
@@ -4349,6 +5196,13 @@
         "Adventure",
         "RPG",
         "Indie"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "RPG",
+        "Story Rich",
+        "role-playing",
+        "Isometric"
       ],
       "Platforms": [
         "pc",
@@ -4379,6 +5233,10 @@
       "Genres": [
         "Action"
       ],
+      "Tags": [
+        "Ninja",
+        "sword"
+      ],
       "Platforms": [
         "xbox",
         "nintendo"
@@ -4404,6 +5262,13 @@
         "Action",
         "Adventure",
         "RPG"
+      ],
+      "Tags": [
+        "Atmospheric",
+        "Open World",
+        "Fantasy",
+        "Action-Adventure",
+        "role-playing"
       ],
       "Platforms": [
         "playstation"
@@ -4431,6 +5296,13 @@
         "Action",
         "Shooter",
         "Adventure"
+      ],
+      "Tags": [
+        "Atmospheric",
+        "Horror",
+        "Action-Adventure",
+        "Zombies",
+        "Survival Horror"
       ],
       "Platforms": [
         "pc",
@@ -4460,6 +5332,13 @@
       ],
       "Genres": [
         "RPG"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "steam-trading-cards"
       ],
       "Platforms": [
         "pc",
@@ -4491,6 +5370,9 @@
         "Adventure",
         "Platformer"
       ],
+      "Tags": [
+        "Singleplayer"
+      ],
       "Platforms": [
         "playstation"
       ]
@@ -4514,6 +5396,9 @@
       ],
       "Genres": [
         "Platformer"
+      ],
+      "Tags": [
+        "Singleplayer"
       ],
       "Platforms": [
         "nintendo"
@@ -4539,6 +5424,10 @@
       "Genres": [
         "Sports"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Multiplayer"
+      ],
       "Platforms": [
         "nintendo"
       ]
@@ -4563,6 +5452,9 @@
       ],
       "Genres": [
         "Action"
+      ],
+      "Tags": [
+        "Singleplayer"
       ],
       "Platforms": [
         "nintendo"
@@ -4590,6 +5482,9 @@
         "Action",
         "Platformer"
       ],
+      "Tags": [
+        "Singleplayer"
+      ],
       "Platforms": [
         "nintendo"
       ]
@@ -4616,6 +5511,13 @@
         "Action",
         "Adventure"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Atmospheric",
+        "Open World",
+        "Exploration",
+        "Action-Adventure"
+      ],
       "Platforms": [
         "playstation"
       ]
@@ -4639,6 +5541,10 @@
       ],
       "Genres": [
         "Simulation"
+      ],
+      "Tags": [
+        "exclusive",
+        "true exclusive"
       ],
       "Platforms": [
         "playstation"
@@ -4667,6 +5573,7 @@
         "Strategy",
         "Puzzle"
       ],
+      "Tags": [],
       "Platforms": [
         "pc",
         "ios"
@@ -4694,6 +5601,10 @@
         "Action",
         "Shooter"
       ],
+      "Tags": [
+        "exclusive",
+        "true exclusive"
+      ],
       "Platforms": [
         "playstation"
       ]
@@ -4720,6 +5631,7 @@
         "RPG",
         "Massively Multiplayer"
       ],
+      "Tags": [],
       "Platforms": [
         "pc",
         "mac"
@@ -4747,6 +5659,7 @@
         "RPG",
         "Massively Multiplayer"
       ],
+      "Tags": [],
       "Platforms": [
         "pc",
         "mac"
@@ -4774,6 +5687,7 @@
         "Action",
         "Shooter"
       ],
+      "Tags": [],
       "Platforms": [
         "pc"
       ]
@@ -4799,6 +5713,10 @@
       "Genres": [
         "Sports",
         "Arcade"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Multiplayer"
       ],
       "Platforms": [
         "pc",
@@ -4830,6 +5748,7 @@
         "Action",
         "Shooter"
       ],
+      "Tags": [],
       "Platforms": [
         "pc",
         "mac"
@@ -4856,6 +5775,10 @@
       "Genres": [
         "Sports",
         "Arcade"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Multiplayer"
       ],
       "Platforms": [
         "pc",
@@ -4888,6 +5811,13 @@
         "RPG",
         "Strategy"
       ],
+      "Tags": [
+        "Multiplayer",
+        "War",
+        "character",
+        "Dragons",
+        "party"
+      ],
       "Platforms": [
         "pc",
         "ios",
@@ -4915,6 +5845,7 @@
       "Genres": [
         "Shooter"
       ],
+      "Tags": [],
       "Platforms": [
         "pc"
       ]
@@ -4936,6 +5867,7 @@
       "Genres": [
         "Strategy"
       ],
+      "Tags": [],
       "Platforms": [
         "pc"
       ]
@@ -4961,6 +5893,9 @@
       "Genres": [
         "Shooter"
       ],
+      "Tags": [
+        "exclusive"
+      ],
       "Platforms": [
         "xbox"
       ]
@@ -4985,6 +5920,9 @@
       ],
       "Genres": [
         "Shooter"
+      ],
+      "Tags": [
+        "exclusive"
       ],
       "Platforms": [
         "pc",
@@ -5012,6 +5950,9 @@
       "Genres": [
         "Shooter"
       ],
+      "Tags": [
+        "exclusive"
+      ],
       "Platforms": [
         "pc",
         "xbox"
@@ -5037,6 +5978,13 @@
       ],
       "Genres": [
         "Racing"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "First-Person",
+        "Online multiplayer",
+        "exclusive",
+        "Realistic"
       ],
       "Platforms": [
         "xbox"
@@ -5065,6 +6013,13 @@
         "Adventure",
         "Platformer"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Atmospheric"
+      ],
       "Platforms": [
         "pc",
         "xbox",
@@ -5092,6 +6047,10 @@
       "Genres": [
         "Adventure"
       ],
+      "Tags": [
+        "exclusive",
+        "true exclusive"
+      ],
       "Platforms": [
         "nintendo"
       ]
@@ -5116,6 +6075,13 @@
       ],
       "Genres": [
         "RPG"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Multiplayer",
+        "role-playing",
+        "2 players",
+        "Game Link Cable"
       ],
       "Platforms": [
         "nintendo"
@@ -5143,6 +6109,10 @@
         "Action",
         "Adventure"
       ],
+      "Tags": [
+        "Story",
+        "collection"
+      ],
       "Platforms": [
         "nintendo"
       ]
@@ -5167,6 +6137,13 @@
       ],
       "Genres": [
         "Racing"
+      ],
+      "Tags": [
+        "Controller",
+        "battle",
+        "console",
+        "race",
+        "fun"
       ],
       "Platforms": [
         "nintendo"
@@ -5194,6 +6171,13 @@
         "Action",
         "Shooter",
         "Casual"
+      ],
+      "Tags": [
+        "Multiplayer",
+        "First-Person",
+        "Sci-fi",
+        "FPS",
+        "Funny"
       ],
       "Platforms": [
         "pc",
@@ -5223,6 +6207,13 @@
       "Genres": [
         "Indie",
         "Platformer"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Story Rich"
       ],
       "Platforms": [
         "pc",
@@ -5255,6 +6246,13 @@
         "RPG",
         "Strategy"
       ],
+      "Tags": [
+        "RPG",
+        "Dark",
+        "combat",
+        "Story",
+        "Music"
+      ],
       "Platforms": [
         "pc"
       ]
@@ -5281,6 +6279,13 @@
         "Action",
         "Simulation"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Multiplayer",
+        "Story Rich",
+        "Sci-fi",
+        "Classic"
+      ],
       "Platforms": [
         "pc"
       ]
@@ -5306,6 +6311,13 @@
       "Genres": [
         "Action",
         "Adventure"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Multiplayer",
+        "Atmospheric",
+        "Third Person",
+        "Difficult"
       ],
       "Platforms": [
         "pc",
@@ -5337,6 +6349,13 @@
         "Action",
         "RPG"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Atmospheric",
+        "Great Soundtrack",
+        "RPG",
+        "Story Rich"
+      ],
       "Platforms": [
         "pc",
         "playstation",
@@ -5363,6 +6382,13 @@
       ],
       "Genres": [
         "Shooter"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Multiplayer",
+        "Atmospheric",
+        "Story Rich",
+        "First-Person"
       ],
       "Platforms": [
         "pc",
@@ -5392,6 +6418,13 @@
       "Genres": [
         "Action",
         "Adventure"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Steam Achievements",
+        "Steam Cloud",
+        "Atmospheric",
+        "steam-trading-cards"
       ],
       "Platforms": [
         "pc",
@@ -5423,6 +6456,13 @@
         "Adventure",
         "Platformer"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Steam Achievements",
+        "Steam Cloud",
+        "Atmospheric",
+        "steam-trading-cards"
+      ],
       "Platforms": [
         "pc",
         "playstation",
@@ -5451,6 +6491,13 @@
         "Adventure",
         "Puzzle"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Atmospheric",
+        "Great Soundtrack",
+        "RPG",
+        "Story Rich"
+      ],
       "Platforms": [
         "pc"
       ]
@@ -5476,6 +6523,13 @@
       "Genres": [
         "Action",
         "Shooter"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Multiplayer",
+        "Steam Cloud",
+        "Great Soundtrack",
+        "First-Person"
       ],
       "Platforms": [
         "pc"
@@ -5503,6 +6557,13 @@
         "Action",
         "Indie",
         "Platformer"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Atmospheric"
       ],
       "Platforms": [
         "pc",
@@ -5533,6 +6594,13 @@
       "Genres": [
         "Action"
       ],
+      "Tags": [
+        "War",
+        "battle",
+        "Destruction",
+        "Mythology",
+        "ancient"
+      ],
       "Platforms": [
         "playstation"
       ]
@@ -5558,6 +6626,13 @@
       "Genres": [
         "Shooter",
         "RPG"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Atmospheric",
+        "RPG",
+        "Story Rich",
+        "Open World"
       ],
       "Platforms": [
         "pc",
@@ -5587,6 +6662,10 @@
         "Action",
         "Platformer"
       ],
+      "Tags": [
+        "Singleplayer",
+        "exclusive"
+      ],
       "Platforms": [
         "playstation"
       ]
@@ -5614,6 +6693,13 @@
         "Adventure",
         "Platformer"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Atmospheric",
+        "Great Soundtrack",
+        "Story Rich",
+        "Third Person"
+      ],
       "Platforms": [
         "pc",
         "playstation",
@@ -5640,6 +6726,13 @@
       ],
       "Genres": [
         "RPG"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Atmospheric",
+        "RPG",
+        "Story Rich",
+        "Open World"
       ],
       "Platforms": [
         "pc",
@@ -5670,6 +6763,13 @@
         "Action",
         "Shooter"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Multiplayer",
+        "Atmospheric",
+        "Great Soundtrack",
+        "Story Rich"
+      ],
       "Platforms": [
         "pc",
         "playstation",
@@ -5696,6 +6796,13 @@
       "Genres": [
         "Action"
       ],
+      "Tags": [
+        "Atmospheric",
+        "Dark",
+        "Mystery",
+        "Story",
+        "Surreal"
+      ],
       "Platforms": [
         "playstation"
       ]
@@ -5721,6 +6828,11 @@
       "Genres": [
         "Action",
         "Platformer"
+      ],
+      "Tags": [
+        "Story",
+        "Destruction",
+        "planet"
       ],
       "Platforms": [
         "playstation"
@@ -5749,6 +6861,13 @@
         "Adventure",
         "RPG"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Atmospheric"
+      ],
       "Platforms": [
         "pc",
         "playstation",
@@ -5775,6 +6894,13 @@
       ],
       "Genres": [
         "Action"
+      ],
+      "Tags": [
+        "Exploration",
+        "Stealth",
+        "puzzles",
+        "hero",
+        "island"
       ],
       "Platforms": [
         "pc",
@@ -5806,6 +6932,13 @@
         "Action",
         "RPG"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Steam Achievements",
+        "Steam Cloud",
+        "Atmospheric",
+        "steam-trading-cards"
+      ],
       "Platforms": [
         "pc",
         "playstation",
@@ -5836,6 +6969,13 @@
         "Action",
         "RPG"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Steam Achievements",
+        "Multiplayer",
+        "Full controller support",
+        "Atmospheric"
+      ],
       "Platforms": [
         "pc",
         "playstation",
@@ -5864,6 +7004,13 @@
         "Action",
         "Adventure",
         "Indie"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Atmospheric"
       ],
       "Platforms": [
         "pc",
@@ -5897,6 +7044,13 @@
         "Action",
         "Shooter"
       ],
+      "Tags": [
+        "gameplay feature: multiple endings",
+        "playstation platinum range releases",
+        "1990s",
+        "games made into books",
+        "games made into comics"
+      ],
       "Platforms": [
         "pc",
         "playstation",
@@ -5925,6 +7079,13 @@
         "Action",
         "Adventure",
         "Platformer"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Co-op",
+        "controller support",
+        "overlay",
+        "cloud saves"
       ],
       "Platforms": [
         "pc",
@@ -5958,6 +7119,13 @@
         "Action",
         "Shooter"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Steam Achievements",
+        "Multiplayer",
+        "Full controller support",
+        "Steam Cloud"
+      ],
       "Platforms": [
         "pc",
         "playstation",
@@ -5985,6 +7153,10 @@
       "Genres": [
         "Racing"
       ],
+      "Tags": [
+        "exclusive",
+        "Combat Racing"
+      ],
       "Platforms": [
         "playstation"
       ]
@@ -6010,6 +7182,13 @@
       "Genres": [
         "Action",
         "Adventure"
+      ],
+      "Tags": [
+        "Multiplayer",
+        "Physics",
+        "online",
+        "achievements",
+        "character"
       ],
       "Platforms": [
         "ios",
@@ -6038,6 +7217,13 @@
         "Action",
         "Strategy",
         "Casual"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Steam Achievements",
+        "Multiplayer",
+        "Full controller support",
+        "Steam Cloud"
       ],
       "Platforms": [
         "pc",
@@ -6072,6 +7258,13 @@
         "Casual",
         "Indie"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "steam-trading-cards"
+      ],
       "Platforms": [
         "pc",
         "playstation"
@@ -6099,6 +7292,13 @@
         "Strategy",
         "Simulation",
         "Board Games"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Steam Achievements",
+        "Multiplayer",
+        "Steam Cloud",
+        "2D"
       ],
       "Platforms": [
         "pc",
@@ -6131,6 +7331,13 @@
         "Action",
         "Adventure",
         "RPG"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Steam Achievements",
+        "Multiplayer",
+        "Full controller support",
+        "steam-trading-cards"
       ],
       "Platforms": [
         "pc",
@@ -6166,6 +7373,13 @@
         "Arcade",
         "Casual"
       ],
+      "Tags": [
+        "Multiplayer",
+        "Physics",
+        "party",
+        "race",
+        "speed"
+      ],
       "Platforms": [
         "pc",
         "ios",
@@ -6196,6 +7410,13 @@
         "Arcade",
         "Fighting"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Multiplayer",
+        "2D",
+        "Partial Controller Support",
+        "Local Multiplayer"
+      ],
       "Platforms": [
         "pc",
         "playstation",
@@ -6224,6 +7445,13 @@
       "Genres": [
         "Adventure",
         "RPG"
+      ],
+      "Tags": [
+        "exclusive",
+        "Detective",
+        "city",
+        "console",
+        "offline"
       ],
       "Platforms": [
         "pc",
@@ -6254,6 +7482,13 @@
         "Indie",
         "Puzzle"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Steam Achievements",
+        "Multiplayer",
+        "Full controller support",
+        "Steam Cloud"
+      ],
       "Platforms": [
         "pc",
         "playstation",
@@ -6281,6 +7516,13 @@
       ],
       "Genres": [
         "RPG"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Full controller support",
+        "RPG",
+        "Story Rich",
+        "Pixel Graphics"
       ],
       "Platforms": [
         "pc",
@@ -6310,6 +7552,11 @@
       "Genres": [
         "Simulation"
       ],
+      "Tags": [
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
+      ],
       "Platforms": [
         "nintendo"
       ]
@@ -6334,6 +7581,7 @@
         "Action",
         "RPG"
       ],
+      "Tags": [],
       "Platforms": [
         "xbox"
       ]
@@ -6358,6 +7606,13 @@
       ],
       "Genres": [
         "Action",
+        "RPG"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Steam Achievements",
+        "Multiplayer",
+        "Full controller support",
         "RPG"
       ],
       "Platforms": [
@@ -6387,6 +7642,13 @@
         "Action",
         "Shooter"
       ],
+      "Tags": [
+        "Sci-fi",
+        "android",
+        "first-person-shooter",
+        "ios",
+        "mobile-game"
+      ],
       "Platforms": [
         "ios",
         "android"
@@ -6413,6 +7675,13 @@
       "Genres": [
         "Simulation"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Steam Achievements",
+        "Multiplayer",
+        "Full controller support",
+        "Atmospheric"
+      ],
       "Platforms": [
         "pc",
         "xbox"
@@ -6436,6 +7705,13 @@
         "Adventure",
         "Casual",
         "Indie"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Steam Achievements",
+        "Full controller support",
+        "Atmospheric",
+        "Story Rich"
       ],
       "Platforms": [
         "pc",
@@ -6467,6 +7743,7 @@
       "Genres": [
         "Platformer"
       ],
+      "Tags": [],
       "Platforms": [
         "playstation"
       ]
@@ -6491,6 +7768,13 @@
         "Action",
         "Indie",
         "Platformer"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Steam Achievements",
+        "Multiplayer",
+        "Full controller support",
+        "Steam Cloud"
       ],
       "Platforms": [
         "pc",
@@ -6519,6 +7803,10 @@
       "Genres": [
         "Adventure"
       ],
+      "Tags": [
+        "exclusive",
+        "true exclusive"
+      ],
       "Platforms": [
         "playstation"
       ]
@@ -6541,6 +7829,13 @@
       ],
       "Genres": [
         "Puzzle"
+      ],
+      "Tags": [
+        "Atmospheric",
+        "Great Soundtrack",
+        "Classic",
+        "exclusive",
+        "puzzles"
       ],
       "Platforms": [
         "pc",
@@ -6569,6 +7864,13 @@
         "Racing",
         "Arcade"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Steam Achievements",
+        "Multiplayer",
+        "Full controller support",
+        "Steam Cloud"
+      ],
       "Platforms": [
         "pc",
         "xbox"
@@ -6594,6 +7896,13 @@
       "Genres": [
         "Action",
         "Indie"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Great Soundtrack",
+        "Steam Leaderboards",
+        "Early Access",
+        "VR"
       ],
       "Platforms": [
         "pc",
@@ -6622,6 +7931,10 @@
         "Action",
         "Shooter"
       ],
+      "Tags": [
+        "exclusive",
+        "true exclusive"
+      ],
       "Platforms": [
         "xbox"
       ]
@@ -6648,6 +7961,9 @@
         "Action",
         "Platformer"
       ],
+      "Tags": [
+        "Singleplayer"
+      ],
       "Platforms": [
         "playstation",
         "nintendo"
@@ -6673,6 +7989,11 @@
       ],
       "Genres": [
         "Shooter"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Multiplayer",
+        "cooperative"
       ],
       "Platforms": [
         "playstation",
@@ -6703,6 +8024,11 @@
         "Adventure",
         "Platformer"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Multiplayer",
+        "exclusive"
+      ],
       "Platforms": [
         "nintendo"
       ]
@@ -6727,6 +8053,12 @@
       ],
       "Genres": [
         "Racing"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Multiplayer",
+        "exclusive",
+        "true exclusive"
       ],
       "Platforms": [
         "nintendo"
@@ -6753,11 +8085,44 @@
       "Genres": [
         "Sports"
       ],
+      "Tags": [
+        "Singleplayer",
+        "Multiplayer"
+      ],
       "Platforms": [
         "pc",
         "playstation",
         "xbox",
         "nintendo"
+      ]
+    },
+    {
+      "ID": 52670,
+      "Title": "Ape Escape",
+      "ReleaseDate": "1999-05-31",
+      "ImageURL": "https://media.rawg.io/media/games/eb7/eb752b66d0060b832e5037c743850ab7.jpg",
+      "StoreURL": "https://rawg.io/games/ape-escape",
+      "Metacritic": 90,
+      "AddedCount": 159,
+      "Rating": 3.93,
+      "ShortScreenshots": [
+        "https://media.rawg.io/media/games/eb7/eb752b66d0060b832e5037c743850ab7.jpg",
+        "https://media.rawg.io/media/screenshots/006/00665d730fa57d111e8ccf9a1a64f909.jpg",
+        "https://media.rawg.io/media/screenshots/472/472e63daef3ea2b87b87e83a5ac0753c.jpg",
+        "https://media.rawg.io/media/screenshots/90d/90daa22de16e38d3562c742178752d35.jpg",
+        "https://media.rawg.io/media/screenshots/5d6/5d6c63685e18c908bbc0e0a27cfccc96.jpg",
+        "https://media.rawg.io/media/screenshots/8e9/8e98db58799ec74cf27dfdb4cee466b8.jpg",
+        "https://media.rawg.io/media/screenshots/b5e/b5edec7c1319dbe905ca8501e92fe7ae.jpg"
+      ],
+      "Genres": [
+        "Platformer"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Multiplayer"
+      ],
+      "Platforms": [
+        "playstation"
       ]
     }
   ]
