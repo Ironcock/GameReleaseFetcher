@@ -10,10 +10,10 @@ import time
 API_KEY = os.environ.get("RAWG_API_KEY") 
 BASE_URL = "https://api.rawg.io/api/games"
 
-# 1. API REQUEST PARAMETERS
-PC_PARENT_PLATFORM_ID = 1  # PC
+# 1. API REQUEST PARAMETERS (Matched to your HTML)
+PC_PARENT_PLATFORM_ID = 1
 
-# 2. CONTENT FILTERING LOGIC
+# 2. CONTENT FILTERING LOGIC (Matched to your HTML)
 BLACKLIST = ['nsfw', 'erotica', 'hentai', 'porn', 'uncensored', 'sex']
 CONDITIONAL = ['nudity', 'sexual-content', 'adult'] 
 
@@ -25,9 +25,8 @@ def get_date_range(days_back=0, days_forward=0):
 
 def is_valid_game(game):
     """
-    Implements the Smart Filter logic with NULL safety (Crash Fix).
+    Implements the Smart Filter logic.
     """
-    # FIX: Handle case where tags is None/Null to prevent crashes
     raw_tags = game.get('tags')
     if not raw_tags:
         tags = []
@@ -41,7 +40,7 @@ def is_valid_game(game):
         return False 
 
     # Check 2: Conditional Block
-    # If game has 'nudity' but < 10 owners, it's assumed shovelware.
+    # Matches your HTML: if (added < 10) reject
     if any(tag in CONDITIONAL for tag in tags):
         if added_count < 10:
             return False 
@@ -76,17 +75,12 @@ def fetch_games(endpoint_params, target_limit=500):
                 if len(games_data) >= target_limit:
                     break
 
-                # --- 3. THE SMART FILTER ---
                 if not is_valid_game(game):
                     continue
 
-                # --- 4. DATA MAPPING ---
                 short_screenshots = [s['image'] for s in game.get('short_screenshots', [])]
-                
-                # FIX: Handle null tags safely here too for the JSON output
                 raw_tags = game.get('tags')
                 tags_list = [t['slug'] for t in raw_tags] if raw_tags else []
-                
                 platforms = []
                 if game.get('parent_platforms'):
                     platforms = [p['platform']['slug'] for p in game['parent_platforms']]
@@ -122,7 +116,8 @@ def generate_daily_feed():
     print("--- Starting Daily Feed ---")
     data = {}
     
-    # A. New Releases (Last 30 Days) | Ordered by Date (-released)
+    # 1. NEW RELEASES: Last 30 Days (Sort: Date Descending)
+    # We keep "-released" here to show the NEWEST games at the top.
     print("Fetching New Releases (Last 30 Days)...")
     data["NewReleases"] = fetch_games({
         "dates": get_date_range(days_back=30, days_forward=0),
@@ -130,11 +125,13 @@ def generate_daily_feed():
         "parent_platforms": PC_PARENT_PLATFORM_ID 
     }, target_limit=500)
 
-    # B. Upcoming (Next 90 Days) | Ordered by Date (released)
+    # 2. UPCOMING: Next 90 Days (Sort: Date Ascending)
+    # MATCHING YOUR HTML: ordering="released"
+    # This shows the SOONEST releases first (tomorrow, next week, etc.)
     print("Fetching Upcoming (Next 90 Days)...")
     data["Upcoming"] = fetch_games({
         "dates": get_date_range(days_back=0, days_forward=90),
-        "ordering": "released", 
+        "ordering": "released", # <--- CHANGED TO MATCH HTML
         "parent_platforms": PC_PARENT_PLATFORM_ID
     }, target_limit=500)
 
@@ -145,7 +142,6 @@ def generate_monthly_feed():
     print("--- Starting Monthly Feed ---")
     data = {}
     
-    # C. Hall of Fame (Top 250) | Ordered by Metacritic
     print("Fetching Hall of Fame...")
     data["HallOfFame"] = fetch_games({
         "ordering": "-metacritic",
