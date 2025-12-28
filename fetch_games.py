@@ -9,7 +9,6 @@ import time
 # CONFIGURATION
 API_KEY = os.environ.get("RAWG_API_KEY") 
 BASE_URL = "https://api.rawg.io/api/games"
-PC_PARENT_PLATFORM_ID = 1  # PC Only
 
 def get_date_range(days_back=0, days_forward=0):
     today = datetime.date.today()
@@ -20,10 +19,9 @@ def get_date_range(days_back=0, days_forward=0):
 def fetch_games(endpoint_params, target_limit=500):
     games_data = []
     page = 1
-    # Safety break: 40 games/page * 25 pages = 1000 max
     max_pages = 25 
     
-    print(f"   > Fetching target: {target_limit} items (Raw Mode)...")
+    print(f"   > Fetching target: {target_limit} items (Unfiltered & Unordered)...")
 
     while len(games_data) < target_limit and page < max_pages:
         params = {
@@ -46,12 +44,11 @@ def fetch_games(endpoint_params, target_limit=500):
                 if len(games_data) >= target_limit:
                     break
 
-                # EXTRACT DATA (No Filtering)
+                # EXTRACT RAW DATA
                 screenshots = [s['image'] for s in game.get('short_screenshots', [])]
-                
-                # Fetch ALL tags (so C# can filter efficiently)
                 tags_list = [t['slug'] for t in game.get('tags', [])]
-
+                
+                # Capture all platforms (C# will filter later)
                 platforms = []
                 if game.get('parent_platforms'):
                     platforms = [p['platform']['slug'] for p in game['parent_platforms']]
@@ -67,7 +64,7 @@ def fetch_games(endpoint_params, target_limit=500):
                     "Rating": game.get('rating', 0.0),
                     "ShortScreenshots": screenshots, 
                     "Genres": [g['name'] for g in game.get('genres', [])][:3],
-                    "Tags": tags_list,  # Sending raw tags to C#
+                    "Tags": tags_list,
                     "Platforms": platforms
                 }
                 
@@ -87,20 +84,16 @@ def generate_daily_feed():
     print("--- Starting Daily Feed ---")
     data = {}
     
-    # 1. New Releases: Last 30 Days
-    print("Fetching New Releases...")
+    # NEW RELEASES: Strictly last 30 days, no platform filter, no sorting
+    print("Fetching New Releases (Last 30 Days)...")
     data["NewReleases"] = fetch_games({
         "dates": get_date_range(days_back=30, days_forward=0),
-        "ordering": "-added", 
-        "parent_platforms": PC_PARENT_PLATFORM_ID 
     }, target_limit=500)
 
-    # 2. Upcoming: Next 3 Months
-    print("Fetching Upcoming...")
+    # UPCOMING: Next 3 months, no platform filter, no sorting
+    print("Fetching Upcoming (Next 90 Days)...")
     data["Upcoming"] = fetch_games({
         "dates": get_date_range(days_back=0, days_forward=90),
-        "ordering": "-added", 
-        "parent_platforms": PC_PARENT_PLATFORM_ID
     }, target_limit=500)
 
     with open('daily_games.json', 'w') as f:
@@ -110,11 +103,11 @@ def generate_monthly_feed():
     print("--- Starting Monthly Feed ---")
     data = {}
     
-    # 3. Top Games (Hall of Fame)
+    # TOP GAMES: We keep metacritic ordering here because an unordered 
+    # Hall of Fame wouldn't make sense, but we removed platform filters.
     print("Fetching Top 250...")
     data["HallOfFame"] = fetch_games({
         "ordering": "-metacritic",
-        "parent_platforms": PC_PARENT_PLATFORM_ID
     }, target_limit=250)
 
     with open('top_games.json', 'w') as f:
