@@ -28,8 +28,8 @@ def get_auth_token():
 
 def resolve_store(game):
     """
-    Exact port of your JS resolveStore logic.
-    Checks Game -> Version Parent -> Parent Game for store links.
+    Finds the best store link (Steam > Epic > GOG).
+    Checks: Game -> Version Parent -> Parent Game
     """
     potential_sources = []
     
@@ -45,24 +45,20 @@ def resolve_store(game):
     if "parent_game" in game and "external_games" in game["parent_game"]:
         potential_sources.append(game["parent_game"]["external_games"])
     
-    # Iterate Priority (Steam -> Epic -> GOG)
     for store_id in STORE_PRIORITY:
         for source_list in potential_sources:
-            # Find matching store in this list
-            match = next((item for item in source_list if item.get("category") == store_id), None)
+            # FIX: Check 'external_game_source' instead of 'category'
+            match = next((item for item in source_list if item.get("external_game_source") == store_id), None)
             
-            # Note: IGDB API uses 'category' for external_game_source enum, 
-            # but your query asks for 'external_game_source' (which is correct in Apicalypse, 
-            # but returned as 'category' in JSON often, or we map explicitly).
-            # Let's handle the specific fields requested in your query: 'external_game_source' and 'uid'.
-            # IGDB Python output usually keys it as 'category' for the enum or just keeps the field name.
-            # We will check both to be safe.
-            if not match:
-                match = next((item for item in source_list if item.get("external_game_source") == store_id), None)
-
-            if match and "uid" in match:
-                base_url = STORE_URLS.get(store_id)
-                return base_url.format(match["uid"])
+            if match:
+                # OPTION A: Build URL from UID (Cleaner)
+                if "uid" in match:
+                    base_url = STORE_URLS.get(store_id)
+                    return base_url.format(match["uid"])
+                
+                # OPTION B: Use direct URL if IGDB provided it
+                if "url" in match:
+                    return match["url"]
     
     return ""
 
@@ -82,7 +78,7 @@ def fetch_from_igdb(token, query):
         return []
 
 def map_game_to_json(game):
-    # Image Resolution
+    # Image Resolution (Swap thumbnail for big cover)
     image_url = ""
     if "cover" in game and "url" in game["cover"]:
         image_url = "https:" + game["cover"]["url"].replace("t_thumb", "t_cover_big")
@@ -90,7 +86,6 @@ def map_game_to_json(game):
     # Screenshots
     screenshots = []
     if "screenshots" in game:
-        # Limit to 10, match JS logic
         for s in game["screenshots"][:10]:
             if "url" in s:
                 screenshots.append("https:" + s["url"].replace("t_thumb", "t_screenshot_med"))
@@ -103,7 +98,7 @@ def map_game_to_json(game):
     # Store Logic
     store_url = resolve_store(game)
 
-    # Genres (Array of strings)
+    # Genres
     genres = [g['name'] for g in game.get('genres', [])]
 
     return {
@@ -112,12 +107,12 @@ def map_game_to_json(game):
         "ReleaseDate": release_date,
         "ImageURL": image_url,
         "StoreURL": store_url,
-        "Metacritic": round(game.get("rating", 0)), # Using IGDB rating as proxy
-        "AddedCount": game.get("hypes", 0),         # Using Hypes as proxy for 'Added'
+        "Metacritic": round(game.get("rating", 0)), 
+        "AddedCount": game.get("hypes", 0),
         "Rating": game.get("rating", 0.0),
         "ShortScreenshots": screenshots,
         "Genres": genres[:3],
-        "Tags": [], # IGDB keywords are messy, keeping empty to reduce noise or you can map keywords
+        "Tags": [],
         "Platforms": ["pc"]
     }
 
@@ -130,54 +125,35 @@ def main():
     day_90_future = now + (90 * 24 * 60 * 60)
     year_20_ago = now - (20 * 365 * 24 * 60 * 60)
 
-    # Common fields from your HTML
-    fields = """
+    # --- THE FIX: Use 'external_game_source' instead of 'category' ---
+    fields_raw = """
         name, cover.url, screenshots.url, rating, rating_count, first_release_date, hypes, game_type, genres.name,
-        external_games.category, external_games.uid,
-        parent_game.external_games.category, parent_game.external_games.uid,
-        version_parent.external_games.category, version_parent.external_games.uid
+        external_games.external_game_source, external_games.uid, external_games.url,
+        parent_game.external_games.external_game_source, parent_game.external_games.uid, parent_game.external_games.url,
+        version_parent.external_games.external_game_source, version_parent.external_games.uid, version_parent.external_games.url
     """
-    # Note: 'external_game_source' in query becomes 'category' in result object usually.
+    fields = fields_raw.replace("\n", "").replace(" ", "")
 
-    # 1. HALL OF FAME (Top Rated)
-    # Logic: PC(6), Last 20 Years, Rating>=80, Count>100, No Parents/Versions
+    # 1. HALL OF FAME
     print("Fetching Hall of Fame...")
-    query_hof = f"""
-        fields {fields};
-        where cover != null & platforms = (6) & first_release_date >= {year_20_ago} & rating >= 80 & rating_count > 100 & parent_game = null & version_parent = null;
-        sort rating desc;
-        limit 150;
-    """
+    query_hof = f"fields {fields}; where cover != null & platforms = (6) & first_release_date >= {year_20_ago} & rating >= 80 & rating_count > 100 & parent_game = null & version_parent = null; sort rating desc; limit 150;"
+    
     hof_raw = fetch_from_igdb(token, query_hof)
     hof_data = [map_game_to_json(g) for g in hof_raw]
     
     with open('top_games.json', 'w') as f:
         json.dump({"HallOfFame": hof_data}, f, indent=2)
 
-    # 2. NEW & UPCOMING
+    # 2. DAILY FEED
     daily_data = {}
     
-    # New Releases (Last 30 Days)
-    # Logic: PC(6), 30 Days Ago -> Now, Main Game Only (game_type=0)
     print("Fetching New Releases...")
-    query_new = f"""
-        fields {fields};
-        where cover != null & first_release_date >= {day_30_ago} & first_release_date <= {now} & platforms = (6) & game_type = 0;
-        sort hypes desc;
-        limit 50;
-    """
+    query_new = f"fields {fields}; where cover != null & first_release_date >= {day_30_ago} & first_release_date <= {now} & platforms = (6) & game_type = 0; sort hypes desc; limit 50;"
     new_raw = fetch_from_igdb(token, query_new)
     daily_data["NewReleases"] = [map_game_to_json(g) for g in new_raw]
 
-    # Upcoming (Next 90 Days)
-    # Logic: PC(6), Now -> 90 Days Future, Main Game Only (game_type=0)
     print("Fetching Upcoming...")
-    query_upcoming = f"""
-        fields {fields};
-        where cover != null & first_release_date > {now} & first_release_date < {day_90_future} & platforms = (6) & game_type = 0;
-        sort hypes desc;
-        limit 50;
-    """
+    query_upcoming = f"fields {fields}; where cover != null & first_release_date > {now} & first_release_date < {day_90_future} & platforms = (6) & game_type = 0; sort hypes desc; limit 50;"
     upcoming_raw = fetch_from_igdb(token, query_upcoming)
     daily_data["Upcoming"] = [map_game_to_json(g) for g in upcoming_raw]
 
