@@ -590,32 +590,6 @@
       ]
     },
     {
-      "ID": 346730,
-      "Title": "The Fortress",
-      "ReleaseDate": "2025-11-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xmc.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3459150",
-      "Metacritic": 0,
-      "AddedCount": 3,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx5ho.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx5hp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx5hq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx5hm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx5hn.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 342811,
       "Title": "She's Leaving",
       "ReleaseDate": "2025-12-02",
@@ -1101,37 +1075,6 @@
       ]
     },
     {
-      "ID": 373685,
-      "Title": "The Beast Is yet to Come",
-      "ReleaseDate": "2025-11-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob25c.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3771100",
-      "Metacritic": 0,
-      "AddedCount": 1,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scztve.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scztv1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scztv2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scztv3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scztv6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scztvc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scztvd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scztv4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scztv8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scztv9.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 373491,
       "Title": "Dogpile",
       "ReleaseDate": "2025-12-10",
@@ -1348,6 +1291,65 @@
       "Platforms": [
         "pc"
       ]
+    },
+    {
+      "ID": 365810,
+      "Title": "Cloak And Coin",
+      "ReleaseDate": "2025-12-05",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coai71.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3525440",
+      "Metacritic": 0,
+      "AddedCount": 1,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz7xo.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz7xq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz7xt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz7xr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz7xn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz7xp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz7xs.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 365028,
+      "Title": "Summit Drive",
+      "ReleaseDate": "2025-12-20",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob08f.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3871250",
+      "Metacritic": 0,
+      "AddedCount": 1,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyvy3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyvy4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyvy5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyvy6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyvy7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyvy8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyvy9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyvya.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oig.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oih.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
     }
   ],
   "Upcoming": [
@@ -1389,7 +1391,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqai.jpg",
       "StoreURL": "https://store.steampowered.com/app/3321460",
       "Metacritic": 0,
-      "AddedCount": 183,
+      "AddedCount": 184,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8v2g.jpg",
@@ -1413,7 +1415,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaveu.jpg",
       "StoreURL": "https://store.steampowered.com/app/2129530",
       "Metacritic": 0,
-      "AddedCount": 112,
+      "AddedCount": 113,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoic.jpg",
@@ -1522,6 +1524,33 @@
       ]
     },
     {
+      "ID": 296831,
+      "Title": "Slay the Spire II",
+      "ReleaseDate": "2026-03-01",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co82c5.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2868840",
+      "Metacritic": 0,
+      "AddedCount": 59,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrupb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrupd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrupf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrup6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrup8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrup9.jpg"
+      ],
+      "Genres": [
+        "Strategy",
+        "Indie",
+        "Card & Board Game"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 249324,
       "Title": "Mouse: P.I. For Hire",
       "ReleaseDate": "2026-03-19",
@@ -1545,33 +1574,6 @@
       "Genres": [
         "Shooter",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 296831,
-      "Title": "Slay the Spire II",
-      "ReleaseDate": "2026-03-01",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co82c5.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2868840",
-      "Metacritic": 0,
-      "AddedCount": 58,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrupb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrupd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrupf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrup6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrup8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrup9.jpg"
-      ],
-      "Genres": [
-        "Strategy",
-        "Indie",
-        "Card & Board Game"
       ],
       "Tags": [],
       "Platforms": [
@@ -2087,6 +2089,33 @@
       ]
     },
     {
+      "ID": 235085,
+      "Title": "BrokenLore: Unfollow",
+      "ReleaseDate": "2026-01-16",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8aey.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2133830",
+      "Metacritic": 0,
+      "AddedCount": 11,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckxcc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckxcd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckxce.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckxcf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckxcg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckxc9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckxca.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckxcb.jpg"
+      ],
+      "Genres": [
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 234662,
       "Title": "Opus: Prism Peak",
       "ReleaseDate": "2026-03-01",
@@ -2129,33 +2158,6 @@
       ],
       "Genres": [
         "Role-playing (RPG)",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 235085,
-      "Title": "BrokenLore: Unfollow",
-      "ReleaseDate": "2026-01-16",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8aey.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2133830",
-      "Metacritic": 0,
-      "AddedCount": 10,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckxcc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckxcd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckxce.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckxcf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckxcg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckxc9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckxca.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckxcb.jpg"
-      ],
-      "Genres": [
         "Adventure"
       ],
       "Tags": [],
