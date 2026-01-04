@@ -56,7 +56,7 @@
       "StoreURL": "https://store.steampowered.com/app/1718460",
       "Metacritic": 70,
       "AddedCount": 29,
-      "Rating": 70.02288874915926,
+      "Rating": 69.96493587438312,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw4gf.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw4gg.jpg",
@@ -704,6 +704,26 @@
       ]
     },
     {
+      "ID": 319148,
+      "Title": "Scramble Heart City",
+      "ReleaseDate": "2025-12-31",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8wvq.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3041800",
+      "Metacritic": 0,
+      "AddedCount": 2,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu3xh.jpg"
+      ],
+      "Genres": [
+        "Fighting"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 306326,
       "Title": "Ukrainian Fight Drone Simulator",
       "ReleaseDate": "2025-12-10",
@@ -778,6 +798,28 @@
       "Genres": [
         "Indie"
       ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 380483,
+      "Title": "Robot Space Frenzy",
+      "ReleaseDate": "2025-12-08",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob1hl.jpg",
+      "StoreURL": "https://store.steampowered.com/app/4193830",
+      "Metacritic": 0,
+      "AddedCount": 1,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10uv9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10uva.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10uvb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10uvc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10uvd.jpg"
+      ],
+      "Genres": [],
       "Tags": [],
       "Platforms": [
         "pc"
@@ -904,24 +946,27 @@
       ]
     },
     {
-      "ID": 372780,
-      "Title": "Horde of Viscount",
-      "ReleaseDate": "2025-12-05",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coanuq.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3927580",
+      "ID": 372353,
+      "Title": "Tin Lord",
+      "ReleaseDate": "2026-01-04",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coanak.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3277010",
       "Metacritic": 0,
       "AddedCount": 1,
       "Rating": 0.0,
       "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczoq6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczoq7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczoq8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczoq9.jpg"
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczmaz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczmaw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczmb0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczmb3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczmb4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczmb1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczmb2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczmax.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczmay.jpg"
       ],
       "Genres": [
-        "Platform",
-        "Role-playing (RPG)",
-        "Adventure"
+        "Strategy"
       ],
       "Tags": [],
       "Platforms": [
@@ -1032,34 +1077,6 @@
         "Platform",
         "Simulator",
         "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 365810,
-      "Title": "Cloak And Coin",
-      "ReleaseDate": "2025-12-05",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coai71.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3525440",
-      "Metacritic": 0,
-      "AddedCount": 1,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz7xo.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz7xq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz7xt.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz7xr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz7xn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz7xp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz7xs.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Adventure",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -1179,66 +1196,6 @@
       ]
     },
     {
-      "ID": 361757,
-      "Title": "The You Quiz",
-      "ReleaseDate": "2025-12-05",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaapo.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3669740",
-      "Metacritic": 0,
-      "AddedCount": 1,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyls1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyls2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyls3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyls4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyls5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyls6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyls7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyls8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyls9.jpg"
-      ],
-      "Genres": [
-        "Strategy",
-        "Quiz/Trivia",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 361595,
-      "Title": "Hell of Fear: Mind Breach",
-      "ReleaseDate": "2025-12-05",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coabqn.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3372090",
-      "Metacritic": 0,
-      "AddedCount": 1,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyla4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyla5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyla6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyl9x.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyl9y.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyl9z.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyla0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyla1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyla2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyla3.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 360825,
       "Title": "Inside the Flesh Engine",
       "ReleaseDate": "2025-12-14",
@@ -1344,6 +1301,37 @@
       "Platforms": [
         "pc"
       ]
+    },
+    {
+      "ID": 356255,
+      "Title": "Penny for Your Potion",
+      "ReleaseDate": "2025-12-13",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa5om.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3560010",
+      "Metacritic": 0,
+      "AddedCount": 1,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy1ur.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy1ut.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy1v0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy1uq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy1us.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy1uw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy1ux.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy1uy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy1uz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy1uv.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Strategy"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
     }
   ],
   "Upcoming": [
@@ -1354,7 +1342,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob3bo.jpg",
       "StoreURL": "https://store.steampowered.com/app/3764200",
       "Metacritic": 0,
-      "AddedCount": 206,
+      "AddedCount": 207,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r3.jpg",
@@ -1493,7 +1481,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9x26.jpg",
       "StoreURL": "https://store.steampowered.com/app/1588550",
       "Metacritic": 0,
-      "AddedCount": 68,
+      "AddedCount": 67,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnvv.jpg",
