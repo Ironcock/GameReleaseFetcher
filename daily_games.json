@@ -209,6 +209,37 @@
       ]
     },
     {
+      "ID": 379608,
+      "Title": "My Winter Car",
+      "ReleaseDate": "2025-12-29",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coawz3.jpg",
+      "StoreURL": "https://store.steampowered.com/app/4164420",
+      "Metacritic": 0,
+      "AddedCount": 7,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10vqd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10vq9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10vqa.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10vqb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10vqc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10vqe.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10vqf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10vqg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10vqh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10vqi.jpg"
+      ],
+      "Genres": [
+        "Racing",
+        "Simulator",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 340143,
       "Title": "Dead Format",
       "ReleaseDate": "2025-12-10",
@@ -283,35 +314,6 @@
       "Genres": [
         "Simulator",
         "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 348596,
-      "Title": "Light Up the Town",
-      "ReleaseDate": "2025-12-07",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coat5a.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3419910",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxf1q.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxf1r.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxf1t.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxf1v.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxf1x.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxf1z.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxf21.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxf27.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxf2a.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxf2e.jpg"
-      ],
-      "Genres": [
         "Indie"
       ],
       "Tags": [],
@@ -704,26 +706,6 @@
       ]
     },
     {
-      "ID": 319148,
-      "Title": "Scramble Heart City",
-      "ReleaseDate": "2025-12-31",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8wvq.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3041800",
-      "Metacritic": 0,
-      "AddedCount": 2,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu3xh.jpg"
-      ],
-      "Genres": [
-        "Fighting"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 306326,
       "Title": "Ukrainian Fight Drone Simulator",
       "ReleaseDate": "2025-12-10",
@@ -938,6 +920,33 @@
       ],
       "Genres": [
         "Simulator",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 372933,
+      "Title": "Mal\u00f3n",
+      "ReleaseDate": "2026-01-06",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0l0.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3462960",
+      "Metacritic": 0,
+      "AddedCount": 1,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczpmq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczpmr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczpms.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczpmt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczpmu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczpmv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczpmw.jpg"
+      ],
+      "Genres": [
+        "Strategy",
         "Indie"
       ],
       "Tags": [],
@@ -1342,7 +1351,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob3bo.jpg",
       "StoreURL": "https://store.steampowered.com/app/3764200",
       "Metacritic": 0,
-      "AddedCount": 209,
+      "AddedCount": 211,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r3.jpg",
