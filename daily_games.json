@@ -1,28 +1,6 @@
 {
   "NewReleases": [
     {
-      "ID": 126460,
-      "Title": "2XKO",
-      "ReleaseDate": "2026-01-01",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coamzd.jpg",
-      "StoreURL": "",
-      "Metacritic": 71,
-      "AddedCount": 56,
-      "Rating": 70.77111635535165,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczadj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczadk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczadh.jpg"
-      ],
-      "Genres": [
-        "Fighting"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 27420,
       "Title": "Ashes of Creation",
       "ReleaseDate": "2025-12-11",
@@ -133,33 +111,6 @@
       ]
     },
     {
-      "ID": 129964,
-      "Title": "Skate Story",
-      "ReleaseDate": "2025-12-08",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4xg0.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1263240",
-      "Metacritic": 62,
-      "AddedCount": 20,
-      "Rating": 62.30940082068663,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scht2x.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scht2y.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scht2z.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scht30.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scht31.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scht32.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Sport",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 328347,
       "Title": "Death Howl",
       "ReleaseDate": "2025-12-09",
@@ -184,6 +135,26 @@
         "Strategy",
         "Turn-based strategy (TBS)",
         "Tactical"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 282355,
+      "Title": "StarRupture",
+      "ReleaseDate": "2026-01-06",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9bqh.jpg",
+      "StoreURL": "",
+      "Metacritic": 0,
+      "AddedCount": 11,
+      "Rating": 0.0,
+      "ShortScreenshots": [],
+      "Genres": [
+        "Simulator",
+        "Adventure",
+        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -258,34 +229,6 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwakh.jpg"
       ],
       "Genres": [],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 252768,
-      "Title": "Angeline Era",
-      "ReleaseDate": "2025-12-08",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9x1s.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2393920",
-      "Metacritic": 0,
-      "AddedCount": 6,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10f4z.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10f50.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10f54.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10f55.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10f52.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10f51.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10f53.jpg"
-      ],
-      "Genres": [
-        "Hack and slash/Beat 'em up",
-        "Adventure",
-        "Indie"
-      ],
       "Tags": [],
       "Platforms": [
         "pc"
@@ -780,28 +723,6 @@
       "Genres": [
         "Indie"
       ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 380483,
-      "Title": "Robot Space Frenzy",
-      "ReleaseDate": "2025-12-08",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob1hl.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4193830",
-      "Metacritic": 0,
-      "AddedCount": 1,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10uv9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10uva.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10uvb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10uvc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10uvd.jpg"
-      ],
-      "Genres": [],
       "Tags": [],
       "Platforms": [
         "pc"
@@ -1341,6 +1262,86 @@
       "Platforms": [
         "pc"
       ]
+    },
+    {
+      "ID": 354957,
+      "Title": "Vital Shell",
+      "ReleaseDate": "2026-01-07",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa4n8.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3741860",
+      "Metacritic": 0,
+      "AddedCount": 1,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczru8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczru9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczrua.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczrub.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczruc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczrud.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 351784,
+      "Title": "Joltt: Battle Pillars",
+      "ReleaseDate": "2026-01-01",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa28k.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3353130",
+      "Metacritic": 0,
+      "AddedCount": 1,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxsa4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxsa5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxsa6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxsa7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxsa8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxsa9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxsaa.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxsab.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxsac.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxsad.jpg"
+      ],
+      "Genres": [
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 348888,
+      "Title": "Recyclic",
+      "ReleaseDate": "2025-12-15",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coavg5.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3601590",
+      "Metacritic": 0,
+      "AddedCount": 1,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxgaz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxgay.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxgb0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxgb1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxgaw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxgax.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
     }
   ],
   "Upcoming": [
@@ -1351,7 +1352,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob3bo.jpg",
       "StoreURL": "https://store.steampowered.com/app/3764200",
       "Metacritic": 0,
-      "AddedCount": 211,
+      "AddedCount": 212,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r3.jpg",
@@ -1406,7 +1407,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaveu.jpg",
       "StoreURL": "https://store.steampowered.com/app/2129530",
       "Metacritic": 0,
-      "AddedCount": 116,
+      "AddedCount": 117,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoic.jpg",
@@ -1551,7 +1552,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co82c5.jpg",
       "StoreURL": "https://store.steampowered.com/app/2868840",
       "Metacritic": 0,
-      "AddedCount": 59,
+      "AddedCount": 60,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrupb.jpg",
