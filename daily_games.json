@@ -56,37 +56,6 @@
       ]
     },
     {
-      "ID": 144859,
-      "Title": "Unbeatable",
-      "ReleaseDate": "2025-12-09",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9ozh.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2240620",
-      "Metacritic": 0,
-      "AddedCount": 26,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymub.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymuc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymud.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymue.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymuf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymug.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymuh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymui.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymuj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymuk.jpg"
-      ],
-      "Genres": [
-        "Music",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 148454,
       "Title": "Pioner",
       "ReleaseDate": "2025-12-16",
@@ -111,46 +80,26 @@
       ]
     },
     {
-      "ID": 328347,
-      "Title": "Death Howl",
-      "ReleaseDate": "2025-12-09",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob5hu.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2825880",
-      "Metacritic": 0,
-      "AddedCount": 13,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv39g.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv39h.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv39i.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv39j.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv39k.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv39l.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv39m.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv39n.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv39o.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv39p.jpg"
-      ],
-      "Genres": [
-        "Strategy",
-        "Turn-based strategy (TBS)",
-        "Tactical"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 282355,
       "Title": "StarRupture",
       "ReleaseDate": "2026-01-06",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9bqh.jpg",
-      "StoreURL": "",
+      "StoreURL": "https://store.steampowered.com/app/1631270",
       "Metacritic": 0,
       "AddedCount": 11,
       "Rating": 0.0,
-      "ShortScreenshots": [],
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1147d.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1147e.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1147f.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1147g.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1147h.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1147i.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1147j.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1147k.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1147l.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1147m.jpg"
+      ],
       "Genres": [
         "Simulator",
         "Adventure",
@@ -295,57 +244,6 @@
       ]
     },
     {
-      "ID": 202135,
-      "Title": "Bits & Bops",
-      "ReleaseDate": "2025-12-09",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coav6f.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1929290",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckaa8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckaa9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckaaa.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckaab.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckaac.jpg"
-      ],
-      "Genres": [
-        "Music",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 325276,
-      "Title": "Ultimate Sheep Raccoon",
-      "ReleaseDate": "2025-12-09",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9547.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2923350",
-      "Metacritic": 0,
-      "AddedCount": 4,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuqqj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuqqk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuqql.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuqqm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuqqn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuqqo.jpg"
-      ],
-      "Genres": [
-        "Racing",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 318266,
       "Title": "Fear the Timeloop",
       "ReleaseDate": "2026-01-01",
@@ -424,28 +322,22 @@
       ]
     },
     {
-      "ID": 317973,
-      "Title": "Netherworld Covenant",
-      "ReleaseDate": "2025-12-09",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9sn2.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2735580",
+      "ID": 340595,
+      "Title": "Heartopia",
+      "ReleaseDate": "2026-01-07",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coauek.jpg",
+      "StoreURL": "https://store.steampowered.com/app/4025700",
       "Metacritic": 0,
       "AddedCount": 3,
       "Rating": 0.0,
       "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvjlq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvjlr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvjls.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvjlt.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvjlu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvjlv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvjlw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvjlx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvjly.jpg"
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwdaw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwdax.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwdat.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwday.jpg"
       ],
       "Genres": [
-        "Role-playing (RPG)",
-        "Adventure",
+        "Simulator",
         "Indie"
       ],
       "Tags": [],
@@ -506,6 +398,29 @@
         "Simulator",
         "Adventure",
         "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 353384,
+      "Title": "Baldi's Basics: Encounter Doors",
+      "ReleaseDate": "2025-12-30",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coar4o.jpg",
+      "StoreURL": "",
+      "Metacritic": 0,
+      "AddedCount": 2,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxuya.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxuyb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxuyc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxuyd.jpg"
+      ],
+      "Genres": [
+        "Simulator"
       ],
       "Tags": [],
       "Platforms": [
@@ -649,6 +564,37 @@
       ]
     },
     {
+      "ID": 327060,
+      "Title": "Oddcore",
+      "ReleaseDate": "2026-01-07",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9euy.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2896260",
+      "Metacritic": 0,
+      "AddedCount": 2,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1110m.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1110n.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1110o.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11110.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11111.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11112.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11113.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1110p.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1110q.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1110r.jpg"
+      ],
+      "Genres": [
+        "Shooter",
+        "Platform",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 306326,
       "Title": "Ukrainian Fight Drone Simulator",
       "ReleaseDate": "2025-12-10",
@@ -698,6 +644,62 @@
         "Shooter",
         "Tactical",
         "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 124042,
+      "Title": "Terra Invicta",
+      "ReleaseDate": "2026-01-05",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9fgo.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1176470",
+      "Metacritic": 60,
+      "AddedCount": 2,
+      "Rating": 60.02988047808765,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scahpz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scahq0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scahq1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scahq2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scahq3.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Strategy",
+        "Tactical"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 381067,
+      "Title": "Unknown Faces",
+      "ReleaseDate": "2026-01-07",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob02p.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3494630",
+      "Metacritic": 0,
+      "AddedCount": 1,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10s7z.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10s80.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10s81.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10s82.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10s83.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10s84.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10s85.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10s87.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10s88.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10s89.jpg"
+      ],
+      "Genres": [
+        "Strategy",
+        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -823,6 +825,33 @@
       ]
     },
     {
+      "ID": 373233,
+      "Title": "Pencil Stories",
+      "ReleaseDate": "2026-01-08",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaxm6.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3873450",
+      "Metacritic": 0,
+      "AddedCount": 1,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczrhd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczrhe.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczrhf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczrhg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczrhh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczrhi.jpg"
+      ],
+      "Genres": [
+        "Strategy",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 373075,
       "Title": "Monster Looter",
       "ReleaseDate": "2025-12-15",
@@ -879,7 +908,7 @@
       "ID": 372353,
       "Title": "Tin Lord",
       "ReleaseDate": "2026-01-04",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coanak.jpg",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob6xx.jpg",
       "StoreURL": "https://store.steampowered.com/app/3277010",
       "Metacritic": 0,
       "AddedCount": 1,
@@ -986,34 +1015,6 @@
       ]
     },
     {
-      "ID": 366589,
-      "Title": "Wirm",
-      "ReleaseDate": "2025-12-09",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaxgz.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1934870",
-      "Metacritic": 0,
-      "AddedCount": 1,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz4v8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz4v9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz4vb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz4va.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10mph.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10mpf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10mpg.jpg"
-      ],
-      "Genres": [
-        "Platform",
-        "Simulator",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 365028,
       "Title": "Summit Drive",
       "ReleaseDate": "2025-12-20",
@@ -1064,6 +1065,7 @@
       ],
       "Genres": [
         "Racing",
+        "Adventure",
         "Indie"
       ],
       "Tags": [],
@@ -1090,34 +1092,6 @@
       "Genres": [
         "Shooter",
         "Simulator",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 361808,
-      "Title": "Scholar Adventure: Mystery of Silence",
-      "ReleaseDate": "2025-12-09",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaavy.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3929410",
-      "Metacritic": 0,
-      "AddedCount": 1,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczi0x.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczi0y.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczi0z.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczi10.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczi11.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scylzi.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scylzj.jpg"
-      ],
-      "Genres": [
-        "Point-and-click",
-        "Puzzle",
         "Adventure"
       ],
       "Tags": [],
@@ -1342,6 +1316,31 @@
       "Platforms": [
         "pc"
       ]
+    },
+    {
+      "ID": 348801,
+      "Title": "Hideous",
+      "ReleaseDate": "2025-12-20",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9ywq.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3716590",
+      "Metacritic": 0,
+      "AddedCount": 1,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxgut.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxgux.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxgv2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxgv7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxgvc.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
     }
   ],
   "Upcoming": [
@@ -1352,7 +1351,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob3bo.jpg",
       "StoreURL": "https://store.steampowered.com/app/3764200",
       "Metacritic": 0,
-      "AddedCount": 212,
+      "AddedCount": 215,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r3.jpg",
@@ -1383,7 +1382,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqai.jpg",
       "StoreURL": "https://store.steampowered.com/app/3321460",
       "Metacritic": 0,
-      "AddedCount": 185,
+      "AddedCount": 193,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8v2g.jpg",
@@ -1422,6 +1421,7 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoib.jpg"
       ],
       "Genres": [
+        "Puzzle",
         "Adventure"
       ],
       "Tags": [],
@@ -1436,7 +1436,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co39rf.jpg",
       "StoreURL": "https://store.steampowered.com/app/1663850",
       "Metacritic": 0,
-      "AddedCount": 97,
+      "AddedCount": 99,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scahjd.jpg",
@@ -1516,6 +1516,33 @@
       ]
     },
     {
+      "ID": 296831,
+      "Title": "Slay the Spire II",
+      "ReleaseDate": "2026-03-01",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co82c5.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2868840",
+      "Metacritic": 0,
+      "AddedCount": 61,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrupb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrupd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrupf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrup6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrup8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrup9.jpg"
+      ],
+      "Genres": [
+        "Strategy",
+        "Indie",
+        "Card & Board Game"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 249324,
       "Title": "Mouse: P.I. For Hire",
       "ReleaseDate": "2026-03-19",
@@ -1546,26 +1573,56 @@
       ]
     },
     {
-      "ID": 296831,
-      "Title": "Slay the Spire II",
-      "ReleaseDate": "2026-03-01",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co82c5.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2868840",
+      "ID": 306141,
+      "Title": "Mio: Memories in Orbit",
+      "ReleaseDate": "2026-01-20",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8tkh.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1672810",
       "Metacritic": 0,
-      "AddedCount": 60,
+      "AddedCount": 47,
       "Rating": 0.0,
       "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrupb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrupd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrupf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrup6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrup8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrup9.jpg"
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scszgl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scszgm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scszgn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scszgo.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scszgp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scszgq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scszgr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scszgs.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scszgt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scszgu.jpg"
       ],
       "Genres": [
-        "Strategy",
-        "Indie",
-        "Card & Board Game"
+        "Platform",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 347123,
+      "Title": "Nioh 3",
+      "ReleaseDate": "2026-02-06",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9x1e.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3681010",
+      "Metacritic": 0,
+      "AddedCount": 46,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7ci.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7cj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7ck.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7cl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7cm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7cn.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -1591,63 +1648,6 @@
       "Genres": [
         "Shooter",
         "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 347123,
-      "Title": "Nioh 3",
-      "ReleaseDate": "2026-02-06",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9x1e.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3681010",
-      "Metacritic": 0,
-      "AddedCount": 45,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7ci.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7cj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7ck.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7cl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7cm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7cn.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 306141,
-      "Title": "Mio: Memories in Orbit",
-      "ReleaseDate": "2026-01-20",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8tkh.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1672810",
-      "Metacritic": 0,
-      "AddedCount": 44,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scszgl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scszgm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scszgn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scszgo.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scszgp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scszgq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scszgr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scszgs.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scszgt.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scszgu.jpg"
-      ],
-      "Genres": [
-        "Platform",
-        "Adventure",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -1686,6 +1686,37 @@
       ]
     },
     {
+      "ID": 347119,
+      "Title": "Romeo is a Dead Man",
+      "ReleaseDate": "2026-02-11",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coakmt.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3050900",
+      "Metacritic": 0,
+      "AddedCount": 40,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7at.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7au.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxsmh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxsmi.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxsmj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxsmk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxsml.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxsmm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxsmn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxsmo.jpg"
+      ],
+      "Genres": [
+        "Shooter",
+        "Hack and slash/Beat 'em up",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 348175,
       "Title": "Super Meat Boy 3D",
       "ReleaseDate": "2026-03-31",
@@ -1704,37 +1735,6 @@
       "Genres": [
         "Platform",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 347119,
-      "Title": "Romeo is a Dead Man",
-      "ReleaseDate": "2026-02-11",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coakmt.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3050900",
-      "Metacritic": 0,
-      "AddedCount": 36,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7at.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7au.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxsmh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxsmi.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxsmj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxsmk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxsml.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxsmm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxsmn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxsmo.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Hack and slash/Beat 'em up",
-        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -1774,7 +1774,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xhi.jpg",
       "StoreURL": "https://store.steampowered.com/app/2362060",
       "Metacritic": 0,
-      "AddedCount": 31,
+      "AddedCount": 32,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9mv.jpg",
@@ -1907,7 +1907,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9re1.jpg",
       "StoreURL": "https://store.steampowered.com/app/1661330",
       "Metacritic": 0,
-      "AddedCount": 21,
+      "AddedCount": 20,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scahhe.jpg",
@@ -2170,6 +2170,30 @@
       ]
     },
     {
+      "ID": 234662,
+      "Title": "Opus: Prism Peak",
+      "ReleaseDate": "2026-03-01",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co631y.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1947910",
+      "Metacritic": 0,
+      "AddedCount": 12,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckvpj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckvpk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckvpl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckvpm.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 194143,
       "Title": "The Seven Deadly Sins: Origin",
       "ReleaseDate": "2026-01-28",
@@ -2357,30 +2381,6 @@
       ]
     },
     {
-      "ID": 234662,
-      "Title": "Opus: Prism Peak",
-      "ReleaseDate": "2026-03-01",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co631y.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1947910",
-      "Metacritic": 0,
-      "AddedCount": 11,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckvpj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckvpk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckvpl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckvpm.jpg"
-      ],
-      "Genres": [
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 358525,
       "Title": "Monster Hunter Stories 3: Twisted Reflection",
       "ReleaseDate": "2026-03-13",
@@ -2427,6 +2427,33 @@
         "Puzzle",
         "Simulator",
         "Strategy"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 345416,
+      "Title": "DarkSwitch",
+      "ReleaseDate": "2026-03-12",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9v99.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3132870",
+      "Metacritic": 0,
+      "AddedCount": 9,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzwy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzwz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzx0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzx1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzx2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzx3.jpg"
+      ],
+      "Genres": [
+        "Strategy",
+        "Tactical",
+        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -2507,33 +2534,6 @@
       ],
       "Genres": [
         "Shooter"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 345416,
-      "Title": "DarkSwitch",
-      "ReleaseDate": "2026-03-12",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9v99.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3132870",
-      "Metacritic": 0,
-      "AddedCount": 8,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzwy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzwz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzx0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzx1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzx2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzx3.jpg"
-      ],
-      "Genres": [
-        "Strategy",
-        "Tactical",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
