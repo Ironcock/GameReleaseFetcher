@@ -80,6 +80,35 @@
       ]
     },
     {
+      "ID": 319087,
+      "Title": "Pathologic 3",
+      "ReleaseDate": "2026-01-09",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0w6.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3199650",
+      "Metacritic": 0,
+      "AddedCount": 19,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu3mv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu3n0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu3n1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu3my.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu3mz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu3mx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu3mu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu3mw.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 282355,
       "Title": "StarRupture",
       "ReleaseDate": "2026-01-06",
@@ -154,30 +183,6 @@
         "Simulator",
         "Adventure"
       ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 340143,
-      "Title": "Dead Format",
-      "ReleaseDate": "2025-12-10",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9uav.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3399290",
-      "Metacritic": 0,
-      "AddedCount": 7,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwaj7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwajb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwajl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwaju.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwak3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwakc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwakh.jpg"
-      ],
-      "Genres": [],
       "Tags": [],
       "Platforms": [
         "pc"
@@ -263,6 +268,35 @@
       "Genres": [
         "Shooter",
         "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 264143,
+      "Title": "Shadows of Soldiers",
+      "ReleaseDate": "2026-01-09",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9zk7.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1401200",
+      "Metacritic": 0,
+      "AddedCount": 4,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sco89e.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxpe2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxpdz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxpe0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxpe1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxpe3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxpe4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxpe5.jpg"
+      ],
+      "Genres": [
+        "Shooter",
+        "Strategy",
+        "Tactical"
       ],
       "Tags": [],
       "Platforms": [
@@ -595,34 +629,6 @@
       ]
     },
     {
-      "ID": 306326,
-      "Title": "Ukrainian Fight Drone Simulator",
-      "ReleaseDate": "2025-12-10",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8djs.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2862860",
-      "Metacritic": 0,
-      "AddedCount": 2,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scstew.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scstf0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scstf4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scstf9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scstfa.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scstfd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scstff.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scstfh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scstfj.jpg"
-      ],
-      "Genres": [
-        "Simulator"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 200490,
       "Title": "Jamir",
       "ReleaseDate": "2025-12-19",
@@ -793,31 +799,6 @@
         "Sport",
         "Indie",
         "Arcade"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 373491,
-      "Title": "Dogpile",
-      "ReleaseDate": "2025-12-10",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob00n.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3839300",
-      "Metacritic": 0,
-      "AddedCount": 1,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczspu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczspv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczspw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczspx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczspy.jpg"
-      ],
-      "Genres": [
-        "Strategy",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -1341,6 +1322,32 @@
       "Platforms": [
         "pc"
       ]
+    },
+    {
+      "ID": 347830,
+      "Title": "Shiba Sweet",
+      "ReleaseDate": "2025-12-31",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xuy.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3015360",
+      "Metacritic": 0,
+      "AddedCount": 1,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxaar.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxaat.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxaau.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxab0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxaaw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxaay.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
     }
   ],
   "Upcoming": [
@@ -1351,7 +1358,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob3bo.jpg",
       "StoreURL": "https://store.steampowered.com/app/3764200",
       "Metacritic": 0,
-      "AddedCount": 215,
+      "AddedCount": 217,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r3.jpg",
@@ -1382,7 +1389,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqai.jpg",
       "StoreURL": "https://store.steampowered.com/app/3321460",
       "Metacritic": 0,
-      "AddedCount": 193,
+      "AddedCount": 192,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8v2g.jpg",
@@ -1436,7 +1443,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co39rf.jpg",
       "StoreURL": "https://store.steampowered.com/app/1663850",
       "Metacritic": 0,
-      "AddedCount": 99,
+      "AddedCount": 101,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scahjd.jpg",
@@ -1573,6 +1580,32 @@
       ]
     },
     {
+      "ID": 347123,
+      "Title": "Nioh 3",
+      "ReleaseDate": "2026-02-06",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9x1e.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3681010",
+      "Metacritic": 0,
+      "AddedCount": 47,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7ci.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7cj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7ck.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7cl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7cm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7cn.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 306141,
       "Title": "Mio: Memories in Orbit",
       "ReleaseDate": "2026-01-20",
@@ -1597,32 +1630,6 @@
         "Platform",
         "Adventure",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 347123,
-      "Title": "Nioh 3",
-      "ReleaseDate": "2026-02-06",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9x1e.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3681010",
-      "Metacritic": 0,
-      "AddedCount": 46,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7ci.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7cj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7ck.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7cl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7cm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7cn.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -1748,7 +1755,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaafo.jpg",
       "StoreURL": "https://store.steampowered.com/app/2814990",
       "Metacritic": 0,
-      "AddedCount": 33,
+      "AddedCount": 34,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus33.jpg",
@@ -1774,7 +1781,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xhi.jpg",
       "StoreURL": "https://store.steampowered.com/app/2362060",
       "Metacritic": 0,
-      "AddedCount": 32,
+      "AddedCount": 33,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9mv.jpg",
@@ -1945,35 +1952,6 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvo1b.jpg"
       ],
       "Genres": [
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 319087,
-      "Title": "Pathologic 3",
-      "ReleaseDate": "2026-01-09",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0w6.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3199650",
-      "Metacritic": 0,
-      "AddedCount": 19,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu3mv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu3n0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu3n1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu3my.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu3mz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu3mx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu3mu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu3mw.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Simulator",
         "Adventure"
       ],
       "Tags": [],
@@ -2347,6 +2325,30 @@
         "Shooter",
         "Adventure",
         "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 252846,
+      "Title": "Sand: Raiders Of Sophie",
+      "ReleaseDate": "2026-03-01",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coarmc.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1431300",
+      "Metacritic": 0,
+      "AddedCount": 11,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwp0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwp2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwp4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwp7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwp9.jpg"
+      ],
+      "Genres": [
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
