@@ -1,35 +1,6 @@
 {
   "NewReleases": [
     {
-      "ID": 327500,
-      "Title": "Terminator 2D: No Fate",
-      "ReleaseDate": "2025-12-12",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9s6r.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1718460",
-      "Metacritic": 70,
-      "AddedCount": 29,
-      "Rating": 69.79470198637875,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw4gf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw4gg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw4gh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw4gi.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw4gj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw4gk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw4gl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw4gm.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Platform",
-        "Arcade"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 148454,
       "Title": "Pioner",
       "ReleaseDate": "2025-12-16",
@@ -156,36 +127,6 @@
         "Racing",
         "Simulator",
         "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 354894,
-      "Title": "Everdream Village",
-      "ReleaseDate": "2025-12-12",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coabha.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3569950",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxz0d.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxz0e.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxz0f.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxz0g.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxz0h.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxz0i.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxz0j.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxz0k.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxz0l.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Adventure",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -601,6 +542,34 @@
       ]
     },
     {
+      "ID": 185733,
+      "Title": "AiliA",
+      "ReleaseDate": "2026-01-09",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4aii.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1677100",
+      "Metacritic": 0,
+      "AddedCount": 2,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scf2k9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scf2ka.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scf2kb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scf2kf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scf2kc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scf2kd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scf2ke.jpg"
+      ],
+      "Genres": [
+        "Platform",
+        "Puzzle",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 124042,
       "Title": "Terra Invicta",
       "ReleaseDate": "2026-01-05",
@@ -750,28 +719,6 @@
       ],
       "Genres": [
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 374220,
-      "Title": "Kinetic Neo Ornate Bout",
-      "ReleaseDate": "2025-12-12",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coapjl.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2298240",
-      "Metacritic": 0,
-      "AddedCount": 1,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczwrj.jpg"
-      ],
-      "Genres": [
-        "Sport",
-        "Indie",
-        "Arcade"
       ],
       "Tags": [],
       "Platforms": [
@@ -939,33 +886,6 @@
       ]
     },
     {
-      "ID": 370968,
-      "Title": "Enshrined: Sword of Fates",
-      "ReleaseDate": "2025-12-12",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coam0y.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3835610",
-      "Metacritic": 0,
-      "AddedCount": 1,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczgrl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczgrp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczgrm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczgro.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczgrk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczgrn.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 370580,
       "Title": "A Game About Feeding A Black Hole",
       "ReleaseDate": "2025-12-15",
@@ -1124,35 +1044,6 @@
       ],
       "Genres": [
         "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 359627,
-      "Title": "Anomalous Coffee Machine 2",
-      "ReleaseDate": "2025-12-12",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaw9e.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3797340",
-      "Metacritic": 0,
-      "AddedCount": 1,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczi44.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczi45.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczi47.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczi49.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczi4b.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczi4d.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczi4f.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczi4g.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczi4h.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczi4i.jpg"
-      ],
-      "Genres": [
         "Indie"
       ],
       "Tags": [],
@@ -1352,6 +1243,111 @@
       "Platforms": [
         "pc"
       ]
+    },
+    {
+      "ID": 348801,
+      "Title": "Hideous",
+      "ReleaseDate": "2025-12-20",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9ywq.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3716590",
+      "Metacritic": 0,
+      "AddedCount": 1,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxgut.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxgux.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxgv2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxgv7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxgvc.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 347830,
+      "Title": "Shiba Sweet",
+      "ReleaseDate": "2025-12-31",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xuy.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3015360",
+      "Metacritic": 0,
+      "AddedCount": 1,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxaar.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxaat.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxaau.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxab0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxaaw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxaay.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 347809,
+      "Title": "The Joker's Game",
+      "ReleaseDate": "2025-12-23",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob4c0.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2983660",
+      "Metacritic": 0,
+      "AddedCount": 1,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxcx2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxcxa.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxcxf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxcxk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxcxp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxcx6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxcxr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxcxu.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 347765,
+      "Title": "Bound Between Desks",
+      "ReleaseDate": "2025-12-25",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coacaq.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3790060",
+      "Metacritic": 0,
+      "AddedCount": 1,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9yb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9yc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9yd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9ye.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9yf.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
     }
   ],
   "Upcoming": [
@@ -1362,7 +1358,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob3bo.jpg",
       "StoreURL": "https://store.steampowered.com/app/3764200",
       "Metacritic": 0,
-      "AddedCount": 218,
+      "AddedCount": 220,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r3.jpg",
@@ -2071,6 +2067,37 @@
       ]
     },
     {
+      "ID": 8042,
+      "Title": "Mewgenics",
+      "ReleaseDate": "2026-02-10",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9n5k.jpg",
+      "StoreURL": "https://store.steampowered.com/app/686060",
+      "Metacritic": 0,
+      "AddedCount": 14,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgqb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgq9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgq8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgqd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgqe.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgqc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgqa.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgqh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgqg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgqf.jpg"
+      ],
+      "Genres": [
+        "Real Time Strategy (RTS)",
+        "Role-playing (RPG)",
+        "Simulator"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 336144,
       "Title": "I Hate this Place",
       "ReleaseDate": "2026-01-29",
@@ -2095,30 +2122,23 @@
       ]
     },
     {
-      "ID": 8042,
-      "Title": "Mewgenics",
-      "ReleaseDate": "2026-02-10",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9n5k.jpg",
-      "StoreURL": "https://store.steampowered.com/app/686060",
+      "ID": 252846,
+      "Title": "Sand: Raiders Of Sophie",
+      "ReleaseDate": "2026-03-01",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coarmc.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1431300",
       "Metacritic": 0,
       "AddedCount": 13,
       "Rating": 0.0,
       "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgqb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgq9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgq8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgqd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgqe.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgqc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgqa.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgqh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgqg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgqf.jpg"
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwp0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwp2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwp4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwp7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwp9.jpg"
       ],
       "Genres": [
-        "Real Time Strategy (RTS)",
-        "Role-playing (RPG)",
-        "Simulator"
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -2145,30 +2165,6 @@
         "Simulator",
         "Adventure",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 252846,
-      "Title": "Sand: Raiders Of Sophie",
-      "ReleaseDate": "2026-03-01",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coarmc.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1431300",
-      "Metacritic": 0,
-      "AddedCount": 12,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwp0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwp2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwp4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwp7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwp9.jpg"
-      ],
-      "Genres": [
-        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
