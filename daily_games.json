@@ -1,6 +1,37 @@
 {
   "NewReleases": [
     {
+      "ID": 113360,
+      "Title": "Hytale",
+      "ReleaseDate": "2026-01-13",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob80p.jpg",
+      "StoreURL": "",
+      "Metacritic": 90,
+      "AddedCount": 132,
+      "Rating": 90.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5rik.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5ril.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5rij.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5rii.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5rim.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5rio.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5rin.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5riq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5rip.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5rir.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 148454,
       "Title": "Pioner",
       "ReleaseDate": "2025-12-16",
@@ -203,6 +234,31 @@
       "Genres": [
         "Shooter",
         "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 280252,
+      "Title": "Streetdog BMX",
+      "ReleaseDate": "2026-01-14",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9cko.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2707870",
+      "Metacritic": 0,
+      "AddedCount": 4,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpxef.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpxeg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpxea.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpxeb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpxee.jpg"
+      ],
+      "Genres": [
+        "Sport",
+        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -985,32 +1041,6 @@
       ]
     },
     {
-      "ID": 373075,
-      "Title": "Monster Looter",
-      "ReleaseDate": "2025-12-15",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0kz.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3929990",
-      "Metacritic": 0,
-      "AddedCount": 1,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczqki.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczqkj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczqkk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczqkl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczqkm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczqkn.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 372933,
       "Title": "Mal\u00f3n",
       "ReleaseDate": "2026-01-06",
@@ -1059,32 +1089,6 @@
       ],
       "Genres": [
         "Strategy"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 370580,
-      "Title": "A Game About Feeding A Black Hole",
-      "ReleaseDate": "2025-12-15",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coakre.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3694480",
-      "Metacritic": 0,
-      "AddedCount": 1,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczrt5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczrt6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczrt7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczrt8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczrt9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczrta.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczrtb.jpg"
-      ],
-      "Genres": [
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -1654,6 +1658,37 @@
       ]
     },
     {
+      "ID": 347119,
+      "Title": "Romeo is a Dead Man",
+      "ReleaseDate": "2026-02-11",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coakmt.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3050900",
+      "Metacritic": 0,
+      "AddedCount": 41,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7at.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7au.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxsmh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxsmi.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxsmj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxsmk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxsml.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxsmm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxsmn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxsmo.jpg"
+      ],
+      "Genres": [
+        "Shooter",
+        "Hack and slash/Beat 'em up",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 194558,
       "Title": "Arknights: Endfield",
       "ReleaseDate": "2026-01-22",
@@ -1677,37 +1712,6 @@
       "Genres": [
         "Role-playing (RPG)",
         "Strategy",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 347119,
-      "Title": "Romeo is a Dead Man",
-      "ReleaseDate": "2026-02-11",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coakmt.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3050900",
-      "Metacritic": 0,
-      "AddedCount": 40,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7at.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7au.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxsmh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxsmi.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxsmj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxsmk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxsml.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxsmm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxsmn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxsmo.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Hack and slash/Beat 'em up",
         "Adventure"
       ],
       "Tags": [],
@@ -2352,6 +2356,30 @@
       ]
     },
     {
+      "ID": 378311,
+      "Title": "Carmageddon: Rogue Shift",
+      "ReleaseDate": "2026-02-06",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coay63.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1712100",
+      "Metacritic": 0,
+      "AddedCount": 10,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fwu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fwv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fww.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fwx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fwy.jpg"
+      ],
+      "Genres": [
+        "Racing"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 358525,
       "Title": "Monster Hunter Stories 3: Twisted Reflection",
       "ReleaseDate": "2026-03-13",
@@ -2603,7 +2631,12 @@
       "Metacritic": 0,
       "AddedCount": 7,
       "Rating": 0.0,
-      "ShortScreenshots": [],
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc112u8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc112u5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc112u6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc112u7.jpg"
+      ],
       "Genres": [],
       "Tags": [],
       "Platforms": [
@@ -2664,33 +2697,6 @@
         "Platform",
         "Hack and slash/Beat 'em up",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 151312,
-      "Title": "Gecko Gods",
-      "ReleaseDate": "2026-03-31",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xv4.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1290760",
-      "Metacritic": 0,
-      "AddedCount": 7,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scacj3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scacj4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scacj5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scacj6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scacj7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scacj8.jpg"
-      ],
-      "Genres": [
-        "Platform",
-        "Puzzle",
-        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
