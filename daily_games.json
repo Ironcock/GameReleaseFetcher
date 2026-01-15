@@ -6,9 +6,9 @@
       "ReleaseDate": "2026-01-13",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob80p.jpg",
       "StoreURL": "",
-      "Metacritic": 90,
+      "Metacritic": 92,
       "AddedCount": 132,
-      "Rating": 90.0,
+      "Rating": 92.31707317073172,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5rik.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5ril.jpg",
@@ -25,30 +25,6 @@
         "Role-playing (RPG)",
         "Adventure",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 148454,
-      "Title": "Pioner",
-      "ReleaseDate": "2025-12-16",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9amt.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3105890",
-      "Metacritic": 0,
-      "AddedCount": 24,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc9tz1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc9tz2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc9tz3.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Role-playing (RPG)",
-        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -215,6 +191,31 @@
       ]
     },
     {
+      "ID": 324569,
+      "Title": "Craftlings",
+      "ReleaseDate": "2026-01-15",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0dy.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1959110",
+      "Metacritic": 0,
+      "AddedCount": 4,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuobt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuobu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuobv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuobw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuobx.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Strategy"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 318266,
       "Title": "Fear the Timeloop",
       "ReleaseDate": "2026-01-01",
@@ -288,33 +289,6 @@
         "Shooter",
         "Strategy",
         "Tactical"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 356712,
-      "Title": "Out of Time",
-      "ReleaseDate": "2025-12-16",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coakjm.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4038140",
-      "Metacritic": 0,
-      "AddedCount": 3,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyc2y.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyc2z.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyc30.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyc31.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyc32.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyc33.jpg"
-      ],
-      "Genres": [
-        "Hack and slash/Beat 'em up",
-        "Adventure",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -397,37 +371,6 @@
       ]
     },
     {
-      "ID": 290620,
-      "Title": "Swordhaven: Iron Conspiracy",
-      "ReleaseDate": "2025-12-16",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9pgi.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2108180",
-      "Metacritic": 0,
-      "AddedCount": 3,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr1y0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr1y1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr1y3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr1y5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr1y6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr1y8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr1y9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr1yb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr1yc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr1yd.jpg"
-      ],
-      "Genres": [
-        "Real Time Strategy (RTS)",
-        "Role-playing (RPG)",
-        "Strategy"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 151463,
       "Title": "The Gold River Project",
       "ReleaseDate": "2026-01-01",
@@ -447,6 +390,37 @@
       ],
       "Genres": [
         "Simulator",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 368815,
+      "Title": "Kotama&Academy Citadel",
+      "ReleaseDate": "2026-01-15",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coarq9.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3639650",
+      "Metacritic": 0,
+      "AddedCount": 2,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc2o.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc2j.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc2g.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc2h.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc2k.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc2f.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc2i.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc2m.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc2l.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc2n.jpg"
+      ],
+      "Genres": [
+        "Platform",
         "Adventure",
         "Indie"
       ],
@@ -621,30 +595,6 @@
       ]
     },
     {
-      "ID": 329176,
-      "Title": "Yes Comrade",
-      "ReleaseDate": "2025-12-16",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coauzj.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2198400",
-      "Metacritic": 0,
-      "AddedCount": 2,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ey5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ey6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ey7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ey8.jpg"
-      ],
-      "Genres": [
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 327060,
       "Title": "Oddcore",
       "ReleaseDate": "2026-01-07",
@@ -696,6 +646,33 @@
       ],
       "Genres": [
         "Role-playing (RPG)"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 248898,
+      "Title": "Cassette Boy",
+      "ReleaseDate": "2026-01-15",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8yu3.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2334330",
+      "Metacritic": 0,
+      "AddedCount": 2,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmfcw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmfcz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmfd1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmfd3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmfd5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmfd6.jpg"
+      ],
+      "Genres": [
+        "Puzzle",
+        "Role-playing (RPG)",
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -797,7 +774,12 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scahq0.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scahq1.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scahq2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scahq3.jpg"
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scahq3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc119oz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc119p0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc119p1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc119p2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc119p3.jpg"
       ],
       "Genres": [
         "Simulator",
@@ -1338,6 +1320,37 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxsad.jpg"
       ],
       "Genres": [
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 350456,
+      "Title": "Super Woden: Rally Edge",
+      "ReleaseDate": "2026-01-15",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coafu6.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3218630",
+      "Metacritic": 0,
+      "AddedCount": 1,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxmnv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxmnw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxmnx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxmny.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxmo0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxmnu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxmnz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxmo2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxmo3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxmo1.jpg"
+      ],
+      "Genres": [
+        "Racing",
+        "Sport",
         "Indie"
       ],
       "Tags": [],
@@ -1935,7 +1948,7 @@
       "ID": 334674,
       "Title": "Styx: Blades of Greed",
       "ReleaseDate": "2026-02-19",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9i6x.jpg",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob9vo.jpg",
       "StoreURL": "https://store.steampowered.com/app/3290690",
       "Metacritic": 0,
       "AddedCount": 19,
@@ -2194,6 +2207,30 @@
       ]
     },
     {
+      "ID": 378311,
+      "Title": "Carmageddon: Rogue Shift",
+      "ReleaseDate": "2026-02-06",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coay63.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1712100",
+      "Metacritic": 0,
+      "AddedCount": 11,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fwu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fwv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fww.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fwx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fwy.jpg"
+      ],
+      "Genres": [
+        "Racing"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 341266,
       "Title": "Final Sentence",
       "ReleaseDate": "2026-03-31",
@@ -2349,30 +2386,6 @@
       ],
       "Genres": [
         "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 378311,
-      "Title": "Carmageddon: Rogue Shift",
-      "ReleaseDate": "2026-02-06",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coay63.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1712100",
-      "Metacritic": 0,
-      "AddedCount": 10,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fwu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fwv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fww.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fwx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fwy.jpg"
-      ],
-      "Genres": [
-        "Racing"
       ],
       "Tags": [],
       "Platforms": [
