@@ -4,11 +4,11 @@
       "ID": 113360,
       "Title": "Hytale",
       "ReleaseDate": "2026-01-13",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob80p.jpg",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coba93.jpg",
       "StoreURL": "",
-      "Metacritic": 92,
+      "Metacritic": 93,
       "AddedCount": 132,
-      "Rating": 92.31707317073172,
+      "Rating": 92.64705882352942,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5rik.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5ril.jpg",
@@ -115,17 +115,26 @@
       ]
     },
     {
-      "ID": 125893,
-      "Title": "Stream Raiders",
-      "ReleaseDate": "2025-12-17",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2iqw.jpg",
-      "StoreURL": "",
+      "ID": 235085,
+      "Title": "BrokenLore: Unfollow",
+      "ReleaseDate": "2026-01-16",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8aey.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2133830",
       "Metacritic": 0,
       "AddedCount": 11,
       "Rating": 0.0,
-      "ShortScreenshots": [],
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckxcc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckxcd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckxce.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckxcf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckxcg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckxc9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckxca.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckxcb.jpg"
+      ],
       "Genres": [
-        "Tactical"
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -296,6 +305,32 @@
       ]
     },
     {
+      "ID": 346730,
+      "Title": "The Fortress",
+      "ReleaseDate": "2026-01-16",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xmc.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3459150",
+      "Metacritic": 0,
+      "AddedCount": 3,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx5ho.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx5hp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx5hq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx5hm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx5hn.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 343357,
       "Title": "Mycelium: The Silent Contract",
       "ReleaseDate": "2026-01-01",
@@ -433,7 +468,7 @@
       "ID": 355970,
       "Title": "Kuukiyomi: Consider It World - Thailand Ver.",
       "ReleaseDate": "2026-01-12",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa5kk.jpg",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobacl.jpg",
       "StoreURL": "https://store.steampowered.com/app/3606690",
       "Metacritic": 0,
       "AddedCount": 2,
@@ -1326,37 +1361,6 @@
       "Platforms": [
         "pc"
       ]
-    },
-    {
-      "ID": 350456,
-      "Title": "Super Woden: Rally Edge",
-      "ReleaseDate": "2026-01-15",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coafu6.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3218630",
-      "Metacritic": 0,
-      "AddedCount": 1,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxmnv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxmnw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxmnx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxmny.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxmo0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxmnu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxmnz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxmo2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxmo3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxmo1.jpg"
-      ],
-      "Genres": [
-        "Racing",
-        "Sport",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
     }
   ],
   "Upcoming": [
@@ -1671,6 +1675,37 @@
       ]
     },
     {
+      "ID": 194558,
+      "Title": "Arknights: Endfield",
+      "ReleaseDate": "2026-01-22",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaw23.jpg",
+      "StoreURL": "",
+      "Metacritic": 0,
+      "AddedCount": 42,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpp09.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpp0a.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpp0b.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpp0c.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpp0d.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpp0e.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpp0f.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpp0g.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpp0h.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpp0i.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 347119,
       "Title": "Romeo is a Dead Man",
       "ReleaseDate": "2026-02-11",
@@ -1694,37 +1729,6 @@
       "Genres": [
         "Shooter",
         "Hack and slash/Beat 'em up",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 194558,
-      "Title": "Arknights: Endfield",
-      "ReleaseDate": "2026-01-22",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaw23.jpg",
-      "StoreURL": "",
-      "Metacritic": 0,
-      "AddedCount": 41,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpp09.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpp0a.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpp0b.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpp0c.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpp0d.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpp0e.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpp0f.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpp0g.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpp0h.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpp0i.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Strategy",
         "Adventure"
       ],
       "Tags": [],
@@ -1917,6 +1921,30 @@
       ]
     },
     {
+      "ID": 334670,
+      "Title": "Cthulhu: The Cosmic Abyss",
+      "ReleaseDate": "2026-04-16",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9i73.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2760560",
+      "Metacritic": 0,
+      "AddedCount": 21,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvo1n.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvo1o.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvo1p.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvo1q.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvo1r.jpg"
+      ],
+      "Genres": [
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 152268,
       "Title": "SacriFire",
       "ReleaseDate": "2026-03-31",
@@ -2032,7 +2060,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co805d.jpg",
       "StoreURL": "https://store.steampowered.com/app/2723430",
       "Metacritic": 0,
-      "AddedCount": 14,
+      "AddedCount": 15,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrl13.jpg",
@@ -2125,32 +2153,6 @@
       ],
       "Genres": [
         "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 314928,
-      "Title": "Coffee Talk: Tokyo",
-      "ReleaseDate": "2026-03-05",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8qmh.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3161220",
-      "Metacritic": 0,
-      "AddedCount": 12,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv45c.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv45d.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv45e.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv45f.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv45g.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Adventure",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -2366,33 +2368,6 @@
       ]
     },
     {
-      "ID": 235085,
-      "Title": "BrokenLore: Unfollow",
-      "ReleaseDate": "2026-01-16",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8aey.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2133830",
-      "Metacritic": 0,
-      "AddedCount": 11,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckxcc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckxcd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckxce.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckxcf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckxcg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckxc9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckxca.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckxcb.jpg"
-      ],
-      "Genres": [
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 358525,
       "Title": "Monster Hunter Stories 3: Twisted Reflection",
       "ReleaseDate": "2026-03-13",
@@ -2411,6 +2386,36 @@
       ],
       "Genres": [
         "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 347674,
+      "Title": "Relooted",
+      "ReleaseDate": "2026-02-10",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xi8.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3255890",
+      "Metacritic": 0,
+      "AddedCount": 10,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9pz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9pr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9ps.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9pt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9pu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9pv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9pw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9py.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9px.jpg"
+      ],
+      "Genres": [
+        "Platform",
+        "Puzzle",
         "Adventure"
       ],
       "Tags": [],
@@ -2465,6 +2470,32 @@
       "Genres": [
         "Strategy",
         "Tactical",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 310885,
+      "Title": "Starsand Island",
+      "ReleaseDate": "2026-02-01",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co93z9.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2966320",
+      "Metacritic": 0,
+      "AddedCount": 9,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctbql.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctbqk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctbqm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctbqn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctbqo.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Simulator",
         "Indie"
       ],
       "Tags": [],
@@ -2546,32 +2577,6 @@
       ],
       "Genres": [
         "Shooter"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 310885,
-      "Title": "Starsand Island",
-      "ReleaseDate": "2026-02-01",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co93z9.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2966320",
-      "Metacritic": 0,
-      "AddedCount": 8,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctbql.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctbqk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctbqm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctbqn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctbqo.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Simulator",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
