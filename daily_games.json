@@ -8,7 +8,7 @@
       "StoreURL": "",
       "Metacritic": 93,
       "AddedCount": 132,
-      "Rating": 93.18181818181819,
+      "Rating": 93.17073170731706,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5rik.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5ril.jpg",
@@ -739,34 +739,6 @@
       ]
     },
     {
-      "ID": 200490,
-      "Title": "Jamir",
-      "ReleaseDate": "2025-12-19",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6at6.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1556340",
-      "Metacritic": 0,
-      "AddedCount": 2,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckzcn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckzcl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scltqs.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scltqq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scltqp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scltqr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckzcq.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Tactical",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 195168,
       "Title": "Hank: Drowning on Dry Land",
       "ReleaseDate": "2026-01-13",
@@ -1361,6 +1333,31 @@
       "Platforms": [
         "pc"
       ]
+    },
+    {
+      "ID": 354957,
+      "Title": "Vital Shell",
+      "ReleaseDate": "2026-01-07",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa4n8.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3741860",
+      "Metacritic": 0,
+      "AddedCount": 1,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczru8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczru9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczrua.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczrub.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczruc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczrud.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
     }
   ],
   "Upcoming": [
@@ -1371,7 +1368,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob3bo.jpg",
       "StoreURL": "https://store.steampowered.com/app/3764200",
       "Metacritic": 0,
-      "AddedCount": 222,
+      "AddedCount": 224,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r3.jpg",
@@ -1681,7 +1678,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaw23.jpg",
       "StoreURL": "",
       "Metacritic": 0,
-      "AddedCount": 42,
+      "AddedCount": 43,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpp09.jpg",
@@ -2187,6 +2184,60 @@
       ]
     },
     {
+      "ID": 378311,
+      "Title": "Carmageddon: Rogue Shift",
+      "ReleaseDate": "2026-02-06",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coay63.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1712100",
+      "Metacritic": 0,
+      "AddedCount": 12,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fwu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fwv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fww.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fwx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fwy.jpg"
+      ],
+      "Genres": [
+        "Racing"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 347674,
+      "Title": "Relooted",
+      "ReleaseDate": "2026-02-10",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xi8.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3255890",
+      "Metacritic": 0,
+      "AddedCount": 12,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9pz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9pr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9ps.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9pt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9pu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9pv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9pw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9py.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9px.jpg"
+      ],
+      "Genres": [
+        "Platform",
+        "Puzzle",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 324265,
       "Title": "Modulus",
       "ReleaseDate": "2026-03-31",
@@ -2258,60 +2309,6 @@
       ],
       "Genres": [
         "Role-playing (RPG)",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 378311,
-      "Title": "Carmageddon: Rogue Shift",
-      "ReleaseDate": "2026-02-06",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coay63.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1712100",
-      "Metacritic": 0,
-      "AddedCount": 11,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fwu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fwv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fww.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fwx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fwy.jpg"
-      ],
-      "Genres": [
-        "Racing"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 347674,
-      "Title": "Relooted",
-      "ReleaseDate": "2026-02-10",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xi8.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3255890",
-      "Metacritic": 0,
-      "AddedCount": 11,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9pz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9pr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9ps.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9pt.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9pu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9pv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9pw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9py.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9px.jpg"
-      ],
-      "Genres": [
-        "Platform",
-        "Puzzle",
         "Adventure"
       ],
       "Tags": [],
