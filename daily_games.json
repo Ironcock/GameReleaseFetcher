@@ -8,7 +8,7 @@
       "StoreURL": "",
       "Metacritic": 92,
       "AddedCount": 132,
-      "Rating": 92.0,
+      "Rating": 91.9047619047619,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5rik.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5ril.jpg",
@@ -88,7 +88,7 @@
       "ID": 194558,
       "Title": "Arknights: Endfield",
       "ReleaseDate": "2026-01-22",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaw23.jpg",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobcca.jpg",
       "StoreURL": "",
       "Metacritic": 0,
       "AddedCount": 49,
@@ -235,12 +235,12 @@
       "AddedCount": 10,
       "Rating": 0.0,
       "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11f3d.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11f3e.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11f3f.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11f3g.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11f3h.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11f3i.jpg"
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11f3e.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11f3d.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11f3i.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11f3f.jpg"
       ],
       "Genres": [
         "Shooter",
@@ -458,7 +458,7 @@
       "Title": "Craftlings",
       "ReleaseDate": "2026-01-15",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0dy.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1959110",
+      "StoreURL": "https://store.steampowered.com/app/1771110",
       "Metacritic": 0,
       "AddedCount": 4,
       "Rating": 0.0,
@@ -468,8 +468,8 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuobv.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuobw.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuobx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11exd.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11exe.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11exd.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11exf.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11exc.jpg"
       ],
@@ -601,6 +601,32 @@
       ],
       "Genres": [
         "Simulator",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 346730,
+      "Title": "The Fortress",
+      "ReleaseDate": "2026-01-23",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobaxs.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3459150",
+      "Metacritic": 0,
+      "AddedCount": 3,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx5ho.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx5hp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx5hq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx5hm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx5hn.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure",
         "Indie"
       ],
       "Tags": [],
@@ -1139,6 +1165,33 @@
       ]
     },
     {
+      "ID": 321577,
+      "Title": "Dreadway",
+      "ReleaseDate": "2026-01-23",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coatp6.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3215820",
+      "Metacritic": 0,
+      "AddedCount": 2,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ai3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ai4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ai5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ai6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ai7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ai8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ai9.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 315343,
       "Title": "Hungry Horrors",
       "ReleaseDate": "2026-01-19",
@@ -1305,77 +1358,23 @@
       ]
     },
     {
-      "ID": 383496,
-      "Title": "Waves of Chess",
-      "ReleaseDate": "2026-01-13",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob5ms.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4100740",
+      "ID": 386866,
+      "Title": "Flirting With Girls in Fantasy World",
+      "ReleaseDate": "2026-01-24",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobcea.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3867230",
       "Metacritic": 0,
       "AddedCount": 1,
       "Rating": 0.0,
       "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc112gf.jpg"
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11g0s.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11g0t.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11g0u.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11g0v.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11g0w.jpg"
       ],
       "Genres": [
-        "Strategy",
-        "Indie",
-        "Arcade"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 381656,
-      "Title": "Dreadmyst",
-      "ReleaseDate": "2026-01-09",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob4h2.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4241850",
-      "Metacritic": 0,
-      "AddedCount": 1,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10v7v.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10v7w.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10v7x.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10v7y.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10v7z.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10v80.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 381427,
-      "Title": "Ratsukade",
-      "ReleaseDate": "2026-01-12",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob12q.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4079660",
-      "Metacritic": 0,
-      "AddedCount": 1,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10uaa.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10uab.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10uac.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10uad.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10uae.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10uaf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10uag.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10uah.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10uai.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10uaj.jpg"
-      ],
-      "Genres": [
-        "Adventure",
-        "Indie"
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -1391,7 +1390,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob3bo.jpg",
       "StoreURL": "https://store.steampowered.com/app/3764200",
       "Metacritic": 0,
-      "AddedCount": 234,
+      "AddedCount": 236,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r3.jpg",
@@ -1425,18 +1424,44 @@
       "AddedCount": 196,
       "Rating": 0.0,
       "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11et7.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11et8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11et9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11eta.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11etb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11etc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11etd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11ete.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11etg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11et7.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11etf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11etg.jpg"
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11eth.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11eta.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11ete.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11et9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11etd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11etc.jpg"
       ],
       "Genres": [
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 134612,
+      "Title": "Pragmata",
+      "ReleaseDate": "2026-04-24",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9wwv.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3357650",
+      "Metacritic": 0,
+      "AddedCount": 154,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bhf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bhe.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bl9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bla.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8blc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8blb.jpg"
+      ],
+      "Genres": [
+        "Shooter",
         "Adventure"
       ],
       "Tags": [],
@@ -1481,7 +1506,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co39rf.jpg",
       "StoreURL": "https://store.steampowered.com/app/1663850",
       "Metacritic": 0,
-      "AddedCount": 102,
+      "AddedCount": 103,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scahjd.jpg",
@@ -1858,11 +1883,11 @@
     {
       "ID": 265827,
       "Title": "Crisol: Theater of Idols",
-      "ReleaseDate": "2026-03-31",
+      "ReleaseDate": "2026-02-10",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xsh.jpg",
       "StoreURL": "https://store.steampowered.com/app/1790930",
       "Metacritic": 0,
-      "AddedCount": 23,
+      "AddedCount": 24,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso21.jpg",
@@ -1877,6 +1902,32 @@
       "Genres": [
         "Shooter",
         "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 362064,
+      "Title": "1348: Ex Voto",
+      "ReleaseDate": "2026-03-12",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coab7x.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1895900",
+      "Metacritic": 0,
+      "AddedCount": 22,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn3f.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn3a.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn3b.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn3c.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn3d.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn3e.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -1901,32 +1952,6 @@
       ],
       "Genres": [
         "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 362064,
-      "Title": "1348: Ex Voto",
-      "ReleaseDate": "2026-03-12",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coab7x.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1895900",
-      "Metacritic": 0,
-      "AddedCount": 20,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn3f.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn3a.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn3b.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn3c.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn3d.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn3e.jpg"
-      ],
-      "Genres": [
-        "Adventure",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -2703,27 +2728,6 @@
         "Puzzle",
         "Adventure"
       ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 369849,
-      "Title": "Dark Ties",
-      "ReleaseDate": "2026-02-12",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coajpi.jpg",
-      "StoreURL": "",
-      "Metacritic": 0,
-      "AddedCount": 7,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc112u8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc112u5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc112u6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc112u7.jpg"
-      ],
-      "Genres": [],
       "Tags": [],
       "Platforms": [
         "pc"
