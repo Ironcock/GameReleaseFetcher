@@ -8,7 +8,7 @@
       "StoreURL": "https://store.steampowered.com/app/1086940",
       "Metacritic": 96,
       "AddedCount": 39,
-      "Rating": 96.00394135265958,
+      "Rating": 96.00222450791509,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc81fj.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc81fh.jpg",
@@ -39,7 +39,7 @@
       "StoreURL": "https://store.steampowered.com/app/1245620",
       "Metacritic": 94,
       "AddedCount": 96,
-      "Rating": 94.12447678671509,
+      "Rating": 94.12459672634978,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scagdm.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scagdn.jpg",
@@ -234,7 +234,7 @@
       "StoreURL": "https://store.steampowered.com/app/1903340",
       "Metacritic": 92,
       "AddedCount": 131,
-      "Rating": 92.45336278500075,
+      "Rating": 92.45395726856933,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsodz.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoe8.jpg",
@@ -457,7 +457,7 @@
       "StoreURL": "https://store.steampowered.com/app/2322010",
       "Metacritic": 91,
       "AddedCount": 77,
-      "Rating": 90.93074734654599,
+      "Rating": 90.93139019254653,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scd71v.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scd71w.jpg",
@@ -645,7 +645,7 @@
       "ID": 113112,
       "Title": "Hades",
       "ReleaseDate": "2020-09-17",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co39vc.jpg",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob9kr.jpg",
       "StoreURL": "https://store.steampowered.com/app/1145360",
       "Metacritic": 90,
       "AddedCount": 3,
@@ -1290,7 +1290,7 @@
       "StoreURL": "https://store.steampowered.com/app/435150",
       "Metacritic": 87,
       "AddedCount": 22,
-      "Rating": 87.35498268439072,
+      "Rating": 87.39391196291791,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/zpxr5rzkzxzg1fncnigi.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/kqthxnii1vaqcafk81sb.jpg",
@@ -1343,7 +1343,7 @@
       "StoreURL": "https://store.steampowered.com/app/374320",
       "Metacritic": 87,
       "AddedCount": 27,
-      "Rating": 87.2916752575264,
+      "Rating": 87.29185341030158,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/wlefrkqqtxge3lo81cis.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/nwrsu8awczsx38hmnqx7.jpg",
@@ -1371,7 +1371,7 @@
       "StoreURL": "https://store.steampowered.com/app/22490",
       "Metacritic": 87,
       "AddedCount": 2,
-      "Rating": 87.2339654261154,
+      "Rating": 87.2341069699697,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/xgoin1cr0uh9o26auuns.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/drhrr5rfvavb1xiyxnr6.jpg",
@@ -1565,7 +1565,7 @@
       "StoreURL": "https://store.steampowered.com/app/7670",
       "Metacritic": 87,
       "AddedCount": 1,
-      "Rating": 86.6632648368651,
+      "Rating": 86.66260957838348,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/kjbwbdqemykovdzgidhu.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/unvhwxrfzpjys4txfv4a.jpg",
@@ -2058,7 +2058,7 @@
       "ID": 1352,
       "Title": "Journey",
       "ReleaseDate": "2012-03-13",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1q8q.jpg",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob9lk.jpg",
       "StoreURL": "https://store.steampowered.com/app/638230",
       "Metacritic": 86,
       "AddedCount": 0,
@@ -2077,36 +2077,6 @@
       ],
       "Genres": [
         "Platform",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 538,
-      "Title": "BioShock Infinite",
-      "ReleaseDate": "2013-03-25",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2n12.jpg",
-      "StoreURL": "https://store.steampowered.com/app/8870",
-      "Metacritic": 86,
-      "AddedCount": 0,
-      "Rating": 85.69309430075741,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scijgs.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scijgr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scijgt.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scijgv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scijgu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scijgx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scijgy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scijgz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scijgw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpri1.jpg"
-      ],
-      "Genres": [
-        "Shooter",
         "Adventure"
       ],
       "Tags": [],
@@ -2191,6 +2161,36 @@
       ],
       "Genres": [
         "Point-and-click",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 538,
+      "Title": "BioShock Infinite",
+      "ReleaseDate": "2013-03-25",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2n12.jpg",
+      "StoreURL": "https://store.steampowered.com/app/8870",
+      "Metacritic": 86,
+      "AddedCount": 0,
+      "Rating": 85.66331555405549,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scijgs.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scijgr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scijgt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scijgv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scijgu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scijgx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scijgy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scijgz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scijgw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpri1.jpg"
+      ],
+      "Genres": [
+        "Shooter",
         "Adventure"
       ],
       "Tags": [],
@@ -2840,7 +2840,7 @@
       "StoreURL": "https://store.steampowered.com/app/1551360",
       "Metacritic": 85,
       "AddedCount": 16,
-      "Rating": 85.01694424401053,
+      "Rating": 85.01336657286876,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scahho.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scahhp.jpg",
@@ -2892,7 +2892,7 @@
       "ID": 127044,
       "Title": "Marvel's Spider-Man 2",
       "ReleaseDate": "2023-10-20",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co79vq.jpg",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobb2j.jpg",
       "StoreURL": "https://store.steampowered.com/app/2651280",
       "Metacritic": 85,
       "AddedCount": 18,
@@ -3449,7 +3449,7 @@
       "StoreURL": "https://store.steampowered.com/app/414340",
       "Metacritic": 84,
       "AddedCount": 18,
-      "Rating": 84.37958613899323,
+      "Rating": 84.37826730613935,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/lba0mnzzwo0cqv6xrmdg.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/qlkznn24xndeh1zalz5r.jpg",
@@ -3615,7 +3615,7 @@
       "StoreURL": "https://store.steampowered.com/app/418370",
       "Metacritic": 84,
       "AddedCount": 20,
-      "Rating": 84.1304920219936,
+      "Rating": 84.13065661251208,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/ctxtlpyzlo3q5hvshysw.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/io6hffcfxfgtibwwn9jl.jpg",
@@ -3671,7 +3671,7 @@
       "StoreURL": "https://store.steampowered.com/app/49520",
       "Metacritic": 84,
       "AddedCount": 1,
-      "Rating": 84.04375903189047,
+      "Rating": 83.98738979426982,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/ithhctwgt8rsxbxe5uy5.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/eocdvaynboqmud9hmysu.jpg",
@@ -3727,7 +3727,7 @@
       "ID": 104971,
       "Title": "AI: The Somnium Files",
       "ReleaseDate": "2019-09-17",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob9fg.jpg",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobbvz.jpg",
       "StoreURL": "https://store.steampowered.com/app/948740",
       "Metacritic": 84,
       "AddedCount": 2,

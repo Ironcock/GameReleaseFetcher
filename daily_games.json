@@ -39,7 +39,7 @@
       "StoreURL": "",
       "Metacritic": 71,
       "AddedCount": 56,
-      "Rating": 70.77111635535165,
+      "Rating": 70.76970037421448,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczadj.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczadk.jpg",
@@ -90,9 +90,9 @@
       "ReleaseDate": "2026-01-22",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobcca.jpg",
       "StoreURL": "",
-      "Metacritic": 0,
+      "Metacritic": 72,
       "AddedCount": 49,
-      "Rating": 0.0,
+      "Rating": 72.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpp09.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpp0a.jpg",
@@ -591,7 +591,7 @@
       "ID": 347291,
       "Title": "Legitimate Space Corp Simulator LLC",
       "ReleaseDate": "2026-01-22",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xfm.jpg",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobcir.jpg",
       "StoreURL": "https://store.steampowered.com/app/3725150",
       "Metacritic": 0,
       "AddedCount": 3,
@@ -1247,6 +1247,35 @@
       ]
     },
     {
+      "ID": 258242,
+      "Title": "Sky Harvest",
+      "ReleaseDate": "2026-01-23",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobb9r.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2482840",
+      "Metacritic": 0,
+      "AddedCount": 2,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuxt7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuxt8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuxta.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc118e4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc118e6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc118e7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc118e8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc118e5.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 248898,
       "Title": "Cassette Boy",
       "ReleaseDate": "2026-01-15",
@@ -1356,30 +1385,6 @@
       "Platforms": [
         "pc"
       ]
-    },
-    {
-      "ID": 386866,
-      "Title": "Flirting With Girls in Fantasy World",
-      "ReleaseDate": "2026-01-24",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobcea.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3867230",
-      "Metacritic": 0,
-      "AddedCount": 1,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11g0s.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11g0t.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11g0u.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11g0v.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11g0w.jpg"
-      ],
-      "Genres": [
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
     }
   ],
   "Upcoming": [
@@ -1390,7 +1395,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob3bo.jpg",
       "StoreURL": "https://store.steampowered.com/app/3764200",
       "Metacritic": 0,
-      "AddedCount": 236,
+      "AddedCount": 237,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r3.jpg",
@@ -1421,7 +1426,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqai.jpg",
       "StoreURL": "https://store.steampowered.com/app/3321460",
       "Metacritic": 0,
-      "AddedCount": 196,
+      "AddedCount": 197,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11et8.jpg",
@@ -1450,7 +1455,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9wwv.jpg",
       "StoreURL": "https://store.steampowered.com/app/3357650",
       "Metacritic": 0,
-      "AddedCount": 154,
+      "AddedCount": 155,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bhf.jpg",
@@ -1476,7 +1481,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaveu.jpg",
       "StoreURL": "https://store.steampowered.com/app/2129530",
       "Metacritic": 0,
-      "AddedCount": 125,
+      "AddedCount": 126,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoic.jpg",
@@ -2276,31 +2281,6 @@
       ]
     },
     {
-      "ID": 341266,
-      "Title": "Final Sentence",
-      "ReleaseDate": "2026-03-31",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coadio.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2413950",
-      "Metacritic": 0,
-      "AddedCount": 12,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxtwc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxtwd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxtwe.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxtwf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxtwg.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 328273,
       "Title": "All Will Fall",
       "ReleaseDate": "2026-03-31",
@@ -2386,6 +2366,57 @@
       ]
     },
     {
+      "ID": 358525,
+      "Title": "Monster Hunter Stories 3: Twisted Reflection",
+      "ReleaseDate": "2026-03-13",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaxze.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2852190",
+      "Metacritic": 0,
+      "AddedCount": 11,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scydfg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scydfh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scydfi.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scydfj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scydfk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scydfl.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 341266,
+      "Title": "Final Sentence",
+      "ReleaseDate": "2026-03-31",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coadio.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2413950",
+      "Metacritic": 0,
+      "AddedCount": 11,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxtwc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxtwd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxtwe.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxtwf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxtwg.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 304743,
       "Title": "Demon Tides",
       "ReleaseDate": "2026-02-19",
@@ -2459,32 +2490,6 @@
         "Puzzle",
         "Simulator",
         "Strategy"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 358525,
-      "Title": "Monster Hunter Stories 3: Twisted Reflection",
-      "ReleaseDate": "2026-03-13",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaxze.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2852190",
-      "Metacritic": 0,
-      "AddedCount": 10,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scydfg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scydfh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scydfi.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scydfj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scydfk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scydfl.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
