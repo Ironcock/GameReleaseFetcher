@@ -6,9 +6,9 @@
       "ReleaseDate": "2026-01-13",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobc4t.jpg",
       "StoreURL": "",
-      "Metacritic": 92,
+      "Metacritic": 90,
       "AddedCount": 132,
-      "Rating": 91.81818181818181,
+      "Rating": 90.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5rik.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5ril.jpg",
@@ -90,9 +90,9 @@
       "ReleaseDate": "2026-01-22",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobcca.jpg",
       "StoreURL": "",
-      "Metacritic": 79,
+      "Metacritic": 78,
       "AddedCount": 49,
-      "Rating": 78.57142857142857,
+      "Rating": 77.5,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpp09.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpp0a.jpg",
@@ -257,9 +257,9 @@
       "ReleaseDate": "2026-01-26",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0ha.jpg",
       "StoreURL": "https://store.steampowered.com/app/4128260",
-      "Metacritic": 0,
+      "Metacritic": 40,
       "AddedCount": 9,
-      "Rating": 0.0,
+      "Rating": 40.23067174163722,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10te3.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10te4.jpg",
@@ -331,6 +331,36 @@
       "Genres": [
         "Racing",
         "Simulator",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 370698,
+      "Title": "Earth Must Die",
+      "ReleaseDate": "2026-01-27",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coakz6.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3639780",
+      "Metacritic": 0,
+      "AddedCount": 6,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfh6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfh7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfh8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfh9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfha.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfhb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfhc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfhd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfhe.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfhf.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
         "Adventure"
       ],
       "Tags": [],
@@ -513,7 +543,7 @@
       "Title": "Craftlings",
       "ReleaseDate": "2026-01-15",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0dy.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1771110",
+      "StoreURL": "https://store.steampowered.com/app/1959110",
       "Metacritic": 0,
       "AddedCount": 4,
       "Rating": 0.0,
@@ -715,6 +745,35 @@
       ]
     },
     {
+      "ID": 342937,
+      "Title": "Delivery & Beyond",
+      "ReleaseDate": "2026-01-27",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaa3y.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3376480",
+      "Metacritic": 0,
+      "AddedCount": 3,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc113ft.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc113fy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc113fr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc113fs.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc113fu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc113fv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc113fw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc113fx.jpg"
+      ],
+      "Genres": [
+        "Strategy",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 342853,
       "Title": "Gamblers Table",
       "ReleaseDate": "2026-01-11",
@@ -815,6 +874,32 @@
         "Indie",
         "Arcade",
         "Card & Board Game"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 217312,
+      "Title": "The Spirit Lift",
+      "ReleaseDate": "2026-01-27",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6mac.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1727590",
+      "Metacritic": 0,
+      "AddedCount": 3,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scivk1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scivk4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scivk7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scivk9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scivkd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scivke.jpg"
+      ],
+      "Genres": [
+        "Strategy",
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -1009,6 +1094,30 @@
       ],
       "Genres": [
         "Simulator"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 349528,
+      "Title": "Really Fast Rat",
+      "ReleaseDate": "2026-01-27",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaxso.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3806960",
+      "Metacritic": 0,
+      "AddedCount": 2,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxj1n.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxj1j.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxj1k.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxj1l.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxj1m.jpg"
+      ],
+      "Genres": [
+        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -1276,111 +1385,6 @@
       "Platforms": [
         "pc"
       ]
-    },
-    {
-      "ID": 300711,
-      "Title": "Project Homecoming Haven",
-      "ReleaseDate": "2026-01-15",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob4i8.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4096580",
-      "Metacritic": 0,
-      "AddedCount": 2,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwjmf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwjmg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwjmh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwjmo.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 258242,
-      "Title": "Sky Harvest",
-      "ReleaseDate": "2026-01-23",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobb9r.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2482840",
-      "Metacritic": 0,
-      "AddedCount": 2,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuxt7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuxt8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuxta.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc118e4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc118e6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc118e7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc118e8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc118e5.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 248898,
-      "Title": "Cassette Boy",
-      "ReleaseDate": "2026-01-15",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8yu3.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2334330",
-      "Metacritic": 0,
-      "AddedCount": 2,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmfcw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmfcz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmfd1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmfd3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmfd5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmfd6.jpg"
-      ],
-      "Genres": [
-        "Puzzle",
-        "Role-playing (RPG)",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 222870,
-      "Title": "Adaptory",
-      "ReleaseDate": "2026-01-26",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8ok4.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2201620",
-      "Metacritic": 0,
-      "AddedCount": 2,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10qzj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10qzk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10qzl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10qzm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10qzn.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
     }
   ],
   "Upcoming": [
@@ -1391,7 +1395,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob3bo.jpg",
       "StoreURL": "https://store.steampowered.com/app/3764200",
       "Metacritic": 0,
-      "AddedCount": 242,
+      "AddedCount": 244,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r3.jpg",
@@ -1422,7 +1426,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqai.jpg",
       "StoreURL": "https://store.steampowered.com/app/3321460",
       "Metacritic": 0,
-      "AddedCount": 198,
+      "AddedCount": 200,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11et8.jpg",
@@ -1451,7 +1455,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9wwv.jpg",
       "StoreURL": "https://store.steampowered.com/app/3357650",
       "Metacritic": 0,
-      "AddedCount": 156,
+      "AddedCount": 157,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bhf.jpg",
@@ -1477,7 +1481,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaveu.jpg",
       "StoreURL": "https://store.steampowered.com/app/2129530",
       "Metacritic": 0,
-      "AddedCount": 128,
+      "AddedCount": 129,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoic.jpg",
@@ -1507,7 +1511,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co39rf.jpg",
       "StoreURL": "https://store.steampowered.com/app/1663850",
       "Metacritic": 0,
-      "AddedCount": 104,
+      "AddedCount": 105,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scahjd.jpg",
@@ -1732,7 +1736,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9y1x.jpg",
       "StoreURL": "https://store.steampowered.com/app/3288210",
       "Metacritic": 0,
-      "AddedCount": 37,
+      "AddedCount": 36,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbpd.jpg",
@@ -1744,6 +1748,35 @@
       "Genres": [
         "Platform",
         "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 347636,
+      "Title": "Code Vein II",
+      "ReleaseDate": "2026-01-29",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xhi.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2362060",
+      "Metacritic": 0,
+      "AddedCount": 34,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9mv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9ms.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9mt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9mu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9mx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9my.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9mw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz0vs.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz0vp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz0vq.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)"
       ],
       "Tags": [],
       "Platforms": [
@@ -1777,35 +1810,6 @@
       ]
     },
     {
-      "ID": 347636,
-      "Title": "Code Vein II",
-      "ReleaseDate": "2026-01-29",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xhi.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2362060",
-      "Metacritic": 0,
-      "AddedCount": 33,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9mv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9ms.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9mt.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9mu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9mx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9my.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9mw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz0vs.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz0vp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz0vq.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 305036,
       "Title": "Tides of Tomorrow",
       "ReleaseDate": "2026-04-22",
@@ -1822,6 +1826,34 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnym.jpg"
       ],
       "Genres": [
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 265827,
+      "Title": "Crisol: Theater of Idols",
+      "ReleaseDate": "2026-02-10",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xsh.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1790930",
+      "Metacritic": 0,
+      "AddedCount": 26,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso21.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso23.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso22.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso20.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxax8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxax9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxaxa.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxaxb.jpg"
+      ],
+      "Genres": [
+        "Shooter",
         "Adventure"
       ],
       "Tags": [],
@@ -1874,34 +1906,6 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu85j.jpg"
       ],
       "Genres": [
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 265827,
-      "Title": "Crisol: Theater of Idols",
-      "ReleaseDate": "2026-02-10",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xsh.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1790930",
-      "Metacritic": 0,
-      "AddedCount": 24,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso21.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso23.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso22.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso20.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxax8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxax9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxaxa.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxaxb.jpg"
-      ],
-      "Genres": [
-        "Shooter",
         "Adventure"
       ],
       "Tags": [],
@@ -2174,6 +2178,32 @@
       ]
     },
     {
+      "ID": 314272,
+      "Title": "Masters of Albion",
+      "ReleaseDate": "2026-04-22",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8pfz.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3165650",
+      "Metacritic": 0,
+      "AddedCount": 13,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoj2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoj3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoj6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoj1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoj4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoj5.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Strategy"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 252846,
       "Title": "Sand: Raiders Of Sophie",
       "ReleaseDate": "2026-03-01",
@@ -2200,7 +2230,7 @@
     {
       "ID": 234662,
       "Title": "Opus: Prism Peak",
-      "ReleaseDate": "2026-03-01",
+      "ReleaseDate": "2026-03-26",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co631y.jpg",
       "StoreURL": "https://store.steampowered.com/app/1947910",
       "Metacritic": 0,
@@ -2329,32 +2359,6 @@
         "Simulator",
         "Strategy",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 314272,
-      "Title": "Masters of Albion",
-      "ReleaseDate": "2026-04-22",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8pfz.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3165650",
-      "Metacritic": 0,
-      "AddedCount": 12,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoj2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoj3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoj6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoj1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoj4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoj5.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Strategy"
       ],
       "Tags": [],
       "Platforms": [
@@ -2597,31 +2601,6 @@
       ]
     },
     {
-      "ID": 307263,
-      "Title": "Polyaris",
-      "ReleaseDate": "2026-03-31",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8f8a.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2979810",
-      "Metacritic": 0,
-      "AddedCount": 8,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scswwz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scswx0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scswx1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scswx2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scswx3.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 224629,
       "Title": "Lost and Found Co.",
       "ReleaseDate": "2026-02-11",
@@ -2721,6 +2700,35 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc112u7.jpg"
       ],
       "Genres": [],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 362088,
+      "Title": "Star Trek: Voyager - Across the Unknown",
+      "ReleaseDate": "2026-02-18",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coabgd.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2643390",
+      "Metacritic": 0,
+      "AddedCount": 7,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn4m.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn4n.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn4o.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn4p.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn4q.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn4r.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn4s.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn4t.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn4u.jpg"
+      ],
+      "Genres": [
+        "Strategy",
+        "Indie"
+      ],
       "Tags": [],
       "Platforms": [
         "pc"
