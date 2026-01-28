@@ -259,7 +259,7 @@
       "StoreURL": "https://store.steampowered.com/app/4128260",
       "Metacritic": 40,
       "AddedCount": 9,
-      "Rating": 40.23067174163722,
+      "Rating": 40.49813104235682,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10te3.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10te4.jpg",
@@ -299,38 +299,7 @@
       ],
       "Genres": [
         "Platform",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 379608,
-      "Title": "My Winter Car",
-      "ReleaseDate": "2025-12-29",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coawz3.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4164420",
-      "Metacritic": 0,
-      "AddedCount": 7,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10vqd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10vq9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10vqa.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10vqb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10vqc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10vqe.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10vqf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10vqg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10vqh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10vqi.jpg"
-      ],
-      "Genres": [
-        "Racing",
-        "Simulator",
+        "Puzzle",
         "Adventure"
       ],
       "Tags": [],
@@ -362,6 +331,36 @@
       "Genres": [
         "Role-playing (RPG)",
         "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 351155,
+      "Title": "Hellmart",
+      "ReleaseDate": "2026-01-28",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa1gd.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3762550",
+      "Metacritic": 0,
+      "AddedCount": 6,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxpku.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxpkv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxpkw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxpkx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxpky.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxpkz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxpl0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxpl1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxpl2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxpl3.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -543,7 +542,7 @@
       "Title": "Craftlings",
       "ReleaseDate": "2026-01-15",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0dy.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1959110",
+      "StoreURL": "https://store.steampowered.com/app/1771110",
       "Metacritic": 0,
       "AddedCount": 4,
       "Rating": 0.0,
@@ -1156,6 +1155,37 @@
       ]
     },
     {
+      "ID": 345072,
+      "Title": "Lanesplit",
+      "ReleaseDate": "2026-01-28",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob46n.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3278310",
+      "Metacritic": 0,
+      "AddedCount": 2,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzgi.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzgj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzgk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzgl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzgm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzgn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzgo.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzgp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzgq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzgr.jpg"
+      ],
+      "Genres": [
+        "Racing",
+        "Simulator",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 338787,
       "Title": "Super Chipflake \u00dc: Quest for the Uncooked Schnitzel",
       "ReleaseDate": "2026-01-18",
@@ -1271,6 +1301,37 @@
       ]
     },
     {
+      "ID": 331443,
+      "Title": "Roots Devour",
+      "ReleaseDate": "2026-01-28",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9eao.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2612690",
+      "Metacritic": 0,
+      "AddedCount": 2,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvd5v.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11bha.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11bhb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11bhc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11bhd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11bhe.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11bhf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11bhg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11bhh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11bhi.jpg"
+      ],
+      "Genres": [
+        "Strategy",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 327060,
       "Title": "Oddcore",
       "ReleaseDate": "2026-01-07",
@@ -1327,64 +1388,6 @@
       "Platforms": [
         "pc"
       ]
-    },
-    {
-      "ID": 321577,
-      "Title": "Dreadway",
-      "ReleaseDate": "2026-01-23",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coatp6.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3215820",
-      "Metacritic": 0,
-      "AddedCount": 2,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ai3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ai4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ai5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ai6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ai7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ai8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ai9.jpg"
-      ],
-      "Genres": [
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 315343,
-      "Title": "Hungry Horrors",
-      "ReleaseDate": "2026-01-19",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8zkz.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3048840",
-      "Metacritic": 0,
-      "AddedCount": 2,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctrl6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctrl5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctrl4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctrl9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctrl7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctrl8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctrla.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctrlb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctrlc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctsjy.jpg"
-      ],
-      "Genres": [
-        "Strategy",
-        "Turn-based strategy (TBS)",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
     }
   ],
   "Upcoming": [
@@ -1395,7 +1398,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob3bo.jpg",
       "StoreURL": "https://store.steampowered.com/app/3764200",
       "Metacritic": 0,
-      "AddedCount": 244,
+      "AddedCount": 247,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r3.jpg",
@@ -1426,7 +1429,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqai.jpg",
       "StoreURL": "https://store.steampowered.com/app/3321460",
       "Metacritic": 0,
-      "AddedCount": 200,
+      "AddedCount": 201,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11et8.jpg",
@@ -1455,7 +1458,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9wwv.jpg",
       "StoreURL": "https://store.steampowered.com/app/3357650",
       "Metacritic": 0,
-      "AddedCount": 157,
+      "AddedCount": 161,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bhf.jpg",
@@ -1481,7 +1484,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaveu.jpg",
       "StoreURL": "https://store.steampowered.com/app/2129530",
       "Metacritic": 0,
-      "AddedCount": 129,
+      "AddedCount": 131,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoic.jpg",
@@ -1761,7 +1764,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xhi.jpg",
       "StoreURL": "https://store.steampowered.com/app/2362060",
       "Metacritic": 0,
-      "AddedCount": 34,
+      "AddedCount": 35,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9mv.jpg",
@@ -1920,7 +1923,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coab7x.jpg",
       "StoreURL": "https://store.steampowered.com/app/1895900",
       "Metacritic": 0,
-      "AddedCount": 22,
+      "AddedCount": 23,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn3f.jpg",
@@ -2009,6 +2012,34 @@
         "Role-playing (RPG)",
         "Adventure",
         "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 347659,
+      "Title": "Scott Pilgrim EX",
+      "ReleaseDate": "2026-03-03",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xh2.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2640950",
+      "Metacritic": 0,
+      "AddedCount": 18,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9l0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9l1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9l2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9l3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9l4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9l5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9l6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9ky.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9kz.jpg"
+      ],
+      "Genres": [
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -2603,7 +2634,7 @@
     {
       "ID": 224629,
       "Title": "Lost and Found Co.",
-      "ReleaseDate": "2026-02-11",
+      "ReleaseDate": "2026-03-06",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8mgx.jpg",
       "StoreURL": "https://store.steampowered.com/app/2101390",
       "Metacritic": 0,
@@ -2700,35 +2731,6 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc112u7.jpg"
       ],
       "Genres": [],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 362088,
-      "Title": "Star Trek: Voyager - Across the Unknown",
-      "ReleaseDate": "2026-02-18",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coabgd.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2643390",
-      "Metacritic": 0,
-      "AddedCount": 7,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn4m.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn4n.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn4o.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn4p.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn4q.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn4r.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn4s.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn4t.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn4u.jpg"
-      ],
-      "Genres": [
-        "Strategy",
-        "Indie"
-      ],
       "Tags": [],
       "Platforms": [
         "pc"
