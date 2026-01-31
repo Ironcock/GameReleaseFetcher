@@ -8,7 +8,7 @@
       "StoreURL": "",
       "Metacritic": 90,
       "AddedCount": 132,
-      "Rating": 90.0,
+      "Rating": 89.97856121962839,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5rik.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5ril.jpg",
@@ -121,9 +121,9 @@
       "ReleaseDate": "2026-01-22",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobdg6.jpg",
       "StoreURL": "",
-      "Metacritic": 80,
+      "Metacritic": 78,
       "AddedCount": 49,
-      "Rating": 80.0,
+      "Rating": 77.75510204081633,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpp09.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpp0a.jpg",
@@ -241,9 +241,9 @@
       "ReleaseDate": "2026-01-12",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob8bc.jpg",
       "StoreURL": "https://store.steampowered.com/app/3419520",
-      "Metacritic": 85,
+      "Metacritic": 82,
       "AddedCount": 16,
-      "Rating": 84.55938697318007,
+      "Rating": 82.07529843893481,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwpk5.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwpk4.jpg"
@@ -405,7 +405,7 @@
       "StoreURL": "https://store.steampowered.com/app/4128260",
       "Metacritic": 40,
       "AddedCount": 9,
-      "Rating": 40.33350640564719,
+      "Rating": 40.43978615750811,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10te3.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10te4.jpg",
@@ -476,6 +476,37 @@
         "Platform",
         "Puzzle",
         "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 80936,
+      "Title": "Occupy Mars: The Game",
+      "ReleaseDate": "2026-01-30",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1xal.jpg",
+      "StoreURL": "https://store.steampowered.com/app/758690",
+      "Metacritic": 0,
+      "AddedCount": 8,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/irqzjmocjlbi3avldoh5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/i6ldksl5mx9injckm37h.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/tdcioxb8korbzx36gefo.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/jp6mgtb3dvvwjbogcybj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/zoyy8mcj6d7jopcpgiyb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11jri.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11jre.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11jrf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11jrg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11jrh.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Adventure",
+        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -1017,31 +1048,6 @@
       ]
     },
     {
-      "ID": 343357,
-      "Title": "Mycelium: The Silent Contract",
-      "ReleaseDate": "2026-01-01",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coajo6.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3583970",
-      "Metacritic": 0,
-      "AddedCount": 3,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczbyi.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczbyh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczbyj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczbyk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczbyl.jpg"
-      ],
-      "Genres": [
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 342937,
       "Title": "Delivery & Beyond",
       "ReleaseDate": "2026-01-27",
@@ -1408,7 +1414,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob3bo.jpg",
       "StoreURL": "https://store.steampowered.com/app/3764200",
       "Metacritic": 0,
-      "AddedCount": 249,
+      "AddedCount": 250,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r3.jpg",
@@ -1439,7 +1445,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqai.jpg",
       "StoreURL": "https://store.steampowered.com/app/3321460",
       "Metacritic": 0,
-      "AddedCount": 201,
+      "AddedCount": 202,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11et8.jpg",
@@ -1468,7 +1474,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9wwv.jpg",
       "StoreURL": "https://store.steampowered.com/app/3357650",
       "Metacritic": 0,
-      "AddedCount": 161,
+      "AddedCount": 163,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bhf.jpg",
@@ -1494,7 +1500,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaveu.jpg",
       "StoreURL": "https://store.steampowered.com/app/2129530",
       "Metacritic": 0,
-      "AddedCount": 131,
+      "AddedCount": 134,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoic.jpg",
@@ -1975,7 +1981,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xwu.jpg",
       "StoreURL": "https://store.steampowered.com/app/2353060",
       "Metacritic": 0,
-      "AddedCount": 18,
+      "AddedCount": 19,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbfa.jpg",
@@ -2025,33 +2031,6 @@
       ]
     },
     {
-      "ID": 213016,
-      "Title": "Esoteric Ebb",
-      "ReleaseDate": "2026-03-31",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobakp.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2057760",
-      "Metacritic": 0,
-      "AddedCount": 18,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvifv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvifw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvifx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvify.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvifz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvig0.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 306855,
       "Title": "The Occultist",
       "ReleaseDate": "2026-03-31",
@@ -2072,6 +2051,33 @@
       ],
       "Genres": [
         "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 213016,
+      "Title": "Esoteric Ebb",
+      "ReleaseDate": "2026-03-31",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobakp.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2057760",
+      "Metacritic": 0,
+      "AddedCount": 17,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvifv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvifw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvifx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvify.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvifz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvig0.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
         "Adventure",
         "Indie"
       ],
@@ -2560,32 +2566,6 @@
       ]
     },
     {
-      "ID": 310885,
-      "Title": "Starsand Island",
-      "ReleaseDate": "2026-02-01",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co93z9.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2966320",
-      "Metacritic": 0,
-      "AddedCount": 9,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctbql.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctbqk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctbqm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctbqn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctbqo.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Simulator",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 361822,
       "Title": "Battlestar Galactica: Scattered Hopes",
       "ReleaseDate": "2026-03-31",
@@ -2715,6 +2695,34 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc112u7.jpg"
       ],
       "Genres": [],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 362102,
+      "Title": "Lunar Strike",
+      "ReleaseDate": "2026-05-01",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coab9f.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3949580",
+      "Metacritic": 0,
+      "AddedCount": 7,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn6o.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn6p.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn6q.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn6r.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn6s.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn6t.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn6u.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn6v.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn6w.jpg"
+      ],
+      "Genres": [
+        "Adventure"
+      ],
       "Tags": [],
       "Platforms": [
         "pc"
