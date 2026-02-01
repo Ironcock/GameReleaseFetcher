@@ -121,9 +121,9 @@
       "ReleaseDate": "2026-01-22",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobdg6.jpg",
       "StoreURL": "",
-      "Metacritic": 78,
+      "Metacritic": 77,
       "AddedCount": 49,
-      "Rating": 77.75510204081633,
+      "Rating": 77.16981132075472,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpp09.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpp0a.jpg",
@@ -403,9 +403,9 @@
       "ReleaseDate": "2026-01-26",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0ha.jpg",
       "StoreURL": "https://store.steampowered.com/app/4128260",
-      "Metacritic": 40,
+      "Metacritic": 42,
       "AddedCount": 9,
-      "Rating": 40.43978615750811,
+      "Rating": 42.13582436403981,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10te3.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10te4.jpg",
@@ -420,34 +420,6 @@
       ],
       "Genres": [
         "Shooter"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 351054,
-      "Title": "Arcanus Online",
-      "ReleaseDate": "2026-01-02",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobdf4.jpg",
-      "StoreURL": "",
-      "Metacritic": 0,
-      "AddedCount": 8,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxp73.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxp74.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxp6x.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxp6y.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxp6z.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxp70.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxp71.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxp72.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxp75.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)"
       ],
       "Tags": [],
       "Platforms": [
@@ -1317,6 +1289,29 @@
       ]
     },
     {
+      "ID": 373274,
+      "Title": "iRacing Arcade",
+      "ReleaseDate": "2026-02-01",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaoet.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3226450",
+      "Metacritic": 0,
+      "AddedCount": 2,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczroy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczroz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczrp0.jpg"
+      ],
+      "Genres": [
+        "Racing",
+        "Arcade"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 369783,
       "Title": "Turnbound",
       "ReleaseDate": "2026-01-22",
@@ -1414,7 +1409,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob3bo.jpg",
       "StoreURL": "https://store.steampowered.com/app/3764200",
       "Metacritic": 0,
-      "AddedCount": 250,
+      "AddedCount": 254,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r3.jpg",
@@ -1474,7 +1469,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9wwv.jpg",
       "StoreURL": "https://store.steampowered.com/app/3357650",
       "Metacritic": 0,
-      "AddedCount": 163,
+      "AddedCount": 164,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bhf.jpg",
@@ -1636,6 +1631,32 @@
       ]
     },
     {
+      "ID": 347123,
+      "Title": "Nioh 3",
+      "ReleaseDate": "2026-02-06",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobe4a.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3681010",
+      "Metacritic": 0,
+      "AddedCount": 50,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7ci.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7cj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7ck.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7cl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7cm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7cn.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 348166,
       "Title": "High on Life 2",
       "ReleaseDate": "2026-02-13",
@@ -1653,32 +1674,6 @@
       ],
       "Genres": [
         "Shooter",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 347123,
-      "Title": "Nioh 3",
-      "ReleaseDate": "2026-02-06",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9x1e.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3681010",
-      "Metacritic": 0,
-      "AddedCount": 49,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7ci.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7cj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7ck.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7cl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7cm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7cn.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
         "Adventure"
       ],
       "Tags": [],
@@ -2461,6 +2456,32 @@
       ]
     },
     {
+      "ID": 262664,
+      "Title": "Menace",
+      "ReleaseDate": "2026-02-05",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7pko.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2432860",
+      "Metacritic": 0,
+      "AddedCount": 11,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sco1ie.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sco1if.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sco1ig.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sco1ih.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sco1ii.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Strategy"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 233669,
       "Title": "Subliminal",
       "ReleaseDate": "2026-03-01",
@@ -2508,32 +2529,6 @@
         "Strategy",
         "Tactical",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 262664,
-      "Title": "Menace",
-      "ReleaseDate": "2026-02-05",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7pko.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2432860",
-      "Metacritic": 0,
-      "AddedCount": 10,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sco1ie.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sco1if.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sco1ig.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sco1ih.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sco1ii.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Simulator",
-        "Strategy"
       ],
       "Tags": [],
       "Platforms": [
