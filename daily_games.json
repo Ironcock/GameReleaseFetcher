@@ -8,7 +8,7 @@
       "StoreURL": "",
       "Metacritic": 90,
       "AddedCount": 132,
-      "Rating": 89.97856121962839,
+      "Rating": 89.96909177365667,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5rik.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5ril.jpg",
@@ -70,7 +70,7 @@
       "StoreURL": "",
       "Metacritic": 71,
       "AddedCount": 56,
-      "Rating": 70.76970037421448,
+      "Rating": 70.78734023079336,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczadj.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczadk.jpg",
@@ -459,7 +459,7 @@
       "Title": "Occupy Mars: The Game",
       "ReleaseDate": "2026-01-30",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1xal.jpg",
-      "StoreURL": "https://store.steampowered.com/app/758690",
+      "StoreURL": "https://store.steampowered.com/app/1802390",
       "Metacritic": 0,
       "AddedCount": 8,
       "Rating": 0.0,
@@ -779,7 +779,7 @@
       "Title": "Craftlings",
       "ReleaseDate": "2026-01-15",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0dy.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1959110",
+      "StoreURL": "https://store.steampowered.com/app/1771110",
       "Metacritic": 0,
       "AddedCount": 4,
       "Rating": 0.0,
@@ -1080,9 +1080,9 @@
       "ReleaseDate": "2026-01-07",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coauek.jpg",
       "StoreURL": "https://store.steampowered.com/app/4025700",
-      "Metacritic": 89,
+      "Metacritic": 86,
       "AddedCount": 3,
-      "Rating": 88.75,
+      "Rating": 85.55555555555556,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwdaw.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwdax.jpg",
@@ -1143,6 +1143,35 @@
       "Genres": [
         "Simulator",
         "Strategy",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 318752,
+      "Title": "Tearscape",
+      "ReleaseDate": "2026-02-02",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co99ts.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3216340",
+      "Metacritic": 0,
+      "AddedCount": 3,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv1gj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv1gk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu2ny.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu2nz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu2o2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu2o3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu2o0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu2o1.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure",
         "Indie"
       ],
       "Tags": [],
@@ -1369,36 +1398,6 @@
       "Platforms": [
         "pc"
       ]
-    },
-    {
-      "ID": 355970,
-      "Title": "Kuukiyomi: Consider It World - Thailand Ver.",
-      "ReleaseDate": "2026-01-12",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobacl.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3606690",
-      "Metacritic": 0,
-      "AddedCount": 2,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy1bu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy1bv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy1bx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy1by.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy1bh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy1bj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy1bl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy1bk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy1bm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy1bn.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
     }
   ],
   "Upcoming": [
@@ -1409,7 +1408,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob3bo.jpg",
       "StoreURL": "https://store.steampowered.com/app/3764200",
       "Metacritic": 0,
-      "AddedCount": 254,
+      "AddedCount": 256,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r3.jpg",
@@ -1440,7 +1439,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqai.jpg",
       "StoreURL": "https://store.steampowered.com/app/3321460",
       "Metacritic": 0,
-      "AddedCount": 202,
+      "AddedCount": 203,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11et8.jpg",
@@ -1580,7 +1579,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co82c5.jpg",
       "StoreURL": "https://store.steampowered.com/app/2868840",
       "Metacritic": 0,
-      "AddedCount": 63,
+      "AddedCount": 62,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrupb.jpg",
@@ -1637,7 +1636,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobe4a.jpg",
       "StoreURL": "https://store.steampowered.com/app/3681010",
       "Metacritic": 0,
-      "AddedCount": 50,
+      "AddedCount": 51,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7ci.jpg",
@@ -1744,7 +1743,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaafo.jpg",
       "StoreURL": "https://store.steampowered.com/app/2814990",
       "Metacritic": 0,
-      "AddedCount": 34,
+      "AddedCount": 33,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus33.jpg",
@@ -2082,6 +2081,37 @@
       ]
     },
     {
+      "ID": 8042,
+      "Title": "Mewgenics",
+      "ReleaseDate": "2026-02-10",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9n5k.jpg",
+      "StoreURL": "https://store.steampowered.com/app/686060",
+      "Metacritic": 0,
+      "AddedCount": 16,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgqb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgq9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgq8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgqd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgqe.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgqc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgqa.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgqh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgqg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgqf.jpg"
+      ],
+      "Genres": [
+        "Real Time Strategy (RTS)",
+        "Role-playing (RPG)",
+        "Simulator"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 294592,
       "Title": "Inkonbini",
       "ReleaseDate": "2026-04-01",
@@ -2101,37 +2131,6 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrl12.jpg"
       ],
       "Genres": [
-        "Simulator"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 8042,
-      "Title": "Mewgenics",
-      "ReleaseDate": "2026-02-10",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9n5k.jpg",
-      "StoreURL": "https://store.steampowered.com/app/686060",
-      "Metacritic": 0,
-      "AddedCount": 15,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgqb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgq9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgq8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgqd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgqe.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgqc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgqa.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgqh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgqg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgqf.jpg"
-      ],
-      "Genres": [
-        "Real Time Strategy (RTS)",
-        "Role-playing (RPG)",
         "Simulator"
       ],
       "Tags": [],
@@ -2205,6 +2204,32 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoj5.jpg"
       ],
       "Genres": [
+        "Simulator",
+        "Strategy"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 262664,
+      "Title": "Menace",
+      "ReleaseDate": "2026-02-05",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7pko.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2432860",
+      "Metacritic": 0,
+      "AddedCount": 13,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sco1ie.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sco1if.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sco1ig.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sco1ih.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sco1ii.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
         "Simulator",
         "Strategy"
       ],
@@ -2449,32 +2474,6 @@
         "Shooter",
         "Adventure",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 262664,
-      "Title": "Menace",
-      "ReleaseDate": "2026-02-05",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7pko.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2432860",
-      "Metacritic": 0,
-      "AddedCount": 11,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sco1ie.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sco1if.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sco1ig.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sco1ih.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sco1ii.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Simulator",
-        "Strategy"
       ],
       "Tags": [],
       "Platforms": [
