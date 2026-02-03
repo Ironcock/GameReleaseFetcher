@@ -8,7 +8,7 @@
       "StoreURL": "",
       "Metacritic": 90,
       "AddedCount": 132,
-      "Rating": 89.96909177365667,
+      "Rating": 89.97862232779097,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5rik.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5ril.jpg",
@@ -37,9 +37,9 @@
       "ReleaseDate": "2026-01-29",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobdqk.jpg",
       "StoreURL": "https://store.steampowered.com/app/1588550",
-      "Metacritic": 0,
+      "Metacritic": 70,
       "AddedCount": 68,
-      "Rating": 0.0,
+      "Rating": 69.60618756296986,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnvv.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnvw.jpg",
@@ -405,7 +405,7 @@
       "StoreURL": "https://store.steampowered.com/app/4128260",
       "Metacritic": 42,
       "AddedCount": 9,
-      "Rating": 42.13582436403981,
+      "Rating": 42.20018842315597,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10te3.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10te4.jpg",
@@ -459,7 +459,7 @@
       "Title": "Occupy Mars: The Game",
       "ReleaseDate": "2026-01-30",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1xal.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1802390",
+      "StoreURL": "https://store.steampowered.com/app/758690",
       "Metacritic": 0,
       "AddedCount": 8,
       "Rating": 0.0,
@@ -663,6 +663,64 @@
       ]
     },
     {
+      "ID": 326323,
+      "Title": "Unemployment Simulator 2018",
+      "ReleaseDate": "2026-02-03",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9uq6.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3252360",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuuyn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuuyl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuuyq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuuyt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuuyv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuuyx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuuz0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuuz3.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 306829,
+      "Title": "Aces of Thunder",
+      "ReleaseDate": "2026-02-03",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8ed4.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2754090",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw7fh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw7fi.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw7fj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw7fk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw7fl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw7fm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw7fn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw7fo.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw7fp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw7fq.jpg"
+      ],
+      "Genres": [
+        "Simulator"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 304346,
       "Title": "Eldegarde",
       "ReleaseDate": "2026-01-21",
@@ -779,7 +837,7 @@
       "Title": "Craftlings",
       "ReleaseDate": "2026-01-15",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0dy.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1771110",
+      "StoreURL": "https://store.steampowered.com/app/1959110",
       "Metacritic": 0,
       "AddedCount": 4,
       "Rating": 0.0,
@@ -818,7 +876,11 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu1d2.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu1d9.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu1da.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu1db.jpg"
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu1db.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11jse.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11jsf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11jsg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11jsh.jpg"
       ],
       "Genres": [
         "Shooter",
@@ -957,6 +1019,30 @@
         "Role-playing (RPG)",
         "Adventure",
         "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 363307,
+      "Title": "Yapyap",
+      "ReleaseDate": "2026-02-03",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coadiy.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3834090",
+      "Metacritic": 0,
+      "AddedCount": 3,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczm0j.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczm0k.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczm0l.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczm0m.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczm0n.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)"
       ],
       "Tags": [],
       "Platforms": [
@@ -1316,88 +1402,6 @@
       "Platforms": [
         "pc"
       ]
-    },
-    {
-      "ID": 373274,
-      "Title": "iRacing Arcade",
-      "ReleaseDate": "2026-02-01",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaoet.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3226450",
-      "Metacritic": 0,
-      "AddedCount": 2,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczroy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczroz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczrp0.jpg"
-      ],
-      "Genres": [
-        "Racing",
-        "Arcade"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 369783,
-      "Title": "Turnbound",
-      "ReleaseDate": "2026-01-22",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqv1.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3802470",
-      "Metacritic": 0,
-      "AddedCount": 2,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfj1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfj2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfj3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfj4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfj5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfj6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfj7.jpg"
-      ],
-      "Genres": [
-        "Strategy",
-        "Turn-based strategy (TBS)",
-        "Tactical"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 368815,
-      "Title": "Kotama&Academy Citadel",
-      "ReleaseDate": "2026-01-15",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coarq9.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3639650",
-      "Metacritic": 0,
-      "AddedCount": 2,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc2o.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc2j.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc2g.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc2h.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc2k.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc2f.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc2i.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc2m.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc2l.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc2n.jpg"
-      ],
-      "Genres": [
-        "Platform",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
     }
   ],
   "Upcoming": [
@@ -1408,7 +1412,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob3bo.jpg",
       "StoreURL": "https://store.steampowered.com/app/3764200",
       "Metacritic": 0,
-      "AddedCount": 256,
+      "AddedCount": 258,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r3.jpg",
@@ -1494,7 +1498,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaveu.jpg",
       "StoreURL": "https://store.steampowered.com/app/2129530",
       "Metacritic": 0,
-      "AddedCount": 134,
+      "AddedCount": 133,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoic.jpg",
