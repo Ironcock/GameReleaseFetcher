@@ -8,7 +8,7 @@
       "StoreURL": "",
       "Metacritic": 90,
       "AddedCount": 132,
-      "Rating": 89.97862232779097,
+      "Rating": 89.950213371266,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5rik.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5ril.jpg",
@@ -37,9 +37,9 @@
       "ReleaseDate": "2026-01-29",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobdqk.jpg",
       "StoreURL": "https://store.steampowered.com/app/1588550",
-      "Metacritic": 70,
+      "Metacritic": 79,
       "AddedCount": 68,
-      "Rating": 69.60618756296986,
+      "Rating": 79.13775666455643,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnvv.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnvw.jpg",
@@ -121,9 +121,9 @@
       "ReleaseDate": "2026-01-22",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobdg6.jpg",
       "StoreURL": "",
-      "Metacritic": 77,
+      "Metacritic": 80,
       "AddedCount": 49,
-      "Rating": 77.16981132075472,
+      "Rating": 79.50819672131148,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpp09.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpp0a.jpg",
@@ -1266,6 +1266,36 @@
       ]
     },
     {
+      "ID": 276853,
+      "Title": "Anthem#9",
+      "ReleaseDate": "2026-02-04",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaq3g.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2656490",
+      "Metacritic": 0,
+      "AddedCount": 3,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczz9j.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczz9k.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczz9l.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczz9m.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczz9n.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczz9o.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczz9p.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczz9q.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczz9r.jpg"
+      ],
+      "Genres": [
+        "Puzzle",
+        "Strategy",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 217321,
       "Title": "Lunars",
       "ReleaseDate": "2026-01-20",
@@ -1375,33 +1405,6 @@
       "Platforms": [
         "pc"
       ]
-    },
-    {
-      "ID": 384124,
-      "Title": "Where We Went",
-      "ReleaseDate": "2026-01-23",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob7gi.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4179960",
-      "Metacritic": 0,
-      "AddedCount": 2,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11ifq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11ifl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11ifm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11ifn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11ifo.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11ifp.jpg"
-      ],
-      "Genres": [
-        "Puzzle",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
     }
   ],
   "Upcoming": [
@@ -1412,7 +1415,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob3bo.jpg",
       "StoreURL": "https://store.steampowered.com/app/3764200",
       "Metacritic": 0,
-      "AddedCount": 258,
+      "AddedCount": 260,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r3.jpg",
@@ -1637,10 +1640,10 @@
       "ID": 347123,
       "Title": "Nioh 3",
       "ReleaseDate": "2026-02-06",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobe4a.jpg",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobf3x.jpg",
       "StoreURL": "https://store.steampowered.com/app/3681010",
       "Metacritic": 0,
-      "AddedCount": 51,
+      "AddedCount": 52,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7ci.jpg",
@@ -2091,7 +2094,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9n5k.jpg",
       "StoreURL": "https://store.steampowered.com/app/686060",
       "Metacritic": 0,
-      "AddedCount": 16,
+      "AddedCount": 17,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgqb.jpg",
