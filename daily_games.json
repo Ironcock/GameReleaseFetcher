@@ -39,7 +39,7 @@
       "StoreURL": "https://store.steampowered.com/app/1588550",
       "Metacritic": 79,
       "AddedCount": 68,
-      "Rating": 79.15019383304558,
+      "Rating": 79.15097153685663,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnvv.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnvw.jpg",
@@ -233,43 +233,14 @@
       ]
     },
     {
-      "ID": 319087,
-      "Title": "Pathologic 3",
-      "ReleaseDate": "2026-01-09",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0w6.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3199650",
-      "Metacritic": 0,
-      "AddedCount": 19,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu3mv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu3n0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu3n1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu3my.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu3mz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu3mx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu3mu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu3mw.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Simulator",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 342760,
       "Title": "Quarantine Zone: The Last Check",
       "ReleaseDate": "2026-01-12",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob8bc.jpg",
       "StoreURL": "https://store.steampowered.com/app/3419520",
-      "Metacritic": 82,
+      "Metacritic": 83,
       "AddedCount": 16,
-      "Rating": 82.07529843893481,
+      "Rating": 83.07025151777971,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwpk5.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwpk4.jpg"
@@ -1132,6 +1103,34 @@
       ]
     },
     {
+      "ID": 172722,
+      "Title": "HumanitZ",
+      "ReleaseDate": "2026-02-06",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6rbl.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1773210",
+      "Metacritic": 90,
+      "AddedCount": 4,
+      "Rating": 90.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/schd1r.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/schd1s.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/schd1t.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/schd1u.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/schd1v.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/schd1w.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/schd1x.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/schd1y.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 118959,
       "Title": "Na\u00efca",
       "ReleaseDate": "2026-01-19",
@@ -1419,7 +1418,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob3bo.jpg",
       "StoreURL": "https://store.steampowered.com/app/3764200",
       "Metacritic": 0,
-      "AddedCount": 264,
+      "AddedCount": 268,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r3.jpg",
@@ -1479,7 +1478,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9wwv.jpg",
       "StoreURL": "https://store.steampowered.com/app/3357650",
       "Metacritic": 0,
-      "AddedCount": 166,
+      "AddedCount": 167,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bhf.jpg",
@@ -1902,6 +1901,37 @@
       ]
     },
     {
+      "ID": 8042,
+      "Title": "Mewgenics",
+      "ReleaseDate": "2026-02-10",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9n5k.jpg",
+      "StoreURL": "https://store.steampowered.com/app/686060",
+      "Metacritic": 0,
+      "AddedCount": 22,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgqb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgq9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgq8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgqd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgqe.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgqc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgqa.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgqh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgqg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgqf.jpg"
+      ],
+      "Genres": [
+        "Real Time Strategy (RTS)",
+        "Role-playing (RPG)",
+        "Simulator"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 348200,
       "Title": "Planet of Lana II: Children of the Leaf",
       "ReleaseDate": "2026-03-05",
@@ -2089,37 +2119,6 @@
         "Puzzle",
         "Adventure",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 8042,
-      "Title": "Mewgenics",
-      "ReleaseDate": "2026-02-10",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9n5k.jpg",
-      "StoreURL": "https://store.steampowered.com/app/686060",
-      "Metacritic": 0,
-      "AddedCount": 17,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgqb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgq9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgq8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgqd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgqe.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgqc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgqa.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgqh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgqg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgqf.jpg"
-      ],
-      "Genres": [
-        "Real Time Strategy (RTS)",
-        "Role-playing (RPG)",
-        "Simulator"
       ],
       "Tags": [],
       "Platforms": [
