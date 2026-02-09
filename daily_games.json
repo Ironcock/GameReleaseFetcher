@@ -39,7 +39,7 @@
       "StoreURL": "https://store.steampowered.com/app/1588550",
       "Metacritic": 79,
       "AddedCount": 68,
-      "Rating": 79.15097153685663,
+      "Rating": 79.170034170713,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnvv.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnvw.jpg",
@@ -427,7 +427,7 @@
       "StoreURL": "https://store.steampowered.com/app/4128260",
       "Metacritic": 42,
       "AddedCount": 9,
-      "Rating": 42.48840303248394,
+      "Rating": 42.13818681270388,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10te3.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10te4.jpg",
@@ -906,6 +906,33 @@
       ]
     },
     {
+      "ID": 373598,
+      "Title": "Heaven Does Not Respond",
+      "ReleaseDate": "2026-02-06",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaorl.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3817240",
+      "Metacritic": 0,
+      "AddedCount": 4,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczte6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczte7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczte8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczte9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczte5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scztea.jpg"
+      ],
+      "Genres": [
+        "Point-and-click",
+        "Puzzle",
+        "Simulator"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 324569,
       "Title": "Craftlings",
       "ReleaseDate": "2026-01-15",
@@ -1048,22 +1075,22 @@
       "ID": 252738,
       "Title": "Hermit and Pig",
       "ReleaseDate": "2026-02-05",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6luk.jpg",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobgwf.jpg",
       "StoreURL": "https://store.steampowered.com/app/2408350",
       "Metacritic": 0,
       "AddedCount": 4,
       "Rating": 0.0,
       "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwcl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwcm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwc9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwcn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwco.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwcp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwcq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwcr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwcc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwcd.jpg"
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11n0r.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11n0s.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11n0q.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11n0w.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11n0y.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11n0p.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11n0u.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11n0l.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11n0m.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11n0n.jpg"
       ],
       "Genres": [
         "Role-playing (RPG)",
@@ -1150,33 +1177,6 @@
         "Role-playing (RPG)",
         "Adventure",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 373598,
-      "Title": "Heaven Does Not Respond",
-      "ReleaseDate": "2026-02-06",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaorl.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3817240",
-      "Metacritic": 0,
-      "AddedCount": 3,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczte6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczte7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczte8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczte9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczte5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scztea.jpg"
-      ],
-      "Genres": [
-        "Point-and-click",
-        "Puzzle",
-        "Simulator"
       ],
       "Tags": [],
       "Platforms": [
@@ -1418,7 +1418,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob3bo.jpg",
       "StoreURL": "https://store.steampowered.com/app/3764200",
       "Metacritic": 0,
-      "AddedCount": 268,
+      "AddedCount": 269,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r3.jpg",
@@ -1504,7 +1504,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaveu.jpg",
       "StoreURL": "https://store.steampowered.com/app/2129530",
       "Metacritic": 0,
-      "AddedCount": 135,
+      "AddedCount": 136,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoic.jpg",
@@ -1777,7 +1777,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xsh.jpg",
       "StoreURL": "https://store.steampowered.com/app/1790930",
       "Metacritic": 0,
-      "AddedCount": 26,
+      "AddedCount": 27,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso21.jpg",
