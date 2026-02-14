@@ -38,7 +38,7 @@
       "StoreURL": "https://store.steampowered.com/app/1588550",
       "Metacritic": 79,
       "AddedCount": 68,
-      "Rating": 79.18577519144829,
+      "Rating": 79.17741044347409,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnvv.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnvw.jpg",
@@ -69,7 +69,7 @@
       "StoreURL": "",
       "Metacritic": 71,
       "AddedCount": 56,
-      "Rating": 70.7749854312488,
+      "Rating": 70.7834300614648,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczadj.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczadk.jpg",
@@ -648,7 +648,7 @@
       "Title": "Occupy Mars: The Game",
       "ReleaseDate": "2026-01-30",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1xal.jpg",
-      "StoreURL": "https://store.steampowered.com/app/758690",
+      "StoreURL": "https://store.steampowered.com/app/1802390",
       "Metacritic": 0,
       "AddedCount": 8,
       "Rating": 0.0,
@@ -1173,35 +1173,6 @@
       ]
     },
     {
-      "ID": 324569,
-      "Title": "Craftlings",
-      "ReleaseDate": "2026-01-15",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0dy.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1771110",
-      "Metacritic": 0,
-      "AddedCount": 4,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuobt.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuobu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuobv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuobw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuobx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11exe.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11exd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11exf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11exc.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Strategy"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 318266,
       "Title": "Fear the Timeloop",
       "ReleaseDate": "2026-01-30",
@@ -1225,6 +1196,35 @@
       "Genres": [
         "Shooter",
         "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 291287,
+      "Title": "Sector Unknown",
+      "ReleaseDate": "2026-02-12",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa2da.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2734270",
+      "Metacritic": 0,
+      "AddedCount": 4,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr594.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr58z.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr599.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr59e.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr59j.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr59o.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr59u.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr59z.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr5a2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr5a5.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)"
       ],
       "Tags": [],
       "Platforms": [
@@ -1371,7 +1371,7 @@
       "Title": "HumanitZ",
       "ReleaseDate": "2026-02-06",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6rbl.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1766060",
+      "StoreURL": "https://store.steampowered.com/app/1773210",
       "Metacritic": 70,
       "AddedCount": 4,
       "Rating": 70.31496062992126,
@@ -1403,7 +1403,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob3bo.jpg",
       "StoreURL": "https://store.steampowered.com/app/3764200",
       "Metacritic": 0,
-      "AddedCount": 280,
+      "AddedCount": 286,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r3.jpg",
@@ -1434,7 +1434,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqai.jpg",
       "StoreURL": "https://store.steampowered.com/app/3321460",
       "Metacritic": 0,
-      "AddedCount": 208,
+      "AddedCount": 209,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11et8.jpg",
@@ -1463,7 +1463,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9wwv.jpg",
       "StoreURL": "https://store.steampowered.com/app/3357650",
       "Metacritic": 0,
-      "AddedCount": 177,
+      "AddedCount": 176,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bhf.jpg",
@@ -1544,7 +1544,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobbf4.jpg",
       "StoreURL": "https://store.steampowered.com/app/3065800",
       "Metacritic": 0,
-      "AddedCount": 75,
+      "AddedCount": 80,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmnfu.jpg",
@@ -1600,7 +1600,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaacx.jpg",
       "StoreURL": "https://store.steampowered.com/app/2416450",
       "Metacritic": 0,
-      "AddedCount": 62,
+      "AddedCount": 61,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmpf3.jpg",
@@ -1630,7 +1630,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9y1x.jpg",
       "StoreURL": "https://store.steampowered.com/app/3288210",
       "Metacritic": 0,
-      "AddedCount": 37,
+      "AddedCount": 38,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbpd.jpg",
@@ -1649,13 +1649,40 @@
       ]
     },
     {
+      "ID": 331202,
+      "Title": "Darwin's Paradox!",
+      "ReleaseDate": "2026-04-02",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9e1h.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2989180",
+      "Metacritic": 0,
+      "AddedCount": 34,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvcf8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvcfd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvcf9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvcfb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvcfc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvcfa.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvcfe.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 325607,
       "Title": "Screamer",
       "ReleaseDate": "2026-03-26",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaafo.jpg",
       "StoreURL": "https://store.steampowered.com/app/2814990",
       "Metacritic": 0,
-      "AddedCount": 33,
+      "AddedCount": 32,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus33.jpg",
@@ -1705,7 +1732,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0lw.jpg",
       "StoreURL": "https://store.steampowered.com/app/2157830",
       "Metacritic": 0,
-      "AddedCount": 30,
+      "AddedCount": 31,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmvmq.jpg",
@@ -1717,33 +1744,6 @@
       "Genres": [
         "Shooter",
         "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 331202,
-      "Title": "Darwin's Paradox!",
-      "ReleaseDate": "2026-04-02",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9e1h.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2989180",
-      "Metacritic": 0,
-      "AddedCount": 29,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvcf8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvcfd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvcf9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvcfb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvcfc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvcfa.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvcfe.jpg"
-      ],
-      "Genres": [
-        "Adventure",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -1801,6 +1801,36 @@
       ]
     },
     {
+      "ID": 348200,
+      "Title": "Planet of Lana II: Children of the Leaf",
+      "ReleaseDate": "2026-03-05",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xw6.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2997230",
+      "Metacritic": 0,
+      "AddedCount": 22,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxc3y.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxc3z.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxc40.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxc41.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxc42.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxc43.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxc44.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxc45.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxc46.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxc47.jpg"
+      ],
+      "Genres": [
+        "Platform",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 334674,
       "Title": "Styx: Blades of Greed",
       "ReleaseDate": "2026-02-19",
@@ -1817,36 +1847,6 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvo1b.jpg"
       ],
       "Genres": [
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 348200,
-      "Title": "Planet of Lana II: Children of the Leaf",
-      "ReleaseDate": "2026-03-05",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xw6.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2997230",
-      "Metacritic": 0,
-      "AddedCount": 21,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxc3y.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxc3z.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxc40.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxc41.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxc42.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxc43.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxc44.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxc45.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxc46.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxc47.jpg"
-      ],
-      "Genres": [
-        "Platform",
         "Adventure"
       ],
       "Tags": [],
@@ -2046,6 +2046,61 @@
       ]
     },
     {
+      "ID": 358525,
+      "Title": "Monster Hunter Stories 3: Twisted Reflection",
+      "ReleaseDate": "2026-03-13",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaxze.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2852190",
+      "Metacritic": 0,
+      "AddedCount": 13,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scydfg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scydfh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scydfi.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scydfj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scydfk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scydfl.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 328273,
+      "Title": "All Will Fall",
+      "ReleaseDate": "2026-03-31",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9ayi.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2706020",
+      "Metacritic": 0,
+      "AddedCount": 13,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw2u4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw2u5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw2u6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw2u7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw2u8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw2u9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw2ua.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw2ub.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Strategy",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 314272,
       "Title": "Masters of Albion",
       "ReleaseDate": "2026-04-22",
@@ -2121,61 +2176,6 @@
       ]
     },
     {
-      "ID": 358525,
-      "Title": "Monster Hunter Stories 3: Twisted Reflection",
-      "ReleaseDate": "2026-03-13",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaxze.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2852190",
-      "Metacritic": 0,
-      "AddedCount": 12,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scydfg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scydfh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scydfi.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scydfj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scydfk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scydfl.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 328273,
-      "Title": "All Will Fall",
-      "ReleaseDate": "2026-03-31",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9ayi.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2706020",
-      "Metacritic": 0,
-      "AddedCount": 12,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw2u4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw2u5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw2u6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw2u7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw2u8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw2u9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw2ua.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw2ub.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Strategy",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 324265,
       "Title": "Modulus",
       "ReleaseDate": "2026-03-31",
@@ -2224,6 +2224,33 @@
       "Genres": [
         "Platform",
         "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 345416,
+      "Title": "DarkSwitch",
+      "ReleaseDate": "2026-03-12",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9v99.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3132870",
+      "Metacritic": 0,
+      "AddedCount": 11,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzwy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzwz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzx0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzx1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzx2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzx3.jpg"
+      ],
+      "Genres": [
+        "Strategy",
+        "Tactical",
         "Indie"
       ],
       "Tags": [],
@@ -2304,33 +2331,6 @@
         "Puzzle",
         "Simulator",
         "Strategy"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 345416,
-      "Title": "DarkSwitch",
-      "ReleaseDate": "2026-03-12",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9v99.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3132870",
-      "Metacritic": 0,
-      "AddedCount": 10,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzwy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzwz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzx0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzx1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzx2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzx3.jpg"
-      ],
-      "Genres": [
-        "Strategy",
-        "Tactical",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
