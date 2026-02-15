@@ -171,9 +171,9 @@
       "ReleaseDate": "2026-01-22",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobdg6.jpg",
       "StoreURL": "",
-      "Metacritic": 81,
+      "Metacritic": 82,
       "AddedCount": 49,
-      "Rating": 81.05882352941177,
+      "Rating": 81.91011235955057,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpp09.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpp0a.jpg",
@@ -538,33 +538,6 @@
       ]
     },
     {
-      "ID": 235085,
-      "Title": "BrokenLore: Unfollow",
-      "ReleaseDate": "2026-01-16",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8aey.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2133830",
-      "Metacritic": 0,
-      "AddedCount": 11,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckxcc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckxcd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckxce.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckxcf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckxcg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckxc9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckxca.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckxcb.jpg"
-      ],
-      "Genres": [
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 246027,
       "Title": "Out of Action",
       "ReleaseDate": "2026-01-22",
@@ -648,7 +621,7 @@
       "Title": "Occupy Mars: The Game",
       "ReleaseDate": "2026-01-30",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1xal.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1802390",
+      "StoreURL": "https://store.steampowered.com/app/758690",
       "Metacritic": 0,
       "AddedCount": 8,
       "Rating": 0.0,
@@ -1371,7 +1344,7 @@
       "Title": "HumanitZ",
       "ReleaseDate": "2026-02-06",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6rbl.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1773210",
+      "StoreURL": "https://store.steampowered.com/app/1766060",
       "Metacritic": 70,
       "AddedCount": 4,
       "Rating": 70.31496062992126,
@@ -1393,6 +1366,36 @@
       "Platforms": [
         "pc"
       ]
+    },
+    {
+      "ID": 159885,
+      "Title": "Selini",
+      "ReleaseDate": "2026-02-12",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8nfw.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1434050",
+      "Metacritic": 0,
+      "AddedCount": 4,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scbxpx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scbxpy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scbxq0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scbxq2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scbxq3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scbxq6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scbxq8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scbxq9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scbxqa.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scbxqb.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
     }
   ],
   "Upcoming": [
@@ -1403,7 +1406,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob3bo.jpg",
       "StoreURL": "https://store.steampowered.com/app/3764200",
       "Metacritic": 0,
-      "AddedCount": 286,
+      "AddedCount": 288,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r3.jpg",
@@ -1434,7 +1437,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqai.jpg",
       "StoreURL": "https://store.steampowered.com/app/3321460",
       "Metacritic": 0,
-      "AddedCount": 209,
+      "AddedCount": 208,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11et8.jpg",
@@ -1489,7 +1492,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co39rf.jpg",
       "StoreURL": "https://store.steampowered.com/app/1663850",
       "Metacritic": 0,
-      "AddedCount": 111,
+      "AddedCount": 112,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scahjd.jpg",
@@ -1544,7 +1547,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobbf4.jpg",
       "StoreURL": "https://store.steampowered.com/app/3065800",
       "Metacritic": 0,
-      "AddedCount": 80,
+      "AddedCount": 81,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmnfu.jpg",
@@ -1573,7 +1576,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co82c5.jpg",
       "StoreURL": "https://store.steampowered.com/app/2868840",
       "Metacritic": 0,
-      "AddedCount": 63,
+      "AddedCount": 64,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrupb.jpg",
@@ -1655,7 +1658,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9e1h.jpg",
       "StoreURL": "https://store.steampowered.com/app/2989180",
       "Metacritic": 0,
-      "AddedCount": 34,
+      "AddedCount": 35,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvcf8.jpg",
@@ -2153,7 +2156,7 @@
     {
       "ID": 194143,
       "Title": "The Seven Deadly Sins: Origin",
-      "ReleaseDate": "2026-03-01",
+      "ReleaseDate": "2026-03-16",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobi46.jpg",
       "StoreURL": "https://store.steampowered.com/app/3679080",
       "Metacritic": 0,
@@ -2445,6 +2448,37 @@
       ]
     },
     {
+      "ID": 336868,
+      "Title": "Norse: Oath of Blood",
+      "ReleaseDate": "2026-02-17",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9y71.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3054690",
+      "Metacritic": 0,
+      "AddedCount": 8,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw1ch.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw1ci.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw1cn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw1cj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw1ck.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw1cl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw1cm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxce2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxce3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxce4.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Turn-based strategy (TBS)"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 224629,
       "Title": "Lost and Found Co.",
       "ReleaseDate": "2026-03-06",
@@ -2550,37 +2584,6 @@
       ],
       "Genres": [
         "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 336868,
-      "Title": "Norse: Oath of Blood",
-      "ReleaseDate": "2026-02-17",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9y71.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3054690",
-      "Metacritic": 0,
-      "AddedCount": 7,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw1ch.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw1ci.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw1cn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw1cj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw1ck.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw1cl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw1cm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxce2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxce3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxce4.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Strategy",
-        "Turn-based strategy (TBS)"
       ],
       "Tags": [],
       "Platforms": [
