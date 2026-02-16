@@ -8,7 +8,7 @@
       "StoreURL": "https://store.steampowered.com/app/1086940",
       "Metacritic": 96,
       "AddedCount": 39,
-      "Rating": 95.97853430249575,
+      "Rating": 95.9336768770346,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc81fj.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc81fh.jpg",
@@ -39,7 +39,7 @@
       "StoreURL": "https://store.steampowered.com/app/1245620",
       "Metacritic": 94,
       "AddedCount": 96,
-      "Rating": 94.02153049572489,
+      "Rating": 94.02144120716274,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scagdm.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scagdn.jpg",
@@ -234,7 +234,7 @@
       "StoreURL": "https://store.steampowered.com/app/1593500",
       "Metacritic": 92,
       "AddedCount": 92,
-      "Rating": 92.17535788570466,
+      "Rating": 92.1743811286211,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/rm35ytrytuka9qkylqyk.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/ywrkjcrbeemmb51flsfj.jpg",
@@ -284,6 +284,37 @@
       ]
     },
     {
+      "ID": 305152,
+      "Title": "Clair Obscur: Expedition 33",
+      "ReleaseDate": "2025-04-24",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9gam.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1903340",
+      "Metacritic": 92,
+      "AddedCount": 131,
+      "Rating": 91.86585134209194,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsodz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoe8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoe2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoec.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoe7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoea.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoe4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoee.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoeg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoef.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 119295,
       "Title": "Microsoft Flight Simulator",
       "ReleaseDate": "2020-08-17",
@@ -303,37 +334,6 @@
       ],
       "Genres": [
         "Simulator"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 305152,
-      "Title": "Clair Obscur: Expedition 33",
-      "ReleaseDate": "2025-04-24",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9gam.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1903340",
-      "Metacritic": 92,
-      "AddedCount": 131,
-      "Rating": 91.64619316258934,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsodz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoe8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoe2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoec.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoe7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoea.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoe4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoee.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoeg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoef.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Adventure",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -374,7 +374,7 @@
       "StoreURL": "https://store.steampowered.com/app/620",
       "Metacritic": 91,
       "AddedCount": 0,
-      "Rating": 91.27722415506486,
+      "Rating": 91.27727770230987,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/i9ys3zdhph1mh3futdit.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/rvrge8js7xnhr4z1vrbk.jpg",
@@ -649,7 +649,7 @@
       "StoreURL": "https://store.steampowered.com/app/271590",
       "Metacritic": 90,
       "AddedCount": 0,
-      "Rating": 89.69507320423381,
+      "Rating": 89.69565392066416,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/hjnzngnrtwr82jzmmkef.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/n3t2agwuxlqggp3kryf9.jpg",
@@ -994,7 +994,7 @@
       "StoreURL": "https://store.steampowered.com/app/1426210",
       "Metacritic": 89,
       "AddedCount": 5,
-      "Rating": 88.50213767412974,
+      "Rating": 88.50310310114008,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8cg4.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8cg5.jpg",
@@ -1185,7 +1185,7 @@
       "StoreURL": "",
       "Metacritic": 88,
       "AddedCount": 95,
-      "Rating": 87.5785859524926,
+      "Rating": 87.57845924044774,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/llwixfa0dy8fpex3tcwr.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/o7ehlmbjcvkeeltwreeg.jpg",
@@ -1366,7 +1366,7 @@
       "Title": "Alan Wake II",
       "ReleaseDate": "2023-10-27",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6jar.jpg",
-      "StoreURL": "https://store.epicgames.com/p/06203841-704b-4a66-af9a-a49967e7aefe",
+      "StoreURL": "https://store.epicgames.com/p/a7364ebfa54147f1b90f78a81c8093f7",
       "Metacritic": 87,
       "AddedCount": 16,
       "Rating": 87.19160075779814,
@@ -1673,7 +1673,7 @@
       "StoreURL": "https://store.steampowered.com/app/400",
       "Metacritic": 86,
       "AddedCount": 0,
-      "Rating": 86.45894001031385,
+      "Rating": 86.4590137448886,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/x7pzfljardlljvtqcgv4.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/co2mtfe04a5iclqoo11c.jpg",
@@ -1756,7 +1756,7 @@
       "StoreURL": "https://store.steampowered.com/app/413150",
       "Metacritic": 86,
       "AddedCount": 1,
-      "Rating": 86.22931383161998,
+      "Rating": 86.22939104565695,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/rhxs1x9w5hf5kde2osf5.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/iwswpvxa9ytrpk8yjcyx.jpg",
@@ -2065,7 +2065,7 @@
       "StoreURL": "https://store.steampowered.com/app/1817230",
       "Metacritic": 86,
       "AddedCount": 1,
-      "Rating": 85.71489594146051,
+      "Rating": 85.71450219668432,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckrmg.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckrmh.jpg",
@@ -2115,36 +2115,6 @@
       ]
     },
     {
-      "ID": 538,
-      "Title": "BioShock Infinite",
-      "ReleaseDate": "2013-03-25",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2n12.jpg",
-      "StoreURL": "https://store.steampowered.com/app/8870",
-      "Metacritic": 86,
-      "AddedCount": 0,
-      "Rating": 85.64347225891608,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scijgs.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scijgr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scijgt.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scijgv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scijgu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scijgx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scijgy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scijgz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scijgw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpri1.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 112874,
       "Title": "Horizon Forbidden West",
       "ReleaseDate": "2022-02-18",
@@ -2172,6 +2142,36 @@
       ]
     },
     {
+      "ID": 538,
+      "Title": "BioShock Infinite",
+      "ReleaseDate": "2013-03-25",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2n12.jpg",
+      "StoreURL": "https://store.steampowered.com/app/8870",
+      "Metacritic": 86,
+      "AddedCount": 0,
+      "Rating": 85.63342478112779,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scijgs.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scijgr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scijgt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scijgv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scijgu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scijgx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scijgy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scijgz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scijgw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpri1.jpg"
+      ],
+      "Genres": [
+        "Shooter",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 37,
       "Title": "Dead Space",
       "ReleaseDate": "2008-10-14",
@@ -2179,7 +2179,7 @@
       "StoreURL": "https://store.steampowered.com/app/17470",
       "Metacritic": 86,
       "AddedCount": 0,
-      "Rating": 85.62623159736594,
+      "Rating": 85.62636663896733,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/hj1lsmfhxysduatojr60.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/fdpzkez7ve4ukv28aqcu.jpg",
@@ -2217,31 +2217,6 @@
       "Genres": [
         "Hack and slash/Beat 'em up",
         "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 654,
-      "Title": "Company of Heroes",
-      "ReleaseDate": "2006-09-12",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2ht7.jpg",
-      "StoreURL": "https://store.steampowered.com/app/228200",
-      "Metacritic": 86,
-      "AddedCount": 0,
-      "Rating": 85.55579487770858,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/ziif4tmanig4cbkws2g3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/spzerwnrod4fkwgafk3p.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/wokthmguvmedphgpfmm7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/togcyizpo2enikuf9c8e.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/lwwuuo0nahyz2hlhiwkq.jpg"
-      ],
-      "Genres": [
-        "Real Time Strategy (RTS)",
-        "Strategy"
       ],
       "Tags": [],
       "Platforms": [
@@ -2580,7 +2555,7 @@
       "StoreURL": "",
       "Metacritic": 85,
       "AddedCount": 0,
-      "Rating": 85.24063560994166,
+      "Rating": 85.2407787022556,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8d2z.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8d30.jpg",
@@ -2596,6 +2571,37 @@
       "Genres": [
         "Simulator",
         "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 251833,
+      "Title": "Balatro",
+      "ReleaseDate": "2024-02-20",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9f4g.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2379780",
+      "Metacritic": 85,
+      "AddedCount": 2,
+      "Rating": 85.23405604629077,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmsev.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmsew.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmsex.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmsey.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmsez.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmsf0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmsf1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv0wl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv0wm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv0wn.jpg"
+      ],
+      "Genres": [
+        "Strategy",
+        "Turn-based strategy (TBS)",
+        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -2687,30 +2693,24 @@
       ]
     },
     {
-      "ID": 251833,
-      "Title": "Balatro",
-      "ReleaseDate": "2024-02-20",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9f4g.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2379780",
+      "ID": 654,
+      "Title": "Company of Heroes",
+      "ReleaseDate": "2006-09-12",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2ht7.jpg",
+      "StoreURL": "https://store.steampowered.com/app/228200",
       "Metacritic": 85,
-      "AddedCount": 2,
-      "Rating": 85.1636254031828,
+      "AddedCount": 0,
+      "Rating": 85.16097244943877,
       "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmsev.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmsew.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmsex.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmsey.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmsez.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmsf0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmsf1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv0wl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv0wm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv0wn.jpg"
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/ziif4tmanig4cbkws2g3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/spzerwnrod4fkwgafk3p.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/wokthmguvmedphgpfmm7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/togcyizpo2enikuf9c8e.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/lwwuuo0nahyz2hlhiwkq.jpg"
       ],
       "Genres": [
-        "Strategy",
-        "Turn-based strategy (TBS)",
-        "Indie"
+        "Real Time Strategy (RTS)",
+        "Strategy"
       ],
       "Tags": [],
       "Platforms": [
@@ -2777,7 +2777,7 @@
       "StoreURL": "https://store.steampowered.com/app/1551360",
       "Metacritic": 85,
       "AddedCount": 16,
-      "Rating": 85.0592457884691,
+      "Rating": 85.0546212797594,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scahho.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scahhp.jpg",
@@ -2938,34 +2938,6 @@
       ]
     },
     {
-      "ID": 1985,
-      "Title": "Metal Gear Solid V: The Phantom Pain",
-      "ReleaseDate": "2015-09-01",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1v85.jpg",
-      "StoreURL": "https://store.steampowered.com/app/287700",
-      "Metacritic": 85,
-      "AddedCount": 57,
-      "Rating": 84.83343804213513,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scj1o3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scj1o4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scj1o5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scj1o9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scj1o6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scj1o7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scj1o8.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Tactical",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 7046,
       "Title": "Factorio",
       "ReleaseDate": "2020-08-14",
@@ -3071,6 +3043,34 @@
       "Genres": [
         "Puzzle",
         "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 1985,
+      "Title": "Metal Gear Solid V: The Phantom Pain",
+      "ReleaseDate": "2015-09-01",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1v85.jpg",
+      "StoreURL": "https://store.steampowered.com/app/287700",
+      "Metacritic": 85,
+      "AddedCount": 57,
+      "Rating": 84.77110518728843,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scj1o3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scj1o4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scj1o5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scj1o9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scj1o6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scj1o7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scj1o8.jpg"
+      ],
+      "Genres": [
+        "Shooter",
+        "Tactical",
         "Adventure"
       ],
       "Tags": [],
@@ -3372,7 +3372,7 @@
       "StoreURL": "https://store.steampowered.com/app/7940",
       "Metacritic": 84,
       "AddedCount": 0,
-      "Rating": 84.35517851123676,
+      "Rating": 84.37577571587713,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/zar9cnupwhjh8qfypxbe.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/k8vtofhy4wxx1128z4rq.jpg",
@@ -3503,7 +3503,7 @@
       "StoreURL": "https://store.steampowered.com/app/1627720",
       "Metacritic": 84,
       "AddedCount": 17,
-      "Rating": 84.25464037761839,
+      "Rating": 84.2540396946595,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc9oaa.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc9oa7.jpg",
@@ -3528,7 +3528,7 @@
       "StoreURL": "https://store.steampowered.com/app/1808500",
       "Metacritic": 84,
       "AddedCount": 107,
-      "Rating": 84.22615300650713,
+      "Rating": 84.22298376744193,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scii62.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11kk7.jpg",
@@ -3605,32 +3605,6 @@
       ]
     },
     {
-      "ID": 19562,
-      "Title": "Resident Evil 7: Biohazard",
-      "ReleaseDate": "2017-01-24",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0ry.jpg",
-      "StoreURL": "https://store.steampowered.com/app/418370",
-      "Metacritic": 84,
-      "AddedCount": 20,
-      "Rating": 84.06986458894065,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/ctxtlpyzlo3q5hvshysw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/io6hffcfxfgtibwwn9jl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/wyn4sipweizrkjvshid9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/tc63ssff6rzvaiq1xjuw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/r03xsdmmrxyddimojni1.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Puzzle",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 2671,
       "Title": "Guitar Hero III: Legends of Rock",
       "ReleaseDate": "2007-10-28",
@@ -3682,6 +3656,32 @@
       ],
       "Genres": [
         "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 19562,
+      "Title": "Resident Evil 7: Biohazard",
+      "ReleaseDate": "2017-01-24",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0ry.jpg",
+      "StoreURL": "https://store.steampowered.com/app/418370",
+      "Metacritic": 84,
+      "AddedCount": 20,
+      "Rating": 84.02399631766005,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/ctxtlpyzlo3q5hvshysw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/io6hffcfxfgtibwwn9jl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/wyn4sipweizrkjvshid9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/tc63ssff6rzvaiq1xjuw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/r03xsdmmrxyddimojni1.jpg"
+      ],
+      "Genres": [
+        "Shooter",
+        "Puzzle",
         "Adventure"
       ],
       "Tags": [],
@@ -3814,7 +3814,7 @@
       "StoreURL": "https://store.steampowered.com/app/2395210",
       "Metacritic": 84,
       "AddedCount": 3,
-      "Rating": 83.71227154515037,
+      "Rating": 83.71083188718436,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8aj0.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8aj1.jpg",
@@ -3912,6 +3912,32 @@
       ]
     },
     {
+      "ID": 731,
+      "Title": "Grand Theft Auto IV",
+      "ReleaseDate": "2008-04-29",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2lbv.jpg",
+      "StoreURL": "https://store.steampowered.com/app/12210",
+      "Metacritic": 84,
+      "AddedCount": 0,
+      "Rating": 83.53325582355282,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/ywnl0sqqi9wslnyw60l9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/kpaqc6q3il0dtjhrdpcd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/rfvuzw0pjfkxq1d820a4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/smxamwmtgvmoqmqqmdbs.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/bsnm6temoasfzkwkhiop.jpg"
+      ],
+      "Genres": [
+        "Shooter",
+        "Racing",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 27367,
       "Title": "Yoku's Island Express",
       "ReleaseDate": "2018-05-29",
@@ -3943,7 +3969,7 @@
       "StoreURL": "https://store.steampowered.com/app/264710",
       "Metacritic": 84,
       "AddedCount": 4,
-      "Rating": 83.52713718475121,
+      "Rating": 83.52426047743523,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/b0wy5anlht2k2mewjcya.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc68wd.jpg",
@@ -4099,32 +4125,6 @@
         "Puzzle",
         "Adventure",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 731,
-      "Title": "Grand Theft Auto IV",
-      "ReleaseDate": "2008-04-29",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2lbv.jpg",
-      "StoreURL": "https://store.steampowered.com/app/12210",
-      "Metacritic": 83,
-      "AddedCount": 0,
-      "Rating": 83.4798206707965,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/ywnl0sqqi9wslnyw60l9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/kpaqc6q3il0dtjhrdpcd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/rfvuzw0pjfkxq1d820a4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/smxamwmtgvmoqmqqmdbs.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/bsnm6temoasfzkwkhiop.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Racing",
-        "Adventure"
       ],
       "Tags": [],
       "Platforms": [

@@ -6,9 +6,9 @@
       "ReleaseDate": "2026-02-13",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaveu.jpg",
       "StoreURL": "https://store.steampowered.com/app/2129530",
-      "Metacritic": 0,
+      "Metacritic": 80,
       "AddedCount": 140,
-      "Rating": 0.0,
+      "Rating": 79.74134929643414,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoic.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoig.jpg",
@@ -38,7 +38,7 @@
       "StoreURL": "https://store.steampowered.com/app/1588550",
       "Metacritic": 79,
       "AddedCount": 68,
-      "Rating": 79.17741044347409,
+      "Rating": 79.18603924848422,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnvv.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnvw.jpg",
@@ -978,6 +978,34 @@
       ]
     },
     {
+      "ID": 319853,
+      "Title": "Astrobotanica",
+      "ReleaseDate": "2026-02-16",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8xxt.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2720920",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu6rf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu6rg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu6rh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu6ri.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu6rj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu6rk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu6rl.jpg"
+      ],
+      "Genres": [
+        "Puzzle",
+        "Simulator",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 306829,
       "Title": "Aces of Thunder",
       "ReleaseDate": "2026-02-03",
@@ -1205,6 +1233,37 @@
       ]
     },
     {
+      "ID": 290612,
+      "Title": "Dobbel Dungeon",
+      "ReleaseDate": "2026-02-16",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8zw0.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2622820",
+      "Metacritic": 0,
+      "AddedCount": 4,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scucf6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scucf4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scucf5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scucf7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scucf8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scucf9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scucfa.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scucfb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scucfc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scucfd.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Tactical"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 264143,
       "Title": "Shadows of Soldiers",
       "ReleaseDate": "2026-01-30",
@@ -1338,64 +1397,6 @@
       "Platforms": [
         "pc"
       ]
-    },
-    {
-      "ID": 172722,
-      "Title": "HumanitZ",
-      "ReleaseDate": "2026-02-06",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6rbl.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1766060",
-      "Metacritic": 70,
-      "AddedCount": 4,
-      "Rating": 70.31496062992126,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/schd1r.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/schd1s.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/schd1t.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/schd1u.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/schd1v.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/schd1w.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/schd1x.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/schd1y.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 159885,
-      "Title": "Selini",
-      "ReleaseDate": "2026-02-12",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8nfw.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1434050",
-      "Metacritic": 0,
-      "AddedCount": 4,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scbxpx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scbxpy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scbxq0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scbxq2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scbxq3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scbxq6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scbxq8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scbxq9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scbxqa.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scbxqb.jpg"
-      ],
-      "Genres": [
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
     }
   ],
   "Upcoming": [
@@ -1406,7 +1407,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob3bo.jpg",
       "StoreURL": "https://store.steampowered.com/app/3764200",
       "Metacritic": 0,
-      "AddedCount": 288,
+      "AddedCount": 289,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r3.jpg",
@@ -1437,7 +1438,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqai.jpg",
       "StoreURL": "https://store.steampowered.com/app/3321460",
       "Metacritic": 0,
-      "AddedCount": 208,
+      "AddedCount": 209,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11et8.jpg",
@@ -1466,7 +1467,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9wwv.jpg",
       "StoreURL": "https://store.steampowered.com/app/3357650",
       "Metacritic": 0,
-      "AddedCount": 176,
+      "AddedCount": 177,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bhf.jpg",
@@ -1518,7 +1519,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8t96.jpg",
       "StoreURL": "https://store.steampowered.com/app/2255370",
       "Metacritic": 0,
-      "AddedCount": 95,
+      "AddedCount": 96,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctwii.jpg",
@@ -1603,7 +1604,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaacx.jpg",
       "StoreURL": "https://store.steampowered.com/app/2416450",
       "Metacritic": 0,
-      "AddedCount": 61,
+      "AddedCount": 62,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmpf3.jpg",
