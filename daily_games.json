@@ -8,7 +8,7 @@
       "StoreURL": "https://store.steampowered.com/app/2129530",
       "Metacritic": 80,
       "AddedCount": 140,
-      "Rating": 79.74134929643414,
+      "Rating": 80.00676905586201,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoic.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoig.jpg",
@@ -337,9 +337,9 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgqf.jpg"
       ],
       "Genres": [
-        "Real Time Strategy (RTS)",
         "Role-playing (RPG)",
-        "Simulator"
+        "Simulator",
+        "Turn-based strategy (TBS)"
       ],
       "Tags": [],
       "Platforms": [
@@ -617,6 +617,37 @@
       ]
     },
     {
+      "ID": 336868,
+      "Title": "Norse: Oath of Blood",
+      "ReleaseDate": "2026-02-17",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9y71.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3054690",
+      "Metacritic": 0,
+      "AddedCount": 8,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw1ch.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw1ci.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw1cn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw1cj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw1ck.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw1cl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw1cm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxce2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxce3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxce4.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Turn-based strategy (TBS)"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 80936,
       "Title": "Occupy Mars: The Game",
       "ReleaseDate": "2026-01-30",
@@ -856,6 +887,37 @@
         "Role-playing (RPG)",
         "Adventure",
         "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 151501,
+      "Title": "Under the Island",
+      "ReleaseDate": "2026-02-17",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3pr8.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1583520",
+      "Metacritic": 0,
+      "AddedCount": 6,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scadxp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scadxe.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scadxf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scadxg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scadxh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scadxi.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scadxj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scadxk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scadxl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scadxm.jpg"
+      ],
+      "Genres": [
+        "Puzzle",
+        "Role-playing (RPG)",
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -1174,6 +1236,32 @@
       ]
     },
     {
+      "ID": 341542,
+      "Title": "Might & Magic Fates: The Trading Card Game",
+      "ReleaseDate": "2026-02-16",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa7np.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3918850",
+      "Metacritic": 0,
+      "AddedCount": 4,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyk9c.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyk9d.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyk9e.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyk9f.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyk9g.jpg"
+      ],
+      "Genres": [
+        "Strategy",
+        "Turn-based strategy (TBS)",
+        "Card & Board Game"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 318266,
       "Title": "Fear the Timeloop",
       "ReleaseDate": "2026-01-30",
@@ -1317,86 +1405,6 @@
       "Platforms": [
         "pc"
       ]
-    },
-    {
-      "ID": 252738,
-      "Title": "Hermit and Pig",
-      "ReleaseDate": "2026-02-05",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobgwf.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2408350",
-      "Metacritic": 0,
-      "AddedCount": 4,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11n0r.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11n0s.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11n0q.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11n0w.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11n0y.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11n0p.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11n0u.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11n0l.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11n0m.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11n0n.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 244839,
-      "Title": "Hordes of Hunger",
-      "ReleaseDate": "2026-02-12",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7deh.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2157710",
-      "Metacritic": 0,
-      "AddedCount": 4,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scm2dn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scm2dw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scm2ds.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scm2dp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scm2dt.jpg"
-      ],
-      "Genres": [],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 214943,
-      "Title": "Duel Corp.",
-      "ReleaseDate": "2026-01-21",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7guq.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1804470",
-      "Metacritic": 0,
-      "AddedCount": 4,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scikin.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scikiq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scikir.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scikim.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scikis.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scikip.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scikio.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Simulator",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
     }
   ],
   "Upcoming": [
@@ -1438,7 +1446,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqai.jpg",
       "StoreURL": "https://store.steampowered.com/app/3321460",
       "Metacritic": 0,
-      "AddedCount": 209,
+      "AddedCount": 211,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11et8.jpg",
@@ -1467,7 +1475,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9wwv.jpg",
       "StoreURL": "https://store.steampowered.com/app/3357650",
       "Metacritic": 0,
-      "AddedCount": 177,
+      "AddedCount": 178,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bhf.jpg",
@@ -1604,7 +1612,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaacx.jpg",
       "StoreURL": "https://store.steampowered.com/app/2416450",
       "Metacritic": 0,
-      "AddedCount": 62,
+      "AddedCount": 63,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmpf3.jpg",
@@ -1634,7 +1642,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9y1x.jpg",
       "StoreURL": "https://store.steampowered.com/app/3288210",
       "Metacritic": 0,
-      "AddedCount": 38,
+      "AddedCount": 37,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbpd.jpg",
@@ -1671,8 +1679,9 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvcfe.jpg"
       ],
       "Genres": [
-        "Adventure",
-        "Indie"
+        "Platform",
+        "Puzzle",
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -1712,7 +1721,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9x25.jpg",
       "StoreURL": "https://store.steampowered.com/app/2678080",
       "Metacritic": 0,
-      "AddedCount": 31,
+      "AddedCount": 32,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnya.jpg",
@@ -1736,7 +1745,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0lw.jpg",
       "StoreURL": "https://store.steampowered.com/app/2157830",
       "Metacritic": 0,
-      "AddedCount": 31,
+      "AddedCount": 30,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmvmq.jpg",
@@ -2449,37 +2458,6 @@
       ]
     },
     {
-      "ID": 336868,
-      "Title": "Norse: Oath of Blood",
-      "ReleaseDate": "2026-02-17",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9y71.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3054690",
-      "Metacritic": 0,
-      "AddedCount": 8,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw1ch.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw1ci.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw1cn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw1cj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw1ck.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw1cl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw1cm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxce2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxce3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxce4.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Strategy",
-        "Turn-based strategy (TBS)"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 224629,
       "Title": "Lost and Found Co.",
       "ReleaseDate": "2026-03-06",
@@ -2751,6 +2729,31 @@
       "Genres": [
         "Role-playing (RPG)",
         "Strategy",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 310336,
+      "Title": "Nocturnal II",
+      "ReleaseDate": "2026-03-31",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9vk5.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2847780",
+      "Metacritic": 0,
+      "AddedCount": 6,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvvi4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvvi5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvvi6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvvi7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11mdn.jpg"
+      ],
+      "Genres": [
+        "Adventure",
         "Indie"
       ],
       "Tags": [],
