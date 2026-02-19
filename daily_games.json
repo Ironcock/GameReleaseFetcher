@@ -6,9 +6,9 @@
       "ReleaseDate": "2026-02-13",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaveu.jpg",
       "StoreURL": "https://store.steampowered.com/app/2129530",
-      "Metacritic": 82,
+      "Metacritic": 81,
       "AddedCount": 140,
-      "Rating": 81.53271380864311,
+      "Rating": 81.18728246272642,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoic.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoig.jpg",
@@ -62,28 +62,6 @@
       ]
     },
     {
-      "ID": 126460,
-      "Title": "2XKO",
-      "ReleaseDate": "2026-01-20",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coamzd.jpg",
-      "StoreURL": "",
-      "Metacritic": 71,
-      "AddedCount": 56,
-      "Rating": 70.7834300614648,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczadj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczadk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczadh.jpg"
-      ],
-      "Genres": [
-        "Fighting"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 347123,
       "Title": "Nioh 3",
       "ReleaseDate": "2026-02-06",
@@ -128,37 +106,6 @@
       "Genres": [
         "Shooter",
         "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 306141,
-      "Title": "Mio: Memories in Orbit",
-      "ReleaseDate": "2026-01-20",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8tkh.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1672810",
-      "Metacritic": 0,
-      "AddedCount": 50,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scszgl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scszgm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scszgn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scszgo.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scszgp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scszgq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scszgr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scszgs.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scszgt.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scszgu.jpg"
-      ],
-      "Genres": [
-        "Platform",
-        "Adventure",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -308,6 +255,30 @@
       ],
       "Genres": [
         "Shooter",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 334674,
+      "Title": "Styx: Blades of Greed",
+      "ReleaseDate": "2026-02-19",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob9vo.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3290690",
+      "Metacritic": 0,
+      "AddedCount": 23,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvo17.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvo18.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvo19.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvo1a.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvo1b.jpg"
+      ],
+      "Genres": [
         "Adventure"
       ],
       "Tags": [],
@@ -479,6 +450,32 @@
         "Platform",
         "Puzzle",
         "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 304743,
+      "Title": "Demon Tides",
+      "ReleaseDate": "2026-02-19",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobb10.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2585890",
+      "Metacritic": 0,
+      "AddedCount": 13,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsmv9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsmvb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsmvd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsmvf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsmv6.jpg"
+      ],
+      "Genres": [
+        "Platform",
+        "Adventure",
+        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -1096,6 +1093,32 @@
       ]
     },
     {
+      "ID": 305358,
+      "Title": "Love Eternal",
+      "ReleaseDate": "2026-02-19",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8dts.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3010610",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scspds.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scstjh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scstjk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scstjf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scspdv.jpg"
+      ],
+      "Genres": [
+        "Platform",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 304346,
       "Title": "Eldegarde",
       "ReleaseDate": "2026-01-21",
@@ -1170,6 +1193,33 @@
       "Genres": [
         "Strategy",
         "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 388426,
+      "Title": "Paranormasight: The Mermaid's Curse",
+      "ReleaseDate": "2026-02-19",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobftx.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2701440",
+      "Metacritic": 0,
+      "AddedCount": 4,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11m93.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11m97.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11m92.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11m94.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11m95.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11m96.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -1344,61 +1394,6 @@
       "Platforms": [
         "pc"
       ]
-    },
-    {
-      "ID": 264143,
-      "Title": "Shadows of Soldiers",
-      "ReleaseDate": "2026-01-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobhrc.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1401200",
-      "Metacritic": 0,
-      "AddedCount": 4,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxpe2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxpe0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxpe4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11p53.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11p50.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11p51.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11p54.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11p52.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Strategy",
-        "Tactical"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 254662,
-      "Title": "Bladesong",
-      "ReleaseDate": "2026-01-22",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coafkn.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2305640",
-      "Metacritic": 0,
-      "AddedCount": 4,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scnjgs.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scnjgu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scnjgw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scnjgx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scnjgy.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Simulator",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
     }
   ],
   "Upcoming": [
@@ -1409,7 +1404,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob3bo.jpg",
       "StoreURL": "https://store.steampowered.com/app/3764200",
       "Metacritic": 0,
-      "AddedCount": 292,
+      "AddedCount": 293,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r3.jpg",
@@ -1440,7 +1435,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqai.jpg",
       "StoreURL": "https://store.steampowered.com/app/3321460",
       "Metacritic": 0,
-      "AddedCount": 214,
+      "AddedCount": 215,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11et8.jpg",
@@ -1491,11 +1486,11 @@
     {
       "ID": 152244,
       "Title": "Replaced",
-      "ReleaseDate": "2026-03-12",
+      "ReleaseDate": "2026-04-14",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co39rf.jpg",
       "StoreURL": "https://store.steampowered.com/app/1663850",
       "Metacritic": 0,
-      "AddedCount": 112,
+      "AddedCount": 113,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scahjd.jpg",
@@ -1550,7 +1545,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobbf4.jpg",
       "StoreURL": "https://store.steampowered.com/app/3065800",
       "Metacritic": 0,
-      "AddedCount": 81,
+      "AddedCount": 82,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmnfu.jpg",
@@ -1579,7 +1574,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co82c5.jpg",
       "StoreURL": "https://store.steampowered.com/app/2868840",
       "Metacritic": 0,
-      "AddedCount": 65,
+      "AddedCount": 66,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrupb.jpg",
@@ -1713,6 +1708,30 @@
       ]
     },
     {
+      "ID": 305036,
+      "Title": "Tides of Tomorrow",
+      "ReleaseDate": "2026-04-22",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9x25.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2678080",
+      "Metacritic": 0,
+      "AddedCount": 33,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnya.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnyd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnyi.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnyh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnym.jpg"
+      ],
+      "Genres": [
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 325607,
       "Title": "Screamer",
       "ReleaseDate": "2026-03-26",
@@ -1739,37 +1758,13 @@
       ]
     },
     {
-      "ID": 305036,
-      "Title": "Tides of Tomorrow",
-      "ReleaseDate": "2026-04-22",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9x25.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2678080",
-      "Metacritic": 0,
-      "AddedCount": 32,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnya.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnyd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnyi.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnyh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnym.jpg"
-      ],
-      "Genres": [
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 252485,
       "Title": "John Carpenter's Toxic Commando",
       "ReleaseDate": "2026-03-12",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0lw.jpg",
       "StoreURL": "https://store.steampowered.com/app/2157830",
       "Metacritic": 0,
-      "AddedCount": 30,
+      "AddedCount": 31,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmvmq.jpg",
@@ -1807,30 +1802,6 @@
       "Genres": [
         "Adventure",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 334674,
-      "Title": "Styx: Blades of Greed",
-      "ReleaseDate": "2026-02-19",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob9vo.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3290690",
-      "Metacritic": 0,
-      "AddedCount": 23,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvo17.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvo18.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvo19.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvo1a.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvo1b.jpg"
-      ],
-      "Genres": [
-        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -1884,6 +1855,7 @@
       ],
       "Genres": [
         "Platform",
+        "Puzzle",
         "Adventure"
       ],
       "Tags": [],
@@ -1969,35 +1941,6 @@
       ],
       "Genres": [
         "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 306855,
-      "Title": "The Occultist",
-      "ReleaseDate": "2026-03-31",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa9j6.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2092840",
-      "Metacritic": 0,
-      "AddedCount": 18,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyilb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyilc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyild.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyile.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyilf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyilg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyilh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyili.jpg"
-      ],
-      "Genres": [
-        "Puzzle",
-        "Adventure",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -2157,32 +2100,6 @@
       "Genres": [
         "Simulator",
         "Strategy"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 304743,
-      "Title": "Demon Tides",
-      "ReleaseDate": "2026-02-19",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobb10.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2585890",
-      "Metacritic": 0,
-      "AddedCount": 13,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsmv9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsmvb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsmvd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsmvf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsmv6.jpg"
-      ],
-      "Genres": [
-        "Platform",
-        "Adventure",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -2748,6 +2665,88 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11mdn.jpg"
       ],
       "Genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 302655,
+      "Title": "Yunyun Syndrome!?: Rhythm Psychosis",
+      "ReleaseDate": "2026-04-01",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co89bk.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2914150",
+      "Metacritic": 0,
+      "AddedCount": 6,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsde4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsde5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsde6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsdp5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsdp6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsdp8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsdp9.jpg"
+      ],
+      "Genres": [
+        "Music",
+        "Simulator",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 201539,
+      "Title": "The Backworld",
+      "ReleaseDate": "2026-03-31",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9vn6.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1871640",
+      "Metacritic": 0,
+      "AddedCount": 6,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scviel.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scviem.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvien.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvieo.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scviep.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scviek.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 152275,
+      "Title": "Building Relationships",
+      "ReleaseDate": "2026-03-31",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8bj3.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2666920",
+      "Metacritic": 0,
+      "AddedCount": 6,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scs6gw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scs6gx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scs6gy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scs6gz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scs6h0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scs6h1.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
         "Adventure",
         "Indie"
       ],
