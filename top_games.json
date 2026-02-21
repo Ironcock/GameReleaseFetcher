@@ -69,7 +69,7 @@
       "StoreURL": "https://store.steampowered.com/app/1245620",
       "Metacritic": 94,
       "AddedCount": 96,
-      "Rating": 93.52113332271904,
+      "Rating": 93.52139799158458,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scagdm.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scagdn.jpg",
@@ -181,7 +181,7 @@
       "StoreURL": "https://store.steampowered.com/app/1030300",
       "Metacritic": 93,
       "AddedCount": 220,
-      "Rating": 92.56618441901848,
+      "Rating": 92.5665857994982,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc63aa.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc63a9.jpg",
@@ -265,7 +265,7 @@
       "StoreURL": "https://store.steampowered.com/app/367520",
       "Metacritic": 92,
       "AddedCount": 3,
-      "Rating": 92.01899556503903,
+      "Rating": 92.01889138037899,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/p3svrq6ewzxnn7p1a3v9.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/ityinxmtkakwbokpcwws.jpg",
@@ -291,7 +291,7 @@
       "StoreURL": "https://store.steampowered.com/app/1903340",
       "Metacritic": 92,
       "AddedCount": 131,
-      "Rating": 91.86647803115868,
+      "Rating": 91.8671619733641,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsodz.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoe8.jpg",
@@ -374,7 +374,7 @@
       "StoreURL": "https://store.steampowered.com/app/620",
       "Metacritic": 91,
       "AddedCount": 0,
-      "Rating": 91.26947971761899,
+      "Rating": 91.26961984357467,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/i9ys3zdhph1mh3futdit.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/rvrge8js7xnhr4z1vrbk.jpg",
@@ -649,7 +649,7 @@
       "StoreURL": "https://store.steampowered.com/app/271590",
       "Metacritic": 90,
       "AddedCount": 0,
-      "Rating": 89.69733478498453,
+      "Rating": 89.69731562258433,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/hjnzngnrtwr82jzmmkef.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/n3t2agwuxlqggp3kryf9.jpg",
@@ -680,7 +680,7 @@
       "StoreURL": "https://store.steampowered.com/app/1145360",
       "Metacritic": 89,
       "AddedCount": 3,
-      "Rating": 89.44782013586236,
+      "Rating": 89.44800275537163,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8lik.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8lim.jpg",
@@ -704,37 +704,6 @@
       ]
     },
     {
-      "ID": 325609,
-      "Title": "Dispatch",
-      "ReleaseDate": "2025-10-22",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob5ql.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2592160",
-      "Metacritic": 89,
-      "AddedCount": 69,
-      "Rating": 89.37201210694988,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus2s.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus2t.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus2u.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus2v.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus2w.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus2x.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus2y.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus2z.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus30.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus31.jpg"
-      ],
-      "Genres": [
-        "Point-and-click",
-        "Strategy",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 136879,
       "Title": "Black Myth: Wukong",
       "ReleaseDate": "2024-08-20",
@@ -742,7 +711,7 @@
       "StoreURL": "https://store.steampowered.com/app/2358720",
       "Metacritic": 89,
       "AddedCount": 180,
-      "Rating": 89.35721134382307,
+      "Rating": 89.35729067249879,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8i9c.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8i9d.jpg",
@@ -795,7 +764,7 @@
       "StoreURL": "",
       "Metacritic": 89,
       "AddedCount": 0,
-      "Rating": 89.30637074488351,
+      "Rating": 89.30647769283249,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/q7homzi5rjybswimfakb.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/eaj8ukcnb9pqrupxxr5g.jpg",
@@ -925,6 +894,37 @@
       ]
     },
     {
+      "ID": 325609,
+      "Title": "Dispatch",
+      "ReleaseDate": "2025-10-22",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob5ql.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2592160",
+      "Metacritic": 89,
+      "AddedCount": 69,
+      "Rating": 88.74346357652792,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus2s.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus2t.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus2u.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus2v.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus2w.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus2x.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus2y.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus2z.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus30.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus31.jpg"
+      ],
+      "Genres": [
+        "Point-and-click",
+        "Strategy",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 9643,
       "Title": "Return of the Obra Dinn",
       "ReleaseDate": "2018-10-18",
@@ -932,7 +932,7 @@
       "StoreURL": "https://store.steampowered.com/app/653530",
       "Metacritic": 89,
       "AddedCount": 6,
-      "Rating": 88.658508961067,
+      "Rating": 88.6590478556336,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/qkewuti06rk7hyi56apj.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/ja7iz3sn9empf5ws3n0y.jpg",
@@ -994,7 +994,7 @@
       "StoreURL": "https://store.steampowered.com/app/1426210",
       "Metacritic": 89,
       "AddedCount": 5,
-      "Rating": 88.50257930122082,
+      "Rating": 88.5026287172309,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8cg4.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8cg5.jpg",
@@ -1019,7 +1019,7 @@
       "StoreURL": "https://store.steampowered.com/app/2694490",
       "Metacritic": 88,
       "AddedCount": 45,
-      "Rating": 88.37336880578071,
+      "Rating": 88.34643264040636,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwxx.jpg"
       ],
@@ -1211,7 +1211,7 @@
       "StoreURL": "",
       "Metacritic": 87,
       "AddedCount": 1,
-      "Rating": 87.49475095462142,
+      "Rating": 87.4951607632073,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sylfmtzktmb4b0ext8nr.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/nz70mpjc7kszcyesgmqw.jpg",
@@ -1236,7 +1236,7 @@
       "StoreURL": "https://store.steampowered.com/app/57400",
       "Metacritic": 87,
       "AddedCount": 0,
-      "Rating": 87.49027983286545,
+      "Rating": 87.49022179792453,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/optmyqz2utbniy4abipu.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/ygltnojhp2e8dvo8yapm.jpg",
@@ -1338,7 +1338,7 @@
       "Title": "Alan Wake II",
       "ReleaseDate": "2023-10-27",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6jar.jpg",
-      "StoreURL": "https://store.epicgames.com/p/a7364ebfa54147f1b90f78a81c8093f7",
+      "StoreURL": "https://store.epicgames.com/p/06203841-704b-4a66-af9a-a49967e7aefe",
       "Metacritic": 87,
       "AddedCount": 16,
       "Rating": 87.19160075779814,
@@ -1453,7 +1453,7 @@
       "StoreURL": "https://store.steampowered.com/app/504230",
       "Metacritic": 87,
       "AddedCount": 2,
-      "Rating": 86.9986729794102,
+      "Rating": 86.99892247997394,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/e9lk3alqutkrciksfque.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/hisxvydbpgrg9thupnlg.jpg",
@@ -1673,7 +1673,7 @@
       "StoreURL": "https://store.steampowered.com/app/52003",
       "Metacritic": 86,
       "AddedCount": 0,
-      "Rating": 86.431196705231,
+      "Rating": 86.43112697430723,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/x7pzfljardlljvtqcgv4.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/co2mtfe04a5iclqoo11c.jpg",
@@ -1756,7 +1756,7 @@
       "StoreURL": "https://store.steampowered.com/app/413150",
       "Metacritic": 86,
       "AddedCount": 1,
-      "Rating": 86.22939104565695,
+      "Rating": 86.22876534014095,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/rhxs1x9w5hf5kde2osf5.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/iwswpvxa9ytrpk8yjcyx.jpg",
@@ -1833,7 +1833,7 @@
       "StoreURL": "https://store.steampowered.com/app/391540",
       "Metacritic": 86,
       "AddedCount": 0,
-      "Rating": 86.15130908777694,
+      "Rating": 86.15146043353691,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/ze8i79ycm3gyymrjvxf0.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/dp7ytj3ouesyoq7ddrrx.jpg",
@@ -2149,7 +2149,7 @@
       "StoreURL": "https://store.steampowered.com/app/8870",
       "Metacritic": 86,
       "AddedCount": 0,
-      "Rating": 85.633660143487,
+      "Rating": 85.63352881531948,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scijgs.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scijgr.jpg",
@@ -2555,7 +2555,7 @@
       "StoreURL": "",
       "Metacritic": 85,
       "AddedCount": 0,
-      "Rating": 85.24092179179499,
+      "Rating": 85.2411225491991,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8d2z.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8d30.jpg",
@@ -2777,7 +2777,7 @@
       "StoreURL": "https://store.steampowered.com/app/1551360",
       "Metacritic": 85,
       "AddedCount": 16,
-      "Rating": 85.0546212797594,
+      "Rating": 85.05394242122571,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scahho.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scahhp.jpg",
@@ -3002,7 +3002,7 @@
       "StoreURL": "https://store.steampowered.com/app/205100",
       "Metacritic": 85,
       "AddedCount": 0,
-      "Rating": 84.77324750701753,
+      "Rating": 84.77312028429714,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/g7gj1dq82qv2wvv3izxg.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/gket6hnfqf2o6btpluck.jpg",
@@ -3083,7 +3083,7 @@
       "StoreURL": "https://store.steampowered.com/app/323190",
       "Metacritic": 85,
       "AddedCount": 14,
-      "Rating": 84.73965760935316,
+      "Rating": 84.74025053026183,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/dmmaemyd8bnk7per7cim.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/yeyhthmem93jolcdhrig.jpg",
@@ -3144,7 +3144,7 @@
       "StoreURL": "https://store.steampowered.com/app/403640",
       "Metacritic": 85,
       "AddedCount": 73,
-      "Rating": 84.71266757274157,
+      "Rating": 84.71300556678978,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/zuia09etftbctjuxlkm2.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/gwzz1tjttrjdgoqokvdo.jpg",
@@ -3261,7 +3261,7 @@
       "StoreURL": "",
       "Metacritic": 85,
       "AddedCount": 0,
-      "Rating": 84.51472316825978,
+      "Rating": 84.51404010980019,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/fujznpait3vgks1fsf8u.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/auslwvtps8woqdd5t0um.jpg",
@@ -3286,7 +3286,7 @@
       "StoreURL": "https://store.steampowered.com/app/582010",
       "Metacritic": 84,
       "AddedCount": 90,
-      "Rating": 84.46636313697546,
+      "Rating": 84.4665299661415,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/ghcjheumz1norh0rwaxk.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/nqmwzj4azjunajjlniy8.jpg",
@@ -3341,7 +3341,7 @@
       "StoreURL": "https://store.steampowered.com/app/414340",
       "Metacritic": 84,
       "AddedCount": 18,
-      "Rating": 84.37725759962507,
+      "Rating": 84.37764209627878,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/lba0mnzzwo0cqv6xrmdg.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/qlkznn24xndeh1zalz5r.jpg",
@@ -3528,7 +3528,7 @@
       "StoreURL": "https://store.steampowered.com/app/1808500",
       "Metacritic": 84,
       "AddedCount": 107,
-      "Rating": 84.2273127696937,
+      "Rating": 84.22655976391047,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scii62.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11kk7.jpg",
@@ -3583,7 +3583,7 @@
       "StoreURL": "https://store.steampowered.com/app/418370",
       "Metacritic": 84,
       "AddedCount": 20,
-      "Rating": 84.10659492568733,
+      "Rating": 84.10653828966818,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/ctxtlpyzlo3q5hvshysw.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/io6hffcfxfgtibwwn9jl.jpg",
@@ -3638,7 +3638,7 @@
       "StoreURL": "",
       "Metacritic": 84,
       "AddedCount": 0,
-      "Rating": 84.05648007286453,
+      "Rating": 84.05707633208388,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/skae8hihlhugv0ymppen.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/xxheu0ffo2vhdtbmomkq.jpg",
@@ -3949,7 +3949,7 @@
       "StoreURL": "https://store.steampowered.com/app/220240",
       "Metacritic": 84,
       "AddedCount": 0,
-      "Rating": 83.54713539564588,
+      "Rating": 83.5473469043226,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/kwjtiwnlluu30knt0grv.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/h3iymjjobo27kmyg649y.jpg",
