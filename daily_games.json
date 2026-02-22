@@ -8,7 +8,7 @@
       "StoreURL": "https://store.steampowered.com/app/2129530",
       "Metacritic": 81,
       "AddedCount": 140,
-      "Rating": 81.14140011776794,
+      "Rating": 81.13941654511632,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoic.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoig.jpg",
@@ -835,34 +835,6 @@
       ]
     },
     {
-      "ID": 211624,
-      "Title": "Escape from Ever After",
-      "ReleaseDate": "2026-01-23",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobc4v.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1996390",
-      "Metacritic": 0,
-      "AddedCount": 6,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sci3po.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sci3pp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sci3pq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sci3ps.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sci3pr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sci3pu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sci3pw.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 151501,
       "Title": "Under the Island",
       "ReleaseDate": "2026-02-17",
@@ -1391,6 +1363,36 @@
       "Platforms": [
         "pc"
       ]
+    },
+    {
+      "ID": 159885,
+      "Title": "Selini",
+      "ReleaseDate": "2026-02-12",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8nfw.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1434050",
+      "Metacritic": 0,
+      "AddedCount": 4,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scbxpx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scbxpy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scbxq0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scbxq2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scbxq3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scbxq6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scbxq8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scbxq9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scbxqa.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scbxqb.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
     }
   ],
   "Upcoming": [
@@ -1401,7 +1403,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob3bo.jpg",
       "StoreURL": "https://store.steampowered.com/app/3764200",
       "Metacritic": 0,
-      "AddedCount": 294,
+      "AddedCount": 296,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r3.jpg",
@@ -1432,7 +1434,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqai.jpg",
       "StoreURL": "https://store.steampowered.com/app/3321460",
       "Metacritic": 0,
-      "AddedCount": 220,
+      "AddedCount": 223,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11et8.jpg",
@@ -1461,7 +1463,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9wwv.jpg",
       "StoreURL": "https://store.steampowered.com/app/3357650",
       "Metacritic": 0,
-      "AddedCount": 184,
+      "AddedCount": 187,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bhf.jpg",
@@ -1601,7 +1603,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobc5n.jpg",
       "StoreURL": "https://store.steampowered.com/app/2483190",
       "Metacritic": 0,
-      "AddedCount": 58,
+      "AddedCount": 59,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdi.jpg",
@@ -1978,7 +1980,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xxy.jpg",
       "StoreURL": "https://store.steampowered.com/app/3256150",
       "Metacritic": 0,
-      "AddedCount": 14,
+      "AddedCount": 15,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbg4.jpg",
