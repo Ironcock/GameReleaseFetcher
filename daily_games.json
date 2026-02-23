@@ -1341,7 +1341,7 @@
       "Title": "HumanitZ",
       "ReleaseDate": "2026-02-06",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6rbl.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1773210",
+      "StoreURL": "https://store.steampowered.com/app/1766060",
       "Metacritic": 70,
       "AddedCount": 4,
       "Rating": 70.31496062992126,
@@ -1403,7 +1403,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob3bo.jpg",
       "StoreURL": "https://store.steampowered.com/app/3764200",
       "Metacritic": 0,
-      "AddedCount": 296,
+      "AddedCount": 298,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r3.jpg",
@@ -1434,7 +1434,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqai.jpg",
       "StoreURL": "https://store.steampowered.com/app/3321460",
       "Metacritic": 0,
-      "AddedCount": 223,
+      "AddedCount": 224,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11et8.jpg",
@@ -1704,6 +1704,31 @@
       ]
     },
     {
+      "ID": 252485,
+      "Title": "John Carpenter's Toxic Commando",
+      "ReleaseDate": "2026-03-12",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0lw.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2157830",
+      "Metacritic": 0,
+      "AddedCount": 33,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmvmq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmvmp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmvmn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmvmo.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmvmr.jpg"
+      ],
+      "Genres": [
+        "Shooter",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 325607,
       "Title": "Screamer",
       "ReleaseDate": "2026-03-26",
@@ -1730,38 +1755,13 @@
       ]
     },
     {
-      "ID": 252485,
-      "Title": "John Carpenter's Toxic Commando",
-      "ReleaseDate": "2026-03-12",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0lw.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2157830",
-      "Metacritic": 0,
-      "AddedCount": 32,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmvmq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmvmp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmvmn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmvmo.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmvmr.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 362064,
       "Title": "1348: Ex Voto",
       "ReleaseDate": "2026-03-12",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coab7x.jpg",
       "StoreURL": "https://store.steampowered.com/app/1895900",
       "Metacritic": 0,
-      "AddedCount": 26,
+      "AddedCount": 27,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn3f.jpg",
@@ -1926,7 +1926,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobakp.jpg",
       "StoreURL": "https://store.steampowered.com/app/2057760",
       "Metacritic": 0,
-      "AddedCount": 18,
+      "AddedCount": 19,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvifv.jpg",
@@ -1953,7 +1953,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co805d.jpg",
       "StoreURL": "https://store.steampowered.com/app/2723430",
       "Metacritic": 0,
-      "AddedCount": 16,
+      "AddedCount": 17,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrl13.jpg",
@@ -2241,6 +2241,33 @@
       ]
     },
     {
+      "ID": 283354,
+      "Title": "Enginefall",
+      "ReleaseDate": "2026-03-31",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0z3.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2437390",
+      "Metacritic": 0,
+      "AddedCount": 12,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10twy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10twz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tx0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tx1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tx2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tx3.jpg"
+      ],
+      "Genres": [
+        "Shooter",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 345416,
       "Title": "DarkSwitch",
       "ReleaseDate": "2026-03-12",
@@ -2285,33 +2312,6 @@
       ],
       "Genres": [
         "Simulator",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 283354,
-      "Title": "Enginefall",
-      "ReleaseDate": "2026-03-31",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0z3.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2437390",
-      "Metacritic": 0,
-      "AddedCount": 11,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10twy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10twz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tx0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tx1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tx2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tx3.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Adventure",
         "Indie"
       ],
       "Tags": [],
