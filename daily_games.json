@@ -8,7 +8,7 @@
       "StoreURL": "https://store.steampowered.com/app/2129530",
       "Metacritic": 81,
       "AddedCount": 140,
-      "Rating": 81.13941654511632,
+      "Rating": 80.88159346138295,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoic.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoig.jpg",
@@ -80,6 +80,7 @@
       ],
       "Genres": [
         "Role-playing (RPG)",
+        "Hack and slash/Beat 'em up",
         "Adventure"
       ],
       "Tags": [],
@@ -261,9 +262,9 @@
       "ReleaseDate": "2026-02-10",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9n5k.jpg",
       "StoreURL": "https://store.steampowered.com/app/686060",
-      "Metacritic": 76,
+      "Metacritic": 68,
       "AddedCount": 22,
-      "Rating": 76.20689655172414,
+      "Rating": 67.89473684210526,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgqb.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgq9.jpg",
@@ -1400,10 +1401,10 @@
       "ID": 347668,
       "Title": "Resident Evil Requiem",
       "ReleaseDate": "2026-02-27",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob3bo.jpg",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobmj0.jpg",
       "StoreURL": "https://store.steampowered.com/app/3764200",
       "Metacritic": 0,
-      "AddedCount": 298,
+      "AddedCount": 299,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r3.jpg",
@@ -1434,7 +1435,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqai.jpg",
       "StoreURL": "https://store.steampowered.com/app/3321460",
       "Metacritic": 0,
-      "AddedCount": 224,
+      "AddedCount": 226,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11et8.jpg",
@@ -1463,7 +1464,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9wwv.jpg",
       "StoreURL": "https://store.steampowered.com/app/3357650",
       "Metacritic": 0,
-      "AddedCount": 187,
+      "AddedCount": 188,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bhf.jpg",
@@ -1489,7 +1490,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co39rf.jpg",
       "StoreURL": "https://store.steampowered.com/app/1663850",
       "Metacritic": 0,
-      "AddedCount": 114,
+      "AddedCount": 115,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scahjd.jpg",
@@ -1515,7 +1516,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8t96.jpg",
       "StoreURL": "https://store.steampowered.com/app/2255370",
       "Metacritic": 0,
-      "AddedCount": 96,
+      "AddedCount": 97,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctwii.jpg",
@@ -1569,11 +1570,11 @@
     {
       "ID": 249324,
       "Title": "Mouse: P.I. For Hire",
-      "ReleaseDate": "2026-03-19",
+      "ReleaseDate": "2026-04-16",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaacx.jpg",
       "StoreURL": "https://store.steampowered.com/app/2416450",
       "Metacritic": 0,
-      "AddedCount": 64,
+      "AddedCount": 65,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmpf3.jpg",
@@ -1977,17 +1978,18 @@
       "ID": 348272,
       "Title": "Moomintroll: Winter's Warmth",
       "ReleaseDate": "2026-04-27",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xxy.jpg",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobmjo.jpg",
       "StoreURL": "https://store.steampowered.com/app/3256150",
       "Metacritic": 0,
       "AddedCount": 15,
       "Rating": 0.0,
       "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbg4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbg5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbg6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbg7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbg8.jpg"
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12cm9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12cma.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12cmb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12cmc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12cmd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12cme.jpg"
       ],
       "Genres": [
         "Role-playing (RPG)",
@@ -2320,6 +2322,31 @@
       ]
     },
     {
+      "ID": 252870,
+      "Title": "Breathedge 2",
+      "ReleaseDate": "2026-03-31",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6m12.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2412960",
+      "Metacritic": 0,
+      "AddedCount": 11,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwph.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwpi.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwpj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwpk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwpg.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Simulator"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 233669,
       "Title": "Subliminal",
       "ReleaseDate": "2026-03-01",
@@ -2340,31 +2367,6 @@
         "Puzzle",
         "Simulator",
         "Strategy"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 252870,
-      "Title": "Breathedge 2",
-      "ReleaseDate": "2026-03-31",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6m12.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2412960",
-      "Metacritic": 0,
-      "AddedCount": 10,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwph.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwpi.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwpj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwpk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwpg.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Simulator"
       ],
       "Tags": [],
       "Platforms": [
@@ -2452,6 +2454,35 @@
       ]
     },
     {
+      "ID": 360748,
+      "Title": "Raccoin: Coin Pusher Roguelike",
+      "ReleaseDate": "2026-03-31",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaa0s.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3784030",
+      "Metacritic": 0,
+      "AddedCount": 8,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyjpi.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyjpj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyjpk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyjpl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyjpm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyjpn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyjpo.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyjpp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyjpq.jpg"
+      ],
+      "Genres": [
+        "Strategy",
+        "Arcade"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 224629,
       "Title": "Lost and Found Co.",
       "ReleaseDate": "2026-03-06",
@@ -2530,35 +2561,6 @@
       ],
       "Genres": [
         "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 360748,
-      "Title": "Raccoin: Coin Pusher Roguelike",
-      "ReleaseDate": "2026-03-31",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaa0s.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3784030",
-      "Metacritic": 0,
-      "AddedCount": 7,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyjpi.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyjpj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyjpk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyjpl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyjpm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyjpn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyjpo.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyjpp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyjpq.jpg"
-      ],
-      "Genres": [
-        "Strategy",
-        "Arcade"
       ],
       "Tags": [],
       "Platforms": [
