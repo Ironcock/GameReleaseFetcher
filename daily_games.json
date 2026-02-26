@@ -8,7 +8,7 @@
       "StoreURL": "https://store.steampowered.com/app/2129530",
       "Metacritic": 81,
       "AddedCount": 140,
-      "Rating": 80.88159346138295,
+      "Rating": 80.88289040045423,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoic.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoig.jpg",
@@ -747,36 +747,6 @@
       ]
     },
     {
-      "ID": 370698,
-      "Title": "Earth Must Die",
-      "ReleaseDate": "2026-01-27",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coakz6.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3639780",
-      "Metacritic": 0,
-      "AddedCount": 6,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfh6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfh7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfh8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfh9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfha.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfhb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfhc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfhd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfhe.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfhf.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 351155,
       "Title": "Hellmart",
       "ReleaseDate": "2026-01-28",
@@ -1262,6 +1232,31 @@
       ]
     },
     {
+      "ID": 252839,
+      "Title": "Towerborne",
+      "ReleaseDate": "2026-02-26",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6lzb.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2458830",
+      "Metacritic": 0,
+      "AddedCount": 4,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwny.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwnz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwo0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwo1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwo2.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 252738,
       "Title": "Hermit and Pig",
       "ReleaseDate": "2026-02-05",
@@ -1403,7 +1398,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobmj0.jpg",
       "StoreURL": "https://store.steampowered.com/app/3764200",
       "Metacritic": 0,
-      "AddedCount": 301,
+      "AddedCount": 303,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r3.jpg",
@@ -1447,6 +1442,33 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11et9.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11etd.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11etc.jpg"
+      ],
+      "Genres": [
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 141114,
+      "Title": "007 First Light",
+      "ReleaseDate": "2026-05-27",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaoiz.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3768760",
+      "Metacritic": 0,
+      "AddedCount": 205,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx79u.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx79v.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx79w.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx79x.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyx6q.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyx6r.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz0hs.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz0ht.jpg"
       ],
       "Genres": [
         "Adventure"
@@ -1544,7 +1566,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobbf4.jpg",
       "StoreURL": "https://store.steampowered.com/app/3065800",
       "Metacritic": 0,
-      "AddedCount": 82,
+      "AddedCount": 83,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmnfu.jpg",
@@ -1949,7 +1971,7 @@
     {
       "ID": 213016,
       "Title": "Esoteric Ebb",
-      "ReleaseDate": "2026-03-31",
+      "ReleaseDate": "2026-03-03",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobakp.jpg",
       "StoreURL": "https://store.steampowered.com/app/2057760",
       "Metacritic": 0,
@@ -2028,6 +2050,32 @@
       ]
     },
     {
+      "ID": 358525,
+      "Title": "Monster Hunter Stories 3: Twisted Reflection",
+      "ReleaseDate": "2026-03-13",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaxze.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2852190",
+      "Metacritic": 0,
+      "AddedCount": 14,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scydfg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scydfh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scydfi.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scydfj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scydfk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scydfl.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 314928,
       "Title": "Coffee Talk: Tokyo",
       "ReleaseDate": "2026-05-21",
@@ -2070,32 +2118,6 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwp9.jpg"
       ],
       "Genres": [
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 358525,
-      "Title": "Monster Hunter Stories 3: Twisted Reflection",
-      "ReleaseDate": "2026-03-13",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaxze.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2852190",
-      "Metacritic": 0,
-      "AddedCount": 13,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scydfg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scydfh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scydfi.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scydfj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scydfk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scydfl.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
         "Adventure"
       ],
       "Tags": [],
@@ -2720,36 +2742,6 @@
         "Role-playing (RPG)",
         "Adventure",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 250291,
-      "Title": "Never Grave: The Witch and the Curse",
-      "ReleaseDate": "2026-03-05",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6iy3.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2395770",
-      "Metacritic": 0,
-      "AddedCount": 7,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmmwr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmmws.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmmwt.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmmwu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmmwv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmmww.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmmwp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmmwx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmmwq.jpg"
-      ],
-      "Genres": [
-        "Platform",
-        "Puzzle",
-        "Hack and slash/Beat 'em up"
       ],
       "Tags": [],
       "Platforms": [
