@@ -1,6 +1,37 @@
 {
   "NewReleases": [
     {
+      "ID": 347668,
+      "Title": "Resident Evil Requiem",
+      "ReleaseDate": "2026-02-27",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobmj0.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3764200",
+      "Metacritic": 0,
+      "AddedCount": 309,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxq5v.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tjs.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tnu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tnv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tnw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tnx.jpg"
+      ],
+      "Genres": [
+        "Shooter",
+        "Puzzle",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 314265,
       "Title": "Reanimal",
       "ReleaseDate": "2026-02-13",
@@ -8,7 +39,7 @@
       "StoreURL": "https://store.steampowered.com/app/2129530",
       "Metacritic": 81,
       "AddedCount": 140,
-      "Rating": 80.88289040045423,
+      "Rating": 80.86892183067457,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoic.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoig.jpg",
@@ -36,9 +67,9 @@
       "ReleaseDate": "2026-01-29",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobdqk.jpg",
       "StoreURL": "https://store.steampowered.com/app/1588550",
-      "Metacritic": 79,
+      "Metacritic": 83,
       "AddedCount": 68,
-      "Rating": 79.18603924848422,
+      "Rating": 83.12680913994248,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnvv.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnvw.jpg",
@@ -94,9 +125,9 @@
       "ReleaseDate": "2026-02-13",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xyv.jpg",
       "StoreURL": "https://store.steampowered.com/app/2069250",
-      "Metacritic": 60,
+      "Metacritic": 61,
       "AddedCount": 50,
-      "Rating": 60.45567083807917,
+      "Rating": 60.61124115128347,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbet.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbeu.jpg",
@@ -262,9 +293,9 @@
       "ReleaseDate": "2026-02-10",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9n5k.jpg",
       "StoreURL": "https://store.steampowered.com/app/686060",
-      "Metacritic": 68,
+      "Metacritic": 70,
       "AddedCount": 22,
-      "Rating": 67.89473684210526,
+      "Rating": 70.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgqb.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjgq9.jpg",
@@ -740,36 +771,6 @@
         "Role-playing (RPG)",
         "Simulator",
         "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 351155,
-      "Title": "Hellmart",
-      "ReleaseDate": "2026-01-28",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa1gd.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3762550",
-      "Metacritic": 0,
-      "AddedCount": 6,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxpku.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxpkv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxpkw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxpkx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxpky.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxpkz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxpl0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxpl1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxpl2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxpl3.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -1392,44 +1393,13 @@
   ],
   "Upcoming": [
     {
-      "ID": 347668,
-      "Title": "Resident Evil Requiem",
-      "ReleaseDate": "2026-02-27",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobmj0.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3764200",
-      "Metacritic": 0,
-      "AddedCount": 303,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxq5v.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tjs.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tnu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tnv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tnw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tnx.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Puzzle",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 125633,
       "Title": "Crimson Desert",
       "ReleaseDate": "2026-03-19",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqai.jpg",
       "StoreURL": "https://store.steampowered.com/app/3321460",
       "Metacritic": 0,
-      "AddedCount": 227,
+      "AddedCount": 229,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11et8.jpg",
@@ -1566,7 +1536,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobbf4.jpg",
       "StoreURL": "https://store.steampowered.com/app/3065800",
       "Metacritic": 0,
-      "AddedCount": 83,
+      "AddedCount": 85,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmnfu.jpg",
@@ -1702,6 +1672,31 @@
       ]
     },
     {
+      "ID": 252485,
+      "Title": "John Carpenter's Toxic Commando",
+      "ReleaseDate": "2026-03-12",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0lw.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2157830",
+      "Metacritic": 0,
+      "AddedCount": 35,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmvmq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmvmp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmvmn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmvmo.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmvmr.jpg"
+      ],
+      "Genres": [
+        "Shooter",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 305036,
       "Title": "Tides of Tomorrow",
       "ReleaseDate": "2026-04-22",
@@ -1718,31 +1713,6 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnym.jpg"
       ],
       "Genres": [
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 252485,
-      "Title": "John Carpenter's Toxic Commando",
-      "ReleaseDate": "2026-03-12",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0lw.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2157830",
-      "Metacritic": 0,
-      "AddedCount": 33,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmvmq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmvmp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmvmn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmvmo.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmvmr.jpg"
-      ],
-      "Genres": [
-        "Shooter",
         "Adventure"
       ],
       "Tags": [],
@@ -1996,6 +1966,37 @@
       ]
     },
     {
+      "ID": 380437,
+      "Title": "Samson",
+      "ReleaseDate": "2026-04-08",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coay8a.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3634520",
+      "Metacritic": 0,
+      "AddedCount": 18,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oy4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oy3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oy2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxt.jpg"
+      ],
+      "Genres": [
+        "Fighting",
+        "Racing",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 294592,
       "Title": "Inkonbini",
       "ReleaseDate": "2026-04-01",
@@ -2126,6 +2127,31 @@
       ]
     },
     {
+      "ID": 194143,
+      "Title": "The Seven Deadly Sins: Origin",
+      "ReleaseDate": "2026-03-16",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobi46.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3679080",
+      "Metacritic": 0,
+      "AddedCount": 14,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scg7vf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyhdg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyhdh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyhdi.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyhdj.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 328273,
       "Title": "All Will Fall",
       "ReleaseDate": "2026-03-31",
@@ -2205,31 +2231,6 @@
       ]
     },
     {
-      "ID": 194143,
-      "Title": "The Seven Deadly Sins: Origin",
-      "ReleaseDate": "2026-03-16",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobi46.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3679080",
-      "Metacritic": 0,
-      "AddedCount": 13,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scg7vf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyhdg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyhdh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyhdi.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyhdj.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 361820,
       "Title": "Bubsy 4D",
       "ReleaseDate": "2026-05-22",
@@ -2283,33 +2284,6 @@
       "Genres": [
         "Simulator",
         "Strategy",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 283354,
-      "Title": "Enginefall",
-      "ReleaseDate": "2026-03-31",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0z3.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2437390",
-      "Metacritic": 0,
-      "AddedCount": 12,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10twy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10twz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tx0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tx1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tx2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tx3.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Adventure",
         "Indie"
       ],
       "Tags": [],
@@ -2742,6 +2716,36 @@
         "Role-playing (RPG)",
         "Adventure",
         "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 250291,
+      "Title": "Never Grave: The Witch and the Curse",
+      "ReleaseDate": "2026-03-05",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6iy3.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2395770",
+      "Metacritic": 0,
+      "AddedCount": 7,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmmwr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmmws.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmmwt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmmwu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmmwv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmmww.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmmwp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmmwx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmmwq.jpg"
+      ],
+      "Genres": [
+        "Platform",
+        "Puzzle",
+        "Hack and slash/Beat 'em up"
       ],
       "Tags": [],
       "Platforms": [
