@@ -6,9 +6,9 @@
       "ReleaseDate": "2026-02-27",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobmj0.jpg",
       "StoreURL": "https://store.steampowered.com/app/3764200",
-      "Metacritic": 0,
+      "Metacritic": 95,
       "AddedCount": 309,
-      "Rating": 0.0,
+      "Rating": 95.32846715328468,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r3.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r0.jpg",
@@ -39,7 +39,7 @@
       "StoreURL": "https://store.steampowered.com/app/2129530",
       "Metacritic": 81,
       "AddedCount": 140,
-      "Rating": 80.86892183067457,
+      "Rating": 80.873228128335,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoic.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoig.jpg",
@@ -138,37 +138,6 @@
         "Shooter",
         "Hack and slash/Beat 'em up",
         "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 261571,
-      "Title": "Half Sword",
-      "ReleaseDate": "2026-01-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7aeq.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2397300",
-      "Metacritic": 0,
-      "AddedCount": 33,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scnx7y.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scnx80.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scnx7r.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scnx7t.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scnx7v.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scnx7w.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scnx81.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scnx88.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scnx8a.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scnx8c.jpg"
-      ],
-      "Genres": [
-        "Fighting",
-        "Simulator",
-        "Hack and slash/Beat 'em up"
       ],
       "Tags": [],
       "Platforms": [
@@ -301,6 +270,30 @@
       ],
       "Genres": [
         "Racing"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 252846,
+      "Title": "Sand: Raiders Of Sophie",
+      "ReleaseDate": "2026-03-01",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coarmc.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1431300",
+      "Metacritic": 0,
+      "AddedCount": 14,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwp0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwp2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwp4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwp7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwp9.jpg"
+      ],
+      "Genres": [
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -441,6 +434,33 @@
       ]
     },
     {
+      "ID": 233669,
+      "Title": "Subliminal",
+      "ReleaseDate": "2026-03-01",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coasaz.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2300840",
+      "Metacritic": 0,
+      "AddedCount": 11,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctqmx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctqmy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctqn4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctqn1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctqn3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctqn5.jpg"
+      ],
+      "Genres": [
+        "Puzzle",
+        "Simulator",
+        "Strategy"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 362088,
       "Title": "Star Trek: Voyager - Across the Unknown",
       "ReleaseDate": "2026-02-18",
@@ -525,37 +545,6 @@
       ]
     },
     {
-      "ID": 80936,
-      "Title": "Occupy Mars: The Game",
-      "ReleaseDate": "2026-01-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1xal.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1802390",
-      "Metacritic": 0,
-      "AddedCount": 8,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/irqzjmocjlbi3avldoh5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/i6ldksl5mx9injckm37h.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/tdcioxb8korbzx36gefo.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/jp6mgtb3dvvwjbogcybj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/zoyy8mcj6d7jopcpgiyb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11jri.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11jre.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11jrf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11jrg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11jrh.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 369849,
       "Title": "Dark Ties",
       "ReleaseDate": "2026-02-12",
@@ -617,37 +606,6 @@
       "Genres": [
         "Shooter",
         "Strategy"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 278348,
-      "Title": "Vampires: Bloodlord Rising",
-      "ReleaseDate": "2026-01-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9pfz.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2191500",
-      "Metacritic": 0,
-      "AddedCount": 7,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpp4c.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpp4n.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpp45.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpp46.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpp48.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpp4e.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpp4h.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpp4a.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpp4f.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpp4j.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Simulator",
-        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -859,6 +817,36 @@
       ]
     },
     {
+      "ID": 305539,
+      "Title": "No Vacation for an Executioner",
+      "ReleaseDate": "2026-03-01",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa9r8.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2949120",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsq2g.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsq2h.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsq2i.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsq2j.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsq2k.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsq2l.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsq2m.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsq2n.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsq2o.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsq2p.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 305358,
       "Title": "Love Eternal",
       "ReleaseDate": "2026-02-19",
@@ -990,36 +978,6 @@
       ]
     },
     {
-      "ID": 318266,
-      "Title": "Fear the Timeloop",
-      "ReleaseDate": "2026-01-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8xre.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2918090",
-      "Metacritic": 0,
-      "AddedCount": 4,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu1d0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu1d1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu1d2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu1d9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu1da.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu1db.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11jse.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11jsf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11jsg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11jsh.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 291287,
       "Title": "Sector Unknown",
       "ReleaseDate": "2026-02-12",
@@ -1072,35 +1030,6 @@
       ],
       "Genres": [
         "Role-playing (RPG)",
-        "Strategy",
-        "Tactical"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 264143,
-      "Title": "Shadows of Soldiers",
-      "ReleaseDate": "2026-01-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobhrc.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1401200",
-      "Metacritic": 0,
-      "AddedCount": 4,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxpe2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxpe0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxpe4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11p53.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11p50.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11p51.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11p54.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11p52.jpg"
-      ],
-      "Genres": [
-        "Shooter",
         "Strategy",
         "Tactical"
       ],
@@ -1222,7 +1151,7 @@
       "Title": "HumanitZ",
       "ReleaseDate": "2026-02-06",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6rbl.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1773210",
+      "StoreURL": "https://store.steampowered.com/app/1766060",
       "Metacritic": 70,
       "AddedCount": 4,
       "Rating": 70.31496062992126,
@@ -1382,6 +1311,62 @@
       "Platforms": [
         "pc"
       ]
+    },
+    {
+      "ID": 312279,
+      "Title": "Kletka",
+      "ReleaseDate": "2026-02-19",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8nga.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1699480",
+      "Metacritic": 0,
+      "AddedCount": 3,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scthxw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scthxx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scthxy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scthxz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scthy0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scthy1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scthy2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scthy3.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 304944,
+      "Title": "Shadows of Chroma Tower",
+      "ReleaseDate": "2026-03-01",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8nl7.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2713380",
+      "Metacritic": 0,
+      "AddedCount": 3,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnli.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnlj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnlp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnlo.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnlm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnlk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnll.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnln.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
     }
   ],
   "Upcoming": [
@@ -1392,7 +1377,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqai.jpg",
       "StoreURL": "https://store.steampowered.com/app/3321460",
       "Metacritic": 0,
-      "AddedCount": 231,
+      "AddedCount": 233,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11et8.jpg",
@@ -1529,7 +1514,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobbf4.jpg",
       "StoreURL": "https://store.steampowered.com/app/3065800",
       "Metacritic": 0,
-      "AddedCount": 86,
+      "AddedCount": 89,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmnfu.jpg",
@@ -1669,7 +1654,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9e1h.jpg",
       "StoreURL": "https://store.steampowered.com/app/2989180",
       "Metacritic": 0,
-      "AddedCount": 35,
+      "AddedCount": 36,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvcf8.jpg",
@@ -1772,7 +1757,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coab7x.jpg",
       "StoreURL": "https://store.steampowered.com/app/1895900",
       "Metacritic": 0,
-      "AddedCount": 27,
+      "AddedCount": 26,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn3f.jpg",
@@ -2122,30 +2107,6 @@
       ]
     },
     {
-      "ID": 252846,
-      "Title": "Sand: Raiders Of Sophie",
-      "ReleaseDate": "2026-03-01",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coarmc.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1431300",
-      "Metacritic": 0,
-      "AddedCount": 14,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwp0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwp2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwp4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwp7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwp9.jpg"
-      ],
-      "Genres": [
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 194143,
       "Title": "The Seven Deadly Sins: Origin",
       "ReleaseDate": "2026-03-16",
@@ -2381,33 +2342,6 @@
       "Genres": [
         "Role-playing (RPG)",
         "Simulator"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 233669,
-      "Title": "Subliminal",
-      "ReleaseDate": "2026-03-01",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coasaz.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2300840",
-      "Metacritic": 0,
-      "AddedCount": 11,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctqmx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctqmy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctqn4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctqn1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctqn3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctqn5.jpg"
-      ],
-      "Genres": [
-        "Puzzle",
-        "Simulator",
-        "Strategy"
       ],
       "Tags": [],
       "Platforms": [
@@ -2734,6 +2668,64 @@
       "Genres": [
         "Adventure",
         "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 305177,
+      "Title": "Copa City",
+      "ReleaseDate": "2026-03-26",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8buk.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2210520",
+      "Metacritic": 0,
+      "AddedCount": 7,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsok9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsokb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsokc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsokd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsokf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoka.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoke.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Sport",
+        "Strategy"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 250291,
+      "Title": "Never Grave: The Witch and the Curse",
+      "ReleaseDate": "2026-03-05",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6iy3.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2395770",
+      "Metacritic": 0,
+      "AddedCount": 7,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmmwr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmmws.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmmwt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmmwu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmmwv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmmww.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmmwp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmmwx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmmwq.jpg"
+      ],
+      "Genres": [
+        "Platform",
+        "Puzzle",
+        "Hack and slash/Beat 'em up"
       ],
       "Tags": [],
       "Platforms": [
