@@ -8,7 +8,7 @@
       "StoreURL": "https://store.steampowered.com/app/3764200",
       "Metacritic": 87,
       "AddedCount": 309,
-      "Rating": 86.72547904876062,
+      "Rating": 87.40421456479896,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r3.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r0.jpg",
@@ -270,7 +270,11 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvifx.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvify.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvifz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvig0.jpg"
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvig0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12gwn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12gwo.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12gwp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12gwq.jpg"
       ],
       "Genres": [
         "Role-playing (RPG)",
@@ -955,6 +959,32 @@
       ]
     },
     {
+      "ID": 199055,
+      "Title": "Homura Hime",
+      "ReleaseDate": "2026-03-04",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coahqh.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1820000",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scgr9k.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scgr9f.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scgr9g.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scgr9h.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scgr9i.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scgr9j.jpg"
+      ],
+      "Genres": [
+        "Hack and slash/Beat 'em up",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 388426,
       "Title": "Paranormasight: The Mermaid's Curse",
       "ReleaseDate": "2026-02-19",
@@ -1009,6 +1039,29 @@
       ]
     },
     {
+      "ID": 373274,
+      "Title": "iRacing Arcade",
+      "ReleaseDate": "2026-03-04",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaoet.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3226450",
+      "Metacritic": 0,
+      "AddedCount": 4,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczroy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczroz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczrp0.jpg"
+      ],
+      "Genres": [
+        "Racing",
+        "Arcade"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 362114,
       "Title": "The Killing Stone",
       "ReleaseDate": "2026-02-18",
@@ -1026,6 +1079,35 @@
       ],
       "Genres": [
         "Strategy",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 357060,
+      "Title": "Creepy Shift: Uncle Joe\u2019s Motel",
+      "ReleaseDate": "2026-03-04",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobmsz.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3734400",
+      "Metacritic": 0,
+      "AddedCount": 4,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy505.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy504.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy506.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12de4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12de5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12de6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12de7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12de8.jpg"
+      ],
+      "Genres": [
+        "Puzzle",
+        "Simulator",
         "Indie"
       ],
       "Tags": [],
@@ -1285,85 +1367,6 @@
       "Platforms": [
         "pc"
       ]
-    },
-    {
-      "ID": 377690,
-      "Title": "Ride 6",
-      "ReleaseDate": "2026-02-12",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaude.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2815070",
-      "Metacritic": 0,
-      "AddedCount": 3,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10dmc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10dmd.jpg"
-      ],
-      "Genres": [
-        "Racing",
-        "Simulator",
-        "Sport"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 363307,
-      "Title": "Yapyap",
-      "ReleaseDate": "2026-02-03",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coadiy.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3834090",
-      "Metacritic": 0,
-      "AddedCount": 3,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczm0j.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczm0k.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczm0l.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczm0m.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczm0n.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11lqg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11lqh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11lqi.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11lqj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11lqk.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 334464,
-      "Title": "The Abbess Garden",
-      "ReleaseDate": "2026-03-02",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob25j.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3411970",
-      "Metacritic": 0,
-      "AddedCount": 3,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy0bn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy0bo.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy0bs.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy0bt.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy0bp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy0bq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy0br.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Visual Novel"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
     }
   ],
   "Upcoming": [
@@ -1374,7 +1377,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqai.jpg",
       "StoreURL": "https://store.steampowered.com/app/3321460",
       "Metacritic": 0,
-      "AddedCount": 236,
+      "AddedCount": 239,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11et8.jpg",
@@ -1403,7 +1406,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaoiz.jpg",
       "StoreURL": "https://store.steampowered.com/app/3768760",
       "Metacritic": 0,
-      "AddedCount": 207,
+      "AddedCount": 208,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx79u.jpg",
@@ -1430,7 +1433,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9wwv.jpg",
       "StoreURL": "https://store.steampowered.com/app/3357650",
       "Metacritic": 0,
-      "AddedCount": 193,
+      "AddedCount": 194,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bhf.jpg",
@@ -1564,13 +1567,43 @@
       ]
     },
     {
+      "ID": 348330,
+      "Title": "Forza Horizon 6",
+      "ReleaseDate": "2026-05-19",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobc5n.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2483190",
+      "Metacritic": 0,
+      "AddedCount": 62,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdi.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdo.jpg"
+      ],
+      "Genres": [
+        "Racing",
+        "Simulator",
+        "Sport"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 361855,
       "Title": "LEGO Batman: Legacy of the Dark Knight",
       "ReleaseDate": "2026-05-29",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coab09.jpg",
       "StoreURL": "https://store.steampowered.com/app/2215200",
       "Metacritic": 0,
-      "AddedCount": 61,
+      "AddedCount": 60,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymdu.jpg",
@@ -1590,29 +1623,27 @@
       ]
     },
     {
-      "ID": 348330,
-      "Title": "Forza Horizon 6",
-      "ReleaseDate": "2026-05-19",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobc5n.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2483190",
+      "ID": 305157,
+      "Title": "Mixtape",
+      "ReleaseDate": "2026-05-07",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8bp2.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2582320",
       "Metacritic": 0,
-      "AddedCount": 60,
+      "AddedCount": 59,
       "Rating": 0.0,
       "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdi.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdo.jpg"
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsog6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsogc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsog7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsog8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsog9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoga.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsogb.jpg"
       ],
       "Genres": [
-        "Racing",
-        "Simulator",
-        "Sport"
+        "Music",
+        "Adventure",
+        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -1716,6 +1747,37 @@
       ],
       "Genres": [
         "Racing"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 286869,
+      "Title": "Outbound",
+      "ReleaseDate": "2026-04-23",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7rfx.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2681030",
+      "Metacritic": 0,
+      "AddedCount": 31,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqlx7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqlx5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqlx0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqlx1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqlwy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqlwz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqlx2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqlx3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqlx4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqlx6.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Adventure",
+        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -1920,7 +1982,7 @@
     {
       "ID": 294592,
       "Title": "Inkonbini",
-      "ReleaseDate": "2026-04-01",
+      "ReleaseDate": "2026-04-30",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co805d.jpg",
       "StoreURL": "https://store.steampowered.com/app/2723430",
       "Metacritic": 0,
@@ -2078,7 +2140,7 @@
     {
       "ID": 328273,
       "Title": "All Will Fall",
-      "ReleaseDate": "2026-03-31",
+      "ReleaseDate": "2026-04-03",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9ayi.jpg",
       "StoreURL": "https://store.steampowered.com/app/2706020",
       "Metacritic": 0,
@@ -2133,7 +2195,7 @@
     {
       "ID": 234662,
       "Title": "Opus: Prism Peak",
-      "ReleaseDate": "2026-03-26",
+      "ReleaseDate": "2026-04-16",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co631y.jpg",
       "StoreURL": "https://store.steampowered.com/app/1947910",
       "Metacritic": 0,
@@ -2216,6 +2278,29 @@
       ]
     },
     {
+      "ID": 386431,
+      "Title": "Life is Strange: Reunion",
+      "ReleaseDate": "2026-03-26",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobbp8.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2624870",
+      "Metacritic": 0,
+      "AddedCount": 11,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11eb5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11eb6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11eb3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11eb4.jpg"
+      ],
+      "Genres": [
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 341266,
       "Title": "Final Sentence",
       "ReleaseDate": "2026-03-31",
@@ -2259,29 +2344,6 @@
       "Genres": [
         "Role-playing (RPG)",
         "Simulator"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 386431,
-      "Title": "Life is Strange: Reunion",
-      "ReleaseDate": "2026-03-26",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobbp8.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2624870",
-      "Metacritic": 0,
-      "AddedCount": 10,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11eb5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11eb6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11eb3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11eb4.jpg"
-      ],
-      "Genres": [
-        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -2511,6 +2573,36 @@
       ]
     },
     {
+      "ID": 250291,
+      "Title": "Never Grave: The Witch and the Curse",
+      "ReleaseDate": "2026-03-05",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6iy3.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2395770",
+      "Metacritic": 0,
+      "AddedCount": 8,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmmwr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmmws.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmmwt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmmwu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmmwv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmmww.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmmwp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmmwx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmmwq.jpg"
+      ],
+      "Genres": [
+        "Platform",
+        "Puzzle",
+        "Hack and slash/Beat 'em up"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 211671,
       "Title": "Glaciered",
       "ReleaseDate": "2026-03-31",
@@ -2641,90 +2733,6 @@
         "Simulator",
         "Sport",
         "Strategy"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 302655,
-      "Title": "Yunyun Syndrome!?: Rhythm Psychosis",
-      "ReleaseDate": "2026-04-01",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co89bk.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2914150",
-      "Metacritic": 0,
-      "AddedCount": 7,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsde4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsde5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsde6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsdp5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsdp6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsdp8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsdp9.jpg"
-      ],
-      "Genres": [
-        "Music",
-        "Simulator",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 250291,
-      "Title": "Never Grave: The Witch and the Curse",
-      "ReleaseDate": "2026-03-05",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6iy3.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2395770",
-      "Metacritic": 0,
-      "AddedCount": 7,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmmwr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmmws.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmmwt.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmmwu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmmwv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmmww.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmmwp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmmwx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmmwq.jpg"
-      ],
-      "Genres": [
-        "Platform",
-        "Puzzle",
-        "Hack and slash/Beat 'em up"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 361023,
-      "Title": "Docked",
-      "ReleaseDate": "2026-03-05",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaa0w.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2487300",
-      "Metacritic": 0,
-      "AddedCount": 6,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyjrn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyjro.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyjrp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyjrq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyjrr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyjrs.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyjrt.jpg"
-      ],
-      "Genres": [
-        "Simulator"
       ],
       "Tags": [],
       "Platforms": [
