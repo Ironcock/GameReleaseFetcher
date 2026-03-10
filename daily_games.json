@@ -8,7 +8,7 @@
       "StoreURL": "https://store.steampowered.com/app/3764200",
       "Metacritic": 88,
       "AddedCount": 309,
-      "Rating": 87.72969424311748,
+      "Rating": 88.06762723367514,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r3.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r0.jpg",
@@ -69,7 +69,7 @@
       "StoreURL": "https://store.steampowered.com/app/3065800",
       "Metacritic": 80,
       "AddedCount": 93,
-      "Rating": 79.7210528598902,
+      "Rating": 79.66569615356187,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmnfu.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmnfv.jpg",
@@ -262,9 +262,9 @@
       "ReleaseDate": "2026-02-10",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9n5k.jpg",
       "StoreURL": "https://store.steampowered.com/app/686060",
-      "Metacritic": 77,
+      "Metacritic": 79,
       "AddedCount": 22,
-      "Rating": 76.9192218448491,
+      "Rating": 78.71640671869328,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11ozv.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11ozw.jpg",
@@ -414,6 +414,31 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwp9.jpg"
       ],
       "Genres": [
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 201961,
+      "Title": "GreedFall: The Dying World",
+      "ReleaseDate": "2026-03-10",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobf3r.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1997660",
+      "Metacritic": 0,
+      "AddedCount": 14,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sch3bg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sch3bh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sch3be.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sch3bd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sch3bf.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
         "Adventure"
       ],
       "Tags": [],
@@ -973,6 +998,31 @@
       ]
     },
     {
+      "ID": 172821,
+      "Title": "Mr. Sleepy Man",
+      "ReleaseDate": "2026-03-10",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9uq9.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1657740",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctppk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctppl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctppm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctppn.jpg"
+      ],
+      "Genres": [
+        "Platform",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 388426,
       "Title": "Paranormasight: The Mermaid's Curse",
       "ReleaseDate": "2026-02-19",
@@ -1016,6 +1066,31 @@
       "Genres": [
         "Racing",
         "Arcade"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 366709,
+      "Title": "Ranger\u2019s Path: National Park Simulator",
+      "ReleaseDate": "2026-03-10",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coafye.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2502780",
+      "Metacritic": 0,
+      "AddedCount": 4,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz2xd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz2xe.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz2xf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz2xg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz2xh.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -1300,86 +1375,6 @@
       "Platforms": [
         "pc"
       ]
-    },
-    {
-      "ID": 159885,
-      "Title": "Selini",
-      "ReleaseDate": "2026-02-12",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8nfw.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1434050",
-      "Metacritic": 0,
-      "AddedCount": 4,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scbxpx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scbxpy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scbxq0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scbxq2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scbxq3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scbxq6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scbxq8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scbxq9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scbxqa.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scbxqb.jpg"
-      ],
-      "Genres": [
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 377690,
-      "Title": "Ride 6",
-      "ReleaseDate": "2026-02-12",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaude.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2815070",
-      "Metacritic": 0,
-      "AddedCount": 3,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10dmc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10dmd.jpg"
-      ],
-      "Genres": [
-        "Racing",
-        "Simulator",
-        "Sport"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 334464,
-      "Title": "The Abbess Garden",
-      "ReleaseDate": "2026-03-02",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob25j.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3411970",
-      "Metacritic": 0,
-      "AddedCount": 3,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy0bn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy0bo.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy0bs.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy0bt.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy0bp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy0bq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy0br.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Visual Novel"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
     }
   ],
   "Upcoming": [
@@ -1390,7 +1385,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqai.jpg",
       "StoreURL": "https://store.steampowered.com/app/3321460",
       "Metacritic": 0,
-      "AddedCount": 248,
+      "AddedCount": 249,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11et8.jpg",
@@ -2122,6 +2117,37 @@
       ]
     },
     {
+      "ID": 361820,
+      "Title": "Bubsy 4D",
+      "ReleaseDate": "2026-05-22",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaawv.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3237970",
+      "Metacritic": 0,
+      "AddedCount": 13,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymed.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymef.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymeg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyme7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyme8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymee.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyme9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymea.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymeb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymec.jpg"
+      ],
+      "Genres": [
+        "Platform",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 328273,
       "Title": "All Will Fall",
       "ReleaseDate": "2026-04-03",
@@ -2192,37 +2218,6 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckvpm.jpg"
       ],
       "Genres": [
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 361820,
-      "Title": "Bubsy 4D",
-      "ReleaseDate": "2026-05-22",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaawv.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3237970",
-      "Metacritic": 0,
-      "AddedCount": 12,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymed.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymef.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymeg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyme7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyme8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymee.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyme9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymea.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymeb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymec.jpg"
-      ],
-      "Genres": [
-        "Platform",
         "Adventure",
         "Indie"
       ],
