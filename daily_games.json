@@ -8,7 +8,7 @@
       "StoreURL": "https://store.steampowered.com/app/3764200",
       "Metacritic": 89,
       "AddedCount": 309,
-      "Rating": 88.84605432059224,
+      "Rating": 88.95498656192314,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r3.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r0.jpg",
@@ -39,7 +39,7 @@
       "StoreURL": "https://store.steampowered.com/app/2129530",
       "Metacritic": 81,
       "AddedCount": 140,
-      "Rating": 80.69236486515831,
+      "Rating": 80.6936523605439,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoic.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoig.jpg",
@@ -67,9 +67,9 @@
       "ReleaseDate": "2026-03-05",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobbf4.jpg",
       "StoreURL": "https://store.steampowered.com/app/3065800",
-      "Metacritic": 80,
+      "Metacritic": 70,
       "AddedCount": 93,
-      "Rating": 79.68566499255328,
+      "Rating": 69.93208631366969,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmnfu.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmnfv.jpg",
@@ -135,37 +135,6 @@
       ],
       "Genres": [
         "Shooter",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 347119,
-      "Title": "Romeo is a Dead Man",
-      "ReleaseDate": "2026-02-11",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coakmt.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3050900",
-      "Metacritic": 79,
-      "AddedCount": 46,
-      "Rating": 79.37228681346517,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7at.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7au.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxsmh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxsmi.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxsmj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxsmk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxsml.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxsmm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxsmn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxsmo.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Hack and slash/Beat 'em up",
         "Adventure"
       ],
       "Tags": [],
@@ -393,6 +362,32 @@
       ]
     },
     {
+      "ID": 358525,
+      "Title": "Monster Hunter Stories 3: Twisted Reflection",
+      "ReleaseDate": "2026-03-13",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaxze.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2852190",
+      "Metacritic": 0,
+      "AddedCount": 16,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scydfg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scydfh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scydfi.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scydfj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scydfk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scydfl.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 347643,
       "Title": "Killer Inn",
       "ReleaseDate": "2026-02-12",
@@ -510,32 +505,6 @@
         "Shooter",
         "Simulator",
         "Strategy"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 310885,
-      "Title": "Starsand Island",
-      "ReleaseDate": "2026-02-11",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co93z9.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2966320",
-      "Metacritic": 0,
-      "AddedCount": 11,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctbql.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctbqk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctbqm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctbqn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctbqo.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Simulator",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -930,6 +899,37 @@
       ]
     },
     {
+      "ID": 303164,
+      "Title": "Bloodgrounds",
+      "ReleaseDate": "2026-03-12",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xmd.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2507820",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsft1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsfsh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsfsi.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsfsk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsfsm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsfsw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsfsu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsft0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsft2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsft3.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Turn-based strategy (TBS)"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 298696,
       "Title": "Collector's Cove",
       "ReleaseDate": "2026-03-12",
@@ -1043,7 +1043,7 @@
       "Title": "Going Medieval",
       "ReleaseDate": "2026-03-12",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coafop.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1612230",
+      "StoreURL": "https://store.steampowered.com/app/1029780",
       "Metacritic": 67,
       "AddedCount": 5,
       "Rating": 67.29785692245142,
@@ -1374,7 +1374,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqai.jpg",
       "StoreURL": "https://store.steampowered.com/app/3321460",
       "Metacritic": 0,
-      "AddedCount": 256,
+      "AddedCount": 258,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11et8.jpg",
@@ -1403,7 +1403,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaoiz.jpg",
       "StoreURL": "https://store.steampowered.com/app/3768760",
       "Metacritic": 0,
-      "AddedCount": 215,
+      "AddedCount": 218,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx79u.jpg",
@@ -1430,7 +1430,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9wwv.jpg",
       "StoreURL": "https://store.steampowered.com/app/3357650",
       "Metacritic": 0,
-      "AddedCount": 202,
+      "AddedCount": 203,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bhf.jpg",
@@ -1456,7 +1456,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co39rf.jpg",
       "StoreURL": "https://store.steampowered.com/app/1663850",
       "Metacritic": 0,
-      "AddedCount": 123,
+      "AddedCount": 126,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scahjd.jpg",
@@ -1619,6 +1619,31 @@
       ]
     },
     {
+      "ID": 348192,
+      "Title": "Aphelion",
+      "ReleaseDate": "2026-04-28",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xv5.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1966410",
+      "Metacritic": 0,
+      "AddedCount": 49,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9m.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9n.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9o.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9p.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9q.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9r.jpg"
+      ],
+      "Genres": [
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 331202,
       "Title": "Darwin's Paradox!",
       "ReleaseDate": "2026-04-02",
@@ -1666,6 +1691,32 @@
       ],
       "Genres": [
         "Racing"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 314421,
+      "Title": "Will: Follow the Light",
+      "ReleaseDate": "2026-04-28",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqva.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3144860",
+      "Metacritic": 0,
+      "AddedCount": 33,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoxj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoxl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoxk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoxm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoxn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoxo.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -1785,7 +1836,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coay8a.jpg",
       "StoreURL": "https://store.steampowered.com/app/3634520",
       "Metacritic": 0,
-      "AddedCount": 21,
+      "AddedCount": 23,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oy4.jpg",
@@ -1844,7 +1895,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xwu.jpg",
       "StoreURL": "https://store.steampowered.com/app/2353060",
       "Metacritic": 0,
-      "AddedCount": 19,
+      "AddedCount": 20,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbfa.jpg",
@@ -1951,59 +2002,6 @@
       ]
     },
     {
-      "ID": 358525,
-      "Title": "Monster Hunter Stories 3: Twisted Reflection",
-      "ReleaseDate": "2026-03-13",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaxze.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2852190",
-      "Metacritic": 0,
-      "AddedCount": 15,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scydfg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scydfh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scydfi.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scydfj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scydfk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scydfl.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 345416,
-      "Title": "DarkSwitch",
-      "ReleaseDate": "2026-04-09",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9v99.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3132870",
-      "Metacritic": 0,
-      "AddedCount": 14,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzwy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzwz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzx0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzx1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzx2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzx3.jpg"
-      ],
-      "Genres": [
-        "Strategy",
-        "Tactical",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 314928,
       "Title": "Coffee Talk: Tokyo",
       "ReleaseDate": "2026-05-21",
@@ -2055,6 +2053,29 @@
       ]
     },
     {
+      "ID": 386431,
+      "Title": "Life is Strange: Reunion",
+      "ReleaseDate": "2026-03-26",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobbp8.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2624870",
+      "Metacritic": 0,
+      "AddedCount": 13,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11eb5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11eb6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11eb3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11eb4.jpg"
+      ],
+      "Genres": [
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 361820,
       "Title": "Bubsy 4D",
       "ReleaseDate": "2026-05-22",
@@ -2078,6 +2099,33 @@
       "Genres": [
         "Platform",
         "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 345416,
+      "Title": "DarkSwitch",
+      "ReleaseDate": "2026-04-09",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9v99.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3132870",
+      "Metacritic": 0,
+      "AddedCount": 13,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzwy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzwz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzx0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzx1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzx2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzx3.jpg"
+      ],
+      "Genres": [
+        "Strategy",
+        "Tactical",
         "Indie"
       ],
       "Tags": [],
@@ -2158,29 +2206,6 @@
       "Genres": [
         "Adventure",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 386431,
-      "Title": "Life is Strange: Reunion",
-      "ReleaseDate": "2026-03-26",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobbp8.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2624870",
-      "Metacritic": 0,
-      "AddedCount": 12,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11eb5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11eb6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11eb3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11eb4.jpg"
-      ],
-      "Genres": [
-        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -2378,6 +2403,33 @@
       ]
     },
     {
+      "ID": 320723,
+      "Title": "Project Songbird",
+      "ReleaseDate": "2026-03-26",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8z86.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3180410",
+      "Metacritic": 0,
+      "AddedCount": 9,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuav0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuav1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuav2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuav3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuav4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuav5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuav6.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 305023,
       "Title": "Dosa Divas",
       "ReleaseDate": "2026-04-14",
@@ -2481,33 +2533,6 @@
       ],
       "Genres": [
         "Strategy",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 320723,
-      "Title": "Project Songbird",
-      "ReleaseDate": "2026-03-26",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8z86.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3180410",
-      "Metacritic": 0,
-      "AddedCount": 8,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuav0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuav1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuav2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuav3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuav4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuav5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuav6.jpg"
-      ],
-      "Genres": [
-        "Adventure",
         "Indie"
       ],
       "Tags": [],
@@ -2701,32 +2726,6 @@
       "Genres": [
         "Music",
         "Simulator",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 262671,
-      "Title": "Grime II",
-      "ReleaseDate": "2026-03-31",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6z3s.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2529790",
-      "Metacritic": 0,
-      "AddedCount": 7,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sco1hr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sco1hs.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sco1ht.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sco1hu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sco1hv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sco1hw.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
         "Indie"
       ],
       "Tags": [],
