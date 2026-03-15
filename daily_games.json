@@ -8,7 +8,7 @@
       "StoreURL": "https://store.steampowered.com/app/3764200",
       "Metacritic": 89,
       "AddedCount": 309,
-      "Rating": 88.95655518781109,
+      "Rating": 88.96063051134709,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r3.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r0.jpg",
@@ -32,36 +32,6 @@
       ]
     },
     {
-      "ID": 314265,
-      "Title": "Reanimal",
-      "ReleaseDate": "2026-02-13",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaveu.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2129530",
-      "Metacritic": 81,
-      "AddedCount": 140,
-      "Rating": 80.6936523605439,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoic.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoig.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoi4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoi5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoi6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoi7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoi8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoi9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoia.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoib.jpg"
-      ],
-      "Genres": [
-        "Puzzle",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 250630,
       "Title": "Marathon",
       "ReleaseDate": "2026-03-05",
@@ -69,7 +39,7 @@
       "StoreURL": "https://store.steampowered.com/app/3065800",
       "Metacritic": 70,
       "AddedCount": 93,
-      "Rating": 69.84564530389834,
+      "Rating": 69.86048545954863,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmnfu.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmnfv.jpg",
@@ -96,9 +66,9 @@
       "ReleaseDate": "2026-03-05",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co82c5.jpg",
       "StoreURL": "https://store.steampowered.com/app/2868840",
-      "Metacritic": 0,
+      "Metacritic": 93,
       "AddedCount": 67,
-      "Rating": 0.0,
+      "Rating": 93.01681120992838,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrupb.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrupd.jpg",
@@ -111,31 +81,6 @@
         "Strategy",
         "Indie",
         "Card & Board Game"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 348166,
-      "Title": "High on Life 2",
-      "ReleaseDate": "2026-02-13",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xyv.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2069250",
-      "Metacritic": 60,
-      "AddedCount": 50,
-      "Rating": 60.25174701625463,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbet.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbeu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbev.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbew.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbex.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -1389,6 +1334,62 @@
       "Platforms": [
         "pc"
       ]
+    },
+    {
+      "ID": 321991,
+      "Title": "Mama's Sleeping Angels",
+      "ReleaseDate": "2026-03-11",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co95n1.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2918310",
+      "Metacritic": 0,
+      "AddedCount": 3,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scusi9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scusi8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scusia.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scusib.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scusic.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scusid.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scusie.jpg"
+      ],
+      "Genres": [
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 317052,
+      "Title": "Runeborn",
+      "ReleaseDate": "2026-03-10",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8y03.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3073990",
+      "Metacritic": 0,
+      "AddedCount": 3,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0uc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0ud.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0ue.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0u9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0ua.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0ub.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0uf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0ug.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0uh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0ui.jpg"
+      ],
+      "Genres": [
+        "Strategy",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
     }
   ],
   "Upcoming": [
@@ -1399,7 +1400,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqai.jpg",
       "StoreURL": "https://store.steampowered.com/app/3321460",
       "Metacritic": 0,
-      "AddedCount": 258,
+      "AddedCount": 262,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11et8.jpg",
@@ -1428,7 +1429,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaoiz.jpg",
       "StoreURL": "https://store.steampowered.com/app/3768760",
       "Metacritic": 0,
-      "AddedCount": 220,
+      "AddedCount": 221,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx79u.jpg",
@@ -1455,7 +1456,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9wwv.jpg",
       "StoreURL": "https://store.steampowered.com/app/3357650",
       "Metacritic": 0,
-      "AddedCount": 205,
+      "AddedCount": 206,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bhf.jpg",
@@ -1507,7 +1508,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8t96.jpg",
       "StoreURL": "https://store.steampowered.com/app/2255370",
       "Metacritic": 0,
-      "AddedCount": 99,
+      "AddedCount": 100,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctwii.jpg",
@@ -1650,7 +1651,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobrkd.jpg",
       "StoreURL": "https://store.steampowered.com/app/1966410",
       "Metacritic": 0,
-      "AddedCount": 49,
+      "AddedCount": 51,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9m.jpg",
@@ -1755,7 +1756,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqva.jpg",
       "StoreURL": "https://store.steampowered.com/app/3144860",
       "Metacritic": 0,
-      "AddedCount": 33,
+      "AddedCount": 34,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoxj.jpg",
@@ -1805,7 +1806,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7rfx.jpg",
       "StoreURL": "https://store.steampowered.com/app/2681030",
       "Metacritic": 0,
-      "AddedCount": 32,
+      "AddedCount": 33,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqlx7.jpg",
@@ -1823,6 +1824,37 @@
         "Simulator",
         "Adventure",
         "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 380437,
+      "Title": "Samson",
+      "ReleaseDate": "2026-04-08",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coay8a.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3634520",
+      "Metacritic": 0,
+      "AddedCount": 26,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oy4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oy3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oy2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxt.jpg"
+      ],
+      "Genres": [
+        "Fighting",
+        "Racing",
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -1874,37 +1906,6 @@
         "Role-playing (RPG)",
         "Adventure",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 380437,
-      "Title": "Samson",
-      "ReleaseDate": "2026-04-08",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coay8a.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3634520",
-      "Metacritic": 0,
-      "AddedCount": 24,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oy4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oy3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oy2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxt.jpg"
-      ],
-      "Genres": [
-        "Fighting",
-        "Racing",
-        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -2083,7 +2084,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobbp8.jpg",
       "StoreURL": "https://store.steampowered.com/app/2624870",
       "Metacritic": 0,
-      "AddedCount": 14,
+      "AddedCount": 15,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11eb5.jpg",
@@ -2117,6 +2118,30 @@
       ],
       "Genres": [
         "Simulator",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 234662,
+      "Title": "Opus: Prism Peak",
+      "ReleaseDate": "2026-04-16",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co631y.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1947910",
+      "Metacritic": 0,
+      "AddedCount": 14,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckvpj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckvpk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckvpl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckvpm.jpg"
+      ],
+      "Genres": [
         "Adventure",
         "Indie"
       ],
@@ -2257,30 +2282,6 @@
       "Genres": [
         "Simulator",
         "Strategy"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 234662,
-      "Title": "Opus: Prism Peak",
-      "ReleaseDate": "2026-04-16",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co631y.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1947910",
-      "Metacritic": 0,
-      "AddedCount": 13,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckvpj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckvpk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckvpl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckvpm.jpg"
-      ],
-      "Genres": [
-        "Adventure",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -2616,6 +2617,37 @@
       ]
     },
     {
+      "ID": 353276,
+      "Title": "Adorable Adventures",
+      "ReleaseDate": "2026-04-30",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobhx6.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3840230",
+      "Metacritic": 0,
+      "AddedCount": 8,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11pjl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11pjm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11pjo.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11pjp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11pjn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11pjq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11pji.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11pjj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11pjk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11pjr.jpg"
+      ],
+      "Genres": [
+        "Platform",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 211671,
       "Title": "Glaciered",
       "ReleaseDate": "2026-03-31",
@@ -2666,37 +2698,6 @@
       ],
       "Genres": [
         "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 353276,
-      "Title": "Adorable Adventures",
-      "ReleaseDate": "2026-04-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobhx6.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3840230",
-      "Metacritic": 0,
-      "AddedCount": 7,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11pjl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11pjm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11pjo.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11pjp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11pjn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11pjq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11pji.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11pjj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11pjk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11pjr.jpg"
-      ],
-      "Genres": [
-        "Platform",
-        "Adventure",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
