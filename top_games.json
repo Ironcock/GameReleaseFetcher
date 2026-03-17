@@ -39,7 +39,7 @@
       "StoreURL": "https://store.steampowered.com/app/292030",
       "Metacritic": 94,
       "AddedCount": 179,
-      "Rating": 93.87111721252397,
+      "Rating": 93.87121326565301,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/farvemmmxav0bgt6wx7t.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/z5t0yuhyiiui1ickwhgj.jpg",
@@ -99,7 +99,7 @@
       "StoreURL": "https://store.steampowered.com/app/1174180",
       "Metacritic": 93,
       "AddedCount": 257,
-      "Rating": 93.21336896395131,
+      "Rating": 93.21351056331324,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/xegpfnsvlyeld0zkjnrc.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/c9xalka7stjkx4mes7kp.jpg",
@@ -130,7 +130,7 @@
       "StoreURL": "https://store.steampowered.com/app/632470",
       "Metacritic": 93,
       "AddedCount": 12,
-      "Rating": 92.73046884146291,
+      "Rating": 92.73067229196516,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/jgfwlctsfh8yljnjdeab.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/vqxtn7qqv5qns9pneqzm.jpg",
@@ -207,7 +207,7 @@
       "StoreURL": "https://store.steampowered.com/app/1030300",
       "Metacritic": 92,
       "AddedCount": 220,
-      "Rating": 92.30845561458024,
+      "Rating": 92.30810741744753,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc63aa.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc63a9.jpg",
@@ -265,7 +265,7 @@
       "StoreURL": "https://store.steampowered.com/app/367520",
       "Metacritic": 92,
       "AddedCount": 3,
-      "Rating": 91.97007044599093,
+      "Rating": 91.97038996582495,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/p3svrq6ewzxnn7p1a3v9.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/ityinxmtkakwbokpcwws.jpg",
@@ -317,7 +317,7 @@
       "StoreURL": "https://store.steampowered.com/app/1903340",
       "Metacritic": 92,
       "AddedCount": 131,
-      "Rating": 91.58403747294734,
+      "Rating": 91.58397468202281,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsodz.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoe8.jpg",
@@ -374,7 +374,7 @@
       "StoreURL": "https://store.steampowered.com/app/620",
       "Metacritic": 91,
       "AddedCount": 0,
-      "Rating": 91.28801678086751,
+      "Rating": 91.28808351806215,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/i9ys3zdhph1mh3futdit.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/rvrge8js7xnhr4z1vrbk.jpg",
@@ -815,6 +815,37 @@
       ]
     },
     {
+      "ID": 347668,
+      "Title": "Resident Evil Requiem",
+      "ReleaseDate": "2026-02-27",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobmj0.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3764200",
+      "Metacritic": 89,
+      "AddedCount": 309,
+      "Rating": 89.05982759336351,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxq5v.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tjs.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tnu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tnv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tnw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tnx.jpg"
+      ],
+      "Genres": [
+        "Shooter",
+        "Puzzle",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 35282,
       "Title": "CrossCode",
       "ReleaseDate": "2018-09-20",
@@ -841,37 +872,6 @@
       ]
     },
     {
-      "ID": 347668,
-      "Title": "Resident Evil Requiem",
-      "ReleaseDate": "2026-02-27",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobmj0.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3764200",
-      "Metacritic": 89,
-      "AddedCount": 309,
-      "Rating": 88.97227061302138,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxq5v.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tjs.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tnu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tnv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tnw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tnx.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Puzzle",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 11737,
       "Title": "Outer Wilds",
       "ReleaseDate": "2019-05-28",
@@ -879,7 +879,7 @@
       "StoreURL": "https://store.steampowered.com/app/753640",
       "Metacritic": 89,
       "AddedCount": 2,
-      "Rating": 88.95978615195656,
+      "Rating": 88.95983582637865,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/orzxlqmjgfz1p8rcvjt8.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/cbpowo64w2mrilceihsx.jpg",
@@ -932,7 +932,7 @@
       "StoreURL": "https://store.steampowered.com/app/2592160",
       "Metacritic": 89,
       "AddedCount": 69,
-      "Rating": 88.70850155181608,
+      "Rating": 88.78933290611813,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus2s.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus2t.jpg",
@@ -1025,7 +1025,7 @@
       "StoreURL": "https://store.steampowered.com/app/1426210",
       "Metacritic": 89,
       "AddedCount": 5,
-      "Rating": 88.50074975958489,
+      "Rating": 88.50049465007787,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8cg4.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8cg5.jpg",
@@ -1212,7 +1212,7 @@
       "StoreURL": "",
       "Metacritic": 88,
       "AddedCount": 95,
-      "Rating": 87.5890092166627,
+      "Rating": 87.58801401812366,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/llwixfa0dy8fpex3tcwr.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/o7ehlmbjcvkeeltwreeg.jpg",
@@ -1454,7 +1454,7 @@
       "StoreURL": "https://store.steampowered.com/app/1057090",
       "Metacritic": 87,
       "AddedCount": 66,
-      "Rating": 87.03676670459016,
+      "Rating": 87.03708423130439,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8fwr.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8fws.jpg",
@@ -1484,7 +1484,7 @@
       "StoreURL": "https://store.steampowered.com/app/504230",
       "Metacritic": 87,
       "AddedCount": 2,
-      "Rating": 86.96847430095873,
+      "Rating": 86.9679659609529,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/e9lk3alqutkrciksfque.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/hisxvydbpgrg9thupnlg.jpg",
@@ -1540,7 +1540,7 @@
       "StoreURL": "https://store.steampowered.com/app/33230",
       "Metacritic": 87,
       "AddedCount": 0,
-      "Rating": 86.67259972455645,
+      "Rating": 86.67263513823741,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/jbeteinfgsoxkoxv08i0.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/wkagtolikjqalonaaixb.jpg",
@@ -1622,7 +1622,7 @@
       "StoreURL": "https://store.steampowered.com/app/261570",
       "Metacritic": 87,
       "AddedCount": 3,
-      "Rating": 86.64127428258035,
+      "Rating": 86.64072876683498,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/v2pnld98yq2xvs788c4o.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/ritdwffctzicqdpz44lz.jpg",
@@ -1704,7 +1704,7 @@
       "StoreURL": "https://store.steampowered.com/app/52003",
       "Metacritic": 86,
       "AddedCount": 0,
-      "Rating": 86.45466414420247,
+      "Rating": 86.45468342705628,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/x7pzfljardlljvtqcgv4.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/co2mtfe04a5iclqoo11c.jpg",
@@ -1889,7 +1889,7 @@
       "StoreURL": "https://store.steampowered.com/app/391540",
       "Metacritic": 86,
       "AddedCount": 0,
-      "Rating": 86.10536390419296,
+      "Rating": 86.1055991921552,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/ze8i79ycm3gyymrjvxf0.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/dp7ytj3ouesyoq7ddrrx.jpg",
@@ -2558,7 +2558,7 @@
       "StoreURL": "",
       "Metacritic": 85,
       "AddedCount": 0,
-      "Rating": 85.28974959953851,
+      "Rating": 85.29001892193168,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8d2z.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8d30.jpg",
@@ -2981,7 +2981,7 @@
       "StoreURL": "https://store.steampowered.com/app/205100",
       "Metacritic": 85,
       "AddedCount": 0,
-      "Rating": 84.7727523629328,
+      "Rating": 84.77284027234288,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/g7gj1dq82qv2wvv3izxg.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/gket6hnfqf2o6btpluck.jpg",
@@ -3035,7 +3035,7 @@
       "StoreURL": "https://store.steampowered.com/app/323190",
       "Metacritic": 85,
       "AddedCount": 14,
-      "Rating": 84.74088844355728,
+      "Rating": 84.74192059478523,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/dmmaemyd8bnk7per7cim.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/yeyhthmem93jolcdhrig.jpg",
@@ -3526,6 +3526,32 @@
       ]
     },
     {
+      "ID": 19562,
+      "Title": "Resident Evil 7: Biohazard",
+      "ReleaseDate": "2017-01-24",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0ry.jpg",
+      "StoreURL": "https://store.steampowered.com/app/418370",
+      "Metacritic": 84,
+      "AddedCount": 20,
+      "Rating": 84.13111063911978,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/ctxtlpyzlo3q5hvshysw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/io6hffcfxfgtibwwn9jl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/wyn4sipweizrkjvshid9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/tc63ssff6rzvaiq1xjuw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/r03xsdmmrxyddimojni1.jpg"
+      ],
+      "Genres": [
+        "Shooter",
+        "Puzzle",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 148241,
       "Title": "Lies of P",
       "ReleaseDate": "2023-09-18",
@@ -3574,32 +3600,6 @@
       "Genres": [
         "Music",
         "Simulator"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 19562,
-      "Title": "Resident Evil 7: Biohazard",
-      "ReleaseDate": "2017-01-24",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0ry.jpg",
-      "StoreURL": "https://store.steampowered.com/app/418370",
-      "Metacritic": 84,
-      "AddedCount": 20,
-      "Rating": 84.05112568691624,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/ctxtlpyzlo3q5hvshysw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/io6hffcfxfgtibwwn9jl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/wyn4sipweizrkjvshid9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/tc63ssff6rzvaiq1xjuw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/r03xsdmmrxyddimojni1.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Puzzle",
-        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -3695,6 +3695,36 @@
       ]
     },
     {
+      "ID": 55163,
+      "Title": "Resident Evil Village",
+      "ReleaseDate": "2021-05-06",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coab9q.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1196590",
+      "Metacritic": 84,
+      "AddedCount": 31,
+      "Rating": 83.88639781156469,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8zrh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc99kk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc99kl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc99km.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc99kn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc99ko.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc99kp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc99kq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc99kr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc99ks.jpg"
+      ],
+      "Genres": [
+        "Shooter",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 1262,
       "Title": "South Park: The Stick of Truth",
       "ReleaseDate": "2014-03-03",
@@ -3775,36 +3805,6 @@
         "Puzzle",
         "Adventure",
         "Visual Novel"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 55163,
-      "Title": "Resident Evil Village",
-      "ReleaseDate": "2021-05-06",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coab9q.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1196590",
-      "Metacritic": 84,
-      "AddedCount": 31,
-      "Rating": 83.75981028778547,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8zrh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc99kk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc99kl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc99km.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc99kn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc99ko.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc99kp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc99kq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc99kr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc99ks.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
