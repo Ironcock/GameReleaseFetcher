@@ -8,7 +8,7 @@
       "StoreURL": "https://store.steampowered.com/app/3764200",
       "Metacritic": 89,
       "AddedCount": 309,
-      "Rating": 89.10022102631386,
+      "Rating": 89.1479127553242,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r3.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r0.jpg",
@@ -39,7 +39,7 @@
       "StoreURL": "https://store.steampowered.com/app/3321460",
       "Metacritic": 87,
       "AddedCount": 298,
-      "Rating": 87.46876207651681,
+      "Rating": 87.37528925306323,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11et8.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11etg.jpg",
@@ -68,7 +68,7 @@
       "StoreURL": "https://store.steampowered.com/app/3065800",
       "Metacritic": 65,
       "AddedCount": 93,
-      "Rating": 65.01531715756994,
+      "Rating": 65.03980062358775,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmnfu.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmnfv.jpg",
@@ -368,9 +368,9 @@
       "ReleaseDate": "2026-03-16",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobi46.jpg",
       "StoreURL": "https://store.steampowered.com/app/3679080",
-      "Metacritic": 0,
+      "Metacritic": 78,
       "AddedCount": 15,
-      "Rating": 0.0,
+      "Rating": 78.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scg7vf.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyhdg.jpg",
@@ -629,6 +629,36 @@
         "Role-playing (RPG)",
         "Simulator",
         "Strategy"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 305539,
+      "Title": "No Vacation for an Executioner",
+      "ReleaseDate": "2026-03-23",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa9r8.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2949120",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsq2g.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsq2h.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsq2i.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsq2j.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsq2k.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsq2l.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsq2m.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsq2n.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsq2o.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsq2p.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -1198,6 +1228,32 @@
       ]
     },
     {
+      "ID": 342979,
+      "Title": "Pakinpaks",
+      "ReleaseDate": "2026-03-23",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9s5m.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2707950",
+      "Metacritic": 0,
+      "AddedCount": 3,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwqa2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwqa3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwqa6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwqa4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwqa5.jpg"
+      ],
+      "Genres": [
+        "Puzzle",
+        "Simulator",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 334464,
       "Title": "The Abbess Garden",
       "ReleaseDate": "2026-03-02",
@@ -1336,65 +1392,6 @@
       "Platforms": [
         "pc"
       ]
-    },
-    {
-      "ID": 270136,
-      "Title": "Nested Lands",
-      "ReleaseDate": "2026-02-25",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9pg8.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2553040",
-      "Metacritic": 0,
-      "AddedCount": 3,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scouhr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scouhs.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scouht.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scouho.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scouhp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scouhq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scouhu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scouhv.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Simulator",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 265622,
-      "Title": "Draculesti",
-      "ReleaseDate": "2026-03-02",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8e58.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2537980",
-      "Metacritic": 0,
-      "AddedCount": 3,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsxja.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsxjb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsxjc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsxjd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsxje.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsxjf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsxji.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsxjj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsxjh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsxjk.jpg"
-      ],
-      "Genres": [
-        "Adventure",
-        "Visual Novel"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
     }
   ],
   "Upcoming": [
@@ -1405,7 +1402,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaoiz.jpg",
       "StoreURL": "https://store.steampowered.com/app/3768760",
       "Metacritic": 0,
-      "AddedCount": 224,
+      "AddedCount": 225,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx79u.jpg",
@@ -1432,7 +1429,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9wwv.jpg",
       "StoreURL": "https://store.steampowered.com/app/3357650",
       "Metacritic": 0,
-      "AddedCount": 209,
+      "AddedCount": 211,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bhf.jpg",
@@ -1513,7 +1510,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaacx.jpg",
       "StoreURL": "https://store.steampowered.com/app/2416450",
       "Metacritic": 0,
-      "AddedCount": 66,
+      "AddedCount": 67,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmpf3.jpg",
@@ -1573,7 +1570,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coab09.jpg",
       "StoreURL": "https://store.steampowered.com/app/2215200",
       "Metacritic": 0,
-      "AddedCount": 61,
+      "AddedCount": 62,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymdu.jpg",
@@ -1599,7 +1596,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8bp2.jpg",
       "StoreURL": "https://store.steampowered.com/app/2582320",
       "Metacritic": 0,
-      "AddedCount": 60,
+      "AddedCount": 61,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsog6.jpg",
@@ -1680,7 +1677,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaafo.jpg",
       "StoreURL": "https://store.steampowered.com/app/2814990",
       "Metacritic": 0,
-      "AddedCount": 34,
+      "AddedCount": 35,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus33.jpg",
@@ -1818,7 +1815,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaawz.jpg",
       "StoreURL": "https://store.steampowered.com/app/2524850",
       "Metacritic": 0,
-      "AddedCount": 26,
+      "AddedCount": 25,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym2a.jpg",
@@ -2070,6 +2067,36 @@
       "Genres": [
         "Role-playing (RPG)",
         "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 378229,
+      "Title": "Vampire Crawlers: The Turbo Wildcard from Vampire Survivors",
+      "ReleaseDate": "2026-04-21",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coavdy.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3265700",
+      "Metacritic": 0,
+      "AddedCount": 15,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fmc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fm4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fm5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fm6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fm7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fm9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fma.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fmb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fmd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fm8.jpg"
+      ],
+      "Genres": [
+        "Strategy",
         "Indie"
       ],
       "Tags": [],
@@ -2730,31 +2757,6 @@
         "Shooter",
         "Indie",
         "Arcade"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 310336,
-      "Title": "Nocturnal II",
-      "ReleaseDate": "2026-03-31",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9vk5.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2847780",
-      "Metacritic": 0,
-      "AddedCount": 7,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvvi4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvvi5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvvi6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvvi7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11mdn.jpg"
-      ],
-      "Genres": [
-        "Adventure",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
