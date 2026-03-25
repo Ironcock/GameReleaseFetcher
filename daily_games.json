@@ -8,7 +8,7 @@
       "StoreURL": "https://store.steampowered.com/app/3764200",
       "Metacritic": 89,
       "AddedCount": 309,
-      "Rating": 89.14801374422574,
+      "Rating": 89.32673993879689,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r3.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r0.jpg",
@@ -37,9 +37,9 @@
       "ReleaseDate": "2026-03-19",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqai.jpg",
       "StoreURL": "https://store.steampowered.com/app/3321460",
-      "Metacritic": 86,
+      "Metacritic": 87,
       "AddedCount": 298,
-      "Rating": 86.25760201134781,
+      "Rating": 87.45472004238269,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11et8.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11etg.jpg",
@@ -68,7 +68,7 @@
       "StoreURL": "https://store.steampowered.com/app/3065800",
       "Metacritic": 65,
       "AddedCount": 93,
-      "Rating": 65.03980062358775,
+      "Rating": 65.05692166683498,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmnfu.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmnfv.jpg",
@@ -149,9 +149,9 @@
       "ReleaseDate": "2026-03-12",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0lw.jpg",
       "StoreURL": "https://store.steampowered.com/app/2157830",
-      "Metacritic": 0,
+      "Metacritic": 80,
       "AddedCount": 37,
-      "Rating": 0.0,
+      "Rating": 80.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmvmq.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmvmp.jpg",
@@ -368,9 +368,9 @@
       "ReleaseDate": "2026-03-16",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobi46.jpg",
       "StoreURL": "https://store.steampowered.com/app/3679080",
-      "Metacritic": 78,
+      "Metacritic": 76,
       "AddedCount": 15,
-      "Rating": 78.0,
+      "Rating": 76.39999999999999,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scg7vf.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyhdg.jpg",
@@ -604,6 +604,36 @@
         "Role-playing (RPG)",
         "Simulator",
         "Strategy"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 351213,
+      "Title": "Damon and Baby",
+      "ReleaseDate": "2026-03-25",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coau16.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3557460",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10bw1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10bw2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10bw3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10bw4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10bw5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10bw6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10bw7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10bw8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10bw9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10bwa.jpg"
+      ],
+      "Genres": [
+        "Shooter",
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -1367,35 +1397,6 @@
       "Platforms": [
         "pc"
       ]
-    },
-    {
-      "ID": 270136,
-      "Title": "Nested Lands",
-      "ReleaseDate": "2026-02-25",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9pg8.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2553040",
-      "Metacritic": 0,
-      "AddedCount": 3,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scouhr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scouhs.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scouht.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scouho.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scouhp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scouhq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scouhu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scouhv.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Simulator",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
     }
   ],
   "Upcoming": [
@@ -1433,7 +1434,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9wwv.jpg",
       "StoreURL": "https://store.steampowered.com/app/3357650",
       "Metacritic": 0,
-      "AddedCount": 213,
+      "AddedCount": 214,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bhf.jpg",
@@ -1656,7 +1657,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobrkd.jpg",
       "StoreURL": "https://store.steampowered.com/app/1966410",
       "Metacritic": 0,
-      "AddedCount": 52,
+      "AddedCount": 53,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9m.jpg",
@@ -1709,7 +1710,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaafo.jpg",
       "StoreURL": "https://store.steampowered.com/app/2814990",
       "Metacritic": 0,
-      "AddedCount": 35,
+      "AddedCount": 36,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus33.jpg",
@@ -1722,6 +1723,30 @@
       ],
       "Genres": [
         "Racing"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 305036,
+      "Title": "Tides of Tomorrow",
+      "ReleaseDate": "2026-04-22",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9x25.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2678080",
+      "Metacritic": 0,
+      "AddedCount": 34,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnya.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnyd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnyi.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnyh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnym.jpg"
+      ],
+      "Genres": [
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -1748,30 +1773,6 @@
       "Genres": [
         "Adventure",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 305036,
-      "Title": "Tides of Tomorrow",
-      "ReleaseDate": "2026-04-22",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9x25.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2678080",
-      "Metacritic": 0,
-      "AddedCount": 33,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnya.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnyd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnyi.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnyh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnym.jpg"
-      ],
-      "Genres": [
-        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -1921,6 +1922,34 @@
       ]
     },
     {
+      "ID": 348216,
+      "Title": "Invincible Vs.",
+      "ReleaseDate": "2026-04-30",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xwu.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2353060",
+      "Metacritic": 0,
+      "AddedCount": 21,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbfa.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbfb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbfc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbfd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbfe.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbff.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbfg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbfh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbf9.jpg"
+      ],
+      "Genres": [
+        "Fighting"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 358534,
       "Title": "The Adventures of Elliot: The Millennium Tales",
       "ReleaseDate": "2026-06-18",
@@ -1940,34 +1969,6 @@
       "Genres": [
         "Role-playing (RPG)",
         "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 348216,
-      "Title": "Invincible Vs.",
-      "ReleaseDate": "2026-04-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xwu.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2353060",
-      "Metacritic": 0,
-      "AddedCount": 20,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbfa.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbfb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbfc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbfd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbfe.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbff.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbfg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbfh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbf9.jpg"
-      ],
-      "Genres": [
-        "Fighting"
       ],
       "Tags": [],
       "Platforms": [
@@ -2439,6 +2440,33 @@
       ]
     },
     {
+      "ID": 151312,
+      "Title": "Gecko Gods",
+      "ReleaseDate": "2026-04-16",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xv4.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1290760",
+      "Metacritic": 0,
+      "AddedCount": 10,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scacj3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scacj4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scacj5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scacj6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scacj7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scacj8.jpg"
+      ],
+      "Genres": [
+        "Platform",
+        "Puzzle",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 347665,
       "Title": "Last Flag",
       "ReleaseDate": "2026-04-14",
@@ -2513,33 +2541,6 @@
         "Role-playing (RPG)",
         "Adventure",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 151312,
-      "Title": "Gecko Gods",
-      "ReleaseDate": "2026-04-16",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xv4.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1290760",
-      "Metacritic": 0,
-      "AddedCount": 9,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scacj3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scacj4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scacj5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scacj6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scacj7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scacj8.jpg"
-      ],
-      "Genres": [
-        "Platform",
-        "Puzzle",
-        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -2746,28 +2747,28 @@
       ]
     },
     {
-      "ID": 344068,
-      "Title": "EverSiege: Untold Ages",
-      "ReleaseDate": "2026-03-26",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobcdr.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3363680",
+      "ID": 345443,
+      "Title": "Hozy",
+      "ReleaseDate": "2026-03-30",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9v85.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3326230",
       "Metacritic": 0,
       "AddedCount": 7,
       "Rating": 0.0,
       "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx02n.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx02o.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx02p.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx02q.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx02r.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx02s.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx02t.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx02u.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx02v.jpg"
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzrb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzr1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzr2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzr3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzr4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzr5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzr6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzr7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzr8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzr9.jpg"
       ],
       "Genres": [
-        "Role-playing (RPG)",
-        "Strategy",
+        "Simulator",
         "Indie"
       ],
       "Tags": [],
