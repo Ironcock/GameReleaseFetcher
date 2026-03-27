@@ -8,7 +8,7 @@
       "StoreURL": "https://store.steampowered.com/app/3764200",
       "Metacritic": 89,
       "AddedCount": 309,
-      "Rating": 89.3227138729948,
+      "Rating": 89.31180812059792,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r3.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r0.jpg",
@@ -37,9 +37,9 @@
       "ReleaseDate": "2026-03-19",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqai.jpg",
       "StoreURL": "https://store.steampowered.com/app/3321460",
-      "Metacritic": 89,
+      "Metacritic": 90,
       "AddedCount": 298,
-      "Rating": 89.0625966214127,
+      "Rating": 89.93529976137175,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11et8.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11etg.jpg",
@@ -95,9 +95,9 @@
       "ReleaseDate": "2026-03-05",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co82c5.jpg",
       "StoreURL": "https://store.steampowered.com/app/2868840",
-      "Metacritic": 93,
+      "Metacritic": 90,
       "AddedCount": 67,
-      "Rating": 93.01681120992838,
+      "Rating": 89.80803141985746,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrupb.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrupd.jpg",
@@ -400,7 +400,12 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqtse.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqtsf.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqtsg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqtsh.jpg"
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqtsh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12ph2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12ph3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12ph4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12ph5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12ph6.jpg"
       ],
       "Genres": [
         "Hack and slash/Beat 'em up",
@@ -417,9 +422,9 @@
       "ReleaseDate": "2026-03-16",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobi46.jpg",
       "StoreURL": "https://store.steampowered.com/app/3679080",
-      "Metacritic": 78,
+      "Metacritic": 73,
       "AddedCount": 15,
-      "Rating": 77.93103448275862,
+      "Rating": 72.97297297297297,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scg7vf.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyhdg.jpg",
@@ -686,37 +691,6 @@
       ]
     },
     {
-      "ID": 387351,
-      "Title": "Reigns: The Witcher",
-      "ReleaseDate": "2026-02-25",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobdiz.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1651600",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11hzx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11hzv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11hzw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11hzy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11hzz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11i00.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11i01.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11i02.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11i03.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11i04.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Simulator",
-        "Strategy"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 351213,
       "Title": "Damon and Baby",
       "ReleaseDate": "2026-03-25",
@@ -822,7 +796,11 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scs1qd.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scs1qe.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scs1qf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scs1qi.jpg"
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scs1qi.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12peu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12pev.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12pew.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12pex.jpg"
       ],
       "Genres": [
         "Simulator",
@@ -858,6 +836,32 @@
       "Genres": [
         "Shooter",
         "Simulator",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 256522,
+      "Title": "Who Are You!?",
+      "ReleaseDate": "2026-03-27",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobs7j.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2646450",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12m81.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12m82.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12m83.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12m7y.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12m7z.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12m80.jpg"
+      ],
+      "Genres": [
+        "Adventure",
         "Indie"
       ],
       "Tags": [],
@@ -930,7 +934,12 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc68az.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc68ay.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc68b1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc68b2.jpg"
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc68b2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12pgw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12pgx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12pgy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12pgz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12ph0.jpg"
       ],
       "Genres": [
         "Role-playing (RPG)",
@@ -1195,7 +1204,7 @@
       "ID": 126381,
       "Title": "Timberborn",
       "ReleaseDate": "2026-03-12",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaayt.jpg",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobtu9.jpg",
       "StoreURL": "https://store.steampowered.com/app/1062090",
       "Metacritic": 72,
       "AddedCount": 4,
@@ -1398,7 +1407,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaoiz.jpg",
       "StoreURL": "https://store.steampowered.com/app/3768760",
       "Metacritic": 0,
-      "AddedCount": 230,
+      "AddedCount": 231,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx79u.jpg",
@@ -1451,7 +1460,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobfz5.jpg",
       "StoreURL": "",
       "Metacritic": 0,
-      "AddedCount": 136,
+      "AddedCount": 137,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct17a.jpg",
@@ -1550,6 +1559,7 @@
       ],
       "Genres": [
         "Shooter",
+        "Adventure",
         "Indie"
       ],
       "Tags": [],
@@ -1660,6 +1670,32 @@
       ],
       "Genres": [
         "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 348175,
+      "Title": "Super Meat Boy 3D",
+      "ReleaseDate": "2026-03-31",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9y1x.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3288210",
+      "Metacritic": 0,
+      "AddedCount": 38,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbpd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbpe.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbpf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbpg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbph.jpg"
+      ],
+      "Genres": [
+        "Platform",
+        "Indie",
+        "Arcade"
       ],
       "Tags": [],
       "Platforms": [
@@ -2245,7 +2281,7 @@
     },
     {
       "ID": 324265,
-      "Title": "Modulus",
+      "Title": "Modulus: Factory Automation",
       "ReleaseDate": "2026-04-02",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coblp7.jpg",
       "StoreURL": "https://store.steampowered.com/app/2779120",
@@ -2738,33 +2774,6 @@
         "Point-and-click",
         "Visual Novel",
         "Card & Board Game"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 329975,
-      "Title": "Tamashika",
-      "ReleaseDate": "2026-04-10",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaacw.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2996080",
-      "Metacritic": 0,
-      "AddedCount": 7,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv85x.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv85y.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv85z.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv860.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv861.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv862.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Indie",
-        "Arcade"
       ],
       "Tags": [],
       "Platforms": [
