@@ -6,9 +6,9 @@
       "ReleaseDate": "2026-03-19",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqai.jpg",
       "StoreURL": "https://store.steampowered.com/app/3321460",
-      "Metacritic": 87,
+      "Metacritic": 88,
       "AddedCount": 298,
-      "Rating": 87.3148400108847,
+      "Rating": 87.90937523838585,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11et8.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11etg.jpg",
@@ -492,34 +492,6 @@
       ]
     },
     {
-      "ID": 224629,
-      "Title": "Lost and Found Co.",
-      "ReleaseDate": "2026-03-06",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8mgx.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2101390",
-      "Metacritic": 0,
-      "AddedCount": 9,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjpf0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjpf3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjpf6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjpf7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjpfb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjpfe.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjpfg.jpg"
-      ],
-      "Genres": [
-        "Point-and-click",
-        "Puzzle",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 345443,
       "Title": "Hozy",
       "ReleaseDate": "2026-03-30",
@@ -953,37 +925,6 @@
       ]
     },
     {
-      "ID": 291749,
-      "Title": "Over The Top: WWI",
-      "ReleaseDate": "2026-03-06",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa56l.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2778610",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr7ld.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr7lh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr7ll.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr7lo.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr7le.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr7kl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr7kn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr7kp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr7ks.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr7ky.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Simulator",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 287791,
       "Title": "Legends of the Round Table",
       "ReleaseDate": "2026-03-31",
@@ -1253,36 +1194,6 @@
       ]
     },
     {
-      "ID": 359890,
-      "Title": "Peregrino",
-      "ReleaseDate": "2026-03-06",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coafur.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3268150",
-      "Metacritic": 0,
-      "AddedCount": 4,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyf54.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyf55.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyf56.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyf5b.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyf5d.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyf5k.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyf5p.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyf5y.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyf62.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Strategy",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 354556,
       "Title": "Dreadcore: Locked Unit",
       "ReleaseDate": "2026-03-31",
@@ -1395,6 +1306,84 @@
       "Platforms": [
         "pc"
       ]
+    },
+    {
+      "ID": 260649,
+      "Title": "SoulQuest",
+      "ReleaseDate": "2026-04-01",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co817t.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2512450",
+      "Metacritic": 0,
+      "AddedCount": 4,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scnu3l.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scnu3m.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scnu3n.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scnu3o.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scnu3p.jpg"
+      ],
+      "Genres": [
+        "Platform",
+        "Hack and slash/Beat 'em up",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 244359,
+      "Title": "One Card One Shot: Mafia",
+      "ReleaseDate": "2026-03-31",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7i1e.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2332120",
+      "Metacritic": 0,
+      "AddedCount": 4,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sclzqq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sclzqp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sclzqr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sclzqs.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sclzqt.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 217549,
+      "Title": "Eagle Knight Paradox",
+      "ReleaseDate": "2026-03-31",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6eaf.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3008700",
+      "Metacritic": 0,
+      "AddedCount": 4,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyolp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyolr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyols.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyolt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyolq.jpg"
+      ],
+      "Genres": [
+        "Platform",
+        "Simulator",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
     }
   ],
   "Upcoming": [
@@ -1405,7 +1394,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaoiz.jpg",
       "StoreURL": "https://store.steampowered.com/app/3768760",
       "Metacritic": 0,
-      "AddedCount": 234,
+      "AddedCount": 236,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx79u.jpg",
@@ -1432,7 +1421,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9wwv.jpg",
       "StoreURL": "https://store.steampowered.com/app/3357650",
       "Metacritic": 0,
-      "AddedCount": 220,
+      "AddedCount": 221,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bhf.jpg",
@@ -1458,7 +1447,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobfz5.jpg",
       "StoreURL": "",
       "Metacritic": 0,
-      "AddedCount": 139,
+      "AddedCount": 138,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct17a.jpg",
@@ -1487,7 +1476,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co39rf.jpg",
       "StoreURL": "https://store.steampowered.com/app/1663850",
       "Metacritic": 0,
-      "AddedCount": 136,
+      "AddedCount": 135,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scahjd.jpg",
@@ -1513,7 +1502,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0fw.jpg",
       "StoreURL": "https://store.steampowered.com/app/3669870",
       "Metacritic": 0,
-      "AddedCount": 106,
+      "AddedCount": 107,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuxut.jpg",
@@ -1600,7 +1589,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobc5n.jpg",
       "StoreURL": "https://store.steampowered.com/app/2483190",
       "Metacritic": 0,
-      "AddedCount": 64,
+      "AddedCount": 65,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdi.jpg",
