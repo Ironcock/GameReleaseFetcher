@@ -6,9 +6,9 @@
       "ReleaseDate": "2026-03-19",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqai.jpg",
       "StoreURL": "https://store.steampowered.com/app/3321460",
-      "Metacritic": 88,
+      "Metacritic": 87,
       "AddedCount": 298,
-      "Rating": 87.90937523838585,
+      "Rating": 86.60926427292766,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11et8.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11etg.jpg",
@@ -634,6 +634,37 @@
       ]
     },
     {
+      "ID": 19408,
+      "Title": "Xenonauts 2",
+      "ReleaseDate": "2026-04-02",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co70b8.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1527370",
+      "Metacritic": 0,
+      "AddedCount": 7,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/qucovo2ttnc16tnnrmwq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/cfwxxkhir1gsektylntk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/ckiztabjayqsuguubgbw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12ti0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12thz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12thx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12thy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12ti1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12ti2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12ti3.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Strategy",
+        "Turn-based strategy (TBS)"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 380415,
       "Title": "Starship Troopers: Ultimate Bug War!",
       "ReleaseDate": "2026-03-16",
@@ -1036,8 +1067,8 @@
       "ID": 127152,
       "Title": "I Am Jesus Christ",
       "ReleaseDate": "2026-04-02",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1una.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1198970",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobvrb.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1818860",
       "Metacritic": 0,
       "AddedCount": 5,
       "Rating": 0.0,
@@ -1358,32 +1389,6 @@
       "Platforms": [
         "pc"
       ]
-    },
-    {
-      "ID": 217549,
-      "Title": "Eagle Knight Paradox",
-      "ReleaseDate": "2026-03-31",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6eaf.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3008700",
-      "Metacritic": 0,
-      "AddedCount": 4,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyolp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyolr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyols.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyolt.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyolq.jpg"
-      ],
-      "Genres": [
-        "Platform",
-        "Simulator",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
     }
   ],
   "Upcoming": [
@@ -1394,7 +1399,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaoiz.jpg",
       "StoreURL": "https://store.steampowered.com/app/3768760",
       "Metacritic": 0,
-      "AddedCount": 236,
+      "AddedCount": 238,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx79u.jpg",
@@ -1421,7 +1426,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9wwv.jpg",
       "StoreURL": "https://store.steampowered.com/app/3357650",
       "Metacritic": 0,
-      "AddedCount": 221,
+      "AddedCount": 222,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bhf.jpg",
@@ -1447,7 +1452,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobfz5.jpg",
       "StoreURL": "",
       "Metacritic": 0,
-      "AddedCount": 138,
+      "AddedCount": 141,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct17a.jpg",
@@ -1752,7 +1757,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coay8a.jpg",
       "StoreURL": "https://store.steampowered.com/app/3634520",
       "Metacritic": 0,
-      "AddedCount": 35,
+      "AddedCount": 36,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oy4.jpg",
@@ -2631,6 +2636,29 @@
       ]
     },
     {
+      "ID": 347667,
+      "Title": "Mongil: Star Dive",
+      "ReleaseDate": "2026-04-15",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobv9n.jpg",
+      "StoreURL": "https://store.epicgames.com/p/83c360c7ef644768a733008f1b0eb0a1",
+      "Metacritic": 0,
+      "AddedCount": 9,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9pi.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9pj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9pk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9pl.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 347665,
       "Title": "Last Flag",
       "ReleaseDate": "2026-04-14",
@@ -2734,33 +2762,6 @@
       ],
       "Genres": [
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 361830,
-      "Title": "He-Man and the Masters of the Universe: Dragon Pearl of Destruction",
-      "ReleaseDate": "2026-04-28",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaax5.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3749580",
-      "Metacritic": 0,
-      "AddedCount": 8,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7m.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7j.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7l.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7n.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7o.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7p.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7k.jpg"
-      ],
-      "Genres": [
-        "Hack and slash/Beat 'em up",
-        "Arcade"
       ],
       "Tags": [],
       "Platforms": [
