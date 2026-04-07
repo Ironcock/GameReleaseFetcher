@@ -334,7 +334,9 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw2u8.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw2u9.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw2ua.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw2ub.jpg"
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw2ub.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12ti7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12ti8.jpg"
       ],
       "Genres": [
         "Simulator",
@@ -465,6 +467,36 @@
       ]
     },
     {
+      "ID": 217304,
+      "Title": "Road to Vostok",
+      "ReleaseDate": "2026-04-07",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5dyp.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1963610",
+      "Metacritic": 0,
+      "AddedCount": 11,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scivi8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scivi9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scivia.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scivib.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scivic.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scivid.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scivie.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scivif.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scivig.jpg"
+      ],
+      "Genres": [
+        "Shooter",
+        "Role-playing (RPG)",
+        "Strategy"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 320723,
       "Title": "Project Songbird",
       "ReleaseDate": "2026-03-26",
@@ -483,6 +515,32 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuav6.jpg"
       ],
       "Genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 140616,
+      "Title": "Spark in the Dark",
+      "ReleaseDate": "2026-04-07",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2jpj.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1315180",
+      "Metacritic": 0,
+      "AddedCount": 10,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8pkl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8pkm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8pkn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8pko.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8pkp.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
         "Adventure",
         "Indie"
       ],
@@ -1121,6 +1179,37 @@
       ]
     },
     {
+      "ID": 369842,
+      "Title": "People of Note",
+      "ReleaseDate": "2026-04-07",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coajop.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1626170",
+      "Metacritic": 0,
+      "AddedCount": 4,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc06.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc00.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc03.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczbzy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczbzx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc01.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc08.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc02.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczbzz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc05.jpg"
+      ],
+      "Genres": [
+        "Music",
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 366870,
       "Title": "The Cube, Save Us",
       "ReleaseDate": "2026-03-17",
@@ -1254,6 +1343,36 @@
       ]
     },
     {
+      "ID": 346735,
+      "Title": "KuloNiku: Bowl Up!",
+      "ReleaseDate": "2026-04-07",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xvc.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3357960",
+      "Metacritic": 0,
+      "AddedCount": 4,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx5cu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx5cz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx5d1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx5d3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx5d7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx5d8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx5d9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx5d4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx5d5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx5d6.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 345962,
       "Title": "Cinderia",
       "ReleaseDate": "2026-03-30",
@@ -1278,117 +1397,6 @@
       "Platforms": [
         "pc"
       ]
-    },
-    {
-      "ID": 343101,
-      "Title": "Pluto",
-      "ReleaseDate": "2026-03-09",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coakgp.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3057670",
-      "Metacritic": 0,
-      "AddedCount": 4,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scze7l.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scze7m.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scze7n.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scze7o.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scze7p.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x2g.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x2h.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x2i.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x2j.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x2k.jpg"
-      ],
-      "Genres": [
-        "Strategy",
-        "Card & Board Game"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 324575,
-      "Title": "Tombwater",
-      "ReleaseDate": "2026-03-31",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co94bx.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3308200",
-      "Metacritic": 0,
-      "AddedCount": 4,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuobm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuobo.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuobp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuobq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuobr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuobs.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuobn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuobl.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 260649,
-      "Title": "SoulQuest",
-      "ReleaseDate": "2026-04-01",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co817t.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2512450",
-      "Metacritic": 0,
-      "AddedCount": 4,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scnu3l.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scnu3m.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scnu3n.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scnu3o.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scnu3p.jpg"
-      ],
-      "Genres": [
-        "Platform",
-        "Hack and slash/Beat 'em up",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 244359,
-      "Title": "One Card One Shot: Mafia",
-      "ReleaseDate": "2026-03-31",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7i1e.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2332120",
-      "Metacritic": 0,
-      "AddedCount": 4,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sclzqq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sclzqp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sclzqr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sclzqs.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sclzqt.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Strategy",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
     }
   ],
   "Upcoming": [
@@ -1399,7 +1407,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaoiz.jpg",
       "StoreURL": "https://store.steampowered.com/app/3768760",
       "Metacritic": 0,
-      "AddedCount": 238,
+      "AddedCount": 239,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx79u.jpg",
@@ -1507,7 +1515,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0fw.jpg",
       "StoreURL": "https://store.steampowered.com/app/3669870",
       "Metacritic": 0,
-      "AddedCount": 107,
+      "AddedCount": 106,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuxut.jpg",
@@ -2187,6 +2195,33 @@
       ]
     },
     {
+      "ID": 348272,
+      "Title": "Moomintroll: Winter's Warmth",
+      "ReleaseDate": "2026-04-27",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobmjo.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3256150",
+      "Metacritic": 0,
+      "AddedCount": 17,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12cm9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12cma.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12cmb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12cmc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12cmd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12cme.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 378229,
       "Title": "Vampire Crawlers: The Turbo Wildcard from Vampire Survivors",
       "ReleaseDate": "2026-04-21",
@@ -2209,33 +2244,6 @@
       ],
       "Genres": [
         "Strategy",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 348272,
-      "Title": "Moomintroll: Winter's Warmth",
-      "ReleaseDate": "2026-04-27",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobmjo.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3256150",
-      "Metacritic": 0,
-      "AddedCount": 16,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12cm9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12cma.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12cmb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12cmc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12cmd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12cme.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
         "Adventure",
         "Indie"
       ],
@@ -2551,32 +2559,6 @@
       ]
     },
     {
-      "ID": 140616,
-      "Title": "Spark in the Dark",
-      "ReleaseDate": "2026-04-07",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2jpj.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1315180",
-      "Metacritic": 0,
-      "AddedCount": 10,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8pkl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8pkm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8pkn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8pko.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8pkp.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 353276,
       "Title": "Adorable Adventures",
       "ReleaseDate": "2026-04-30",
@@ -2762,6 +2744,33 @@
       ],
       "Genres": [
         "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 361830,
+      "Title": "He-Man and the Masters of the Universe: Dragon Pearl of Destruction",
+      "ReleaseDate": "2026-04-28",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaax5.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3749580",
+      "Metacritic": 0,
+      "AddedCount": 8,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7m.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7j.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7l.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7n.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7o.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7p.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7k.jpg"
+      ],
+      "Genres": [
+        "Hack and slash/Beat 'em up",
+        "Arcade"
       ],
       "Tags": [],
       "Platforms": [
