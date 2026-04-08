@@ -111,6 +111,37 @@
       ]
     },
     {
+      "ID": 380437,
+      "Title": "Samson",
+      "ReleaseDate": "2026-04-08",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coay8a.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3634520",
+      "Metacritic": 0,
+      "AddedCount": 38,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oy4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oy3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oy2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxt.jpg"
+      ],
+      "Genres": [
+        "Fighting",
+        "Racing",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 252485,
       "Title": "John Carpenter's Toxic Commando",
       "ReleaseDate": "2026-03-12",
@@ -179,6 +210,35 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn3e.jpg"
       ],
       "Genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 306855,
+      "Title": "The Occultist",
+      "ReleaseDate": "2026-04-08",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa9j6.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2092840",
+      "Metacritic": 0,
+      "AddedCount": 20,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyilb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyilc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyild.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyile.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyilf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyilg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyilh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyili.jpg"
+      ],
+      "Genres": [
+        "Puzzle",
         "Adventure",
         "Indie"
       ],
@@ -1045,6 +1105,36 @@
       ]
     },
     {
+      "ID": 285731,
+      "Title": "Lay of the Land",
+      "ReleaseDate": "2026-04-08",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobls1.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2776090",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqgle.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqgln.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqgli.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqglt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqglv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqglw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqglz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqgm1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqgm5.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 256522,
       "Title": "Who Are You!?",
       "ReleaseDate": "2026-03-27",
@@ -1126,7 +1216,7 @@
       "Title": "I Am Jesus Christ",
       "ReleaseDate": "2026-04-02",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobvrb.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1818860",
+      "StoreURL": "https://store.steampowered.com/app/1198970",
       "Metacritic": 0,
       "AddedCount": 5,
       "Rating": 0.0,
@@ -1172,6 +1262,63 @@
         "Role-playing (RPG)",
         "Simulator",
         "Strategy"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 380957,
+      "Title": "Find Your Words",
+      "ReleaseDate": "2026-04-08",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coazo1.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2971960",
+      "Metacritic": 0,
+      "AddedCount": 4,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10rjv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10rjx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10rjy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10rjz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10rk0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10rk2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10rk3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10rk1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10rjw.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 371729,
+      "Title": "The Floor Above",
+      "ReleaseDate": "2026-04-08",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobvvr.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3951680",
+      "Metacritic": 0,
+      "AddedCount": 4,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczjz9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczjza.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczjzb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczjzc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczjz6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczjz7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczjz8.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Adventure",
+        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -1257,141 +1404,6 @@
       "Genres": [
         "Simulator",
         "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 365273,
-      "Title": "The Mailroom",
-      "ReleaseDate": "2026-03-31",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobqfv.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3965430",
-      "Metacritic": 0,
-      "AddedCount": 4,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyx41.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyx42.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyx43.jpg"
-      ],
-      "Genres": [
-        "Puzzle",
-        "Simulator",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 361663,
-      "Title": "Gallipoli",
-      "ReleaseDate": "2026-03-31",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaasv.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3065940",
-      "Metacritic": 0,
-      "AddedCount": 4,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scylj5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scylj6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scylj7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scylj8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scylj9.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Simulator",
-        "Strategy"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 354556,
-      "Title": "Dreadcore: Locked Unit",
-      "ReleaseDate": "2026-03-31",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coadof.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3459030",
-      "Metacritic": 0,
-      "AddedCount": 4,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxyem.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxyen.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxyeo.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxyep.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxyeq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxyer.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxyes.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxyet.jpg"
-      ],
-      "Genres": [
-        "Puzzle",
-        "Simulator",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 346735,
-      "Title": "KuloNiku: Bowl Up!",
-      "ReleaseDate": "2026-04-07",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xvc.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3357960",
-      "Metacritic": 0,
-      "AddedCount": 4,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx5cu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx5cz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx5d1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx5d3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx5d7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx5d8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx5d9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx5d4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx5d5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx5d6.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 345962,
-      "Title": "Cinderia",
-      "ReleaseDate": "2026-03-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9yvi.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3214610",
-      "Metacritic": 0,
-      "AddedCount": 4,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx1rl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx1rs.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx1rz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx1s7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx1sb.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Adventure",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -1759,37 +1771,6 @@
       ]
     },
     {
-      "ID": 380437,
-      "Title": "Samson",
-      "ReleaseDate": "2026-04-08",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coay8a.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3634520",
-      "Metacritic": 0,
-      "AddedCount": 36,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oy4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oy3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oy2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxt.jpg"
-      ],
-      "Genres": [
-        "Fighting",
-        "Racing",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 314421,
       "Title": "Will: Follow the Light",
       "ReleaseDate": "2026-04-28",
@@ -1978,6 +1959,31 @@
       ]
     },
     {
+      "ID": 292878,
+      "Title": "Industria II",
+      "ReleaseDate": "2026-04-15",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7xz0.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2154070",
+      "Metacritic": 0,
+      "AddedCount": 24,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrdcw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrdcx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrdcy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrdcz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrdd0.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 381208,
       "Title": "TankRat",
       "ReleaseDate": "2026-06-30",
@@ -2052,35 +2058,6 @@
       "Genres": [
         "Role-playing (RPG)",
         "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 306855,
-      "Title": "The Occultist",
-      "ReleaseDate": "2026-04-08",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa9j6.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2092840",
-      "Metacritic": 0,
-      "AddedCount": 20,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyilb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyilc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyild.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyile.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyilf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyilg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyilh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyili.jpg"
-      ],
-      "Genres": [
-        "Puzzle",
-        "Adventure",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -2387,6 +2364,34 @@
       ]
     },
     {
+      "ID": 347882,
+      "Title": "Call of the Elder Gods",
+      "ReleaseDate": "2026-05-12",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xoj.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2174380",
+      "Metacritic": 0,
+      "AddedCount": 12,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxag4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxag6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxag3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxag7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxag5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxag9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxag8.jpg"
+      ],
+      "Genres": [
+        "Strategy",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 358396,
       "Title": "Shutter Story",
       "ReleaseDate": "2026-06-30",
@@ -2525,6 +2530,36 @@
         "Puzzle",
         "Role-playing (RPG)",
         "Simulator"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 237123,
+      "Title": "Moonlight Peaks",
+      "ReleaseDate": "2026-07-07",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9vvs.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2209900",
+      "Metacritic": 0,
+      "AddedCount": 10,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx2aw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx2b0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx2at.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx2au.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx2ax.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx2ay.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx2av.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx2az.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx2b1.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -2744,33 +2779,6 @@
       ],
       "Genres": [
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 361830,
-      "Title": "He-Man and the Masters of the Universe: Dragon Pearl of Destruction",
-      "ReleaseDate": "2026-04-28",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaax5.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3749580",
-      "Metacritic": 0,
-      "AddedCount": 8,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7m.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7j.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7l.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7n.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7o.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7p.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7k.jpg"
-      ],
-      "Genres": [
-        "Hack and slash/Beat 'em up",
-        "Arcade"
       ],
       "Tags": [],
       "Platforms": [
