@@ -6,9 +6,9 @@
       "ReleaseDate": "2026-03-19",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqai.jpg",
       "StoreURL": "https://store.steampowered.com/app/3321460",
-      "Metacritic": 87,
+      "Metacritic": 85,
       "AddedCount": 298,
-      "Rating": 86.60926427292766,
+      "Rating": 85.3035253163654,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11et8.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11etg.jpg",
@@ -219,13 +219,42 @@
       ]
     },
     {
+      "ID": 180956,
+      "Title": "Morbid Metal",
+      "ReleaseDate": "2026-04-08",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobvbb.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1866130",
+      "Metacritic": 0,
+      "AddedCount": 23,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/schd9h.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/schd9i.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/schd9j.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/schd9k.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/schd9l.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/schd9m.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/schd9n.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/schd9o.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Hack and slash/Beat 'em up",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 306855,
       "Title": "The Occultist",
       "ReleaseDate": "2026-04-08",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa9j6.jpg",
       "StoreURL": "https://store.steampowered.com/app/2092840",
       "Metacritic": 0,
-      "AddedCount": 20,
+      "AddedCount": 21,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyilb.jpg",
@@ -333,9 +362,9 @@
       "ReleaseDate": "2026-03-16",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobi46.jpg",
       "StoreURL": "https://store.steampowered.com/app/3679080",
-      "Metacritic": 75,
+      "Metacritic": 77,
       "AddedCount": 15,
-      "Rating": 75.06878306878308,
+      "Rating": 76.65014866204163,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scg7vf.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyhdg.jpg",
@@ -353,24 +382,26 @@
       ]
     },
     {
-      "ID": 201961,
-      "Title": "GreedFall: The Dying World",
-      "ReleaseDate": "2026-03-10",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobf3r.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1997660",
+      "ID": 345416,
+      "Title": "DarkSwitch",
+      "ReleaseDate": "2026-04-09",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9v99.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3132870",
       "Metacritic": 0,
       "AddedCount": 14,
       "Rating": 0.0,
       "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sch3bg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sch3bh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sch3be.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sch3bd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sch3bf.jpg"
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzwy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzwz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzx0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzx1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzx2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzx3.jpg"
       ],
       "Genres": [
-        "Role-playing (RPG)",
-        "Adventure"
+        "Strategy",
+        "Tactical",
+        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -811,6 +842,36 @@
       ]
     },
     {
+      "ID": 370704,
+      "Title": "Minos",
+      "ReleaseDate": "2026-04-09",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaky5.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3181650",
+      "Metacritic": 0,
+      "AddedCount": 6,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfiu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfiv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfiw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfix.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfiz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfj0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfit.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfiy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfis.jpg"
+      ],
+      "Genres": [
+        "Puzzle",
+        "Simulator",
+        "Strategy"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 250733,
       "Title": "Fishbowl",
       "ReleaseDate": "2026-04-02",
@@ -1187,31 +1248,6 @@
       ]
     },
     {
-      "ID": 172821,
-      "Title": "Mr. Sleepy Man",
-      "ReleaseDate": "2026-03-10",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9uq9.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1657740",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctppk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctppl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctppm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctppn.jpg"
-      ],
-      "Genres": [
-        "Platform",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 127152,
       "Title": "I Am Jesus Christ",
       "ReleaseDate": "2026-04-02",
@@ -1384,31 +1420,6 @@
       "Platforms": [
         "pc"
       ]
-    },
-    {
-      "ID": 366709,
-      "Title": "Ranger\u2019s Path: National Park Simulator",
-      "ReleaseDate": "2026-03-10",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coafye.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2502780",
-      "Metacritic": 0,
-      "AddedCount": 4,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz2xd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz2xe.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz2xf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz2xg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz2xh.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
     }
   ],
   "Upcoming": [
@@ -1419,7 +1430,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaoiz.jpg",
       "StoreURL": "https://store.steampowered.com/app/3768760",
       "Metacritic": 0,
-      "AddedCount": 239,
+      "AddedCount": 240,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx79u.jpg",
@@ -1446,7 +1457,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9wwv.jpg",
       "StoreURL": "https://store.steampowered.com/app/3357650",
       "Metacritic": 0,
-      "AddedCount": 222,
+      "AddedCount": 224,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bhf.jpg",
@@ -1501,7 +1512,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co39rf.jpg",
       "StoreURL": "https://store.steampowered.com/app/1663850",
       "Metacritic": 0,
-      "AddedCount": 135,
+      "AddedCount": 138,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scahjd.jpg",
@@ -1583,7 +1594,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaacx.jpg",
       "StoreURL": "https://store.steampowered.com/app/2416450",
       "Metacritic": 0,
-      "AddedCount": 71,
+      "AddedCount": 72,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmpf3.jpg",
@@ -1751,7 +1762,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobpcd.jpg",
       "StoreURL": "https://store.steampowered.com/app/2863680",
       "Metacritic": 0,
-      "AddedCount": 37,
+      "AddedCount": 38,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymba.jpg",
@@ -2230,33 +2241,6 @@
       ]
     },
     {
-      "ID": 345416,
-      "Title": "DarkSwitch",
-      "ReleaseDate": "2026-04-09",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9v99.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3132870",
-      "Metacritic": 0,
-      "AddedCount": 14,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzwy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzwz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzx0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzx1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzx2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzx3.jpg"
-      ],
-      "Genres": [
-        "Strategy",
-        "Tactical",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 314928,
       "Title": "Coffee Talk: Tokyo",
       "ReleaseDate": "2026-05-21",
@@ -2338,6 +2322,34 @@
       ]
     },
     {
+      "ID": 347882,
+      "Title": "Call of the Elder Gods",
+      "ReleaseDate": "2026-05-12",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xoj.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2174380",
+      "Metacritic": 0,
+      "AddedCount": 13,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxag4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxag6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxag3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxag7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxag5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxag9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxag8.jpg"
+      ],
+      "Genres": [
+        "Strategy",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 314272,
       "Title": "Masters of Albion",
       "ReleaseDate": "2026-04-22",
@@ -2357,34 +2369,6 @@
       "Genres": [
         "Simulator",
         "Strategy"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 347882,
-      "Title": "Call of the Elder Gods",
-      "ReleaseDate": "2026-05-12",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xoj.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2174380",
-      "Metacritic": 0,
-      "AddedCount": 12,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxag4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxag6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxag3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxag7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxag5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxag9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxag8.jpg"
-      ],
-      "Genres": [
-        "Strategy",
-        "Adventure",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -2499,6 +2483,29 @@
       ],
       "Genres": [
         "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 347667,
+      "Title": "Mongil: Star Dive",
+      "ReleaseDate": "2026-04-15",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobv9n.jpg",
+      "StoreURL": "https://store.epicgames.com/p/83c360c7ef644768a733008f1b0eb0a1",
+      "Metacritic": 0,
+      "AddedCount": 10,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9pi.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9pj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9pk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9pl.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)"
       ],
       "Tags": [],
       "Platforms": [
@@ -2653,29 +2660,6 @@
       ]
     },
     {
-      "ID": 347667,
-      "Title": "Mongil: Star Dive",
-      "ReleaseDate": "2026-04-15",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobv9n.jpg",
-      "StoreURL": "https://store.epicgames.com/p/83c360c7ef644768a733008f1b0eb0a1",
-      "Metacritic": 0,
-      "AddedCount": 9,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9pi.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9pj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9pk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9pl.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 347665,
       "Title": "Last Flag",
       "ReleaseDate": "2026-04-14",
@@ -2779,6 +2763,33 @@
       ],
       "Genres": [
         "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 361830,
+      "Title": "He-Man and the Masters of the Universe: Dragon Pearl of Destruction",
+      "ReleaseDate": "2026-04-28",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaax5.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3749580",
+      "Metacritic": 0,
+      "AddedCount": 8,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7m.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7j.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7l.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7n.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7o.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7p.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7k.jpg"
+      ],
+      "Genres": [
+        "Hack and slash/Beat 'em up",
+        "Arcade"
       ],
       "Tags": [],
       "Platforms": [
