@@ -8,7 +8,7 @@
       "StoreURL": "https://store.steampowered.com/app/1086940",
       "Metacritic": 96,
       "AddedCount": 39,
-      "Rating": 95.7578649631965,
+      "Rating": 95.67374969452685,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc81fj.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc81fh.jpg",
@@ -39,7 +39,7 @@
       "StoreURL": "https://store.steampowered.com/app/292030",
       "Metacritic": 94,
       "AddedCount": 179,
-      "Rating": 93.7904274728177,
+      "Rating": 93.79056219756674,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/farvemmmxav0bgt6wx7t.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/z5t0yuhyiiui1ickwhgj.jpg",
@@ -69,7 +69,7 @@
       "StoreURL": "https://store.steampowered.com/app/1245620",
       "Metacritic": 94,
       "AddedCount": 96,
-      "Rating": 93.57629227602189,
+      "Rating": 93.57668892233949,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scagdm.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scagdn.jpg",
@@ -99,7 +99,7 @@
       "StoreURL": "https://store.steampowered.com/app/1174180",
       "Metacritic": 93,
       "AddedCount": 257,
-      "Rating": 93.2167840249975,
+      "Rating": 93.21694049026758,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/xegpfnsvlyeld0zkjnrc.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/c9xalka7stjkx4mes7kp.jpg",
@@ -208,7 +208,7 @@
       "StoreURL": "",
       "Metacritic": 93,
       "AddedCount": 0,
-      "Rating": 92.55174262787313,
+      "Rating": 92.54981540078984,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1041q.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1041r.jpg",
@@ -261,7 +261,7 @@
       "StoreURL": "https://store.steampowered.com/app/1593500",
       "Metacritic": 92,
       "AddedCount": 92,
-      "Rating": 92.14897772894935,
+      "Rating": 92.1491345150025,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/rm35ytrytuka9qkylqyk.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/ywrkjcrbeemmb51flsfj.jpg",
@@ -318,7 +318,7 @@
       "StoreURL": "https://store.steampowered.com/app/1903340",
       "Metacritic": 92,
       "AddedCount": 131,
-      "Rating": 91.9106618617048,
+      "Rating": 91.91030342519541,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsodz.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoe8.jpg",
@@ -372,10 +372,10 @@
       "Title": "Mass Effect 2",
       "ReleaseDate": "2010-01-26",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co20ac.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2362420",
+      "StoreURL": "https://store.steampowered.com/app/24980",
       "Metacritic": 91,
       "AddedCount": 1,
-      "Rating": 91.36357078555145,
+      "Rating": 91.3537528710498,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/k22nwxzx6eb4ek7xbjps.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/xsdmofyywtzsgrcadaym.jpg",
@@ -427,7 +427,7 @@
       "StoreURL": "https://store.steampowered.com/app/814380",
       "Metacritic": 91,
       "AddedCount": 64,
-      "Rating": 91.3258854029305,
+      "Rating": 91.32569940578257,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/smay0rol1vbibwop2t7n.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/cmootzhyx1l7scxeihej.jpg",
@@ -442,6 +442,34 @@
       ],
       "Genres": [
         "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 140839,
+      "Title": "Mass Effect Legendary Edition",
+      "ReleaseDate": "2021-05-14",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2k5h.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1328670",
+      "Metacritic": 91,
+      "AddedCount": 4,
+      "Rating": 91.29038219385735,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scab35.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scab36.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scab37.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scab38.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scab39.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scab3a.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scab3b.jpg"
+      ],
+      "Genres": [
+        "Shooter",
+        "Role-playing (RPG)",
+        "Strategy"
       ],
       "Tags": [],
       "Platforms": [
@@ -469,34 +497,6 @@
         "Role-playing (RPG)",
         "Hack and slash/Beat 'em up",
         "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 140839,
-      "Title": "Mass Effect Legendary Edition",
-      "ReleaseDate": "2021-05-14",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2k5h.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1328670",
-      "Metacritic": 91,
-      "AddedCount": 4,
-      "Rating": 90.91056499587724,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scab35.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scab36.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scab37.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scab38.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scab39.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scab3a.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scab3b.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Role-playing (RPG)",
-        "Strategy"
       ],
       "Tags": [],
       "Platforms": [
@@ -707,7 +707,7 @@
       "StoreURL": "https://store.steampowered.com/app/271590",
       "Metacritic": 90,
       "AddedCount": 0,
-      "Rating": 89.6111862633598,
+      "Rating": 89.61126383070335,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/hjnzngnrtwr82jzmmkef.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/n3t2agwuxlqggp3kryf9.jpg",
@@ -853,7 +853,7 @@
       "StoreURL": "",
       "Metacritic": 89,
       "AddedCount": 0,
-      "Rating": 89.31733774998507,
+      "Rating": 89.31734449618452,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/q7homzi5rjybswimfakb.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/eaj8ukcnb9pqrupxxr5g.jpg",
@@ -1025,7 +1025,7 @@
       "StoreURL": "https://store.steampowered.com/app/1426210",
       "Metacritic": 88,
       "AddedCount": 5,
-      "Rating": 88.49415498994766,
+      "Rating": 88.49362729599474,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8cg4.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8cg5.jpg",
@@ -1128,7 +1128,7 @@
       "StoreURL": "https://store.steampowered.com/app/72850",
       "Metacritic": 88,
       "AddedCount": 0,
-      "Rating": 87.69138618357532,
+      "Rating": 87.69126642981507,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/xzk2h41fiye7uwbhc6ub.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/urqw7ltwmhr39gkidsih.jpg",
@@ -1239,7 +1239,7 @@
       "StoreURL": "",
       "Metacritic": 87,
       "AddedCount": 95,
-      "Rating": 87.49504817780222,
+      "Rating": 87.49449152283327,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/llwixfa0dy8fpex3tcwr.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/o7ehlmbjcvkeeltwreeg.jpg",
@@ -1265,7 +1265,7 @@
       "StoreURL": "https://store.steampowered.com/app/435150",
       "Metacritic": 87,
       "AddedCount": 22,
-      "Rating": 87.40493045136671,
+      "Rating": 87.40285891026836,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/zpxr5rzkzxzg1fncnigi.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/kqthxnii1vaqcafk81sb.jpg",
@@ -1322,7 +1322,7 @@
       "StoreURL": "",
       "Metacritic": 87,
       "AddedCount": 0,
-      "Rating": 87.29858076991574,
+      "Rating": 87.29971452397712,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scocxg.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scocxe.jpg",
@@ -1374,7 +1374,7 @@
       "StoreURL": "https://store.steampowered.com/app/374320",
       "Metacritic": 87,
       "AddedCount": 27,
-      "Rating": 87.28869847935924,
+      "Rating": 87.28855858869429,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/wlefrkqqtxge3lo81cis.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/nwrsu8awczsx38hmnqx7.jpg",
@@ -1566,7 +1566,7 @@
       "StoreURL": "https://store.steampowered.com/app/7670",
       "Metacritic": 87,
       "AddedCount": 1,
-      "Rating": 86.65192051926844,
+      "Rating": 86.65205382759522,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/kjbwbdqemykovdzgidhu.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/unvhwxrfzpjys4txfv4a.jpg",
@@ -1654,7 +1654,7 @@
       "StoreURL": "",
       "Metacritic": 87,
       "AddedCount": 1,
-      "Rating": 86.55872435571432,
+      "Rating": 86.55890447224414,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sylfmtzktmb4b0ext8nr.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/nz70mpjc7kszcyesgmqw.jpg",
@@ -1730,7 +1730,7 @@
       "StoreURL": "https://store.steampowered.com/app/52003",
       "Metacritic": 86,
       "AddedCount": 0,
-      "Rating": 86.41540352318819,
+      "Rating": 86.41545058510772,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/x7pzfljardlljvtqcgv4.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/co2mtfe04a5iclqoo11c.jpg",
@@ -1806,6 +1806,31 @@
       ]
     },
     {
+      "ID": 76,
+      "Title": "Dragon Age: Origins",
+      "ReleaseDate": "2009-11-03",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2mvs.jpg",
+      "StoreURL": "https://store.steampowered.com/app/17450",
+      "Metacritic": 86,
+      "AddedCount": 0,
+      "Rating": 86.26013140199164,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjh59.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjh55.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjh56.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjh57.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjh58.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjh5a.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 11397,
       "Title": "Yakuza 0",
       "ReleaseDate": "2015-03-12",
@@ -1839,7 +1864,7 @@
       "StoreURL": "https://store.steampowered.com/app/17460",
       "Metacritic": 86,
       "AddedCount": 2,
-      "Rating": 86.20202808556856,
+      "Rating": 86.20223485004779,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/r3uwmc94irofukfk6odw.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/hatacbd1inqmu5cavj7z.jpg",
@@ -1876,31 +1901,6 @@
         "Role-playing (RPG)",
         "Simulator",
         "Strategy"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 76,
-      "Title": "Dragon Age: Origins",
-      "ReleaseDate": "2009-11-03",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2mvs.jpg",
-      "StoreURL": "https://store.steampowered.com/app/17450",
-      "Metacritic": 86,
-      "AddedCount": 0,
-      "Rating": 86.15685944956007,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjh59.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjh55.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjh56.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjh57.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjh58.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjh5a.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)"
       ],
       "Tags": [],
       "Platforms": [
@@ -2001,7 +2001,7 @@
       "StoreURL": "https://store.steampowered.com/app/207610",
       "Metacritic": 86,
       "AddedCount": 0,
-      "Rating": 85.84054052555858,
+      "Rating": 85.8418959664936,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/m4gdjehicf1rd5wi7yyt.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/h1uisnak6rzgnsu629ul.jpg",
@@ -2085,7 +2085,7 @@
       "StoreURL": "https://store.steampowered.com/app/638230",
       "Metacritic": 86,
       "AddedCount": 0,
-      "Rating": 85.78612827438455,
+      "Rating": 85.78561216691318,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/ltdjvz1bhad8tdi07nj9.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/o5jocbesmzd3ytiyea1q.jpg",
@@ -2115,7 +2115,7 @@
       "StoreURL": "https://store.steampowered.com/app/304430",
       "Metacritic": 86,
       "AddedCount": 11,
-      "Rating": 85.76024138559886,
+      "Rating": 85.76027587516165,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/guhljbryvlqg2kn25z7r.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/z4fkserflyby1nv5ispe.jpg",
@@ -2336,6 +2336,32 @@
       ]
     },
     {
+      "ID": 5082,
+      "Title": "Divinity: Original Sin",
+      "ReleaseDate": "2014-06-30",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2axn.jpg",
+      "StoreURL": "https://store.steampowered.com/app/230230",
+      "Metacritic": 85,
+      "AddedCount": 3,
+      "Rating": 85.4949235487135,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/cvywmfjyq8sycaf8vwql.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/h1dhjhzqhm08ndblxs9p.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/tpqj1mqtiyrlomqftzy1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/erebmrmore9mbowjigrl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/i7nodddpygfy6ugjt2lg.jpg"
+      ],
+      "Genres": [
+        "Puzzle",
+        "Role-playing (RPG)",
+        "Turn-based strategy (TBS)"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 251833,
       "Title": "Balatro",
       "ReleaseDate": "2024-02-20",
@@ -2374,7 +2400,7 @@
       "StoreURL": "https://store.steampowered.com/app/1659040",
       "Metacritic": 85,
       "AddedCount": 11,
-      "Rating": 85.42109849006685,
+      "Rating": 85.42369822507669,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bi7.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bkk.jpg",
@@ -2498,32 +2524,6 @@
       ]
     },
     {
-      "ID": 5082,
-      "Title": "Divinity: Original Sin",
-      "ReleaseDate": "2014-06-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2axn.jpg",
-      "StoreURL": "https://store.steampowered.com/app/230230",
-      "Metacritic": 85,
-      "AddedCount": 3,
-      "Rating": 85.3381823783804,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/cvywmfjyq8sycaf8vwql.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/h1dhjhzqhm08ndblxs9p.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/tpqj1mqtiyrlomqftzy1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/erebmrmore9mbowjigrl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/i7nodddpygfy6ugjt2lg.jpg"
-      ],
-      "Genres": [
-        "Puzzle",
-        "Role-playing (RPG)",
-        "Turn-based strategy (TBS)"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 11667,
       "Title": "Dragon Quest XI: Echoes of an Elusive Age",
       "ReleaseDate": "2017-07-29",
@@ -2558,7 +2558,7 @@
       "StoreURL": "https://store.steampowered.com/app/214490",
       "Metacritic": 85,
       "AddedCount": 10,
-      "Rating": 85.31914771239505,
+      "Rating": 85.31923669240159,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/dek1ysjlwizlhh0z624o.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/bq2xsojs8vvr8hkkpdbn.jpg",
@@ -2586,7 +2586,7 @@
       "StoreURL": "",
       "Metacritic": 85,
       "AddedCount": 0,
-      "Rating": 85.29224598437254,
+      "Rating": 85.29248391941982,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8d2z.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8d30.jpg",
@@ -2700,7 +2700,7 @@
       "StoreURL": "https://store.steampowered.com/app/1238020",
       "Metacritic": 85,
       "AddedCount": 1,
-      "Rating": 85.13388837987247,
+      "Rating": 85.18298322294369,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/b8awpofzslalvoupx7er.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/oswmovlpgvm8bv6aqixd.jpg",
@@ -2947,7 +2947,7 @@
       "StoreURL": "https://store.steampowered.com/app/48700",
       "Metacritic": 85,
       "AddedCount": 1,
-      "Rating": 84.84432574037051,
+      "Rating": 84.84498063884953,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/zgnxjvtzvhnf76ilu3mg.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/r3vsr5zjfw9w4j0phyjy.jpg",
@@ -3005,7 +3005,7 @@
       "StoreURL": "https://store.steampowered.com/app/205100",
       "Metacritic": 85,
       "AddedCount": 0,
-      "Rating": 84.82479022438446,
+      "Rating": 84.82487754222099,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/g7gj1dq82qv2wvv3izxg.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/gket6hnfqf2o6btpluck.jpg",
@@ -3313,7 +3313,7 @@
       "StoreURL": "https://store.steampowered.com/app/414340",
       "Metacritic": 84,
       "AddedCount": 18,
-      "Rating": 84.47490160588522,
+      "Rating": 84.47528946203612,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/lba0mnzzwo0cqv6xrmdg.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/qlkznn24xndeh1zalz5r.jpg",
@@ -3395,7 +3395,7 @@
       "StoreURL": "https://store.steampowered.com/app/7940",
       "Metacritic": 84,
       "AddedCount": 0,
-      "Rating": 84.3551988049243,
+      "Rating": 84.32128313055223,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/zar9cnupwhjh8qfypxbe.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/k8vtofhy4wxx1128z4rq.jpg",
@@ -3437,32 +3437,6 @@
       ]
     },
     {
-      "ID": 19562,
-      "Title": "Resident Evil 7: Biohazard",
-      "ReleaseDate": "2017-01-24",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobtwh.jpg",
-      "StoreURL": "https://store.steampowered.com/app/418370",
-      "Metacritic": 84,
-      "AddedCount": 20,
-      "Rating": 84.3013751165226,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/ctxtlpyzlo3q5hvshysw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/io6hffcfxfgtibwwn9jl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/wyn4sipweizrkjvshid9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/tc63ssff6rzvaiq1xjuw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/r03xsdmmrxyddimojni1.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Puzzle",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 43,
       "Title": "Deus Ex: Human Revolution",
       "ReleaseDate": "2011-08-23",
@@ -3482,6 +3456,32 @@
         "Shooter",
         "Puzzle",
         "Role-playing (RPG)"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 19562,
+      "Title": "Resident Evil 7: Biohazard",
+      "ReleaseDate": "2017-01-24",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobtwh.jpg",
+      "StoreURL": "https://store.steampowered.com/app/418370",
+      "Metacritic": 84,
+      "AddedCount": 20,
+      "Rating": 84.27146502924698,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/ctxtlpyzlo3q5hvshysw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/io6hffcfxfgtibwwn9jl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/wyn4sipweizrkjvshid9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/tc63ssff6rzvaiq1xjuw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/r03xsdmmrxyddimojni1.jpg"
+      ],
+      "Genres": [
+        "Shooter",
+        "Puzzle",
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -3862,36 +3862,6 @@
       ]
     },
     {
-      "ID": 9254,
-      "Title": "Subnautica",
-      "ReleaseDate": "2018-01-23",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa938.jpg",
-      "StoreURL": "https://store.steampowered.com/app/264710",
-      "Metacritic": 84,
-      "AddedCount": 4,
-      "Rating": 83.63527555314698,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/b0wy5anlht2k2mewjcya.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc68wd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc68w4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc68w6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc68w5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc68wb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc68w8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc68w9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc68wc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc68w7.jpg"
-      ],
-      "Genres": [
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 3075,
       "Title": "FTL: Faster Than Light",
       "ReleaseDate": "2012-09-14",
@@ -3911,6 +3881,36 @@
         "Role-playing (RPG)",
         "Simulator",
         "Strategy"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 9254,
+      "Title": "Subnautica",
+      "ReleaseDate": "2018-01-23",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa938.jpg",
+      "StoreURL": "https://store.steampowered.com/app/264710",
+      "Metacritic": 84,
+      "AddedCount": 4,
+      "Rating": 83.62984702292472,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/b0wy5anlht2k2mewjcya.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc68wd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc68w4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc68w6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc68w5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc68wb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc68w8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc68w9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc68wc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc68w7.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -4058,7 +4058,7 @@
       "StoreURL": "https://store.steampowered.com/app/250320",
       "Metacritic": 83,
       "AddedCount": 1,
-      "Rating": 83.48446782068025,
+      "Rating": 83.48687565509209,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/mh2k4rrkrgtabcv9pqjn.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/dxeenymseuuo3t5csa6g.jpg",
