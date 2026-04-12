@@ -8,7 +8,7 @@
       "StoreURL": "https://store.steampowered.com/app/3321460",
       "Metacritic": 85,
       "AddedCount": 298,
-      "Rating": 85.3035253163654,
+      "Rating": 84.5851873414563,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11et8.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11etg.jpg",
@@ -214,32 +214,6 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11eb4.jpg"
       ],
       "Genres": [
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 358525,
-      "Title": "Monster Hunter Stories 3: Twisted Reflection",
-      "ReleaseDate": "2026-03-13",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaxze.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2852190",
-      "Metacritic": 0,
-      "AddedCount": 16,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scydfg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scydfh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scydfi.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scydfj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scydfk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scydfl.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
         "Adventure"
       ],
       "Tags": [],
@@ -1417,6 +1391,35 @@
       "Platforms": [
         "pc"
       ]
+    },
+    {
+      "ID": 354556,
+      "Title": "Dreadcore: Locked Unit",
+      "ReleaseDate": "2026-03-31",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coadof.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3459030",
+      "Metacritic": 0,
+      "AddedCount": 4,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxyem.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxyen.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxyeo.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxyep.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxyeq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxyer.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxyes.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxyet.jpg"
+      ],
+      "Genres": [
+        "Puzzle",
+        "Simulator",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
     }
   ],
   "Upcoming": [
@@ -1427,7 +1430,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaoiz.jpg",
       "StoreURL": "https://store.steampowered.com/app/3768760",
       "Metacritic": 0,
-      "AddedCount": 241,
+      "AddedCount": 243,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx79u.jpg",
@@ -1454,7 +1457,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9wwv.jpg",
       "StoreURL": "https://store.steampowered.com/app/3357650",
       "Metacritic": 0,
-      "AddedCount": 224,
+      "AddedCount": 225,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bhf.jpg",
@@ -1480,7 +1483,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobfz5.jpg",
       "StoreURL": "",
       "Metacritic": 0,
-      "AddedCount": 142,
+      "AddedCount": 143,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct17a.jpg",
@@ -1509,7 +1512,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co39rf.jpg",
       "StoreURL": "https://store.steampowered.com/app/1663850",
       "Metacritic": 0,
-      "AddedCount": 140,
+      "AddedCount": 142,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scahjd.jpg",
@@ -1535,7 +1538,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0fw.jpg",
       "StoreURL": "https://store.steampowered.com/app/3669870",
       "Metacritic": 0,
-      "AddedCount": 106,
+      "AddedCount": 107,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuxut.jpg",
@@ -1622,7 +1625,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobc5n.jpg",
       "StoreURL": "https://store.steampowered.com/app/2483190",
       "Metacritic": 0,
-      "AddedCount": 65,
+      "AddedCount": 67,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdi.jpg",
@@ -1639,6 +1642,32 @@
         "Racing",
         "Simulator",
         "Sport"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 361855,
+      "Title": "LEGO Batman: Legacy of the Dark Knight",
+      "ReleaseDate": "2026-05-22",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coab09.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2215200",
+      "Metacritic": 0,
+      "AddedCount": 63,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymdu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymdv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymdw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymdx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymdy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymdz.jpg"
+      ],
+      "Genres": [
+        "Puzzle",
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -1674,39 +1703,13 @@
       ]
     },
     {
-      "ID": 361855,
-      "Title": "LEGO Batman: Legacy of the Dark Knight",
-      "ReleaseDate": "2026-05-22",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coab09.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2215200",
-      "Metacritic": 0,
-      "AddedCount": 62,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymdu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymdv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymdw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymdx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymdy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymdz.jpg"
-      ],
-      "Genres": [
-        "Puzzle",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 348192,
       "Title": "Aphelion",
       "ReleaseDate": "2026-04-28",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobrkd.jpg",
       "StoreURL": "https://store.steampowered.com/app/1966410",
       "Metacritic": 0,
-      "AddedCount": 55,
+      "AddedCount": 56,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9m.jpg",
@@ -2159,6 +2162,32 @@
       ]
     },
     {
+      "ID": 252852,
+      "Title": "Mariachi Legends",
+      "ReleaseDate": "2026-06-30",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co93lp.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2376260",
+      "Metacritic": 0,
+      "AddedCount": 19,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwxy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwxz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scosjh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scosji.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scosjj.jpg"
+      ],
+      "Genres": [
+        "Platform",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 120434,
       "Title": "Nekopara Sekai Connect",
       "ReleaseDate": "2026-04-14",
@@ -2176,32 +2205,6 @@
         "Role-playing (RPG)",
         "Simulator",
         "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 252852,
-      "Title": "Mariachi Legends",
-      "ReleaseDate": "2026-06-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co93lp.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2376260",
-      "Metacritic": 0,
-      "AddedCount": 18,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwxy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwxz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scosjh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scosji.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scosjj.jpg"
-      ],
-      "Genres": [
-        "Platform",
-        "Adventure",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -2295,6 +2298,32 @@
       ]
     },
     {
+      "ID": 314928,
+      "Title": "Coffee Talk: Tokyo",
+      "ReleaseDate": "2026-05-21",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8qmh.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3161220",
+      "Metacritic": 0,
+      "AddedCount": 15,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv45c.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv45e.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv45f.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv45d.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv45g.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 347882,
       "Title": "Call of the Elder Gods",
       "ReleaseDate": "2026-05-12",
@@ -2314,32 +2343,6 @@
       ],
       "Genres": [
         "Strategy",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 314928,
-      "Title": "Coffee Talk: Tokyo",
-      "ReleaseDate": "2026-05-21",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8qmh.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3161220",
-      "Metacritic": 0,
-      "AddedCount": 14,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv45c.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv45e.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv45f.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv45d.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv45g.jpg"
-      ],
-      "Genres": [
-        "Simulator",
         "Adventure",
         "Indie"
       ],
