@@ -30,6 +30,32 @@
       ]
     },
     {
+      "ID": 134612,
+      "Title": "Pragmata",
+      "ReleaseDate": "2026-04-17",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobxnx.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3357650",
+      "Metacritic": 0,
+      "AddedCount": 236,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bhf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bhe.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bl9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bla.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8blc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8blb.jpg"
+      ],
+      "Genres": [
+        "Shooter",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 152244,
       "Title": "Replaced",
       "ReleaseDate": "2026-04-14",
@@ -1376,31 +1402,6 @@
       "Platforms": [
         "pc"
       ]
-    },
-    {
-      "ID": 190422,
-      "Title": "Demon Spore",
-      "ReleaseDate": "2026-03-31",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8tf2.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1808160",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scfoph.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scfopi.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scfopj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scfopk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scfopl.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
     }
   ],
   "Upcoming": [
@@ -1432,39 +1433,13 @@
       ]
     },
     {
-      "ID": 134612,
-      "Title": "Pragmata",
-      "ReleaseDate": "2026-04-17",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9wwv.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3357650",
-      "Metacritic": 0,
-      "AddedCount": 234,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bhf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bhe.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bl9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bla.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8blc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8blb.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 308535,
       "Title": "Neverness to Everness",
       "ReleaseDate": "2026-04-29",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobfz5.jpg",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobxne.jpg",
       "StoreURL": "",
       "Metacritic": 0,
-      "AddedCount": 143,
+      "AddedCount": 144,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct17a.jpg",
@@ -1633,7 +1608,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobrkd.jpg",
       "StoreURL": "https://store.steampowered.com/app/1966410",
       "Metacritic": 0,
-      "AddedCount": 55,
+      "AddedCount": 56,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9m.jpg",
@@ -1762,7 +1737,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7rfx.jpg",
       "StoreURL": "https://store.steampowered.com/app/2681030",
       "Metacritic": 0,
-      "AddedCount": 33,
+      "AddedCount": 34,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqlx7.jpg",
@@ -1905,7 +1880,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7xz0.jpg",
       "StoreURL": "https://store.steampowered.com/app/2154070",
       "Metacritic": 0,
-      "AddedCount": 24,
+      "AddedCount": 25,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrdcw.jpg",
@@ -2546,34 +2521,6 @@
       ]
     },
     {
-      "ID": 348295,
-      "Title": "Farever",
-      "ReleaseDate": "2026-06-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xxq.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3672400",
-      "Metacritic": 0,
-      "AddedCount": 9,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbin.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbip.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbis.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbiv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbiy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbj3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbjb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbja.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 335686,
       "Title": "Void Martyrs",
       "ReleaseDate": "2026-06-01",
@@ -2793,6 +2740,63 @@
       "Genres": [
         "Simulator",
         "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 347669,
+      "Title": "Snap & Grab",
+      "ReleaseDate": "2026-04-24",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xi4.jpg",
+      "StoreURL": "https://store.steampowered.com/app/897160",
+      "Metacritic": 0,
+      "AddedCount": 7,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9pg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9pf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9pe.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9ph.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9pc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9pd.jpg"
+      ],
+      "Genres": [
+        "Strategy",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 341400,
+      "Title": "Voidling Bound",
+      "ReleaseDate": "2026-06-09",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9uyx.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2004680",
+      "Metacritic": 0,
+      "AddedCount": 7,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwen4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwen5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwen6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwen7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwen8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwen9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwena.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwenb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwenc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwend.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
