@@ -707,7 +707,7 @@
       "StoreURL": "https://store.steampowered.com/app/271590",
       "Metacritic": 90,
       "AddedCount": 0,
-      "Rating": 89.6105463602475,
+      "Rating": 89.610459917068,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/hjnzngnrtwr82jzmmkef.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/n3t2agwuxlqggp3kryf9.jpg",
@@ -912,7 +912,7 @@
       "StoreURL": "https://store.steampowered.com/app/2001120",
       "Metacritic": 89,
       "AddedCount": 85,
-      "Rating": 89.13804112178016,
+      "Rating": 89.13583625317585,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus20.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus21.jpg",
@@ -1727,7 +1727,7 @@
       "Title": "Portal",
       "ReleaseDate": "2007-10-10",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coay61.jpg",
-      "StoreURL": "https://store.steampowered.com/app/400",
+      "StoreURL": "https://store.steampowered.com/app/52003",
       "Metacritic": 86,
       "AddedCount": 0,
       "Rating": 86.41556510983236,
@@ -1939,7 +1939,7 @@
       "StoreURL": "https://store.steampowered.com/app/391540",
       "Metacritic": 86,
       "AddedCount": 0,
-      "Rating": 85.97043923676338,
+      "Rating": 85.97062483392527,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/ze8i79ycm3gyymrjvxf0.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/dp7ytj3ouesyoq7ddrrx.jpg",
@@ -2361,32 +2361,6 @@
       ]
     },
     {
-      "ID": 5082,
-      "Title": "Divinity: Original Sin",
-      "ReleaseDate": "2014-06-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2axn.jpg",
-      "StoreURL": "https://store.steampowered.com/app/230230",
-      "Metacritic": 85,
-      "AddedCount": 3,
-      "Rating": 85.4949235487135,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/cvywmfjyq8sycaf8vwql.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/h1dhjhzqhm08ndblxs9p.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/tpqj1mqtiyrlomqftzy1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/erebmrmore9mbowjigrl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/i7nodddpygfy6ugjt2lg.jpg"
-      ],
-      "Genres": [
-        "Puzzle",
-        "Role-playing (RPG)",
-        "Turn-based strategy (TBS)"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 251833,
       "Title": "Balatro",
       "ReleaseDate": "2024-02-20",
@@ -2551,6 +2525,32 @@
       ]
     },
     {
+      "ID": 5082,
+      "Title": "Divinity: Original Sin",
+      "ReleaseDate": "2014-06-30",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2axn.jpg",
+      "StoreURL": "https://store.steampowered.com/app/230230",
+      "Metacritic": 85,
+      "AddedCount": 3,
+      "Rating": 85.33348225807892,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/cvywmfjyq8sycaf8vwql.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/h1dhjhzqhm08ndblxs9p.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/tpqj1mqtiyrlomqftzy1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/erebmrmore9mbowjigrl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/i7nodddpygfy6ugjt2lg.jpg"
+      ],
+      "Genres": [
+        "Puzzle",
+        "Role-playing (RPG)",
+        "Turn-based strategy (TBS)"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 4754,
       "Title": "Alien: Isolation",
       "ReleaseDate": "2014-10-06",
@@ -2586,7 +2586,7 @@
       "StoreURL": "",
       "Metacritic": 85,
       "AddedCount": 0,
-      "Rating": 85.29285750043513,
+      "Rating": 85.29271092250053,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8d2z.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8d30.jpg",
@@ -2836,7 +2836,7 @@
       "StoreURL": "https://store.steampowered.com/app/2651280",
       "Metacritic": 85,
       "AddedCount": 18,
-      "Rating": 85.0029534696072,
+      "Rating": 85.0027209401643,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scfeho.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scfehp.jpg",
@@ -3252,7 +3252,7 @@
       "StoreURL": "https://store.steampowered.com/app/646570",
       "Metacritic": 85,
       "AddedCount": 4,
-      "Rating": 84.5118768293738,
+      "Rating": 84.51091221944577,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sxcn4siijskumtcdr44e.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/g9gcvlppj2qwuqsgprjd.jpg",
@@ -3339,7 +3339,7 @@
       "StoreURL": "https://store.steampowered.com/app/892970",
       "Metacritic": 84,
       "AddedCount": 0,
-      "Rating": 84.44074554368586,
+      "Rating": 84.43674103222074,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5ifv.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5ifu.jpg",

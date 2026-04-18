@@ -1,35 +1,6 @@
 {
   "NewReleases": [
     {
-      "ID": 125633,
-      "Title": "Crimson Desert",
-      "ReleaseDate": "2026-03-19",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqai.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3321460",
-      "Metacritic": 85,
-      "AddedCount": 298,
-      "Rating": 84.71838269863659,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11et8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11etg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11et7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11etf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11eth.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11eta.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11ete.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11et9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11etd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11etc.jpg"
-      ],
-      "Genres": [
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 134612,
       "Title": "Pragmata",
       "ReleaseDate": "2026-04-17",
@@ -118,9 +89,9 @@
       "ReleaseDate": "2026-04-02",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9e1h.jpg",
       "StoreURL": "https://store.steampowered.com/app/2989180",
-      "Metacritic": 80,
+      "Metacritic": 81,
       "AddedCount": 40,
-      "Rating": 80.07750264976572,
+      "Rating": 80.80038062545299,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvcf8.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvcfd.jpg",
@@ -341,7 +312,7 @@
       "ID": 120434,
       "Title": "Nekopara Sekai Connect",
       "ReleaseDate": "2026-04-14",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rmw.jpg",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobxi4.jpg",
       "StoreURL": "https://store.steampowered.com/app/4437450",
       "Metacritic": 0,
       "AddedCount": 19,
@@ -1027,7 +998,7 @@
       "Title": "Xenonauts 2",
       "ReleaseDate": "2026-04-02",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co70b8.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1527370",
+      "StoreURL": "https://store.steampowered.com/app/538030",
       "Metacritic": 0,
       "AddedCount": 7,
       "Rating": 0.0,
@@ -1075,6 +1046,35 @@
       ],
       "Genres": [
         "Puzzle",
+        "Simulator",
+        "Strategy"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 305182,
+      "Title": "Generation Exile",
+      "ReleaseDate": "2026-04-17",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coasb7.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2963240",
+      "Metacritic": 0,
+      "AddedCount": 6,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsovr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsovu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsovt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsovy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsovs.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsovv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsovw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsovx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsovz.jpg"
+      ],
+      "Genres": [
         "Simulator",
         "Strategy"
       ],
@@ -1439,7 +1439,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobxne.jpg",
       "StoreURL": "",
       "Metacritic": 0,
-      "AddedCount": 144,
+      "AddedCount": 145,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct17a.jpg",
@@ -1455,6 +1455,35 @@
       ],
       "Genres": [
         "Role-playing (RPG)"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 237780,
+      "Title": "Directive 8020",
+      "ReleaseDate": "2026-05-12",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8t96.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2255370",
+      "Metacritic": 0,
+      "AddedCount": 108,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctwii.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctwij.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctwik.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctwil.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctwim.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctwin.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxawy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxax0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxawz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxax1.jpg"
+      ],
+      "Genres": [
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -1481,35 +1510,6 @@
       "Genres": [
         "Role-playing (RPG)",
         "Hack and slash/Beat 'em up",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 237780,
-      "Title": "Directive 8020",
-      "ReleaseDate": "2026-05-12",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8t96.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2255370",
-      "Metacritic": 0,
-      "AddedCount": 105,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctwii.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctwij.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctwik.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctwil.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctwim.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctwin.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxawy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxax0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxawz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxax1.jpg"
-      ],
-      "Genres": [
         "Adventure"
       ],
       "Tags": [],
@@ -2492,6 +2492,33 @@
       ]
     },
     {
+      "ID": 348339,
+      "Title": "Bus Bound",
+      "ReleaseDate": "2026-04-30",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xz4.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2095420",
+      "Metacritic": 0,
+      "AddedCount": 9,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbpn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbps.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbpt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbpu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbpo.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbpp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbpq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbpr.jpg"
+      ],
+      "Genres": [
+        "Simulator"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 348307,
       "Title": "TerraTech Legion",
       "ReleaseDate": "2026-04-30",
@@ -2572,33 +2599,6 @@
       "Genres": [
         "Strategy",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 348339,
-      "Title": "Bus Bound",
-      "ReleaseDate": "2026-04-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xz4.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2095420",
-      "Metacritic": 0,
-      "AddedCount": 8,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbpn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbps.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbpt.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbpu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbpo.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbpp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbpq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbpr.jpg"
-      ],
-      "Genres": [
-        "Simulator"
       ],
       "Tags": [],
       "Platforms": [
