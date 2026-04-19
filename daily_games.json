@@ -6,9 +6,9 @@
       "ReleaseDate": "2026-04-17",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobxnx.jpg",
       "StoreURL": "https://store.steampowered.com/app/3357650",
-      "Metacritic": 0,
+      "Metacritic": 61,
       "AddedCount": 236,
-      "Rating": 0.0,
+      "Rating": 60.96774193548387,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bhf.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bhe.jpg",
@@ -32,9 +32,9 @@
       "ReleaseDate": "2026-04-14",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co39rf.jpg",
       "StoreURL": "https://store.steampowered.com/app/1663850",
-      "Metacritic": 0,
+      "Metacritic": 76,
       "AddedCount": 142,
-      "Rating": 0.0,
+      "Rating": 76.11440742431158,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scahjd.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scahje.jpg",
@@ -801,9 +801,9 @@
       "ReleaseDate": "2026-03-30",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9v85.jpg",
       "StoreURL": "https://store.steampowered.com/app/3326230",
-      "Metacritic": 0,
+      "Metacritic": 59,
       "AddedCount": 8,
-      "Rating": 0.0,
+      "Rating": 59.41601074485628,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzrb.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzr1.jpg",
@@ -913,6 +913,32 @@
       ]
     },
     {
+      "ID": 333218,
+      "Title": "Cralon",
+      "ReleaseDate": "2026-04-17",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9gi0.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3440060",
+      "Metacritic": 0,
+      "AddedCount": 7,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvilj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvilk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvill.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvilm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scviln.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 330176,
       "Title": "Forbidden Solitaire",
       "ReleaseDate": "2026-04-01",
@@ -998,7 +1024,7 @@
       "Title": "Xenonauts 2",
       "ReleaseDate": "2026-04-02",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co70b8.jpg",
-      "StoreURL": "https://store.steampowered.com/app/538030",
+      "StoreURL": "https://store.steampowered.com/app/1527370",
       "Metacritic": 0,
       "AddedCount": 7,
       "Rating": 0.0,
@@ -1375,33 +1401,6 @@
       "Platforms": [
         "pc"
       ]
-    },
-    {
-      "ID": 256522,
-      "Title": "Who Are You!?",
-      "ReleaseDate": "2026-03-27",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobs7j.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2646450",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12m81.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12m82.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12m83.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12m7y.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12m7z.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12m80.jpg"
-      ],
-      "Genres": [
-        "Puzzle",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
     }
   ],
   "Upcoming": [
@@ -1439,7 +1438,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobxne.jpg",
       "StoreURL": "",
       "Metacritic": 0,
-      "AddedCount": 145,
+      "AddedCount": 146,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct17a.jpg",
@@ -1687,7 +1686,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqva.jpg",
       "StoreURL": "https://store.steampowered.com/app/3144860",
       "Metacritic": 0,
-      "AddedCount": 34,
+      "AddedCount": 35,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoxj.jpg",
@@ -1847,33 +1846,6 @@
       ]
     },
     {
-      "ID": 165397,
-      "Title": "The Relic: First Guardian",
-      "ReleaseDate": "2026-05-26",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8btm.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2827820",
-      "Metacritic": 0,
-      "AddedCount": 26,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scq1wb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scq1wc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scq1wd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scq1we.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scq1wf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scq1wg.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 292878,
       "Title": "Industria II",
       "ReleaseDate": "2026-04-29",
@@ -1890,6 +1862,33 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrdd0.jpg"
       ],
       "Genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 165397,
+      "Title": "The Relic: First Guardian",
+      "ReleaseDate": "2026-05-26",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8btm.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2827820",
+      "Metacritic": 0,
+      "AddedCount": 25,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scq1wb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scq1wc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scq1wd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scq1we.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scq1wf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scq1wg.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
         "Adventure",
         "Indie"
       ],
@@ -2090,30 +2089,6 @@
       ]
     },
     {
-      "ID": 334673,
-      "Title": "The Mound: Omen of Cthulhu",
-      "ReleaseDate": "2026-07-15",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coave2.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2569760",
-      "Metacritic": 0,
-      "AddedCount": 17,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvo1g.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvo1c.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvo1d.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvo1e.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvo1f.jpg"
-      ],
-      "Genres": [
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 194950,
       "Title": "Solarpunk",
       "ReleaseDate": "2026-06-08",
@@ -2166,6 +2141,30 @@
         "Strategy",
         "Adventure",
         "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 334673,
+      "Title": "The Mound: Omen of Cthulhu",
+      "ReleaseDate": "2026-07-15",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coave2.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2569760",
+      "Metacritic": 0,
+      "AddedCount": 16,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvo1g.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvo1c.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvo1d.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvo1e.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvo1f.jpg"
+      ],
+      "Genres": [
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -2373,6 +2372,35 @@
       ]
     },
     {
+      "ID": 348307,
+      "Title": "TerraTech Legion",
+      "ReleaseDate": "2026-04-30",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xxp.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3596700",
+      "Metacritic": 0,
+      "AddedCount": 10,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbhx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbhy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbhz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbi0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbi6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbi7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbi8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbi9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbi4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbi5.jpg"
+      ],
+      "Genres": [
+        "Shooter"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 319454,
       "Title": "Bylina",
       "ReleaseDate": "2026-04-20",
@@ -2512,35 +2540,6 @@
       ],
       "Genres": [
         "Simulator"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 348307,
-      "Title": "TerraTech Legion",
-      "ReleaseDate": "2026-04-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xxp.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3596700",
-      "Metacritic": 0,
-      "AddedCount": 9,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbhx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbhy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbhz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbi0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbi6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbi7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbi8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbi9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbi4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbi5.jpg"
-      ],
-      "Genres": [
-        "Shooter"
       ],
       "Tags": [],
       "Platforms": [
