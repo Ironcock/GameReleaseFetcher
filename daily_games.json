@@ -6,9 +6,9 @@
       "ReleaseDate": "2026-04-17",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobxnx.jpg",
       "StoreURL": "https://store.steampowered.com/app/3357650",
-      "Metacritic": 61,
+      "Metacritic": 69,
       "AddedCount": 236,
-      "Rating": 60.96774193548387,
+      "Rating": 68.58156028368795,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bhf.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bhe.jpg",
@@ -34,7 +34,7 @@
       "StoreURL": "https://store.steampowered.com/app/1663850",
       "Metacritic": 76,
       "AddedCount": 142,
-      "Rating": 76.11440742431158,
+      "Rating": 76.10832192301841,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scahjd.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scahje.jpg",
@@ -143,9 +143,9 @@
       "ReleaseDate": "2026-04-08",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coay8a.jpg",
       "StoreURL": "https://store.steampowered.com/app/3634520",
-      "Metacritic": 24,
+      "Metacritic": 35,
       "AddedCount": 38,
-      "Rating": 23.97849462365592,
+      "Rating": 35.13761467889908,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oy4.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxw.jpg",
@@ -571,7 +571,8 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9pl.jpg"
       ],
       "Genres": [
-        "Role-playing (RPG)"
+        "Role-playing (RPG)",
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -652,6 +653,33 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuav6.jpg"
       ],
       "Genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 319454,
+      "Title": "Bylina",
+      "ReleaseDate": "2026-04-20",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8xed.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2461440",
+      "Metacritic": 0,
+      "AddedCount": 10,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu5dd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu5de.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu5df.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu5dg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu5dh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu5di.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
         "Adventure",
         "Indie"
       ],
@@ -1024,7 +1052,7 @@
       "Title": "Xenonauts 2",
       "ReleaseDate": "2026-04-02",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co70b8.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1527370",
+      "StoreURL": "https://store.steampowered.com/app/538030",
       "Metacritic": 0,
       "AddedCount": 7,
       "Rating": 0.0,
@@ -1370,37 +1398,6 @@
       "Platforms": [
         "pc"
       ]
-    },
-    {
-      "ID": 272600,
-      "Title": "Soulmask",
-      "ReleaseDate": "2026-04-10",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobwop.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2646460",
-      "Metacritic": 58,
-      "AddedCount": 5,
-      "Rating": 58.33333333333333,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scp2cp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scp2cr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scp2cv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scp2cz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scp2d3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scp2d6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scp2da.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scp2df.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scp2c9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scp2cb.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Simulator",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
     }
   ],
   "Upcoming": [
@@ -1438,7 +1435,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobxne.jpg",
       "StoreURL": "",
       "Metacritic": 0,
-      "AddedCount": 146,
+      "AddedCount": 148,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct17a.jpg",
@@ -1607,7 +1604,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobrkd.jpg",
       "StoreURL": "https://store.steampowered.com/app/1966410",
       "Metacritic": 0,
-      "AddedCount": 56,
+      "AddedCount": 55,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9m.jpg",
@@ -1736,7 +1733,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7rfx.jpg",
       "StoreURL": "https://store.steampowered.com/app/2681030",
       "Metacritic": 0,
-      "AddedCount": 34,
+      "AddedCount": 33,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqlx7.jpg",
@@ -2401,33 +2398,6 @@
       ]
     },
     {
-      "ID": 319454,
-      "Title": "Bylina",
-      "ReleaseDate": "2026-04-20",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8xed.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2461440",
-      "Metacritic": 0,
-      "AddedCount": 10,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu5dd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu5de.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu5df.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu5dg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu5dh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu5di.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 278824,
       "Title": "The Witch's Bakery",
       "ReleaseDate": "2026-06-30",
@@ -2686,6 +2656,29 @@
       "Genres": [
         "Adventure",
         "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 393932,
+      "Title": "Echoes of Aincrad",
+      "ReleaseDate": "2026-07-10",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobpxh.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2244210",
+      "Metacritic": 0,
+      "AddedCount": 7,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12i5s.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12i5t.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12i5u.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
