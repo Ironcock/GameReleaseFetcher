@@ -6,9 +6,9 @@
       "ReleaseDate": "2026-04-17",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobxnx.jpg",
       "StoreURL": "https://store.steampowered.com/app/3357650",
-      "Metacritic": 69,
+      "Metacritic": 80,
       "AddedCount": 236,
-      "Rating": 68.58156028368795,
+      "Rating": 80.10468794720096,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bhf.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bhe.jpg",
@@ -62,16 +62,16 @@
       "AddedCount": 77,
       "Rating": 0.0,
       "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmpf3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmpez.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmpf0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmpf1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmpf2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scykq0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scykq1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scykq2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scykq3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scykq4.jpg"
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1302w.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1302x.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1302y.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1302z.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13030.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13031.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13032.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13033.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13034.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13035.jpg"
       ],
       "Genres": [
         "Shooter",
@@ -349,6 +349,37 @@
       ],
       "Genres": [
         "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 378229,
+      "Title": "Vampire Crawlers: The Turbo Wildcard from Vampire Survivors",
+      "ReleaseDate": "2026-04-21",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coavdy.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3265700",
+      "Metacritic": 0,
+      "AddedCount": 16,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fmc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fm4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fm5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fm6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fm7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fm9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fma.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fmb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fmd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fm8.jpg"
+      ],
+      "Genres": [
+        "Strategy",
+        "Adventure",
+        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -829,9 +860,9 @@
       "ReleaseDate": "2026-03-30",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9v85.jpg",
       "StoreURL": "https://store.steampowered.com/app/3326230",
-      "Metacritic": 59,
+      "Metacritic": 60,
       "AddedCount": 8,
-      "Rating": 59.41601074485628,
+      "Rating": 59.80721333727817,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzrb.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwzr1.jpg",
@@ -1368,36 +1399,6 @@
       "Platforms": [
         "pc"
       ]
-    },
-    {
-      "ID": 285731,
-      "Title": "Lay of the Land",
-      "ReleaseDate": "2026-04-08",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobls1.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2776090",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqgle.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqgln.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqgli.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqglt.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqglv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqglw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqglz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqgm1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqgm5.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
     }
   ],
   "Upcoming": [
@@ -1408,7 +1409,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaoiz.jpg",
       "StoreURL": "https://store.steampowered.com/app/3768760",
       "Metacritic": 0,
-      "AddedCount": 243,
+      "AddedCount": 244,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx79u.jpg",
@@ -1464,7 +1465,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8t96.jpg",
       "StoreURL": "https://store.steampowered.com/app/2255370",
       "Metacritic": 0,
-      "AddedCount": 108,
+      "AddedCount": 109,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctwii.jpg",
@@ -1520,7 +1521,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobc5n.jpg",
       "StoreURL": "https://store.steampowered.com/app/2483190",
       "Metacritic": 0,
-      "AddedCount": 70,
+      "AddedCount": 71,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdi.jpg",
@@ -1657,7 +1658,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobpcd.jpg",
       "StoreURL": "https://store.steampowered.com/app/2863680",
       "Metacritic": 0,
-      "AddedCount": 39,
+      "AddedCount": 40,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymba.jpg",
@@ -2105,37 +2106,6 @@
       ],
       "Genres": [
         "Simulator",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 378229,
-      "Title": "Vampire Crawlers: The Turbo Wildcard from Vampire Survivors",
-      "ReleaseDate": "2026-04-21",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coavdy.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3265700",
-      "Metacritic": 0,
-      "AddedCount": 16,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fmc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fm4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fm5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fm6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fm7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fm9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fma.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fmb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fmd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fm8.jpg"
-      ],
-      "Genres": [
-        "Strategy",
         "Adventure",
         "Indie"
       ],
@@ -2788,6 +2758,35 @@
       ],
       "Genres": [
         "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 314489,
+      "Title": "Mightreya",
+      "ReleaseDate": "2026-06-30",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co92ik.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3077640",
+      "Metacritic": 0,
+      "AddedCount": 7,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctp32.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctp33.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctp34.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctp36.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctp37.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctp30.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctp31.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctp35.jpg"
+      ],
+      "Genres": [
+        "Fighting",
+        "Hack and slash/Beat 'em up",
         "Adventure"
       ],
       "Tags": [],
