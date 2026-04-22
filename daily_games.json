@@ -8,7 +8,7 @@
       "StoreURL": "https://store.steampowered.com/app/3357650",
       "Metacritic": 80,
       "AddedCount": 236,
-      "Rating": 80.10468794720096,
+      "Rating": 80.1169304900384,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bhf.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bhe.jpg",
@@ -34,7 +34,7 @@
       "StoreURL": "https://store.steampowered.com/app/1663850",
       "Metacritic": 76,
       "AddedCount": 142,
-      "Rating": 76.10832192301841,
+      "Rating": 76.09615311586222,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scahjd.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scahje.jpg",
@@ -189,6 +189,30 @@
       "Genres": [
         "Racing",
         "Arcade"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 305036,
+      "Title": "Tides of Tomorrow",
+      "ReleaseDate": "2026-04-22",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9x25.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2678080",
+      "Metacritic": 0,
+      "AddedCount": 34,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnya.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnyd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnyi.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnyh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnym.jpg"
+      ],
+      "Genres": [
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -462,6 +486,32 @@
         "Simulator",
         "Strategy",
         "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 314272,
+      "Title": "Masters of Albion",
+      "ReleaseDate": "2026-04-22",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8pfz.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3165650",
+      "Metacritic": 0,
+      "AddedCount": 13,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoj2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoj3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoj6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoj1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoj4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoj5.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Strategy"
       ],
       "Tags": [],
       "Platforms": [
@@ -1083,7 +1133,7 @@
       "Title": "Xenonauts 2",
       "ReleaseDate": "2026-04-02",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co70b8.jpg",
-      "StoreURL": "https://store.steampowered.com/app/538030",
+      "StoreURL": "https://store.steampowered.com/app/1527370",
       "Metacritic": 0,
       "AddedCount": 7,
       "Rating": 0.0,
@@ -1338,67 +1388,6 @@
       "Platforms": [
         "pc"
       ]
-    },
-    {
-      "ID": 305539,
-      "Title": "No Vacation for an Executioner",
-      "ReleaseDate": "2026-03-23",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa9r8.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2949120",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsq2g.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsq2h.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsq2i.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsq2j.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsq2k.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsq2l.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsq2m.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsq2n.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsq2o.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsq2p.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 287791,
-      "Title": "Legends of the Round Table",
-      "ReleaseDate": "2026-03-31",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9p2w.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2387040",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwb2k.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwb2l.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwb2j.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwb2m.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwb2n.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwb2o.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwb2p.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwb2q.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwb2r.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwb2s.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Strategy",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
     }
   ],
   "Upcoming": [
@@ -1409,7 +1398,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaoiz.jpg",
       "StoreURL": "https://store.steampowered.com/app/3768760",
       "Metacritic": 0,
-      "AddedCount": 244,
+      "AddedCount": 247,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx79u.jpg",
@@ -1436,7 +1425,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobxne.jpg",
       "StoreURL": "",
       "Metacritic": 0,
-      "AddedCount": 148,
+      "AddedCount": 149,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct17a.jpg",
@@ -1465,7 +1454,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8t96.jpg",
       "StoreURL": "https://store.steampowered.com/app/2255370",
       "Metacritic": 0,
-      "AddedCount": 109,
+      "AddedCount": 111,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctwii.jpg",
@@ -1494,7 +1483,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0fw.jpg",
       "StoreURL": "https://store.steampowered.com/app/3669870",
       "Metacritic": 0,
-      "AddedCount": 107,
+      "AddedCount": 108,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuxut.jpg",
@@ -1521,7 +1510,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobc5n.jpg",
       "StoreURL": "https://store.steampowered.com/app/2483190",
       "Metacritic": 0,
-      "AddedCount": 71,
+      "AddedCount": 73,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdi.jpg",
@@ -1551,7 +1540,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coab09.jpg",
       "StoreURL": "https://store.steampowered.com/app/2215200",
       "Metacritic": 0,
-      "AddedCount": 63,
+      "AddedCount": 64,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymdu.jpg",
@@ -1605,7 +1594,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobrkd.jpg",
       "StoreURL": "https://store.steampowered.com/app/1966410",
       "Metacritic": 0,
-      "AddedCount": 55,
+      "AddedCount": 56,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9m.jpg",
@@ -1697,30 +1686,6 @@
       "Genres": [
         "Adventure",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 305036,
-      "Title": "Tides of Tomorrow",
-      "ReleaseDate": "2026-04-22",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9x25.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2678080",
-      "Metacritic": 0,
-      "AddedCount": 34,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnya.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnyd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnyi.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnyh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnym.jpg"
-      ],
-      "Genres": [
-        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -1923,6 +1888,32 @@
       ]
     },
     {
+      "ID": 358534,
+      "Title": "The Adventures of Elliot: The Millennium Tales",
+      "ReleaseDate": "2026-06-18",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coblri.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3483510",
+      "Metacritic": 0,
+      "AddedCount": 21,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyaoe.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyaof.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyaog.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyaoh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyaoi.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyaoj.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 348216,
       "Title": "Invincible Vs.",
       "ReleaseDate": "2026-04-30",
@@ -1951,35 +1942,9 @@
       ]
     },
     {
-      "ID": 358534,
-      "Title": "The Adventures of Elliot: The Millennium Tales",
-      "ReleaseDate": "2026-06-18",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coblri.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3483510",
-      "Metacritic": 0,
-      "AddedCount": 20,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyaoe.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyaof.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyaog.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyaoh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyaoi.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyaoj.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 304745,
       "Title": "Motorslice",
-      "ReleaseDate": "2026-05-01",
+      "ReleaseDate": "2026-05-05",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8b9v.jpg",
       "StoreURL": "https://store.steampowered.com/app/2830030",
       "Metacritic": 0,
@@ -2217,32 +2182,6 @@
         "Platform",
         "Adventure",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 314272,
-      "Title": "Masters of Albion",
-      "ReleaseDate": "2026-04-22",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8pfz.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3165650",
-      "Metacritic": 0,
-      "AddedCount": 13,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoj2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoj3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoj6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoj1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoj4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoj5.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Strategy"
       ],
       "Tags": [],
       "Platforms": [
@@ -2788,6 +2727,56 @@
         "Fighting",
         "Hack and slash/Beat 'em up",
         "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 310336,
+      "Title": "Nocturnal II",
+      "ReleaseDate": "2026-06-30",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9vk5.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2847780",
+      "Metacritic": 0,
+      "AddedCount": 7,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvvi4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvvi5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvvi6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvvi7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11mdn.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 279123,
+      "Title": "Momento",
+      "ReleaseDate": "2026-06-30",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7gxq.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2474770",
+      "Metacritic": 0,
+      "AddedCount": 7,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpswd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpswg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpswj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpswl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpswn.jpg"
+      ],
+      "Genres": [
+        "Point-and-click",
+        "Puzzle"
       ],
       "Tags": [],
       "Platforms": [

@@ -420,34 +420,6 @@
       ]
     },
     {
-      "ID": 140839,
-      "Title": "Mass Effect Legendary Edition",
-      "ReleaseDate": "2021-05-14",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2k5h.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1328670",
-      "Metacritic": 91,
-      "AddedCount": 4,
-      "Rating": 91.2868474311086,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scab35.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scab36.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scab37.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scab38.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scab39.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scab3a.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scab3b.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Role-playing (RPG)",
-        "Strategy"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 112875,
       "Title": "God of War Ragnar\u00f6k",
       "ReleaseDate": "2022-11-09",
@@ -468,6 +440,34 @@
         "Role-playing (RPG)",
         "Hack and slash/Beat 'em up",
         "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 140839,
+      "Title": "Mass Effect Legendary Edition",
+      "ReleaseDate": "2021-05-14",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2k5h.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1328670",
+      "Metacritic": 91,
+      "AddedCount": 4,
+      "Rating": 90.72663452691971,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scab35.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scab36.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scab37.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scab38.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scab39.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scab3a.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scab3b.jpg"
+      ],
+      "Genres": [
+        "Shooter",
+        "Role-playing (RPG)",
+        "Strategy"
       ],
       "Tags": [],
       "Platforms": [
@@ -1349,7 +1349,7 @@
       "StoreURL": "https://store.steampowered.com/app/374320",
       "Metacritic": 87,
       "AddedCount": 27,
-      "Rating": 87.20687664427643,
+      "Rating": 87.20626696715976,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/wlefrkqqtxge3lo81cis.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/nwrsu8awczsx38hmnqx7.jpg",
@@ -1485,7 +1485,7 @@
       "StoreURL": "https://store.steampowered.com/app/504230",
       "Metacritic": 87,
       "AddedCount": 2,
-      "Rating": 86.8357573670566,
+      "Rating": 86.8360702452299,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/e9lk3alqutkrciksfque.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/hisxvydbpgrg9thupnlg.jpg",
@@ -1724,6 +1724,32 @@
       ]
     },
     {
+      "ID": 17000,
+      "Title": "Stardew Valley",
+      "ReleaseDate": "2016-02-26",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa93h.jpg",
+      "StoreURL": "https://store.steampowered.com/app/413150",
+      "Metacritic": 86,
+      "AddedCount": 1,
+      "Rating": 86.37303699243033,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/rhxs1x9w5hf5kde2osf5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/iwswpvxa9ytrpk8yjcyx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sw7rtba7p1xs77klsime.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/ak7zmag7zztpqha1jjde.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/g1aakqbkp2quq0krqeky.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Strategy"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 11397,
       "Title": "Yakuza 0",
       "ReleaseDate": "2015-03-12",
@@ -1850,32 +1876,6 @@
       "Genres": [
         "Shooter",
         "Role-playing (RPG)"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 17000,
-      "Title": "Stardew Valley",
-      "ReleaseDate": "2016-02-26",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa93h.jpg",
-      "StoreURL": "https://store.steampowered.com/app/413150",
-      "Metacritic": 86,
-      "AddedCount": 1,
-      "Rating": 86.19472485469879,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/rhxs1x9w5hf5kde2osf5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/iwswpvxa9ytrpk8yjcyx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sw7rtba7p1xs77klsime.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/ak7zmag7zztpqha1jjde.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/g1aakqbkp2quq0krqeky.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Simulator",
-        "Strategy"
       ],
       "Tags": [],
       "Platforms": [
@@ -2086,7 +2086,7 @@
       "StoreURL": "https://store.steampowered.com/app/304430",
       "Metacritic": 86,
       "AddedCount": 11,
-      "Rating": 85.76006632232955,
+      "Rating": 85.7600868299261,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/guhljbryvlqg2kn25z7r.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/z4fkserflyby1nv5ispe.jpg",
@@ -2202,7 +2202,7 @@
       "StoreURL": "https://store.steampowered.com/app/8870",
       "Metacritic": 86,
       "AddedCount": 0,
-      "Rating": 85.62853863958914,
+      "Rating": 85.62877466510807,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scijgs.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scijgr.jpg",
@@ -2610,7 +2610,7 @@
       "StoreURL": "",
       "Metacritic": 85,
       "AddedCount": 0,
-      "Rating": 85.29271092250053,
+      "Rating": 85.29289700245431,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8d2z.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8d30.jpg",
@@ -3031,7 +3031,7 @@
       "StoreURL": "https://store.steampowered.com/app/1627720",
       "Metacritic": 85,
       "AddedCount": 17,
-      "Rating": 84.73819902313663,
+      "Rating": 84.73879605402742,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc9oaa.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc9oa7.jpg",
@@ -3143,7 +3143,7 @@
       "StoreURL": "https://store.steampowered.com/app/1551360",
       "Metacritic": 85,
       "AddedCount": 16,
-      "Rating": 84.70134234745868,
+      "Rating": 84.70201627638656,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scahho.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scahhp.jpg",
@@ -3306,37 +3306,6 @@
       ]
     },
     {
-      "ID": 104967,
-      "Title": "Valheim",
-      "ReleaseDate": "2021-02-02",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob24q.jpg",
-      "StoreURL": "https://store.steampowered.com/app/892970",
-      "Metacritic": 84,
-      "AddedCount": 0,
-      "Rating": 84.43731067148238,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5ifv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5ifu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5ifr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5ifx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5ifz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5ifs.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5ift.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5ifw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5ify.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5ig1.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 478,
       "Title": "The Witcher 2: Assassins of Kings",
       "ReleaseDate": "2011-05-17",
@@ -3481,6 +3450,37 @@
       ],
       "Genres": [
         "Shooter"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 104967,
+      "Title": "Valheim",
+      "ReleaseDate": "2021-02-02",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob24q.jpg",
+      "StoreURL": "https://store.steampowered.com/app/892970",
+      "Metacritic": 84,
+      "AddedCount": 0,
+      "Rating": 84.16175232381636,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5ifv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5ifu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5ifr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5ifx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5ifz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5ifs.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5ift.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5ifw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5ify.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5ig1.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -3792,6 +3792,37 @@
         "Role-playing (RPG)",
         "Strategy",
         "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 28512,
+      "Title": "Risk of Rain 2",
+      "ReleaseDate": "2020-08-11",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaavb.jpg",
+      "StoreURL": "https://store.steampowered.com/app/632360",
+      "Metacritic": 84,
+      "AddedCount": 5,
+      "Rating": 83.77029910773665,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5roe.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5roj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5roi.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5rof.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5rog.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5roh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5rok.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5roc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5rod.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scs50s.jpg"
+      ],
+      "Genres": [
+        "Shooter",
+        "Adventure",
+        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -4126,37 +4157,6 @@
       "Genres": [
         "Adventure",
         "Visual Novel"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 5062,
-      "Title": "Chaos on Deponia",
-      "ReleaseDate": "2012-11-06",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1qqo.jpg",
-      "StoreURL": "https://store.steampowered.com/app/220740",
-      "Metacritic": 83,
-      "AddedCount": 0,
-      "Rating": 83.41963323761647,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/nonmtkifawjgrkendrol.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/hsl9b4hbijaa3azumkcs.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/fz3kvgy2tg6yzgvyhdbe.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/vziihzw6n4dryrg5l3lj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/bcijl1genixq9o7cvugs.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/tkpvrzn7hnoe9dw2jy0c.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sgdtvm6hhqits1nrmxpl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/vuer50qbdqjloucwaxds.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/rauzvqzzsqh56dxupwdv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/ndbjzkf69l1tvco5ptfq.jpg"
-      ],
-      "Genres": [
-        "Point-and-click",
-        "Puzzle",
-        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
