@@ -8,7 +8,7 @@
       "StoreURL": "https://store.steampowered.com/app/3357650",
       "Metacritic": 80,
       "AddedCount": 236,
-      "Rating": 80.11675789540408,
+      "Rating": 80.04282922289754,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bhf.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bhe.jpg",
@@ -58,9 +58,9 @@
       "ReleaseDate": "2026-04-16",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaacx.jpg",
       "StoreURL": "https://store.steampowered.com/app/2416450",
-      "Metacritic": 0,
+      "Metacritic": 78,
       "AddedCount": 77,
-      "Rating": 0.0,
+      "Rating": 78.20919175911251,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1302w.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1302x.jpg",
@@ -991,6 +991,33 @@
       ]
     },
     {
+      "ID": 347669,
+      "Title": "Snap & Grab",
+      "ReleaseDate": "2026-04-24",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xi4.jpg",
+      "StoreURL": "https://store.steampowered.com/app/897160",
+      "Metacritic": 0,
+      "AddedCount": 7,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9pg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9pf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9pe.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9ph.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9pc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9pd.jpg"
+      ],
+      "Genres": [
+        "Strategy",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 344068,
       "Title": "EverSiege: Untold Ages",
       "ReleaseDate": "2026-03-26",
@@ -1357,37 +1384,6 @@
       "Platforms": [
         "pc"
       ]
-    },
-    {
-      "ID": 122733,
-      "Title": "A Rat's Quest: The Way Back Home",
-      "ReleaseDate": "2026-04-03",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4q6r.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1124420",
-      "Metacritic": 0,
-      "AddedCount": 6,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sci2u3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sci2tr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sci2tu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sci2u5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sci2ts.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sci2tt.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sci2tv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sci2tw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sci2ty.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sci2u0.jpg"
-      ],
-      "Genres": [
-        "Platform",
-        "Puzzle",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
     }
   ],
   "Upcoming": [
@@ -1398,7 +1394,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaoiz.jpg",
       "StoreURL": "https://store.steampowered.com/app/3768760",
       "Metacritic": 0,
-      "AddedCount": 249,
+      "AddedCount": 251,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx79u.jpg",
@@ -1425,7 +1421,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobxne.jpg",
       "StoreURL": "",
       "Metacritic": 0,
-      "AddedCount": 151,
+      "AddedCount": 153,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct17a.jpg",
@@ -1454,7 +1450,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8t96.jpg",
       "StoreURL": "https://store.steampowered.com/app/2255370",
       "Metacritic": 0,
-      "AddedCount": 111,
+      "AddedCount": 112,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctwii.jpg",
@@ -1510,7 +1506,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobc5n.jpg",
       "StoreURL": "https://store.steampowered.com/app/2483190",
       "Metacritic": 0,
-      "AddedCount": 73,
+      "AddedCount": 74,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdi.jpg",
@@ -1724,6 +1720,33 @@
       ]
     },
     {
+      "ID": 320141,
+      "Title": "Mistfall Hunter",
+      "ReleaseDate": "2026-07-01",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8ycx.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3282300",
+      "Metacritic": 0,
+      "AddedCount": 27,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu85c.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu85d.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu85e.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu85f.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu85g.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu85h.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu85i.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu85j.jpg"
+      ],
+      "Genres": [
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 361826,
       "Title": "Denshattack!",
       "ReleaseDate": "2026-06-17",
@@ -1746,33 +1769,6 @@
         "Platform",
         "Racing",
         "Sport"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 320141,
-      "Title": "Mistfall Hunter",
-      "ReleaseDate": "2026-07-01",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8ycx.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3282300",
-      "Metacritic": 0,
-      "AddedCount": 26,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu85c.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu85d.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu85e.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu85f.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu85g.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu85h.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu85i.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu85j.jpg"
-      ],
-      "Genres": [
-        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -2018,6 +2014,32 @@
       ],
       "Genres": [
         "Simulator"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 213620,
+      "Title": "Luna Abyss",
+      "ReleaseDate": "2026-05-21",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa1i3.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1933000",
+      "Metacritic": 0,
+      "AddedCount": 18,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scigwp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scigwq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scigwr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scigws.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scigwt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scigwu.jpg"
+      ],
+      "Genres": [
+        "Shooter",
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -2271,6 +2293,37 @@
       ],
       "Genres": [
         "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 378228,
+      "Title": "Echo Generation 2",
+      "ReleaseDate": "2026-05-27",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobibf.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1115990",
+      "Metacritic": 0,
+      "AddedCount": 10,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10flv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10flu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10flw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fly.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10flx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10flz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fm0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fm1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fm2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fm3.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -2620,33 +2673,6 @@
       ]
     },
     {
-      "ID": 347669,
-      "Title": "Snap & Grab",
-      "ReleaseDate": "2026-04-24",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xi4.jpg",
-      "StoreURL": "https://store.steampowered.com/app/897160",
-      "Metacritic": 0,
-      "AddedCount": 7,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9pg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9pf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9pe.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9ph.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9pc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9pd.jpg"
-      ],
-      "Genres": [
-        "Strategy",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 341400,
       "Title": "Voidling Bound",
       "ReleaseDate": "2026-06-09",
@@ -2749,32 +2775,6 @@
       "Genres": [
         "Point-and-click",
         "Puzzle"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 354933,
-      "Title": "The Last Gas Station",
-      "ReleaseDate": "2026-04-28",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobncx.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3690030",
-      "Metacritic": 0,
-      "AddedCount": 6,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxz8d.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxz8e.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxz8f.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxz8b.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxz8c.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Adventure",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
