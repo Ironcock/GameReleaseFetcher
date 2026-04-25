@@ -6,9 +6,9 @@
       "ReleaseDate": "2026-04-17",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobxnx.jpg",
       "StoreURL": "https://store.steampowered.com/app/3357650",
-      "Metacritic": 80,
+      "Metacritic": 86,
       "AddedCount": 236,
-      "Rating": 80.04282922289754,
+      "Rating": 85.97152963939811,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bhf.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bhe.jpg",
@@ -169,33 +169,6 @@
       ]
     },
     {
-      "ID": 325607,
-      "Title": "Screamer",
-      "ReleaseDate": "2026-03-26",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaafo.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2814990",
-      "Metacritic": 0,
-      "AddedCount": 36,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus33.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus37.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus38.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus34.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus36.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus35.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus32.jpg"
-      ],
-      "Genres": [
-        "Racing",
-        "Arcade"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 305036,
       "Title": "Tides of Tomorrow",
       "ReleaseDate": "2026-04-22",
@@ -349,29 +322,6 @@
       "Genres": [
         "Role-playing (RPG)",
         "Simulator",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 386431,
-      "Title": "Life is Strange: Reunion",
-      "ReleaseDate": "2026-03-26",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobbp8.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2624870",
-      "Metacritic": 0,
-      "AddedCount": 17,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11eb5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11eb6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11eb3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11eb4.jpg"
-      ],
-      "Genres": [
         "Adventure"
       ],
       "Tags": [],
@@ -717,33 +667,6 @@
       ]
     },
     {
-      "ID": 320723,
-      "Title": "Project Songbird",
-      "ReleaseDate": "2026-03-26",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8z86.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3180410",
-      "Metacritic": 0,
-      "AddedCount": 10,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuav0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuav1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuav2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuav3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuav4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuav5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuav6.jpg"
-      ],
-      "Genres": [
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 319454,
       "Title": "Bylina",
       "ReleaseDate": "2026-04-20",
@@ -1010,36 +933,6 @@
       "Genres": [
         "Strategy",
         "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 344068,
-      "Title": "EverSiege: Untold Ages",
-      "ReleaseDate": "2026-03-26",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobcdr.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3363680",
-      "Metacritic": 0,
-      "AddedCount": 7,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx02n.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx02o.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx02p.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx02q.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx02r.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx02s.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx02t.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx02u.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx02v.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Strategy",
         "Indie"
       ],
       "Tags": [],
@@ -1384,6 +1277,120 @@
       "Platforms": [
         "pc"
       ]
+    },
+    {
+      "ID": 122733,
+      "Title": "A Rat's Quest: The Way Back Home",
+      "ReleaseDate": "2026-04-03",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4q6r.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1124420",
+      "Metacritic": 0,
+      "AddedCount": 6,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sci2u3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sci2tr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sci2tu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sci2u5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sci2ts.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sci2tt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sci2tv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sci2tw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sci2ty.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sci2u0.jpg"
+      ],
+      "Genres": [
+        "Platform",
+        "Puzzle",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 389447,
+      "Title": "Pok\u00e9 Everworld Online",
+      "ReleaseDate": "2026-03-27",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobudc.jpg",
+      "StoreURL": "",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12p7t.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12p7u.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12p7v.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12p7w.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12p7x.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12p7y.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12p7z.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 339820,
+      "Title": "Causal Loop",
+      "ReleaseDate": "2026-04-23",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9pg5.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3374460",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwa0p.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwa0q.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwa0r.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwa0s.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwa0t.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwa0u.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwa0v.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwa0w.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwa0x.jpg"
+      ],
+      "Genres": [
+        "Puzzle",
+        "Strategy",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 339674,
+      "Title": "Scavland",
+      "ReleaseDate": "2026-03-31",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9noj.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3373500",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwuu6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwuu7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwuu8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwuu9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwuua.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
     }
   ],
   "Upcoming": [
@@ -1421,7 +1428,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobxne.jpg",
       "StoreURL": "",
       "Metacritic": 0,
-      "AddedCount": 153,
+      "AddedCount": 156,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct17a.jpg",
@@ -1726,7 +1733,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8ycx.jpg",
       "StoreURL": "https://store.steampowered.com/app/3282300",
       "Metacritic": 0,
-      "AddedCount": 27,
+      "AddedCount": 28,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu85c.jpg",
@@ -1938,6 +1945,35 @@
       ]
     },
     {
+      "ID": 294592,
+      "Title": "Inkonbini",
+      "ReleaseDate": "2026-04-30",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co805d.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2723430",
+      "Metacritic": 0,
+      "AddedCount": 20,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrl13.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrl14.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrl15.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrl16.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrl17.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrl18.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrl11.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrl12.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12hs0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12hs1.jpg"
+      ],
+      "Genres": [
+        "Simulator"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 252852,
       "Title": "Mariachi Legends",
       "ReleaseDate": "2026-06-30",
@@ -1985,35 +2021,6 @@
       "Genres": [
         "Adventure",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 294592,
-      "Title": "Inkonbini",
-      "ReleaseDate": "2026-04-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co805d.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2723430",
-      "Metacritic": 0,
-      "AddedCount": 19,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrl13.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrl14.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrl15.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrl16.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrl17.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrl18.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrl11.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrl12.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12hs0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12hs1.jpg"
-      ],
-      "Genres": [
-        "Simulator"
       ],
       "Tags": [],
       "Platforms": [
