@@ -8,7 +8,7 @@
       "StoreURL": "https://store.steampowered.com/app/3357650",
       "Metacritic": 86,
       "AddedCount": 236,
-      "Rating": 85.95607486862745,
+      "Rating": 85.91974510517193,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bhf.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bhe.jpg",
@@ -34,7 +34,7 @@
       "StoreURL": "https://store.steampowered.com/app/1663850",
       "Metacritic": 74,
       "AddedCount": 142,
-      "Rating": 74.40445580643689,
+      "Rating": 74.3891733615091,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scahjd.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scahje.jpg",
@@ -58,9 +58,9 @@
       "ReleaseDate": "2026-04-16",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaacx.jpg",
       "StoreURL": "https://store.steampowered.com/app/2416450",
-      "Metacritic": 76,
+      "Metacritic": 80,
       "AddedCount": 77,
-      "Rating": 76.04001861330852,
+      "Rating": 79.79992153785798,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1302w.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1302x.jpg",
@@ -322,6 +322,33 @@
       "Genres": [
         "Role-playing (RPG)",
         "Simulator",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 348272,
+      "Title": "Moomintroll: Winter's Warmth",
+      "ReleaseDate": "2026-04-27",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobmjo.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3256150",
+      "Metacritic": 0,
+      "AddedCount": 17,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12cm9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12cma.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12cmb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12cmc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12cmd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12cme.jpg"
+      ],
+      "Genres": [
+        "Puzzle",
+        "Role-playing (RPG)",
         "Adventure"
       ],
       "Tags": [],
@@ -1364,37 +1391,6 @@
       "Platforms": [
         "pc"
       ]
-    },
-    {
-      "ID": 287791,
-      "Title": "Legends of the Round Table",
-      "ReleaseDate": "2026-03-31",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9p2w.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2387040",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwb2k.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwb2l.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwb2j.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwb2m.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwb2n.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwb2o.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwb2p.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwb2q.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwb2r.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwb2s.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Strategy",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
     }
   ],
   "Upcoming": [
@@ -1432,7 +1428,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobxne.jpg",
       "StoreURL": "",
       "Metacritic": 0,
-      "AddedCount": 157,
+      "AddedCount": 158,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct17a.jpg",
@@ -1517,7 +1513,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobc5n.jpg",
       "StoreURL": "https://store.steampowered.com/app/2483190",
       "Metacritic": 0,
-      "AddedCount": 74,
+      "AddedCount": 75,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdi.jpg",
@@ -2058,33 +2054,6 @@
       ]
     },
     {
-      "ID": 348272,
-      "Title": "Moomintroll: Winter's Warmth",
-      "ReleaseDate": "2026-04-27",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobmjo.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3256150",
-      "Metacritic": 0,
-      "AddedCount": 17,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12cm9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12cma.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12cmb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12cmc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12cmd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12cme.jpg"
-      ],
-      "Genres": [
-        "Puzzle",
-        "Role-playing (RPG)",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 194950,
       "Title": "Solarpunk",
       "ReleaseDate": "2026-06-08",
@@ -2282,6 +2251,36 @@
       ]
     },
     {
+      "ID": 237123,
+      "Title": "Moonlight Peaks",
+      "ReleaseDate": "2026-07-07",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9vvs.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2209900",
+      "Metacritic": 0,
+      "AddedCount": 11,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx2aw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx2b0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx2at.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx2au.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx2ax.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx2ay.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx2av.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx2az.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx2b1.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 378230,
       "Title": "Erosion",
       "ReleaseDate": "2026-06-30",
@@ -2402,36 +2401,6 @@
       ]
     },
     {
-      "ID": 237123,
-      "Title": "Moonlight Peaks",
-      "ReleaseDate": "2026-07-07",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9vvs.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2209900",
-      "Metacritic": 0,
-      "AddedCount": 10,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx2aw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx2b0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx2at.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx2au.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx2ax.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx2ay.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx2av.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx2az.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx2b1.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Simulator",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 353276,
       "Title": "Adorable Adventures",
       "ReleaseDate": "2026-04-30",
@@ -2518,6 +2487,59 @@
       ]
     },
     {
+      "ID": 280566,
+      "Title": "Better Than Dead",
+      "ReleaseDate": "2026-05-12",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coae7o.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2599690",
+      "Metacritic": 0,
+      "AddedCount": 9,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpypr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpypt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpypv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpypx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpypz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpyq1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpyq3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpyq5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpyq7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpyq9.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 393932,
+      "Title": "Echoes of Aincrad",
+      "ReleaseDate": "2026-07-10",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobpxh.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2244210",
+      "Metacritic": 0,
+      "AddedCount": 8,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12i5s.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12i5t.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12i5u.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 361822,
       "Title": "Battlestar Galactica: Scattered Hopes",
       "ReleaseDate": "2026-06-30",
@@ -2579,36 +2601,6 @@
       ]
     },
     {
-      "ID": 280566,
-      "Title": "Better Than Dead",
-      "ReleaseDate": "2026-05-12",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coae7o.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2599690",
-      "Metacritic": 0,
-      "AddedCount": 8,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpypr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpypt.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpypv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpypx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpypz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpyq1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpyq3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpyq5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpyq7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpyq9.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 211671,
       "Title": "Glaciered",
       "ReleaseDate": "2026-06-30",
@@ -2631,29 +2623,6 @@
       "Genres": [
         "Adventure",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 393932,
-      "Title": "Echoes of Aincrad",
-      "ReleaseDate": "2026-07-10",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobpxh.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2244210",
-      "Metacritic": 0,
-      "AddedCount": 7,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12i5s.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12i5t.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12i5u.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -2791,6 +2760,31 @@
       "Genres": [
         "Adventure",
         "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 279123,
+      "Title": "Momento",
+      "ReleaseDate": "2026-06-30",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7gxq.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2474770",
+      "Metacritic": 0,
+      "AddedCount": 7,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpswd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpswg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpswj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpswl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpswn.jpg"
+      ],
+      "Genres": [
+        "Point-and-click",
+        "Puzzle"
       ],
       "Tags": [],
       "Platforms": [
