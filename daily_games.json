@@ -6,9 +6,9 @@
       "ReleaseDate": "2026-04-17",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobxnx.jpg",
       "StoreURL": "https://store.steampowered.com/app/3357650",
-      "Metacritic": 86,
+      "Metacritic": 87,
       "AddedCount": 236,
-      "Rating": 85.91974510517193,
+      "Rating": 87.22673260490294,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bhf.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bhe.jpg",
@@ -77,6 +77,31 @@
         "Shooter",
         "Adventure",
         "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 348192,
+      "Title": "Aphelion",
+      "ReleaseDate": "2026-04-28",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobrkd.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1966410",
+      "Metacritic": 0,
+      "AddedCount": 56,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9m.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9n.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9o.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9p.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9q.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9r.jpg"
+      ],
+      "Genres": [
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -222,9 +247,9 @@
       "ReleaseDate": "2026-04-14",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobwn8.jpg",
       "StoreURL": "https://store.steampowered.com/app/3041230",
-      "Metacritic": 0,
+      "Metacritic": 66,
       "AddedCount": 23,
-      "Rating": 0.0,
+      "Rating": 66.19047619047619,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12wde.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12wdf.jpg",
@@ -941,6 +966,36 @@
       ]
     },
     {
+      "ID": 348263,
+      "Title": "Far Far West",
+      "ReleaseDate": "2026-04-28",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqrh.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3124540",
+      "Metacritic": 0,
+      "AddedCount": 7,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbct.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbcs.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbcu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbcv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbcw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbcx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbcn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbco.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbcp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbcq.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 347669,
       "Title": "Snap & Grab",
       "ReleaseDate": "2026-04-24",
@@ -1220,6 +1275,32 @@
       ]
     },
     {
+      "ID": 354933,
+      "Title": "The Last Gas Station",
+      "ReleaseDate": "2026-04-28",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobncx.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3690030",
+      "Metacritic": 0,
+      "AddedCount": 6,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxz8d.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxz8e.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxz8f.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxz8b.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxz8c.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 305182,
       "Title": "Generation Exile",
       "ReleaseDate": "2026-04-17",
@@ -1304,93 +1385,6 @@
       "Platforms": [
         "pc"
       ]
-    },
-    {
-      "ID": 122733,
-      "Title": "A Rat's Quest: The Way Back Home",
-      "ReleaseDate": "2026-04-03",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4q6r.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1124420",
-      "Metacritic": 0,
-      "AddedCount": 6,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sci2u3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sci2tr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sci2tu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sci2u5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sci2ts.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sci2tt.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sci2tv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sci2tw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sci2ty.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sci2u0.jpg"
-      ],
-      "Genres": [
-        "Platform",
-        "Puzzle",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 339820,
-      "Title": "Causal Loop",
-      "ReleaseDate": "2026-04-23",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9pg5.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3374460",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwa0p.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwa0q.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwa0r.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwa0s.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwa0t.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwa0u.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwa0v.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwa0w.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwa0x.jpg"
-      ],
-      "Genres": [
-        "Puzzle",
-        "Strategy",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 339674,
-      "Title": "Scavland",
-      "ReleaseDate": "2026-03-31",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9noj.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3373500",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwuu6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwuu7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwuu8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwuu9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwuua.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
     }
   ],
   "Upcoming": [
@@ -1401,7 +1395,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaoiz.jpg",
       "StoreURL": "https://store.steampowered.com/app/3768760",
       "Metacritic": 0,
-      "AddedCount": 253,
+      "AddedCount": 255,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx79u.jpg",
@@ -1428,7 +1422,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobxne.jpg",
       "StoreURL": "",
       "Metacritic": 0,
-      "AddedCount": 158,
+      "AddedCount": 159,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct17a.jpg",
@@ -1457,7 +1451,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8t96.jpg",
       "StoreURL": "https://store.steampowered.com/app/2255370",
       "Metacritic": 0,
-      "AddedCount": 112,
+      "AddedCount": 113,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctwii.jpg",
@@ -1513,7 +1507,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobc5n.jpg",
       "StoreURL": "https://store.steampowered.com/app/2483190",
       "Metacritic": 0,
-      "AddedCount": 75,
+      "AddedCount": 76,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdi.jpg",
@@ -1584,31 +1578,6 @@
         "Music",
         "Adventure",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 348192,
-      "Title": "Aphelion",
-      "ReleaseDate": "2026-04-28",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobrkd.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1966410",
-      "Metacritic": 0,
-      "AddedCount": 56,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9m.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9n.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9o.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9p.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9q.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9r.jpg"
-      ],
-      "Genres": [
-        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -1828,33 +1797,6 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrdd0.jpg"
       ],
       "Genres": [
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 165397,
-      "Title": "The Relic: First Guardian",
-      "ReleaseDate": "2026-05-26",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8btm.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2827820",
-      "Metacritic": 0,
-      "AddedCount": 25,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scq1wb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scq1wc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scq1wd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scq1we.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scq1wf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scq1wg.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
         "Adventure",
         "Indie"
       ],
@@ -2785,6 +2727,61 @@
       "Genres": [
         "Point-and-click",
         "Puzzle"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 350179,
+      "Title": "Servant of the Lake",
+      "ReleaseDate": "2026-06-30",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coab7n.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3636770",
+      "Metacritic": 0,
+      "AddedCount": 6,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxq7f.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxq7g.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxq7h.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxq7i.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxq7j.jpg"
+      ],
+      "Genres": [
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 342028,
+      "Title": "Clawed",
+      "ReleaseDate": "2026-06-30",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9qwk.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3394840",
+      "Metacritic": 0,
+      "AddedCount": 6,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwmba.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwmb9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwmb1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwmb2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwmb3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwmb4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwmb5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwmb6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwmb7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwmb8.jpg"
+      ],
+      "Genres": [
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
