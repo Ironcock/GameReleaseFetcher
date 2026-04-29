@@ -8,7 +8,7 @@
       "StoreURL": "https://store.steampowered.com/app/1086940",
       "Metacritic": 96,
       "AddedCount": 39,
-      "Rating": 95.66513454955299,
+      "Rating": 95.66532421826008,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc81fj.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc81fh.jpg",
@@ -69,7 +69,7 @@
       "StoreURL": "https://store.steampowered.com/app/1245620",
       "Metacritic": 94,
       "AddedCount": 96,
-      "Rating": 93.57162953543346,
+      "Rating": 93.57185220400162,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scagdm.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scagdn.jpg",
@@ -99,7 +99,7 @@
       "StoreURL": "https://store.steampowered.com/app/1174180",
       "Metacritic": 93,
       "AddedCount": 257,
-      "Rating": 93.14095141768048,
+      "Rating": 93.14026308895556,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/xegpfnsvlyeld0zkjnrc.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/c9xalka7stjkx4mes7kp.jpg",
@@ -676,7 +676,7 @@
       "StoreURL": "https://store.steampowered.com/app/271590",
       "Metacritic": 90,
       "AddedCount": 0,
-      "Rating": 89.64893225060122,
+      "Rating": 89.64860188523866,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/hjnzngnrtwr82jzmmkef.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/n3t2agwuxlqggp3kryf9.jpg",
@@ -707,7 +707,7 @@
       "StoreURL": "https://store.steampowered.com/app/3764200",
       "Metacritic": 89,
       "AddedCount": 309,
-      "Rating": 89.44132976870355,
+      "Rating": 89.44173943726446,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r3.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r0.jpg",
@@ -853,7 +853,7 @@
       "StoreURL": "",
       "Metacritic": 89,
       "AddedCount": 0,
-      "Rating": 89.32523475493248,
+      "Rating": 89.32533872360038,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/q7homzi5rjybswimfakb.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/eaj8ukcnb9pqrupxxr5g.jpg",
@@ -1148,33 +1148,6 @@
       ]
     },
     {
-      "ID": 185246,
-      "Title": "Alan Wake II",
-      "ReleaseDate": "2023-10-27",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6jar.jpg",
-      "StoreURL": "https://store.epicgames.com/p/06203841-704b-4a66-af9a-a49967e7aefe",
-      "Metacritic": 88,
-      "AddedCount": 16,
-      "Rating": 87.63333398449751,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmnci.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmncj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmnck.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmncl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmnco.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmncm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmncn.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 14741,
       "Title": "Psychonauts 2",
       "ReleaseDate": "2021-08-24",
@@ -1212,7 +1185,7 @@
       "StoreURL": "https://store.steampowered.com/app/2677660",
       "Metacritic": 88,
       "AddedCount": 132,
-      "Rating": 87.6279389457313,
+      "Rating": 87.6287774270787,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scq5sr.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scq5ss.jpg",
@@ -1239,7 +1212,7 @@
       "StoreURL": "",
       "Metacritic": 87,
       "AddedCount": 95,
-      "Rating": 87.4958730168345,
+      "Rating": 87.49592390026109,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/llwixfa0dy8fpex3tcwr.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/o7ehlmbjcvkeeltwreeg.jpg",
@@ -1276,6 +1249,33 @@
       "Genres": [
         "Role-playing (RPG)",
         "Strategy",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 185246,
+      "Title": "Alan Wake II",
+      "ReleaseDate": "2023-10-27",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6jar.jpg",
+      "StoreURL": "https://store.epicgames.com/p/06203841-704b-4a66-af9a-a49967e7aefe",
+      "Metacritic": 87,
+      "AddedCount": 16,
+      "Rating": 87.34808727623314,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmnci.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmncj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmnck.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmncl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmnco.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmncm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmncn.jpg"
+      ],
+      "Genres": [
+        "Shooter",
         "Adventure"
       ],
       "Tags": [],
@@ -1346,7 +1346,7 @@
       "StoreURL": "https://store.steampowered.com/app/1057090",
       "Metacritic": 87,
       "AddedCount": 66,
-      "Rating": 87.14059840231715,
+      "Rating": 87.1404048484736,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8fwr.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8fws.jpg",
@@ -1516,7 +1516,7 @@
       "StoreURL": "https://store.steampowered.com/app/261570",
       "Metacritic": 87,
       "AddedCount": 3,
-      "Rating": 86.6881045717745,
+      "Rating": 86.68375525188716,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/v2pnld98yq2xvs788c4o.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/ritdwffctzicqdpz44lz.jpg",
@@ -1547,7 +1547,7 @@
       "StoreURL": "https://store.steampowered.com/app/33230",
       "Metacritic": 87,
       "AddedCount": 0,
-      "Rating": 86.67451562162178,
+      "Rating": 86.67453817405683,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/jbeteinfgsoxkoxv08i0.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/wkagtolikjqalonaaixb.jpg",
@@ -1629,7 +1629,7 @@
       "StoreURL": "",
       "Metacritic": 87,
       "AddedCount": 1,
-      "Rating": 86.55991606856715,
+      "Rating": 86.55963889519164,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sylfmtzktmb4b0ext8nr.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/nz70mpjc7kszcyesgmqw.jpg",
@@ -1859,7 +1859,7 @@
       "StoreURL": "https://store.steampowered.com/app/1190460",
       "Metacritic": 86,
       "AddedCount": 172,
-      "Rating": 86.20056858547478,
+      "Rating": 86.19978301179465,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc6l0a.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc6l0g.jpg",
@@ -2175,7 +2175,7 @@
       "StoreURL": "https://store.steampowered.com/app/2379780",
       "Metacritic": 86,
       "AddedCount": 2,
-      "Rating": 85.67340538076395,
+      "Rating": 85.67360428960191,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmsev.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmsew.jpg",
@@ -2582,7 +2582,7 @@
       "StoreURL": "https://store.steampowered.com/app/214490",
       "Metacritic": 85,
       "AddedCount": 10,
-      "Rating": 85.31979481501402,
+      "Rating": 85.31966841545413,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/dek1ysjlwizlhh0z624o.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/bq2xsojs8vvr8hkkpdbn.jpg",
@@ -3609,7 +3609,7 @@
       "StoreURL": "https://store.steampowered.com/app/3017860",
       "Metacritic": 84,
       "AddedCount": 197,
-      "Rating": 83.95710967060849,
+      "Rating": 83.95718925351595,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsofy.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsofi.jpg",
@@ -3918,36 +3918,6 @@
       ]
     },
     {
-      "ID": 21062,
-      "Title": "Sonic Mania",
-      "ReleaseDate": "2017-08-15",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob1t0.jpg",
-      "StoreURL": "https://store.steampowered.com/app/584400",
-      "Metacritic": 84,
-      "AddedCount": 36,
-      "Rating": 83.5534724244651,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/e8xlfiklewhjosqzrlx1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/bbv6mvi03oauekeknpha.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/b9rzjgkddlu22xcrgw1u.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/dpf3dr7duvhkt9warpoc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz5o4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz5nj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz5oc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz5oe.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz5o2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz5o3.jpg"
-      ],
-      "Genres": [
-        "Platform",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 27367,
       "Title": "Yoku's Island Express",
       "ReleaseDate": "2018-05-29",
@@ -4158,6 +4128,30 @@
       "Genres": [
         "Adventure",
         "Visual Novel"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 133887,
+      "Title": "Tony Hawk's Pro Skater 1+2",
+      "ReleaseDate": "2020-09-04",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co25u7.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2395210",
+      "Metacritic": 83,
+      "AddedCount": 3,
+      "Rating": 83.41307271196983,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8aj0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8aj1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8aj2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctkqf.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Sport"
       ],
       "Tags": [],
       "Platforms": [
