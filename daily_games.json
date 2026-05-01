@@ -8,7 +8,7 @@
       "StoreURL": "https://store.steampowered.com/app/3357650",
       "Metacritic": 88,
       "AddedCount": 236,
-      "Rating": 88.02868221794405,
+      "Rating": 88.05157971093442,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bhf.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bhe.jpg",
@@ -89,7 +89,7 @@
       "StoreURL": "",
       "Metacritic": 90,
       "AddedCount": 132,
-      "Rating": 89.63405069742963,
+      "Rating": 89.59805261802963,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5rik.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5ril.jpg",
@@ -120,7 +120,7 @@
       "StoreURL": "https://store.steampowered.com/app/2416450",
       "Metacritic": 80,
       "AddedCount": 77,
-      "Rating": 79.9863998076097,
+      "Rating": 79.91868727792111,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1302w.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1302x.jpg",
@@ -1079,6 +1079,34 @@
       ]
     },
     {
+      "ID": 362102,
+      "Title": "Lunar Strike",
+      "ReleaseDate": "2026-05-01",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coab9f.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3949580",
+      "Metacritic": 0,
+      "AddedCount": 7,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn6o.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn6p.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn6q.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn6r.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn6s.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn6t.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn6u.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn6v.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn6w.jpg"
+      ],
+      "Genres": [
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 348263,
       "Title": "Far Far West",
       "ReleaseDate": "2026-04-28",
@@ -1360,37 +1388,6 @@
       "Platforms": [
         "pc"
       ]
-    },
-    {
-      "ID": 354933,
-      "Title": "The Last Gas Station",
-      "ReleaseDate": "2026-04-28",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobncx.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3690030",
-      "Metacritic": 0,
-      "AddedCount": 6,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc133xu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc133xv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc133xw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc133xx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc133xy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc133xz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc133y0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc133y1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc133y2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc133y3.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
     }
   ],
   "Upcoming": [
@@ -1401,7 +1398,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaoiz.jpg",
       "StoreURL": "https://store.steampowered.com/app/3768760",
       "Metacritic": 0,
-      "AddedCount": 256,
+      "AddedCount": 259,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx79u.jpg",
@@ -1457,7 +1454,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0fw.jpg",
       "StoreURL": "https://store.steampowered.com/app/3669870",
       "Metacritic": 0,
-      "AddedCount": 110,
+      "AddedCount": 111,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuxut.jpg",
@@ -1484,7 +1481,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobc5n.jpg",
       "StoreURL": "https://store.steampowered.com/app/2483190",
       "Metacritic": 0,
-      "AddedCount": 78,
+      "AddedCount": 80,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdi.jpg",
@@ -1644,7 +1641,7 @@
     {
       "ID": 286869,
       "Title": "Outbound",
-      "ReleaseDate": "2026-05-14",
+      "ReleaseDate": "2026-05-11",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7rfx.jpg",
       "StoreURL": "https://store.steampowered.com/app/2681030",
       "Metacritic": 0,
@@ -1758,6 +1755,32 @@
       ]
     },
     {
+      "ID": 358534,
+      "Title": "The Adventures of Elliot: The Millennium Tales",
+      "ReleaseDate": "2026-06-18",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coblri.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3483510",
+      "Metacritic": 0,
+      "AddedCount": 22,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyaoe.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyaof.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyaog.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyaoh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyaoi.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyaoj.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 381208,
       "Title": "TankRat",
       "ReleaseDate": "2026-06-30",
@@ -1777,32 +1800,6 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tal.jpg"
       ],
       "Genres": [
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 358534,
-      "Title": "The Adventures of Elliot: The Millennium Tales",
-      "ReleaseDate": "2026-06-18",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coblri.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3483510",
-      "Metacritic": 0,
-      "AddedCount": 21,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyaoe.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyaof.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyaog.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyaoh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyaoi.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyaoj.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
         "Adventure"
       ],
       "Tags": [],
@@ -1897,7 +1894,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6jem.jpg",
       "StoreURL": "https://store.steampowered.com/app/1805110",
       "Metacritic": 0,
-      "AddedCount": 17,
+      "AddedCount": 18,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scg9u9.jpg",
@@ -2028,6 +2025,35 @@
       ]
     },
     {
+      "ID": 378230,
+      "Title": "Erosion",
+      "ReleaseDate": "2026-06-30",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coav92.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3211720",
+      "Metacritic": 0,
+      "AddedCount": 11,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fme.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fmg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fmi.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fmf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fmk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fmj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fml.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fmm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fmn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fmh.jpg"
+      ],
+      "Genres": [
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 358396,
       "Title": "Shutter Story",
       "ReleaseDate": "2026-06-30",
@@ -2060,7 +2086,7 @@
     {
       "ID": 244677,
       "Title": "Atmosfar",
-      "ReleaseDate": "2026-06-30",
+      "ReleaseDate": "2026-05-26",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9y8k.jpg",
       "StoreURL": "https://store.steampowered.com/app/1798230",
       "Metacritic": 0,
@@ -2136,35 +2162,6 @@
       "Genres": [
         "Point-and-click",
         "Puzzle",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 378230,
-      "Title": "Erosion",
-      "ReleaseDate": "2026-06-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coav92.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3211720",
-      "Metacritic": 0,
-      "AddedCount": 10,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fme.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fmg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fmi.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fmf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fmk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fmj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fml.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fmm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fmn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fmh.jpg"
-      ],
-      "Genres": [
         "Adventure"
       ],
       "Tags": [],
@@ -2436,34 +2433,6 @@
       ]
     },
     {
-      "ID": 362102,
-      "Title": "Lunar Strike",
-      "ReleaseDate": "2026-05-01",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coab9f.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3949580",
-      "Metacritic": 0,
-      "AddedCount": 7,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn6o.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn6p.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn6q.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn6r.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn6s.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn6t.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn6u.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn6v.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn6w.jpg"
-      ],
-      "Genres": [
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 352789,
       "Title": "Shift at Midnight",
       "ReleaseDate": "2026-05-28",
@@ -2652,32 +2621,6 @@
       ]
     },
     {
-      "ID": 335721,
-      "Title": "Gambonanza",
-      "ReleaseDate": "2026-05-01",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9jgw.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3509230",
-      "Metacritic": 0,
-      "AddedCount": 6,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvrgh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvrgi.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvrgj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvrgk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvrgl.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Strategy",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 316425,
       "Title": "Ascend to Zero",
       "ReleaseDate": "2026-07-13",
@@ -2773,6 +2716,63 @@
       "Genres": [
         "Simulator",
         "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 380953,
+      "Title": "Thrifty Business",
+      "ReleaseDate": "2026-05-18",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coazo5.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3693650",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10rjj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10rjk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10rjl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10rjm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10rjn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10rjo.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10rjp.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 375091,
+      "Title": "Skinwalker: First Blood",
+      "ReleaseDate": "2026-06-30",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqqi.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3086670",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc101id.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc101if.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc101ii.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc101ik.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc101il.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc101im.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc101in.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc101ie.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc101ih.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc101ij.jpg"
+      ],
+      "Genres": [
+        "Platform",
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
