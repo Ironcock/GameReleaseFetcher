@@ -8,7 +8,7 @@
       "StoreURL": "https://store.steampowered.com/app/3357650",
       "Metacritic": 88,
       "AddedCount": 236,
-      "Rating": 88.04929695144844,
+      "Rating": 88.02036393749103,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bhf.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bhe.jpg",
@@ -32,9 +32,9 @@
       "ReleaseDate": "2026-04-29",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobzsp.jpg",
       "StoreURL": "",
-      "Metacritic": 77,
+      "Metacritic": 81,
       "AddedCount": 163,
-      "Rating": 76.98876404494382,
+      "Rating": 81.01221640488657,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct17a.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct17b.jpg",
@@ -89,7 +89,7 @@
       "StoreURL": "",
       "Metacritic": 90,
       "AddedCount": 132,
-      "Rating": 89.59805261802963,
+      "Rating": 89.53768974357104,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5rik.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5ril.jpg",
@@ -118,9 +118,9 @@
       "ReleaseDate": "2026-04-16",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaacx.jpg",
       "StoreURL": "https://store.steampowered.com/app/2416450",
-      "Metacritic": 80,
+      "Metacritic": 63,
       "AddedCount": 77,
-      "Rating": 79.91868727792111,
+      "Rating": 62.56008642705701,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1302w.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1302x.jpg",
@@ -605,37 +605,6 @@
       ],
       "Genres": [
         "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 328273,
-      "Title": "All Will Fall",
-      "ReleaseDate": "2026-04-03",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9ayi.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2706020",
-      "Metacritic": 0,
-      "AddedCount": 13,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw2u4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw2u5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw2u6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw2u7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw2u8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw2u9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw2ua.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw2ub.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12ti7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12ti8.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Strategy",
         "Indie"
       ],
       "Tags": [],
@@ -1389,6 +1358,33 @@
       "Platforms": [
         "pc"
       ]
+    },
+    {
+      "ID": 327758,
+      "Title": "Sledding Game",
+      "ReleaseDate": "2026-04-30",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co99cz.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3438850",
+      "Metacritic": 0,
+      "AddedCount": 6,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv0fj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv0fk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv0fl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv0fm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv0fg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv0fh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv0fi.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
     }
   ],
   "Upcoming": [
@@ -1399,7 +1395,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaoiz.jpg",
       "StoreURL": "https://store.steampowered.com/app/3768760",
       "Metacritic": 0,
-      "AddedCount": 259,
+      "AddedCount": 260,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx79u.jpg",
@@ -1426,7 +1422,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8t96.jpg",
       "StoreURL": "https://store.steampowered.com/app/2255370",
       "Metacritic": 0,
-      "AddedCount": 115,
+      "AddedCount": 116,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctwii.jpg",
@@ -1482,7 +1478,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobc5n.jpg",
       "StoreURL": "https://store.steampowered.com/app/2483190",
       "Metacritic": 0,
-      "AddedCount": 82,
+      "AddedCount": 84,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdi.jpg",
@@ -1512,7 +1508,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coab09.jpg",
       "StoreURL": "https://store.steampowered.com/app/2215200",
       "Metacritic": 0,
-      "AddedCount": 65,
+      "AddedCount": 66,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymdu.jpg",
@@ -1592,7 +1588,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqva.jpg",
       "StoreURL": "https://store.steampowered.com/app/3144860",
       "Metacritic": 0,
-      "AddedCount": 35,
+      "AddedCount": 34,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoxj.jpg",
@@ -1813,7 +1809,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8b9v.jpg",
       "StoreURL": "https://store.steampowered.com/app/2830030",
       "Metacritic": 0,
-      "AddedCount": 19,
+      "AddedCount": 20,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsmuu.jpg",
@@ -2020,36 +2016,6 @@
       ],
       "Genres": [
         "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 358396,
-      "Title": "Shutter Story",
-      "ReleaseDate": "2026-06-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobjhp.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3798860",
-      "Metacritic": 0,
-      "AddedCount": 11,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyay9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyaya.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyayb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyayc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyayd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyaye.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyayf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyayg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyayh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyayi.jpg"
-      ],
-      "Genres": [
-        "Adventure",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -2340,36 +2306,6 @@
         "Simulator",
         "Sport",
         "Strategy"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 280566,
-      "Title": "Better Than Dead",
-      "ReleaseDate": "2026-05-12",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coae7o.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2599690",
-      "Metacritic": 0,
-      "AddedCount": 8,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpypr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpypt.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpypv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpypx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpypz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpyq1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpyq3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpyq5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpyq7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpyq9.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -2774,6 +2710,63 @@
       "Genres": [
         "Puzzle",
         "Role-playing (RPG)"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 265796,
+      "Title": "Rubinite",
+      "ReleaseDate": "2026-06-30",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9g0p.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1845250",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scofnq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scofnr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scofns.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scofni.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scofnj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scofnk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scofnl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scofnm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scofnn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scofno.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 261864,
+      "Title": "Vultures: Scavengers of Death",
+      "ReleaseDate": "2026-05-13",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobqoy.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2537470",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw2ur.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw2us.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw2ut.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw2uu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw2uv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw2uw.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
