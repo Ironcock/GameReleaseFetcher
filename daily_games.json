@@ -32,9 +32,9 @@
       "ReleaseDate": "2026-04-29",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobzsp.jpg",
       "StoreURL": "",
-      "Metacritic": 81,
+      "Metacritic": 79,
       "AddedCount": 163,
-      "Rating": 81.01221640488657,
+      "Rating": 79.12609238451935,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct17a.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct17b.jpg",
@@ -118,9 +118,9 @@
       "ReleaseDate": "2026-04-16",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaacx.jpg",
       "StoreURL": "https://store.steampowered.com/app/2416450",
-      "Metacritic": 63,
+      "Metacritic": 70,
       "AddedCount": 77,
-      "Rating": 62.56008642705701,
+      "Rating": 69.72944626767578,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1302w.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1302x.jpg",
@@ -201,7 +201,7 @@
       "Title": "Heroes of Might & Magic: Olden Era",
       "ReleaseDate": "2026-04-30",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqh4.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3241970",
+      "StoreURL": "https://store.steampowered.com/app/3105440",
       "Metacritic": 0,
       "AddedCount": 40,
       "Rating": 0.0,
@@ -536,9 +536,9 @@
       "ReleaseDate": "2026-04-21",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobyj9.jpg",
       "StoreURL": "https://store.steampowered.com/app/3265700",
-      "Metacritic": 0,
+      "Metacritic": 76,
       "AddedCount": 16,
-      "Rating": 0.0,
+      "Rating": 76.03847510482959,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fmc.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fm4.jpg",
@@ -2140,6 +2140,34 @@
       ]
     },
     {
+      "ID": 335686,
+      "Title": "Void Martyrs",
+      "ReleaseDate": "2026-06-01",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9qeg.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3470850",
+      "Metacritic": 0,
+      "AddedCount": 10,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvrce.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvrcg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvrch.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvrcb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvrcc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvrcd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvrci.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvrcj.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 278824,
       "Title": "The Witch's Bakery",
       "ReleaseDate": "2026-06-30",
@@ -2171,23 +2199,25 @@
       ]
     },
     {
-      "ID": 335686,
-      "Title": "Void Martyrs",
-      "ReleaseDate": "2026-06-01",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9qeg.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3470850",
+      "ID": 341400,
+      "Title": "Voidling Bound",
+      "ReleaseDate": "2026-06-09",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9uyx.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2004680",
       "Metacritic": 0,
       "AddedCount": 9,
       "Rating": 0.0,
       "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvrce.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvrcg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvrch.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvrcb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvrcc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvrcd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvrci.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvrcj.jpg"
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwen4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwen5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwen6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwen7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwen8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwen9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwena.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwenb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwenc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwend.jpg"
       ],
       "Genres": [
         "Role-playing (RPG)",
@@ -2245,36 +2275,6 @@
       "Genres": [
         "Strategy",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 341400,
-      "Title": "Voidling Bound",
-      "ReleaseDate": "2026-06-09",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9uyx.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2004680",
-      "Metacritic": 0,
-      "AddedCount": 8,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwen4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwen5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwen6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwen7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwen8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwen9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwena.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwenb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwenc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwend.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
