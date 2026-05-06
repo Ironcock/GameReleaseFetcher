@@ -8,7 +8,7 @@
       "StoreURL": "https://store.steampowered.com/app/3357650",
       "Metacritic": 88,
       "AddedCount": 236,
-      "Rating": 88.02036393749103,
+      "Rating": 88.02372910678585,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bhf.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bhe.jpg",
@@ -119,9 +119,9 @@
       "ReleaseDate": "2026-04-16",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaacx.jpg",
       "StoreURL": "https://store.steampowered.com/app/2416450",
-      "Metacritic": 70,
+      "Metacritic": 73,
       "AddedCount": 77,
-      "Rating": 69.72944626767578,
+      "Rating": 72.71765758178292,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1302w.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1302x.jpg",
@@ -202,7 +202,7 @@
       "Title": "Heroes of Might & Magic: Olden Era",
       "ReleaseDate": "2026-04-30",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqh4.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3241970",
+      "StoreURL": "https://store.steampowered.com/app/3105440",
       "Metacritic": 0,
       "AddedCount": 40,
       "Rating": 0.0,
@@ -456,7 +456,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8b9v.jpg",
       "StoreURL": "https://store.steampowered.com/app/2830030",
       "Metacritic": 0,
-      "AddedCount": 20,
+      "AddedCount": 21,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsmuu.jpg",
@@ -796,6 +796,34 @@
       ],
       "Genres": [
         "Shooter"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 348295,
+      "Title": "Farever",
+      "ReleaseDate": "2026-05-06",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xxq.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3672400",
+      "Metacritic": 0,
+      "AddedCount": 10,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbin.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbip.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbis.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbiv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbiy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbj3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbjb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbja.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -1350,38 +1378,8 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy31t.jpg"
       ],
       "Genres": [
-        "Strategy"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 354933,
-      "Title": "The Last Gas Station",
-      "ReleaseDate": "2026-04-28",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobncx.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3690030",
-      "Metacritic": 0,
-      "AddedCount": 6,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc133xu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc133xv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc133xw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc133xx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc133xy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc133xz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc133y0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc133y1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc133y2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc133y3.jpg"
-      ],
-      "Genres": [
         "Simulator",
-        "Adventure",
-        "Indie"
+        "Strategy"
       ],
       "Tags": [],
       "Platforms": [
@@ -1481,7 +1479,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobc5n.jpg",
       "StoreURL": "https://store.steampowered.com/app/2483190",
       "Metacritic": 0,
-      "AddedCount": 86,
+      "AddedCount": 87,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdi.jpg",
@@ -1498,6 +1496,32 @@
         "Racing",
         "Simulator",
         "Sport"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 348180,
+      "Title": "Beast of Reincarnation",
+      "ReleaseDate": "2026-08-04",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobc5q.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2001760",
+      "Metacritic": 0,
+      "AddedCount": 78,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbca.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbcb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbcc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbcd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbce.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbcf.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -2257,7 +2281,7 @@
     {
       "ID": 305177,
       "Title": "Copa City",
-      "ReleaseDate": "2026-05-21",
+      "ReleaseDate": "2026-06-16",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobte0.jpg",
       "StoreURL": "https://store.steampowered.com/app/2210520",
       "Metacritic": 0,
@@ -2571,36 +2595,6 @@
       ],
       "Genres": [
         "Role-playing (RPG)",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 385283,
-      "Title": "Hypnos",
-      "ReleaseDate": "2026-05-06",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob9z1.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2861210",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc119ob.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc119oc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc119od.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc119of.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc119og.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc119oh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc119oi.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc119oj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc119ok.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc119ol.jpg"
-      ],
-      "Genres": [
         "Adventure",
         "Indie"
       ],
