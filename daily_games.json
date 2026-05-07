@@ -8,7 +8,7 @@
       "StoreURL": "https://store.steampowered.com/app/3357650",
       "Metacritic": 88,
       "AddedCount": 236,
-      "Rating": 88.02372910678585,
+      "Rating": 88.46095028789371,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bhf.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bhe.jpg",
@@ -145,6 +145,34 @@
       ]
     },
     {
+      "ID": 305157,
+      "Title": "Mixtape",
+      "ReleaseDate": "2026-05-07",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8bp2.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2582320",
+      "Metacritic": 0,
+      "AddedCount": 64,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsog6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsogc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsog7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsog8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsog9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoga.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsogb.jpg"
+      ],
+      "Genres": [
+        "Music",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 348192,
       "Title": "Aphelion",
       "ReleaseDate": "2026-04-28",
@@ -202,7 +230,7 @@
       "Title": "Heroes of Might & Magic: Olden Era",
       "ReleaseDate": "2026-04-30",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqh4.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3105440",
+      "StoreURL": "https://store.steampowered.com/app/3241970",
       "Metacritic": 0,
       "AddedCount": 40,
       "Rating": 0.0,
@@ -253,6 +281,32 @@
         "Fighting",
         "Racing",
         "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 314421,
+      "Title": "Will: Follow the Light",
+      "ReleaseDate": "2026-05-07",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqva.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3144860",
+      "Metacritic": 0,
+      "AddedCount": 34,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoxj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoxl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoxk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoxm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoxn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoxo.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -385,6 +439,36 @@
       ],
       "Genres": [
         "Fighting"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 214927,
+      "Title": "Alabaster Dawn",
+      "ReleaseDate": "2026-05-07",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8nk9.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3110760",
+      "Metacritic": 0,
+      "AddedCount": 23,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scijup.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctr2i.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctr2k.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctr2j.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctr2l.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctr2m.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctr2n.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctr2o.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctr2p.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Hack and slash/Beat 'em up",
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -744,36 +828,6 @@
       ]
     },
     {
-      "ID": 217304,
-      "Title": "Road to Vostok",
-      "ReleaseDate": "2026-04-07",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5dyp.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1963610",
-      "Metacritic": 0,
-      "AddedCount": 11,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scivi8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scivi9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scivia.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scivib.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scivic.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scivid.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scivie.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scivif.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scivig.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Role-playing (RPG)",
-        "Strategy"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 348307,
       "Title": "TerraTech Legion",
       "ReleaseDate": "2026-04-30",
@@ -878,32 +932,6 @@
         "Platform",
         "Puzzle",
         "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 140616,
-      "Title": "Spark in the Dark",
-      "ReleaseDate": "2026-04-07",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2jpj.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1315180",
-      "Metacritic": 0,
-      "AddedCount": 10,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8pkl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8pkm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8pkn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8pko.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8pkp.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Adventure",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -1045,6 +1073,28 @@
       "Genres": [
         "Indie"
       ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 387607,
+      "Title": "Huntdown: Overtime",
+      "ReleaseDate": "2026-05-07",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobdrg.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2473350",
+      "Metacritic": 0,
+      "AddedCount": 8,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11j1n.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11j1o.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11j1p.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11j1q.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11j1r.jpg"
+      ],
+      "Genres": [],
       "Tags": [],
       "Platforms": [
         "pc"
@@ -1327,64 +1377,6 @@
       "Platforms": [
         "pc"
       ]
-    },
-    {
-      "ID": 370704,
-      "Title": "Minos",
-      "ReleaseDate": "2026-04-09",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobwhp.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3181650",
-      "Metacritic": 0,
-      "AddedCount": 6,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfiu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfiv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfiw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfix.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfiz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfj0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfit.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfiy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfis.jpg"
-      ],
-      "Genres": [
-        "Puzzle",
-        "Simulator",
-        "Strategy"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 355088,
-      "Title": "Sudden Strike 5",
-      "ReleaseDate": "2026-04-23",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa8ad.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2808550",
-      "Metacritic": 0,
-      "AddedCount": 6,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy31y.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy31s.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy31u.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy31v.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy31w.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy31x.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy31z.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy31t.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Strategy"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
     }
   ],
   "Upcoming": [
@@ -1395,7 +1387,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaoiz.jpg",
       "StoreURL": "https://store.steampowered.com/app/3768760",
       "Metacritic": 0,
-      "AddedCount": 264,
+      "AddedCount": 265,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx79u.jpg",
@@ -1423,7 +1415,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8t96.jpg",
       "StoreURL": "https://store.steampowered.com/app/2255370",
       "Metacritic": 0,
-      "AddedCount": 117,
+      "AddedCount": 118,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctwii.jpg",
@@ -1479,7 +1471,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobc5n.jpg",
       "StoreURL": "https://store.steampowered.com/app/2483190",
       "Metacritic": 0,
-      "AddedCount": 87,
+      "AddedCount": 89,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdi.jpg",
@@ -1509,7 +1501,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobc5q.jpg",
       "StoreURL": "https://store.steampowered.com/app/2001760",
       "Metacritic": 0,
-      "AddedCount": 78,
+      "AddedCount": 79,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbca.jpg",
@@ -1555,34 +1547,6 @@
       ]
     },
     {
-      "ID": 305157,
-      "Title": "Mixtape",
-      "ReleaseDate": "2026-05-07",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8bp2.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2582320",
-      "Metacritic": 0,
-      "AddedCount": 64,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsog6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsogc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsog7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsog8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsog9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoga.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsogb.jpg"
-      ],
-      "Genres": [
-        "Music",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 361880,
       "Title": "Zero Parades: For Dead Spies",
       "ReleaseDate": "2026-05-21",
@@ -1600,32 +1564,6 @@
       ],
       "Genres": [
         "Role-playing (RPG)",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 314421,
-      "Title": "Will: Follow the Light",
-      "ReleaseDate": "2026-05-07",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqva.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3144860",
-      "Metacritic": 0,
-      "AddedCount": 35,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoxj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoxl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoxk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoxm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoxn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoxo.jpg"
-      ],
-      "Genres": [
         "Adventure",
         "Indie"
       ],
@@ -2764,6 +2702,59 @@
         "Role-playing (RPG)",
         "Strategy",
         "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 253578,
+      "Title": "Dimhaven: The Lost Source",
+      "ReleaseDate": "2026-06-30",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8c5a.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2458980",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmzv9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmzva.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmzvb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmzvc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmzvd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmzve.jpg"
+      ],
+      "Genres": [
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 235913,
+      "Title": "Gurei",
+      "ReleaseDate": "2026-07-23",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7c7k.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2191280",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10wya.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10wyb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10wy9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10wyc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10wyd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10wye.jpg"
+      ],
+      "Genres": [
+        "Platform",
+        "Indie"
       ],
       "Tags": [],
       "Platforms": [
