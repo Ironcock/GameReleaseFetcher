@@ -8,7 +8,7 @@
       "StoreURL": "https://store.steampowered.com/app/3357650",
       "Metacritic": 88,
       "AddedCount": 236,
-      "Rating": 88.4614802102427,
+      "Rating": 88.45129263771392,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bhf.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bhe.jpg",
@@ -32,9 +32,9 @@
       "ReleaseDate": "2026-04-29",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobzsp.jpg",
       "StoreURL": "",
-      "Metacritic": 82,
+      "Metacritic": 78,
       "AddedCount": 163,
-      "Rating": 82.0021528525296,
+      "Rating": 77.97713280562886,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct17a.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct17b.jpg",
@@ -62,9 +62,9 @@
       "ReleaseDate": "2026-04-14",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co39rf.jpg",
       "StoreURL": "https://store.steampowered.com/app/1663850",
-      "Metacritic": 74,
+      "Metacritic": 75,
       "AddedCount": 142,
-      "Rating": 74.36989170683147,
+      "Rating": 74.66281917857128,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scahjd.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scahje.jpg",
@@ -76,37 +76,6 @@
         "Platform",
         "Adventure",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 113360,
-      "Title": "Hytale",
-      "ReleaseDate": "2026-04-10",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobc4t.jpg",
-      "StoreURL": "",
-      "Metacritic": 90,
-      "AddedCount": 132,
-      "Rating": 89.54716428896921,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5rik.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5ril.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5rij.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5rii.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5rim.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5rio.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5rin.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5riq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5rip.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5rir.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Simulator",
-        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -150,9 +119,9 @@
       "ReleaseDate": "2026-05-07",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8bp2.jpg",
       "StoreURL": "https://store.steampowered.com/app/2582320",
-      "Metacritic": 0,
+      "Metacritic": 79,
       "AddedCount": 64,
-      "Rating": 0.0,
+      "Rating": 79.18414918414919,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsog6.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsogc.jpg",
@@ -202,7 +171,7 @@
       "Title": "Heroes of Might & Magic: Olden Era",
       "ReleaseDate": "2026-04-30",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqh4.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3105440",
+      "StoreURL": "https://store.steampowered.com/app/3241970",
       "Metacritic": 0,
       "AddedCount": 40,
       "Rating": 0.0,
@@ -932,33 +901,6 @@
       ]
     },
     {
-      "ID": 329975,
-      "Title": "Tamashika",
-      "ReleaseDate": "2026-04-10",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaacw.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2996080",
-      "Metacritic": 0,
-      "AddedCount": 8,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv85x.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv85y.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv85z.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv860.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv861.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv862.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Indie",
-        "Arcade"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 302655,
       "Title": "Yunyun Syndrome!?: Rhythm Psychosis",
       "ReleaseDate": "2026-04-23",
@@ -1375,6 +1317,62 @@
       "Platforms": [
         "pc"
       ]
+    },
+    {
+      "ID": 290897,
+      "Title": "Dungeon Clawler",
+      "ReleaseDate": "2026-04-30",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7ygu.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2356780",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr3ah.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr3al.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr3ao.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr3at.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr3ax.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr3b0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr3b1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr3b2.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Strategy"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 278600,
+      "Title": "Unrailed 2: Back on Track",
+      "ReleaseDate": "2026-05-01",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobfrb.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2211170",
+      "Metacritic": 65,
+      "AddedCount": 5,
+      "Rating": 65.04220596510973,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpqga.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpqgb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpqgc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpqgd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpqge.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpqgf.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Indie",
+        "Arcade"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
     }
   ],
   "Upcoming": [
@@ -1385,7 +1383,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaoiz.jpg",
       "StoreURL": "https://store.steampowered.com/app/3768760",
       "Metacritic": 0,
-      "AddedCount": 267,
+      "AddedCount": 270,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx79u.jpg",
@@ -1413,7 +1411,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8t96.jpg",
       "StoreURL": "https://store.steampowered.com/app/2255370",
       "Metacritic": 0,
-      "AddedCount": 121,
+      "AddedCount": 122,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctwii.jpg",
@@ -1469,7 +1467,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobc5n.jpg",
       "StoreURL": "https://store.steampowered.com/app/2483190",
       "Metacritic": 0,
-      "AddedCount": 90,
+      "AddedCount": 92,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdi.jpg",
@@ -1499,7 +1497,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobc5q.jpg",
       "StoreURL": "https://store.steampowered.com/app/2001760",
       "Metacritic": 0,
-      "AddedCount": 80,
+      "AddedCount": 82,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbca.jpg",
@@ -1605,7 +1603,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9wwj.jpg",
       "StoreURL": "https://store.steampowered.com/app/3787240",
       "Metacritic": 0,
-      "AddedCount": 39,
+      "AddedCount": 38,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7bu.jpg",
