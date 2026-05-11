@@ -8,7 +8,7 @@
       "StoreURL": "https://store.steampowered.com/app/3357650",
       "Metacritic": 88,
       "AddedCount": 236,
-      "Rating": 88.45129263771392,
+      "Rating": 88.44608607507736,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bhf.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bhe.jpg",
@@ -32,9 +32,9 @@
       "ReleaseDate": "2026-04-29",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobzsp.jpg",
       "StoreURL": "",
-      "Metacritic": 78,
+      "Metacritic": 79,
       "AddedCount": 163,
-      "Rating": 77.97713280562886,
+      "Rating": 79.21598770176787,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct17a.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct17b.jpg",
@@ -64,7 +64,7 @@
       "StoreURL": "https://store.steampowered.com/app/1663850",
       "Metacritic": 75,
       "AddedCount": 142,
-      "Rating": 74.66281917857128,
+      "Rating": 74.66405947613914,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scahjd.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scahje.jpg",
@@ -119,9 +119,9 @@
       "ReleaseDate": "2026-05-07",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8bp2.jpg",
       "StoreURL": "https://store.steampowered.com/app/2582320",
-      "Metacritic": 79,
+      "Metacritic": 70,
       "AddedCount": 64,
-      "Rating": 79.18414918414919,
+      "Rating": 70.00061841006772,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsog6.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsogc.jpg",
@@ -147,9 +147,9 @@
       "ReleaseDate": "2026-04-28",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobrkd.jpg",
       "StoreURL": "https://store.steampowered.com/app/1966410",
-      "Metacritic": 0,
+      "Metacritic": 60,
       "AddedCount": 56,
-      "Rating": 0.0,
+      "Rating": 59.98782254863019,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9m.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9n.jpg",
@@ -248,6 +248,37 @@
       ]
     },
     {
+      "ID": 286869,
+      "Title": "Outbound",
+      "ReleaseDate": "2026-05-11",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7rfx.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2681030",
+      "Metacritic": 0,
+      "AddedCount": 34,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqlx7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqlx5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqlx0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqlx1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqlwy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqlwz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqlx2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqlx3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqlx4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqlx6.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 334670,
       "Title": "Cthulhu: The Cosmic Abyss",
       "ReleaseDate": "2026-04-16",
@@ -333,9 +364,9 @@
       "ReleaseDate": "2026-04-30",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobzwk.jpg",
       "StoreURL": "https://store.steampowered.com/app/2353060",
-      "Metacritic": 0,
+      "Metacritic": 64,
       "AddedCount": 23,
-      "Rating": 0.0,
+      "Rating": 64.44259567387687,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbfa.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbfb.jpg",
@@ -901,6 +932,36 @@
       ]
     },
     {
+      "ID": 361822,
+      "Title": "Battlestar Galactica: Scattered Hopes",
+      "ReleaseDate": "2026-05-11",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaax1.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2535950",
+      "Metacritic": 0,
+      "AddedCount": 8,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym74.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym75.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym78.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym79.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7a.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7c.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7d.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7f.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7g.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7h.jpg"
+      ],
+      "Genres": [
+        "Strategy",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 302655,
       "Title": "Yunyun Syndrome!?: Rhythm Psychosis",
       "ReleaseDate": "2026-04-23",
@@ -1317,62 +1378,6 @@
       "Platforms": [
         "pc"
       ]
-    },
-    {
-      "ID": 290897,
-      "Title": "Dungeon Clawler",
-      "ReleaseDate": "2026-04-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7ygu.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2356780",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr3ah.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr3al.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr3ao.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr3at.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr3ax.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr3b0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr3b1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr3b2.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Simulator",
-        "Strategy"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 278600,
-      "Title": "Unrailed 2: Back on Track",
-      "ReleaseDate": "2026-05-01",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobfrb.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2211170",
-      "Metacritic": 65,
-      "AddedCount": 5,
-      "Rating": 65.04220596510973,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpqga.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpqgb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpqgc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpqgd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpqge.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpqgf.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Indie",
-        "Arcade"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
     }
   ],
   "Upcoming": [
@@ -1411,7 +1416,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8t96.jpg",
       "StoreURL": "https://store.steampowered.com/app/2255370",
       "Metacritic": 0,
-      "AddedCount": 122,
+      "AddedCount": 124,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctwii.jpg",
@@ -1467,7 +1472,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobc5n.jpg",
       "StoreURL": "https://store.steampowered.com/app/2483190",
       "Metacritic": 0,
-      "AddedCount": 92,
+      "AddedCount": 93,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdi.jpg",
@@ -1619,37 +1624,6 @@
       ],
       "Genres": [
         "Fighting"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 286869,
-      "Title": "Outbound",
-      "ReleaseDate": "2026-05-11",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7rfx.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2681030",
-      "Metacritic": 0,
-      "AddedCount": 34,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqlx7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqlx5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqlx0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqlx1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqlwy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqlwz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqlx2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqlx3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqlx4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqlx6.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Adventure",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -1935,7 +1909,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coave2.jpg",
       "StoreURL": "https://store.steampowered.com/app/2569760",
       "Metacritic": 0,
-      "AddedCount": 16,
+      "AddedCount": 15,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvo1g.jpg",
@@ -2233,36 +2207,6 @@
       "Genres": [
         "Role-playing (RPG)",
         "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 361822,
-      "Title": "Battlestar Galactica: Scattered Hopes",
-      "ReleaseDate": "2026-05-11",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaax1.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2535950",
-      "Metacritic": 0,
-      "AddedCount": 8,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym74.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym75.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym78.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym79.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7a.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7c.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7d.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7f.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7g.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7h.jpg"
-      ],
-      "Genres": [
-        "Strategy",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -2755,6 +2699,59 @@
         "Role-playing (RPG)",
         "Strategy",
         "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 253578,
+      "Title": "Dimhaven: The Lost Source",
+      "ReleaseDate": "2026-06-30",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8c5a.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2458980",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmzv9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmzva.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmzvb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmzvc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmzvd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmzve.jpg"
+      ],
+      "Genres": [
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 235913,
+      "Title": "Gurei",
+      "ReleaseDate": "2026-07-23",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7c7k.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2191280",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10wya.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10wyb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10wy9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10wyc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10wyd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10wye.jpg"
+      ],
+      "Genres": [
+        "Platform",
+        "Indie"
       ],
       "Tags": [],
       "Platforms": [
