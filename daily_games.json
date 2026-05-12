@@ -8,7 +8,7 @@
       "StoreURL": "https://store.steampowered.com/app/3357650",
       "Metacritic": 88,
       "AddedCount": 236,
-      "Rating": 88.44608607507736,
+      "Rating": 88.46488322099722,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bhf.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bhe.jpg",
@@ -83,6 +83,35 @@
       ]
     },
     {
+      "ID": 237780,
+      "Title": "Directive 8020",
+      "ReleaseDate": "2026-05-12",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8t96.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2255370",
+      "Metacritic": 0,
+      "AddedCount": 123,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctwii.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctwij.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctwik.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctwil.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctwim.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctwin.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxawy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxax0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxawz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxax1.jpg"
+      ],
+      "Genres": [
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 249324,
       "Title": "Mouse: P.I. For Hire",
       "ReleaseDate": "2026-04-16",
@@ -121,7 +150,7 @@
       "StoreURL": "https://store.steampowered.com/app/2582320",
       "Metacritic": 70,
       "AddedCount": 64,
-      "Rating": 70.00061841006772,
+      "Rating": 70.03703818019075,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsog6.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsogc.jpg",
@@ -492,6 +521,34 @@
       "Genres": [
         "Role-playing (RPG)",
         "Simulator",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 347882,
+      "Title": "Call of the Elder Gods",
+      "ReleaseDate": "2026-05-12",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xoj.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2174380",
+      "Metacritic": 0,
+      "AddedCount": 18,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxag4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxag6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxag3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxag7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxag5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxag9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxag8.jpg"
+      ],
+      "Genres": [
+        "Puzzle",
+        "Strategy",
         "Adventure"
       ],
       "Tags": [],
@@ -935,7 +992,7 @@
       "ID": 361822,
       "Title": "Battlestar Galactica: Scattered Hopes",
       "ReleaseDate": "2026-05-11",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaax1.jpg",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc1s0.jpg",
       "StoreURL": "https://store.steampowered.com/app/2535950",
       "Metacritic": 0,
       "AddedCount": 8,
@@ -953,8 +1010,9 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7h.jpg"
       ],
       "Genres": [
+        "Real Time Strategy (RTS)",
         "Strategy",
-        "Indie"
+        "Tactical"
       ],
       "Tags": [],
       "Platforms": [
@@ -1119,6 +1177,36 @@
         "Point-and-click",
         "Visual Novel",
         "Card & Board Game"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 319146,
+      "Title": "Nitro Gen Omega",
+      "ReleaseDate": "2026-05-12",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8wvo.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2525510",
+      "Metacritic": 0,
+      "AddedCount": 7,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu3x5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu3x6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu3x7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu3x8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu3x9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu3xa.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu3xb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu3xc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu3x0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu3x1.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Strategy"
       ],
       "Tags": [],
       "Platforms": [
@@ -1293,91 +1381,6 @@
       "Platforms": [
         "pc"
       ]
-    },
-    {
-      "ID": 305182,
-      "Title": "Generation Exile",
-      "ReleaseDate": "2026-04-17",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coasb7.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2963240",
-      "Metacritic": 0,
-      "AddedCount": 6,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsovr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsovu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsovt.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsovy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsovs.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsovv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsovw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsovx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsovz.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Strategy"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 157865,
-      "Title": "Regions of Ruin: Runegate",
-      "ReleaseDate": "2026-04-14",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9wq1.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1375750",
-      "Metacritic": 0,
-      "AddedCount": 6,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scblgq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scblgr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scblgs.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scblgt.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scblgu.jpg"
-      ],
-      "Genres": [
-        "Hack and slash/Beat 'em up",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 339820,
-      "Title": "Causal Loop",
-      "ReleaseDate": "2026-04-23",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9pg5.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3374460",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwa0p.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwa0q.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwa0r.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwa0s.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwa0t.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwa0u.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwa0v.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwa0w.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwa0x.jpg"
-      ],
-      "Genres": [
-        "Puzzle",
-        "Strategy",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
     }
   ],
   "Upcoming": [
@@ -1402,35 +1405,6 @@
       ],
       "Genres": [
         "Shooter",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 237780,
-      "Title": "Directive 8020",
-      "ReleaseDate": "2026-05-12",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8t96.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2255370",
-      "Metacritic": 0,
-      "AddedCount": 124,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctwii.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctwij.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctwik.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctwil.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctwim.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctwin.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxawy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxax0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxawz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxax1.jpg"
-      ],
-      "Genres": [
         "Adventure"
       ],
       "Tags": [],
@@ -1472,7 +1446,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobc5n.jpg",
       "StoreURL": "https://store.steampowered.com/app/2483190",
       "Metacritic": 0,
-      "AddedCount": 93,
+      "AddedCount": 94,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdi.jpg",
@@ -1502,7 +1476,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobc5q.jpg",
       "StoreURL": "https://store.steampowered.com/app/2001760",
       "Metacritic": 0,
-      "AddedCount": 82,
+      "AddedCount": 83,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbca.jpg",
@@ -1528,7 +1502,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coab09.jpg",
       "StoreURL": "https://store.steampowered.com/app/2215200",
       "Metacritic": 0,
-      "AddedCount": 68,
+      "AddedCount": 69,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymdu.jpg",
@@ -1541,6 +1515,37 @@
       "Genres": [
         "Puzzle",
         "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 361880,
+      "Title": "Zero Parades: For Dead Spies",
+      "ReleaseDate": "2026-05-21",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobpcd.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2863680",
+      "Metacritic": 0,
+      "AddedCount": 41,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymba.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymbb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymbc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymbd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymbe.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc138lw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc138m1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc138lx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc138ly.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc138lz.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -1569,32 +1574,6 @@
         "Platform",
         "Role-playing (RPG)",
         "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 361880,
-      "Title": "Zero Parades: For Dead Spies",
-      "ReleaseDate": "2026-05-21",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobpcd.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2863680",
-      "Metacritic": 0,
-      "AddedCount": 40,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymba.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymbb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymbc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymbd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymbe.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Adventure",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -1842,34 +1821,6 @@
         "Simulator",
         "Adventure",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 347882,
-      "Title": "Call of the Elder Gods",
-      "ReleaseDate": "2026-05-12",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xoj.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2174380",
-      "Metacritic": 0,
-      "AddedCount": 17,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxag4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxag6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxag3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxag7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxag5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxag9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxag8.jpg"
-      ],
-      "Genres": [
-        "Puzzle",
-        "Strategy",
-        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -2541,7 +2492,7 @@
     {
       "ID": 380983,
       "Title": "Retail Hell",
-      "ReleaseDate": "2026-06-30",
+      "ReleaseDate": "2026-05-21",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coblhx.jpg",
       "StoreURL": "https://store.steampowered.com/app/4174310",
       "Metacritic": 0,
@@ -2751,6 +2702,61 @@
       ],
       "Genres": [
         "Platform",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 203520,
+      "Title": "Calx",
+      "ReleaseDate": "2026-06-04",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coblm1.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2022640",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckydy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckyd9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckydc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckydk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckyds.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckydw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckyde.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckydh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckydn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12992.jpg"
+      ],
+      "Genres": [
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 121395,
+      "Title": "Wind Runners",
+      "ReleaseDate": "2026-06-30",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3n9b.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1101370",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc6z9y.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc6z9z.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc6za1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc6za0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc6za3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc6za2.jpg"
+      ],
+      "Genres": [
+        "Adventure",
         "Indie"
       ],
       "Tags": [],
