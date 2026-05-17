@@ -1,32 +1,6 @@
 {
   "NewReleases": [
     {
-      "ID": 134612,
-      "Title": "Pragmata",
-      "ReleaseDate": "2026-04-17",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobxnx.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3357650",
-      "Metacritic": 87,
-      "AddedCount": 236,
-      "Rating": 87.20068848299455,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bhf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bhe.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bl9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bla.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8blc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8blb.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 308535,
       "Title": "Neverness to Everness",
       "ReleaseDate": "2026-04-29",
@@ -34,7 +8,7 @@
       "StoreURL": "",
       "Metacritic": 75,
       "AddedCount": 163,
-      "Rating": 75.30625919501603,
+      "Rating": 75.29432969734658,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct17a.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct17b.jpg",
@@ -91,9 +65,9 @@
       "ReleaseDate": "2026-05-14",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8yd0.jpg",
       "StoreURL": "https://store.steampowered.com/app/1962700",
-      "Metacritic": 97,
+      "Metacritic": 95,
       "AddedCount": 85,
-      "Rating": 96.80999028045136,
+      "Rating": 95.08831696811319,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu8a0.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu8a1.jpg",
@@ -120,9 +94,9 @@
       "ReleaseDate": "2026-05-07",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8bp2.jpg",
       "StoreURL": "https://store.steampowered.com/app/2582320",
-      "Metacritic": 66,
+      "Metacritic": 68,
       "AddedCount": 64,
-      "Rating": 66.4942656266239,
+      "Rating": 67.59208724635941,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsog6.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsogc.jpg",
@@ -150,7 +124,7 @@
       "StoreURL": "https://store.steampowered.com/app/1966410",
       "Metacritic": 60,
       "AddedCount": 56,
-      "Rating": 59.98782254863019,
+      "Rating": 59.99450908439985,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9m.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9n.jpg",
@@ -172,7 +146,7 @@
       "Title": "Heroes of Might & Magic: Olden Era",
       "ReleaseDate": "2026-04-30",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqh4.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3105440",
+      "StoreURL": "https://store.steampowered.com/app/3241970",
       "Metacritic": 0,
       "AddedCount": 40,
       "Rating": 0.0,
@@ -903,32 +877,6 @@
       ]
     },
     {
-      "ID": 333218,
-      "Title": "Cralon",
-      "ReleaseDate": "2026-04-17",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9gi0.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3440060",
-      "Metacritic": 0,
-      "AddedCount": 7,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvilj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvilk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvill.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvilm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scviln.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 330176,
       "Title": "Forbidden Solitaire",
       "ReleaseDate": "2026-04-30",
@@ -1123,35 +1071,6 @@
       ]
     },
     {
-      "ID": 305182,
-      "Title": "Generation Exile",
-      "ReleaseDate": "2026-04-17",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coasb7.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2963240",
-      "Metacritic": 0,
-      "AddedCount": 6,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsovr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsovu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsovt.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsovy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsovs.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsovv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsovw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsovx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsovz.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Strategy"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 339820,
       "Title": "Causal Loop",
       "ReleaseDate": "2026-04-23",
@@ -1325,33 +1244,6 @@
       ]
     },
     {
-      "ID": 252769,
-      "Title": "Airborne Empire",
-      "ReleaseDate": "2026-04-17",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6luq.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2438680",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwca.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwcb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwce.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwch.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwcj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwck.jpg"
-      ],
-      "Genres": [
-        "Real Time Strategy (RTS)",
-        "Role-playing (RPG)",
-        "Simulator"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 391848,
       "Title": "The Caribou Trail",
       "ReleaseDate": "2026-05-14",
@@ -1403,6 +1295,118 @@
       ],
       "Genres": [
         "Hack and slash/Beat 'em up"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 385283,
+      "Title": "Hypnos",
+      "ReleaseDate": "2026-05-06",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob9z1.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2861210",
+      "Metacritic": 0,
+      "AddedCount": 4,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc119ob.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc119oc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc119od.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc119of.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc119og.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc119oh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc119oi.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc119oj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc119ok.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc119ol.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 363945,
+      "Title": "Everything Is Crab",
+      "ReleaseDate": "2026-05-08",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaine.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3526710",
+      "Metacritic": 0,
+      "AddedCount": 4,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scysgi.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scysgj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scysgk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scysgl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scysgm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scysgn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scysgo.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scysgp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scysgq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scysgr.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Strategy"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 343357,
+      "Title": "Mycelium: The Silent Contract",
+      "ReleaseDate": "2026-04-27",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobz08.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3583970",
+      "Metacritic": 0,
+      "AddedCount": 4,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczbyi.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczbyh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczbyj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczbyk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczbyl.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 329964,
+      "Title": "Withering Realms",
+      "ReleaseDate": "2026-05-01",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobf3s.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3441990",
+      "Metacritic": 0,
+      "AddedCount": 4,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv7sh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv7si.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv7sj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv7sk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv7sf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv7sg.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -1473,7 +1477,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobc5n.jpg",
       "StoreURL": "https://store.steampowered.com/app/2483190",
       "Metacritic": 0,
-      "AddedCount": 97,
+      "AddedCount": 100,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdi.jpg",
