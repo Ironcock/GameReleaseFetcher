@@ -8,7 +8,7 @@
       "StoreURL": "",
       "Metacritic": 75,
       "AddedCount": 163,
-      "Rating": 75.29432969734658,
+      "Rating": 75.20348699923707,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct17a.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct17b.jpg",
@@ -67,7 +67,7 @@
       "StoreURL": "https://store.steampowered.com/app/1962700",
       "Metacritic": 95,
       "AddedCount": 85,
-      "Rating": 95.08831696811319,
+      "Rating": 95.32034216419794,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu8a0.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu8a1.jpg",
@@ -94,9 +94,9 @@
       "ReleaseDate": "2026-05-07",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8bp2.jpg",
       "StoreURL": "https://store.steampowered.com/app/2582320",
-      "Metacritic": 68,
+      "Metacritic": 72,
       "AddedCount": 64,
-      "Rating": 67.59208724635941,
+      "Rating": 72.04736842921649,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsog6.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsogc.jpg",
@@ -893,8 +893,8 @@
       ],
       "Genres": [
         "Point-and-click",
-        "Visual Novel",
-        "Card & Board Game"
+        "Strategy",
+        "Visual Novel"
       ],
       "Tags": [],
       "Platforms": [
@@ -952,6 +952,33 @@
         "Shooter",
         "Simulator",
         "Strategy"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 380953,
+      "Title": "Thrifty Business",
+      "ReleaseDate": "2026-05-18",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coazo5.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3693650",
+      "Metacritic": 0,
+      "AddedCount": 6,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10rjj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10rjk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10rjl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10rjm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10rjn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10rjo.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10rjp.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -1332,6 +1359,34 @@
       ]
     },
     {
+      "ID": 373840,
+      "Title": "It Reaches",
+      "ReleaseDate": "2026-05-18",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqnh.jpg",
+      "StoreURL": "https://store.steampowered.com/app/4119360",
+      "Metacritic": 0,
+      "AddedCount": 4,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1017y.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1017z.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10180.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10181.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10182.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10183.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10184.jpg"
+      ],
+      "Genres": [
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 363945,
       "Title": "Everything Is Crab",
       "ReleaseDate": "2026-05-08",
@@ -1356,57 +1411,6 @@
         "Role-playing (RPG)",
         "Simulator",
         "Strategy"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 343357,
-      "Title": "Mycelium: The Silent Contract",
-      "ReleaseDate": "2026-04-27",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobz08.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3583970",
-      "Metacritic": 0,
-      "AddedCount": 4,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczbyi.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczbyh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczbyj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczbyk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczbyl.jpg"
-      ],
-      "Genres": [
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 329964,
-      "Title": "Withering Realms",
-      "ReleaseDate": "2026-05-01",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobf3s.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3441990",
-      "Metacritic": 0,
-      "AddedCount": 4,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv7sh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv7si.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv7sj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv7sk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv7sf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv7sg.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -1477,7 +1481,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobc5n.jpg",
       "StoreURL": "https://store.steampowered.com/app/2483190",
       "Metacritic": 0,
-      "AddedCount": 100,
+      "AddedCount": 99,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdi.jpg",
@@ -1488,7 +1492,8 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdn.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdm.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdo.jpg"
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdo.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13cgq.jpg"
       ],
       "Genres": [
         "Racing",
@@ -1507,7 +1512,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobc5q.jpg",
       "StoreURL": "https://store.steampowered.com/app/2001760",
       "Metacritic": 0,
-      "AddedCount": 84,
+      "AddedCount": 85,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbca.jpg",
@@ -1533,7 +1538,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coab09.jpg",
       "StoreURL": "https://store.steampowered.com/app/2215200",
       "Metacritic": 0,
-      "AddedCount": 71,
+      "AddedCount": 73,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymdu.jpg",
@@ -1559,7 +1564,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobpcd.jpg",
       "StoreURL": "https://store.steampowered.com/app/2863680",
       "Metacritic": 0,
-      "AddedCount": 41,
+      "AddedCount": 42,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymba.jpg",
@@ -1590,7 +1595,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4g15.jpg",
       "StoreURL": "https://store.steampowered.com/app/1875580",
       "Metacritic": 0,
-      "AddedCount": 41,
+      "AddedCount": 42,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scfkjl.jpg",
@@ -2273,6 +2278,7 @@
       ],
       "Genres": [
         "Puzzle",
+        "Simulator",
         "Strategy"
       ],
       "Tags": [],
@@ -2680,33 +2686,6 @@
       ]
     },
     {
-      "ID": 380953,
-      "Title": "Thrifty Business",
-      "ReleaseDate": "2026-05-18",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coazo5.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3693650",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10rjj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10rjk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10rjl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10rjm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10rjn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10rjo.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10rjp.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 375091,
       "Title": "Skinwalker: First Blood",
       "ReleaseDate": "2026-06-30",
@@ -2787,6 +2766,33 @@
       ],
       "Genres": [
         "Role-playing (RPG)",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 253578,
+      "Title": "Dimhaven: The Lost Source",
+      "ReleaseDate": "2026-06-30",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8c5a.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2458980",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmzv9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmzva.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmzvb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmzvc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmzvd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmzve.jpg"
+      ],
+      "Genres": [
+        "Puzzle",
+        "Adventure",
         "Indie"
       ],
       "Tags": [],
