@@ -8,7 +8,7 @@
       "StoreURL": "",
       "Metacritic": 75,
       "AddedCount": 163,
-      "Rating": 75.20348699923707,
+      "Rating": 75.29432769041955,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct17a.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct17b.jpg",
@@ -36,9 +36,9 @@
       "ReleaseDate": "2026-05-12",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8t96.jpg",
       "StoreURL": "https://store.steampowered.com/app/2255370",
-      "Metacritic": 0,
+      "Metacritic": 72,
       "AddedCount": 123,
-      "Rating": 0.0,
+      "Rating": 72.14013654258036,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctwii.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctwij.jpg",
@@ -60,14 +60,45 @@
       ]
     },
     {
+      "ID": 348330,
+      "Title": "Forza Horizon 6",
+      "ReleaseDate": "2026-05-19",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobc5n.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2483190",
+      "Metacritic": 0,
+      "AddedCount": 102,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdi.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdo.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13cgq.jpg"
+      ],
+      "Genres": [
+        "Racing",
+        "Simulator",
+        "Sport"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 320140,
       "Title": "Subnautica 2",
       "ReleaseDate": "2026-05-14",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8yd0.jpg",
       "StoreURL": "https://store.steampowered.com/app/1962700",
-      "Metacritic": 95,
+      "Metacritic": 90,
       "AddedCount": 85,
-      "Rating": 95.32034216419794,
+      "Rating": 90.21446211002666,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu8a0.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu8a1.jpg",
@@ -92,11 +123,11 @@
       "ID": 305157,
       "Title": "Mixtape",
       "ReleaseDate": "2026-05-07",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8bp2.jpg",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc2wi.jpg",
       "StoreURL": "https://store.steampowered.com/app/2582320",
       "Metacritic": 72,
       "AddedCount": 64,
-      "Rating": 72.04736842921649,
+      "Rating": 72.04189805086757,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsog6.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsogc.jpg",
@@ -146,7 +177,7 @@
       "Title": "Heroes of Might & Magic: Olden Era",
       "ReleaseDate": "2026-04-30",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqh4.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3241970",
+      "StoreURL": "https://store.steampowered.com/app/3105440",
       "Metacritic": 0,
       "AddedCount": 40,
       "Rating": 0.0,
@@ -1098,6 +1129,33 @@
       ]
     },
     {
+      "ID": 272348,
+      "Title": "Project: Mist",
+      "ReleaseDate": "2026-05-19",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co796q.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2383130",
+      "Metacritic": 0,
+      "AddedCount": 6,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scp1gq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scp1gs.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scp1gx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scp1gy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scp1gv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scp1gz.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 339820,
       "Title": "Causal Loop",
       "ReleaseDate": "2026-04-23",
@@ -1357,65 +1415,6 @@
       "Platforms": [
         "pc"
       ]
-    },
-    {
-      "ID": 373840,
-      "Title": "It Reaches",
-      "ReleaseDate": "2026-05-18",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqnh.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4119360",
-      "Metacritic": 0,
-      "AddedCount": 4,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1017y.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1017z.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10180.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10181.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10182.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10183.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10184.jpg"
-      ],
-      "Genres": [
-        "Puzzle",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 363945,
-      "Title": "Everything Is Crab",
-      "ReleaseDate": "2026-05-08",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaine.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3526710",
-      "Metacritic": 0,
-      "AddedCount": 4,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scysgi.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scysgj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scysgk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scysgl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scysgm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scysgn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scysgo.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scysgp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scysgq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scysgr.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Simulator",
-        "Strategy"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
     }
   ],
   "Upcoming": [
@@ -1426,7 +1425,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaoiz.jpg",
       "StoreURL": "https://store.steampowered.com/app/3768760",
       "Metacritic": 0,
-      "AddedCount": 271,
+      "AddedCount": 274,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx79u.jpg",
@@ -1475,37 +1474,6 @@
       ]
     },
     {
-      "ID": 348330,
-      "Title": "Forza Horizon 6",
-      "ReleaseDate": "2026-05-19",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobc5n.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2483190",
-      "Metacritic": 0,
-      "AddedCount": 99,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdi.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdo.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13cgq.jpg"
-      ],
-      "Genres": [
-        "Racing",
-        "Simulator",
-        "Sport"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 348180,
       "Title": "Beast of Reincarnation",
       "ReleaseDate": "2026-08-04",
@@ -1538,7 +1506,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coab09.jpg",
       "StoreURL": "https://store.steampowered.com/app/2215200",
       "Metacritic": 0,
-      "AddedCount": 73,
+      "AddedCount": 76,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymdu.jpg",
@@ -1564,7 +1532,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobpcd.jpg",
       "StoreURL": "https://store.steampowered.com/app/2863680",
       "Metacritic": 0,
-      "AddedCount": 42,
+      "AddedCount": 43,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymba.jpg",
@@ -1701,6 +1669,34 @@
       ]
     },
     {
+      "ID": 224511,
+      "Title": "Thick as Thieves",
+      "ReleaseDate": "2026-05-20",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc2gk.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3341000",
+      "Metacritic": 0,
+      "AddedCount": 27,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13boq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13bor.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13bos.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13bot.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13bou.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13c3r.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13c3s.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13c3t.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 361826,
       "Title": "Denshattack!",
       "ReleaseDate": "2026-06-17",
@@ -1723,34 +1719,6 @@
         "Platform",
         "Racing",
         "Sport"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 224511,
-      "Title": "Thick as Thieves",
-      "ReleaseDate": "2026-05-20",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc2gk.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3341000",
-      "Metacritic": 0,
-      "AddedCount": 26,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13boq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13bor.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13bos.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13bot.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13bou.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13c3r.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13c3s.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13c3t.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -1804,32 +1772,6 @@
       "Genres": [
         "Role-playing (RPG)",
         "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 252852,
-      "Title": "Mariachi Legends",
-      "ReleaseDate": "2026-06-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co93lp.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2376260",
-      "Metacritic": 0,
-      "AddedCount": 21,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwxy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwxz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scosjh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scosji.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scosjj.jpg"
-      ],
-      "Genres": [
-        "Platform",
-        "Adventure",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -2794,6 +2736,61 @@
         "Puzzle",
         "Adventure",
         "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 235913,
+      "Title": "Gurei",
+      "ReleaseDate": "2026-07-23",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7c7k.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2191280",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10wya.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10wyb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10wy9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10wyc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10wyd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10wye.jpg"
+      ],
+      "Genres": [
+        "Platform",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 203520,
+      "Title": "Calx",
+      "ReleaseDate": "2026-06-04",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coblm1.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2022640",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckydy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckyd9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckydc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckydk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckyds.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckydw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckyde.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckydh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckydn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12992.jpg"
+      ],
+      "Genres": [
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
