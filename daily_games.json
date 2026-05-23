@@ -38,7 +38,7 @@
       "StoreURL": "https://store.steampowered.com/app/2255370",
       "Metacritic": 73,
       "AddedCount": 123,
-      "Rating": 72.81361419060434,
+      "Rating": 72.5358188739716,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctwii.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctwij.jpg",
@@ -65,9 +65,9 @@
       "ReleaseDate": "2026-05-19",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobc5n.jpg",
       "StoreURL": "https://store.steampowered.com/app/2483190",
-      "Metacritic": 83,
+      "Metacritic": 86,
       "AddedCount": 102,
-      "Rating": 83.30733229329172,
+      "Rating": 85.78034682080926,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdi.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdj.jpg",
@@ -234,7 +234,7 @@
       "Title": "Heroes of Might & Magic: Olden Era",
       "ReleaseDate": "2026-04-30",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqh4.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3105440",
+      "StoreURL": "https://store.steampowered.com/app/3241970",
       "Metacritic": 0,
       "AddedCount": 40,
       "Rating": 0.0,
@@ -449,6 +449,7 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsmux.jpg"
       ],
       "Genres": [
+        "Platform",
         "Adventure",
         "Indie"
       ],
@@ -906,34 +907,6 @@
       ]
     },
     {
-      "ID": 302655,
-      "Title": "Yunyun Syndrome!?: Rhythm Psychosis",
-      "ReleaseDate": "2026-04-23",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co89bk.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2914150",
-      "Metacritic": 0,
-      "AddedCount": 8,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsde4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsde5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsde6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsdp5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsdp6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsdp8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsdp9.jpg"
-      ],
-      "Genres": [
-        "Music",
-        "Simulator",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 302176,
       "Title": "Warhammer 40,000: Mechanicus II",
       "ReleaseDate": "2026-05-21",
@@ -1124,33 +1097,6 @@
       ]
     },
     {
-      "ID": 116194,
-      "Title": "'83",
-      "ReleaseDate": "2026-04-23",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobs6p.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1059220",
-      "Metacritic": 0,
-      "AddedCount": 7,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczk7b.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczk7c.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczk7d.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczk79.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczk78.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczk7a.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Simulator",
-        "Strategy"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 380953,
       "Title": "Thrifty Business",
       "ReleaseDate": "2026-05-18",
@@ -1171,34 +1117,6 @@
       "Genres": [
         "Simulator",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 355088,
-      "Title": "Sudden Strike 5",
-      "ReleaseDate": "2026-04-23",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa8ad.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2808550",
-      "Metacritic": 0,
-      "AddedCount": 6,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy31y.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy31s.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy31u.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy31v.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy31w.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy31x.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy31z.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy31t.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Strategy"
       ],
       "Tags": [],
       "Platforms": [
@@ -1342,36 +1260,6 @@
       ]
     },
     {
-      "ID": 339820,
-      "Title": "Causal Loop",
-      "ReleaseDate": "2026-04-23",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9pg5.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3374460",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwa0p.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwa0q.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwa0r.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwa0s.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwa0t.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwa0u.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwa0v.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwa0w.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwa0x.jpg"
-      ],
-      "Genres": [
-        "Puzzle",
-        "Strategy",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 317334,
       "Title": "Dark Light: Survivor",
       "ReleaseDate": "2026-05-14",
@@ -1399,6 +1287,123 @@
       "Platforms": [
         "pc"
       ]
+    },
+    {
+      "ID": 290897,
+      "Title": "Dungeon Clawler",
+      "ReleaseDate": "2026-04-30",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7ygu.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2356780",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr3ah.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr3al.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr3ao.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr3at.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr3ax.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr3b0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr3b1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr3b2.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Strategy"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 287707,
+      "Title": "Whirlight: No Time To Trip",
+      "ReleaseDate": "2026-05-14",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobh9c.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2706980",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqo95.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqo98.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqo96.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqo8u.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqo8y.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqo8z.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqo92.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqo94.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqo97.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqo99.jpg"
+      ],
+      "Genres": [
+        "Point-and-click",
+        "Puzzle",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 261864,
+      "Title": "Vultures: Scavengers of Death",
+      "ReleaseDate": "2026-05-13",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobqoy.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2537470",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw2ur.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw2us.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw2ut.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw2uu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw2uv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw2uw.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 391848,
+      "Title": "The Caribou Trail",
+      "ReleaseDate": "2026-05-14",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coblls.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3065030",
+      "Metacritic": 0,
+      "AddedCount": 4,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12975.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12976.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12977.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12978.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12979.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1297a.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12971.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12972.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12973.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12974.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
     }
   ],
   "Upcoming": [
@@ -1409,7 +1414,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaoiz.jpg",
       "StoreURL": "https://store.steampowered.com/app/3768760",
       "Metacritic": 0,
-      "AddedCount": 276,
+      "AddedCount": 277,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx79u.jpg",
@@ -1464,7 +1469,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobc5q.jpg",
       "StoreURL": "https://store.steampowered.com/app/2001760",
       "Metacritic": 0,
-      "AddedCount": 87,
+      "AddedCount": 88,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbca.jpg",
@@ -2484,6 +2489,37 @@
       ]
     },
     {
+      "ID": 324950,
+      "Title": "Muri: Wildwoods",
+      "ReleaseDate": "2026-06-01",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co94sn.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3284200",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuplp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuplq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuplr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scupls.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuplt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuplu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuplv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuplw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuplx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuply.jpg"
+      ],
+      "Genres": [
+        "Platform",
+        "Puzzle",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 302888,
       "Title": "The Remake of the End of the Greatest RPG of All Time",
       "ReleaseDate": "2026-05-28",
@@ -2739,36 +2775,6 @@
       "Genres": [
         "Sport",
         "Arcade"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 369840,
-      "Title": "D-topia",
-      "ReleaseDate": "2026-07-14",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coajon.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1895460",
-      "Metacritic": 0,
-      "AddedCount": 4,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc0h.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc0j.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc0g.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc0k.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc0n.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc0o.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc0p.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc0q.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc0r.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc0i.jpg"
-      ],
-      "Genres": [
-        "Adventure",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
