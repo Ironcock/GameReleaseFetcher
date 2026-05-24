@@ -67,7 +67,7 @@
       "StoreURL": "https://store.steampowered.com/app/2483190",
       "Metacritic": 86,
       "AddedCount": 102,
-      "Rating": 85.78034682080926,
+      "Rating": 86.32426988922458,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdi.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdj.jpg",
@@ -124,7 +124,7 @@
       "StoreURL": "https://store.steampowered.com/app/1962700",
       "Metacritic": 90,
       "AddedCount": 85,
-      "Rating": 90.07485403223811,
+      "Rating": 90.03109568890876,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu8a0.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu8a1.jpg",
@@ -153,7 +153,7 @@
       "StoreURL": "https://store.steampowered.com/app/2582320",
       "Metacritic": 72,
       "AddedCount": 64,
-      "Rating": 72.03352064316684,
+      "Rating": 72.03054063796118,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsog6.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsogc.jpg",
@@ -991,33 +991,6 @@
       ]
     },
     {
-      "ID": 347669,
-      "Title": "Snap & Grab",
-      "ReleaseDate": "2026-04-24",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xi4.jpg",
-      "StoreURL": "https://store.steampowered.com/app/897160",
-      "Metacritic": 0,
-      "AddedCount": 7,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9pg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9pf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9pe.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9ph.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9pc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9pd.jpg"
-      ],
-      "Genres": [
-        "Strategy",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 346768,
       "Title": "Ex Sanguis",
       "ReleaseDate": "2026-05-21",
@@ -1404,6 +1377,36 @@
       "Platforms": [
         "pc"
       ]
+    },
+    {
+      "ID": 385283,
+      "Title": "Hypnos",
+      "ReleaseDate": "2026-05-06",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob9z1.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2861210",
+      "Metacritic": 0,
+      "AddedCount": 4,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc119ob.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc119oc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc119od.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc119of.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc119og.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc119oh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc119oi.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc119oj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc119ok.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc119ol.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
     }
   ],
   "Upcoming": [
@@ -1414,7 +1417,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaoiz.jpg",
       "StoreURL": "https://store.steampowered.com/app/3768760",
       "Metacritic": 0,
-      "AddedCount": 277,
+      "AddedCount": 279,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx79u.jpg",
