@@ -8,7 +8,7 @@
       "StoreURL": "",
       "Metacritic": 75,
       "AddedCount": 163,
-      "Rating": 75.29432769041955,
+      "Rating": 75.3492228944491,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct17a.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct17b.jpg",
@@ -36,9 +36,9 @@
       "ReleaseDate": "2026-05-12",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8t96.jpg",
       "StoreURL": "https://store.steampowered.com/app/2255370",
-      "Metacritic": 73,
+      "Metacritic": 70,
       "AddedCount": 123,
-      "Rating": 72.5358188739716,
+      "Rating": 70.00012864150129,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctwii.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctwij.jpg",
@@ -153,7 +153,7 @@
       "StoreURL": "https://store.steampowered.com/app/2582320",
       "Metacritic": 72,
       "AddedCount": 64,
-      "Rating": 72.03054063796118,
+      "Rating": 71.694781386516,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsog6.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsogc.jpg",
@@ -223,6 +223,36 @@
         "Point-and-click",
         "Role-playing (RPG)",
         "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 126547,
+      "Title": "Paralives",
+      "ReleaseDate": "2026-05-25",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa4iq.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1118520",
+      "Metacritic": 0,
+      "AddedCount": 43,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqqh6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqqh7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqqh9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqqha.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqqh5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqqh8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scznwh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scznwi.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scznwj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scznwk.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -1349,59 +1379,25 @@
       ]
     },
     {
-      "ID": 391848,
-      "Title": "The Caribou Trail",
-      "ReleaseDate": "2026-05-14",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coblls.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3065030",
+      "ID": 177862,
+      "Title": "Enter the Chronosphere",
+      "ReleaseDate": "2026-05-25",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co862m.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1969810",
       "Metacritic": 0,
-      "AddedCount": 4,
+      "AddedCount": 5,
       "Rating": 0.0,
       "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12975.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12976.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12977.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12978.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12979.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1297a.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12971.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12972.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12973.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12974.jpg"
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scs5f3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scs5f4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scs5f5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scs5f1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scs5f2.jpg"
       ],
       "Genres": [
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 385283,
-      "Title": "Hypnos",
-      "ReleaseDate": "2026-05-06",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob9z1.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2861210",
-      "Metacritic": 0,
-      "AddedCount": 4,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc119ob.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc119oc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc119od.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc119of.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc119og.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc119oh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc119oi.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc119oj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc119ok.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc119ol.jpg"
-      ],
-      "Genres": [
-        "Adventure",
-        "Indie"
+        "Role-playing (RPG)",
+        "Strategy",
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -1417,7 +1413,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaoiz.jpg",
       "StoreURL": "https://store.steampowered.com/app/3768760",
       "Metacritic": 0,
-      "AddedCount": 279,
+      "AddedCount": 280,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx79u.jpg",
@@ -1498,7 +1494,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4g15.jpg",
       "StoreURL": "https://store.steampowered.com/app/1875580",
       "Metacritic": 0,
-      "AddedCount": 42,
+      "AddedCount": 43,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scfkjl.jpg",
@@ -1692,7 +1688,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coarnf.jpg",
       "StoreURL": "https://store.steampowered.com/app/2424420",
       "Metacritic": 0,
-      "AddedCount": 19,
+      "AddedCount": 20,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczq91.jpg",
@@ -1788,6 +1784,33 @@
       ],
       "Genres": [
         "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 361890,
+      "Title": "World of Tanks: Heat",
+      "ReleaseDate": "2026-05-26",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coab04.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2100280",
+      "Metacritic": 0,
+      "AddedCount": 12,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymdp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymdm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymdo.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymdq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymdr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymds.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymdt.jpg"
+      ],
+      "Genres": [
+        "Shooter",
+        "Tactical"
       ],
       "Tags": [],
       "Platforms": [
@@ -1940,26 +1963,27 @@
       ]
     },
     {
-      "ID": 361890,
-      "Title": "World of Tanks: Heat",
-      "ReleaseDate": "2026-05-26",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coab04.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2100280",
+      "ID": 325581,
+      "Title": "One Move Away",
+      "ReleaseDate": "2026-05-28",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co95fq.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3172440",
       "Metacritic": 0,
       "AddedCount": 10,
       "Rating": 0.0,
       "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymdp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymdm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymdo.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymdq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymdr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymds.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymdt.jpg"
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus0o.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus0p.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus0j.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus0k.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus0l.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus0m.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus0n.jpg"
       ],
       "Genres": [
-        "Shooter",
-        "Tactical"
+        "Puzzle",
+        "Simulator",
+        "Strategy"
       ],
       "Tags": [],
       "Platforms": [
@@ -2026,6 +2050,29 @@
       ]
     },
     {
+      "ID": 393932,
+      "Title": "Echoes of Aincrad",
+      "ReleaseDate": "2026-07-10",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobpxh.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2244210",
+      "Metacritic": 0,
+      "AddedCount": 9,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12i5s.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12i5t.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12i5u.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 341400,
       "Title": "Voidling Bound",
       "ReleaseDate": "2026-06-09",
@@ -2045,57 +2092,6 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwenb.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwenc.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwend.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 325581,
-      "Title": "One Move Away",
-      "ReleaseDate": "2026-05-28",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co95fq.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3172440",
-      "Metacritic": 0,
-      "AddedCount": 9,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus0o.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus0p.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus0j.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus0k.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus0l.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus0m.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus0n.jpg"
-      ],
-      "Genres": [
-        "Puzzle",
-        "Simulator",
-        "Strategy"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 393932,
-      "Title": "Echoes of Aincrad",
-      "ReleaseDate": "2026-07-10",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobpxh.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2244210",
-      "Metacritic": 0,
-      "AddedCount": 8,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12i5s.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12i5t.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12i5u.jpg"
       ],
       "Genres": [
         "Role-playing (RPG)",
@@ -2381,6 +2377,37 @@
       ]
     },
     {
+      "ID": 324950,
+      "Title": "Muri: Wildwoods",
+      "ReleaseDate": "2026-06-01",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co94sn.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3284200",
+      "Metacritic": 0,
+      "AddedCount": 6,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuplp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuplq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuplr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scupls.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuplt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuplu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuplv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuplw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuplx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuply.jpg"
+      ],
+      "Genres": [
+        "Platform",
+        "Puzzle",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 316425,
       "Title": "Ascend to Zero",
       "ReleaseDate": "2026-07-13",
@@ -2485,37 +2512,6 @@
       "Genres": [
         "Role-playing (RPG)",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 324950,
-      "Title": "Muri: Wildwoods",
-      "ReleaseDate": "2026-06-01",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co94sn.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3284200",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuplp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuplq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuplr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scupls.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuplt.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuplu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuplv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuplw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuplx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuply.jpg"
-      ],
-      "Genres": [
-        "Platform",
-        "Puzzle",
-        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
