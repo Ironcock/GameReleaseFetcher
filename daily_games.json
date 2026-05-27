@@ -1,6 +1,34 @@
 {
   "NewReleases": [
     {
+      "ID": 141114,
+      "Title": "007 First Light",
+      "ReleaseDate": "2026-05-27",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaoiz.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3768760",
+      "Metacritic": 0,
+      "AddedCount": 289,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx79u.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx79v.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx79w.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx79x.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyx6q.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyx6r.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz0hs.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz0ht.jpg"
+      ],
+      "Genres": [
+        "Shooter",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 308535,
       "Title": "Neverness to Everness",
       "ReleaseDate": "2026-04-29",
@@ -65,9 +93,9 @@
       "ReleaseDate": "2026-05-19",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobc5n.jpg",
       "StoreURL": "https://store.steampowered.com/app/2483190",
-      "Metacritic": 87,
+      "Metacritic": 82,
       "AddedCount": 102,
-      "Rating": 86.91983122362869,
+      "Rating": 81.86259541984732,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdi.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdj.jpg",
@@ -96,9 +124,9 @@
       "ReleaseDate": "2026-05-22",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coab09.jpg",
       "StoreURL": "https://store.steampowered.com/app/2215200",
-      "Metacritic": 0,
+      "Metacritic": 76,
       "AddedCount": 85,
-      "Rating": 0.0,
+      "Rating": 76.48388649232588,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymdu.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymdv.jpg",
@@ -409,7 +437,7 @@
       "StoreURL": "https://store.steampowered.com/app/2353060",
       "Metacritic": 64,
       "AddedCount": 23,
-      "Rating": 64.44259567387687,
+      "Rating": 64.44813737709458,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbfa.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbfb.jpg",
@@ -546,33 +574,6 @@
       ]
     },
     {
-      "ID": 348272,
-      "Title": "Moomintroll: Winter's Warmth",
-      "ReleaseDate": "2026-04-27",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobmjo.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3256150",
-      "Metacritic": 0,
-      "AddedCount": 17,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12cm9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12cma.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12cmb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12cmc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12cmd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12cme.jpg"
-      ],
-      "Genres": [
-        "Puzzle",
-        "Role-playing (RPG)",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 347882,
       "Title": "Call of the Elder Gods",
       "ReleaseDate": "2026-05-12",
@@ -659,7 +660,7 @@
       "ID": 361890,
       "Title": "World of Tanks: Heat",
       "ReleaseDate": "2026-05-26",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coab04.jpg",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4ax.jpg",
       "StoreURL": "https://store.steampowered.com/app/2100280",
       "Metacritic": 0,
       "AddedCount": 13,
@@ -740,6 +741,66 @@
       ]
     },
     {
+      "ID": 336150,
+      "Title": "Romestead",
+      "ReleaseDate": "2026-05-26",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc3gt.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1805320",
+      "Metacritic": 0,
+      "AddedCount": 12,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvsmx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvsmw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvsms.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvsmt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvsmz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvsmy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvsn0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvsmu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvsmv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvsmo.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 329736,
+      "Title": "Town to City",
+      "ReleaseDate": "2026-05-26",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9c3z.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3115220",
+      "Metacritic": 0,
+      "AddedCount": 12,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv77a.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv77d.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv77b.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv77f.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv77g.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv77h.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv77c.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv77e.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Strategy",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 204549,
       "Title": "Phonopolis",
       "ReleaseDate": "2026-05-20",
@@ -759,6 +820,37 @@
         "Point-and-click",
         "Puzzle",
         "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 378228,
+      "Title": "Echo Generation 2",
+      "ReleaseDate": "2026-05-27",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobibf.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1115990",
+      "Metacritic": 0,
+      "AddedCount": 10,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10flv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10flu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10flw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fly.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10flx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10flz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fm0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fm1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fm2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fm3.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -1127,6 +1219,37 @@
       ]
     },
     {
+      "ID": 280353,
+      "Title": "Starminer",
+      "ReleaseDate": "2026-05-27",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8ba1.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1749220",
+      "Metacritic": 0,
+      "AddedCount": 7,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv604.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv605.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv60b.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv607.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv603.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv60a.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv602.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv609.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv606.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv608.jpg"
+      ],
+      "Genres": [
+        "Real Time Strategy (RTS)",
+        "Role-playing (RPG)",
+        "Simulator"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 380953,
       "Title": "Thrifty Business",
       "ReleaseDate": "2026-05-18",
@@ -1289,147 +1412,9 @@
       "Platforms": [
         "pc"
       ]
-    },
-    {
-      "ID": 380983,
-      "Title": "Retail Hell",
-      "ReleaseDate": "2026-05-21",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coblhx.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4174310",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10rpy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10rpz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10rq0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10rq1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10rq2.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 348506,
-      "Title": "Life Below",
-      "ReleaseDate": "2026-05-26",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa55e.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2932150",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxd56.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxd59.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxd5d.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxd5i.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxd5o.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxd5u.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxd62.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Strategy"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 317334,
-      "Title": "Dark Light: Survivor",
-      "ReleaseDate": "2026-05-14",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9d96.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3088070",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctywl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctywn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctywj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctywk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctywm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctywo.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctywp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctywq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctywr.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 290897,
-      "Title": "Dungeon Clawler",
-      "ReleaseDate": "2026-04-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7ygu.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2356780",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr3ah.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr3al.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr3ao.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr3at.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr3ax.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr3b0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr3b1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr3b2.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Simulator",
-        "Strategy"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
     }
   ],
   "Upcoming": [
-    {
-      "ID": 141114,
-      "Title": "007 First Light",
-      "ReleaseDate": "2026-05-27",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaoiz.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3768760",
-      "Metacritic": 0,
-      "AddedCount": 281,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx79u.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx79v.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx79w.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx79x.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyx6q.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyx6r.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz0hs.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz0ht.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
     {
       "ID": 225582,
       "Title": "Control Resonant",
@@ -1437,7 +1422,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0fw.jpg",
       "StoreURL": "https://store.steampowered.com/app/3669870",
       "Metacritic": 0,
-      "AddedCount": 117,
+      "AddedCount": 120,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuxut.jpg",
@@ -1547,7 +1532,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobtwq.jpg",
       "StoreURL": "https://store.steampowered.com/app/3255110",
       "Metacritic": 0,
-      "AddedCount": 32,
+      "AddedCount": 33,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso28.jpg",
@@ -1705,6 +1690,36 @@
       ]
     },
     {
+      "ID": 291446,
+      "Title": "Outward 2",
+      "ReleaseDate": "2026-07-07",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coazk8.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2849490",
+      "Metacritic": 0,
+      "AddedCount": 18,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr66h.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr66m.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr66r.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr66l.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr66o.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr66u.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr666.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr668.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr66a.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr66e.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 194950,
       "Title": "Solarpunk",
       "ReleaseDate": "2026-06-08",
@@ -1726,36 +1741,6 @@
         "Simulator",
         "Adventure",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 291446,
-      "Title": "Outward 2",
-      "ReleaseDate": "2026-07-07",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coazk8.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2849490",
-      "Metacritic": 0,
-      "AddedCount": 17,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr66h.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr66m.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr66r.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr66l.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr66o.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr66u.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr666.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr668.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr66a.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scr66e.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -1933,37 +1918,6 @@
       ]
     },
     {
-      "ID": 378228,
-      "Title": "Echo Generation 2",
-      "ReleaseDate": "2026-05-27",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobibf.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1115990",
-      "Metacritic": 0,
-      "AddedCount": 10,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10flv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10flu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10flw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fly.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10flx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10flz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fm0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fm1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fm2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fm3.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 362063,
       "Title": "Hell Let Loose: Vietnam",
       "ReleaseDate": "2026-06-18",
@@ -2064,6 +2018,35 @@
       ],
       "Genres": [
         "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 314489,
+      "Title": "Mightreya",
+      "ReleaseDate": "2026-06-30",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co92ik.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3077640",
+      "Metacritic": 0,
+      "AddedCount": 8,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctp32.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctp33.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctp34.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctp36.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctp37.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctp30.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctp31.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctp35.jpg"
+      ],
+      "Genres": [
+        "Fighting",
+        "Hack and slash/Beat 'em up",
         "Adventure"
       ],
       "Tags": [],
@@ -2203,35 +2186,6 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwmb8.jpg"
       ],
       "Genres": [
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 314489,
-      "Title": "Mightreya",
-      "ReleaseDate": "2026-06-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co92ik.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3077640",
-      "Metacritic": 0,
-      "AddedCount": 7,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctp32.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctp33.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctp34.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctp36.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctp37.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctp30.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctp31.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctp35.jpg"
-      ],
-      "Genres": [
-        "Fighting",
-        "Hack and slash/Beat 'em up",
         "Adventure"
       ],
       "Tags": [],
@@ -2395,6 +2349,35 @@
         "Role-playing (RPG)",
         "Strategy",
         "Hack and slash/Beat 'em up"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 203520,
+      "Title": "Calx",
+      "ReleaseDate": "2026-06-04",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coblm1.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2022640",
+      "Metacritic": 0,
+      "AddedCount": 6,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckydy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckyd9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckydc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckydk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckyds.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckydw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckyde.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckydh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckydn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12992.jpg"
+      ],
+      "Genres": [
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -2600,35 +2583,6 @@
       ]
     },
     {
-      "ID": 203520,
-      "Title": "Calx",
-      "ReleaseDate": "2026-06-04",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coblm1.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2022640",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckydy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckyd9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckydc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckydk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckyds.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckydw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckyde.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckydh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckydn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12992.jpg"
-      ],
-      "Genres": [
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 121395,
       "Title": "Wind Runners",
       "ReleaseDate": "2026-06-30",
@@ -2771,6 +2725,58 @@
       "Genres": [
         "Sport",
         "Arcade"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 369840,
+      "Title": "D-topia",
+      "ReleaseDate": "2026-07-14",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coajon.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1895460",
+      "Metacritic": 0,
+      "AddedCount": 4,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc0h.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc0j.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc0g.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc0k.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc0n.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc0o.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc0p.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc0q.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc0r.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc0i.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 369765,
+      "Title": "How Many Dudes?",
+      "ReleaseDate": "2026-07-30",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc1r6.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3934270",
+      "Metacritic": 0,
+      "AddedCount": 4,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczbox.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Strategy",
+        "Indie"
       ],
       "Tags": [],
       "Platforms": [
