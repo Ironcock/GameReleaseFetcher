@@ -6,9 +6,9 @@
       "ReleaseDate": "2026-05-27",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaoiz.jpg",
       "StoreURL": "https://store.steampowered.com/app/3768760",
-      "Metacritic": 79,
+      "Metacritic": 80,
       "AddedCount": 289,
-      "Rating": 79.37474553590567,
+      "Rating": 79.7208525934881,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx79u.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx79v.jpg",
@@ -21,36 +21,6 @@
       ],
       "Genres": [
         "Shooter",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 308535,
-      "Title": "Neverness to Everness",
-      "ReleaseDate": "2026-04-29",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobzsp.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4508340",
-      "Metacritic": 75,
-      "AddedCount": 163,
-      "Rating": 75.2475870920886,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct17a.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct17b.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct17c.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11n1j.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11n1i.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11n1k.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11n1f.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11n1g.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11n1h.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12pmh.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
         "Adventure"
       ],
       "Tags": [],
@@ -95,7 +65,7 @@
       "StoreURL": "https://store.steampowered.com/app/2483190",
       "Metacritic": 80,
       "AddedCount": 102,
-      "Rating": 80.04711353137333,
+      "Rating": 80.0470236186812,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdi.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdj.jpg",
@@ -124,9 +94,9 @@
       "ReleaseDate": "2026-05-22",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coab09.jpg",
       "StoreURL": "https://store.steampowered.com/app/2215200",
-      "Metacritic": 77,
+      "Metacritic": 76,
       "AddedCount": 85,
-      "Rating": 77.47393884126251,
+      "Rating": 76.02967192712694,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymdu.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymdv.jpg",
@@ -181,7 +151,7 @@
       "StoreURL": "https://store.steampowered.com/app/2582320",
       "Metacritic": 72,
       "AddedCount": 64,
-      "Rating": 71.70063067542159,
+      "Rating": 71.69760629270615,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsog6.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsogc.jpg",
@@ -195,6 +165,34 @@
         "Music",
         "Adventure",
         "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 189781,
+      "Title": "Mina the Hollower",
+      "ReleaseDate": "2026-05-29",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4g15.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1875580",
+      "Metacritic": 0,
+      "AddedCount": 48,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scfkjl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scfkjm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scgr2b.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scgr2c.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scgr2d.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scgr2e.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scgr2f.jpg"
+      ],
+      "Genres": [
+        "Platform",
+        "Role-playing (RPG)",
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -372,31 +370,6 @@
       ],
       "Genres": [
         "Simulator",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 292878,
-      "Title": "Industria II",
-      "ReleaseDate": "2026-04-29",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7xz0.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2154070",
-      "Metacritic": 0,
-      "AddedCount": 24,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrdcw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrdcx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrdcy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrdcz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrdd0.jpg"
-      ],
-      "Genres": [
-        "Adventure",
         "Indie"
       ],
       "Tags": [],
@@ -1196,7 +1169,7 @@
       "Title": "Starminer",
       "ReleaseDate": "2026-05-27",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8ba1.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1749220",
+      "StoreURL": "https://store.steampowered.com/app/1116050",
       "Metacritic": 0,
       "AddedCount": 7,
       "Rating": 0.0,
@@ -1410,6 +1383,33 @@
       "Platforms": [
         "pc"
       ]
+    },
+    {
+      "ID": 348506,
+      "Title": "Life Below",
+      "ReleaseDate": "2026-05-26",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa55e.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2932150",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxd56.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxd59.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxd5d.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxd5i.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxd5o.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxd5u.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxd62.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Strategy"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
     }
   ],
   "Upcoming": [
@@ -1458,34 +1458,6 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbcf.jpg"
       ],
       "Genres": [
-        "Role-playing (RPG)",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 189781,
-      "Title": "Mina the Hollower",
-      "ReleaseDate": "2026-05-29",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4g15.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1875580",
-      "Metacritic": 0,
-      "AddedCount": 46,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scfkjl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scfkjm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scgr2b.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scgr2c.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scgr2d.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scgr2e.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scgr2f.jpg"
-      ],
-      "Genres": [
-        "Platform",
         "Role-playing (RPG)",
         "Adventure"
       ],
@@ -1714,6 +1686,36 @@
       ]
     },
     {
+      "ID": 383882,
+      "Title": "Burglin' Gnomes",
+      "ReleaseDate": "2026-06-10",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob6ob.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3844970",
+      "Metacritic": 0,
+      "AddedCount": 19,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc114rm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc114rn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc114ro.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc114rp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc114rq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc114rr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc114rs.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc114rt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc114ru.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc114rv.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 194950,
       "Title": "Solarpunk",
       "ReleaseDate": "2026-06-08",
@@ -1768,7 +1770,7 @@
     {
       "ID": 278824,
       "Title": "The Witch's Bakery",
-      "ReleaseDate": "2026-06-30",
+      "ReleaseDate": "2026-08-01",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8tks.jpg",
       "StoreURL": "https://store.steampowered.com/app/2967950",
       "Metacritic": 0,
@@ -2108,7 +2110,7 @@
     {
       "ID": 352789,
       "Title": "Shift at Midnight",
-      "ReleaseDate": "2026-06-18",
+      "ReleaseDate": "2026-06-17",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa2v6.jpg",
       "StoreURL": "https://store.steampowered.com/app/3722330",
       "Metacritic": 0,
@@ -2411,6 +2413,36 @@
       ]
     },
     {
+      "ID": 302107,
+      "Title": "Maseylia: Echoes of the Past",
+      "ReleaseDate": "2026-06-19",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobz55.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2938870",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsb9l.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsb9c.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsb9i.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsb9p.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsb9s.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsb9w.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsba0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsba3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsba7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsb9f.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 265796,
       "Title": "Rubinite",
       "ReleaseDate": "2026-06-30",
@@ -2444,7 +2476,7 @@
       "ID": 253578,
       "Title": "Dimhaven: The Lost Source",
       "ReleaseDate": "2026-06-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8c5a.jpg",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4qa.jpg",
       "StoreURL": "https://store.steampowered.com/app/2458980",
       "Metacritic": 0,
       "AddedCount": 5,
@@ -2672,6 +2704,33 @@
       ]
     },
     {
+      "ID": 362089,
+      "Title": "Crushed in Time",
+      "ReleaseDate": "2026-06-10",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coafof.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3858650",
+      "Metacritic": 0,
+      "AddedCount": 4,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn52.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn54.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn56.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn59.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn5c.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn5e.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn5g.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 348971,
       "Title": "Fears to Fathom: Scratch Creek",
       "ReleaseDate": "2026-06-10",
@@ -2720,62 +2779,6 @@
       ],
       "Genres": [
         "Simulator",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 312791,
-      "Title": "Thank You For Your Application",
-      "ReleaseDate": "2026-06-19",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9wgf.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2881370",
-      "Metacritic": 0,
-      "AddedCount": 4,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx5l1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx5l3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx5l2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx5l6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx5l4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx5l5.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Simulator",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 304148,
-      "Title": "Below, Rusted Gods",
-      "ReleaseDate": "2026-06-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9uqo.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2895680",
-      "Metacritic": 0,
-      "AddedCount": 4,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsjxt.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsjxy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsjxu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsjxv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsjxw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsjxx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsjxz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsjy0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsjy1.jpg"
-      ],
-      "Genres": [
         "Adventure",
         "Indie"
       ],
