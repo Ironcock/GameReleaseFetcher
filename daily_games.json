@@ -8,7 +8,7 @@
       "StoreURL": "https://store.steampowered.com/app/3768760",
       "Metacritic": 81,
       "AddedCount": 289,
-      "Rating": 80.70863002160189,
+      "Rating": 80.70655181502453,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx79u.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx79v.jpg",
@@ -36,7 +36,7 @@
       "StoreURL": "https://store.steampowered.com/app/2255370",
       "Metacritic": 70,
       "AddedCount": 123,
-      "Rating": 70.00012864150129,
+      "Rating": 69.93634506089062,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctwii.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctwij.jpg",
@@ -65,7 +65,7 @@
       "StoreURL": "https://store.steampowered.com/app/2483190",
       "Metacritic": 80,
       "AddedCount": 102,
-      "Rating": 80.0470236186812,
+      "Rating": 80.0859402380118,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdi.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdj.jpg",
@@ -96,7 +96,7 @@
       "StoreURL": "https://store.steampowered.com/app/2215200",
       "Metacritic": 74,
       "AddedCount": 85,
-      "Rating": 74.40837597232988,
+      "Rating": 74.18983154385498,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymdu.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymdv.jpg",
@@ -151,7 +151,7 @@
       "StoreURL": "https://store.steampowered.com/app/2582320",
       "Metacritic": 73,
       "AddedCount": 64,
-      "Rating": 73.00053356536881,
+      "Rating": 73.00174955051713,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsog6.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsogc.jpg",
@@ -165,6 +165,35 @@
         "Music",
         "Adventure",
         "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 358769,
+      "Title": "Fatekeeper",
+      "ReleaseDate": "2026-06-02",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa7p3.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2186990",
+      "Metacritic": 0,
+      "AddedCount": 56,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1014l.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1014m.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1014n.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1014o.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1014p.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1014q.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1014r.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1014s.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Hack and slash/Beat 'em up",
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -268,7 +297,7 @@
       "StoreURL": "https://store.steampowered.com/app/3144860",
       "Metacritic": 70,
       "AddedCount": 34,
-      "Rating": 70.0012037105348,
+      "Rating": 69.98134161905094,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoxj.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoxl.jpg",
@@ -970,11 +999,15 @@
       "AddedCount": 8,
       "Rating": 0.0,
       "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpswd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpswg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpswj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpswl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpswn.jpg"
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13jvl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13jvm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13jvn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13jvo.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13jvp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13jvq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13jvr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13jvs.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13jvt.jpg"
       ],
       "Genres": [
         "Point-and-click",
@@ -1044,7 +1077,7 @@
       "Title": "Starminer",
       "ReleaseDate": "2026-05-27",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8ba1.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1116050",
+      "StoreURL": "https://store.steampowered.com/app/1749220",
       "Metacritic": 0,
       "AddedCount": 7,
       "Rating": 0.0,
@@ -1377,33 +1410,6 @@
       "Platforms": [
         "pc"
       ]
-    },
-    {
-      "ID": 261864,
-      "Title": "Vultures: Scavengers of Death",
-      "ReleaseDate": "2026-05-13",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobqoy.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2537470",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw2ur.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw2us.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw2ut.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw2uu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw2uv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw2uw.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Strategy",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
     }
   ],
   "Upcoming": [
@@ -1414,7 +1420,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobc5q.jpg",
       "StoreURL": "https://store.steampowered.com/app/2001760",
       "Metacritic": 0,
-      "AddedCount": 89,
+      "AddedCount": 90,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbca.jpg",
@@ -1440,7 +1446,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9wwj.jpg",
       "StoreURL": "https://store.steampowered.com/app/3787240",
       "Metacritic": 0,
-      "AddedCount": 41,
+      "AddedCount": 42,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7bu.jpg",
@@ -1553,7 +1559,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coblri.jpg",
       "StoreURL": "https://store.steampowered.com/app/3483510",
       "Metacritic": 0,
-      "AddedCount": 22,
+      "AddedCount": 23,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyaoe.jpg",
@@ -1856,24 +1862,24 @@
       ]
     },
     {
-      "ID": 276028,
-      "Title": "Paperhead",
-      "ReleaseDate": "2026-06-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co914x.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2680280",
+      "ID": 335296,
+      "Title": "Wild Blue Skies",
+      "ReleaseDate": "2026-08-13",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaw26.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1921490",
       "Metacritic": 0,
       "AddedCount": 10,
       "Rating": 0.0,
       "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpg6g.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpg6h.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpg6i.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpg6j.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpg6k.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpg6l.jpg"
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvq4j.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvq4k.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvq4l.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvq4m.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvq4n.jpg"
       ],
       "Genres": [
         "Shooter",
+        "Adventure",
         "Indie"
       ],
       "Tags": [],
@@ -2092,6 +2098,37 @@
       "Genres": [
         "Adventure",
         "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 398638,
+      "Title": "Corsair Cove",
+      "ReleaseDate": "2026-07-31",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobxwd.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1368140",
+      "Metacritic": 0,
+      "AddedCount": 6,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12zgr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12zgs.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12zgt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12zgu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12zgv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12zgw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12zgx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12zgy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12zgz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12zh0.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Strategy",
+        "Turn-based strategy (TBS)"
       ],
       "Tags": [],
       "Platforms": [
@@ -2451,34 +2488,6 @@
       ]
     },
     {
-      "ID": 380788,
-      "Title": "Arcane Merchant",
-      "ReleaseDate": "2026-06-02",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobghv.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4086760",
-      "Metacritic": 0,
-      "AddedCount": 4,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10qps.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10qpt.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10qpu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10qpv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10qpw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10qpx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10qpy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10qpz.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 369840,
       "Title": "D-topia",
       "ReleaseDate": "2026-07-14",
@@ -2581,6 +2590,32 @@
       "Genres": [
         "Adventure",
         "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 315459,
+      "Title": "Atre: Dominance Wars",
+      "ReleaseDate": "2026-06-08",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8t20.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2805850",
+      "Metacritic": 0,
+      "AddedCount": 4,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctvrz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctvs0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctvrx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctvs1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctvry.jpg"
+      ],
+      "Genres": [
+        "Real Time Strategy (RTS)",
+        "Role-playing (RPG)",
+        "Simulator"
       ],
       "Tags": [],
       "Platforms": [
@@ -2722,33 +2757,6 @@
         "Simulator",
         "Strategy",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 258341,
-      "Title": "Neo Junk City",
-      "ReleaseDate": "2026-06-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8usa.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2378230",
-      "Metacritic": 0,
-      "AddedCount": 4,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scnj4f.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scnj4g.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scnj4h.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scnj4i.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scnj4j.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scnj4k.jpg"
-      ],
-      "Genres": [
-        "Point-and-click",
-        "Role-playing (RPG)",
-        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
