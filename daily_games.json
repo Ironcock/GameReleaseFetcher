@@ -8,7 +8,7 @@
       "StoreURL": "https://store.steampowered.com/app/3768760",
       "Metacritic": 81,
       "AddedCount": 289,
-      "Rating": 80.70655181502453,
+      "Rating": 80.74090664416377,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx79u.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx79v.jpg",
@@ -65,7 +65,7 @@
       "StoreURL": "https://store.steampowered.com/app/2483190",
       "Metacritic": 80,
       "AddedCount": 102,
-      "Rating": 80.0859402380118,
+      "Rating": 80.15554311479626,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdi.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdj.jpg",
@@ -94,9 +94,9 @@
       "ReleaseDate": "2026-05-22",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coab09.jpg",
       "StoreURL": "https://store.steampowered.com/app/2215200",
-      "Metacritic": 74,
+      "Metacritic": 76,
       "AddedCount": 85,
-      "Rating": 74.18983154385498,
+      "Rating": 75.85361489449974,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymdu.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymdv.jpg",
@@ -122,7 +122,7 @@
       "StoreURL": "https://store.steampowered.com/app/1962700",
       "Metacritic": 90,
       "AddedCount": 85,
-      "Rating": 90.0621977896742,
+      "Rating": 90.07571462447729,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu8a0.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu8a1.jpg",
@@ -1420,7 +1420,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobc5q.jpg",
       "StoreURL": "https://store.steampowered.com/app/2001760",
       "Metacritic": 0,
-      "AddedCount": 90,
+      "AddedCount": 91,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbca.jpg",
@@ -1446,7 +1446,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9wwj.jpg",
       "StoreURL": "https://store.steampowered.com/app/3787240",
       "Metacritic": 0,
-      "AddedCount": 42,
+      "AddedCount": 41,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7bu.jpg",
@@ -1530,7 +1530,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaawz.jpg",
       "StoreURL": "https://store.steampowered.com/app/2524850",
       "Metacritic": 0,
-      "AddedCount": 26,
+      "AddedCount": 27,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym2a.jpg",
@@ -1559,7 +1559,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coblri.jpg",
       "StoreURL": "https://store.steampowered.com/app/3483510",
       "Metacritic": 0,
-      "AddedCount": 23,
+      "AddedCount": 24,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyaoe.jpg",
@@ -1634,6 +1634,36 @@
       ]
     },
     {
+      "ID": 383882,
+      "Title": "Burglin' Gnomes",
+      "ReleaseDate": "2026-06-10",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob6ob.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3844970",
+      "Metacritic": 0,
+      "AddedCount": 20,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc114rm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc114rn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc114ro.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc114rp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc114rq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc114rr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc114rs.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc114rt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc114ru.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc114rv.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 373021,
       "Title": "Avatar Legends: The Fighting Game",
       "ReleaseDate": "2026-07-02",
@@ -1661,43 +1691,13 @@
       ]
     },
     {
-      "ID": 383882,
-      "Title": "Burglin' Gnomes",
-      "ReleaseDate": "2026-06-10",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob6ob.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3844970",
-      "Metacritic": 0,
-      "AddedCount": 19,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc114rm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc114rn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc114ro.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc114rp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc114rq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc114rr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc114rs.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc114rt.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc114ru.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc114rv.jpg"
-      ],
-      "Genres": [
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 334673,
       "Title": "The Mound: Omen of Cthulhu",
       "ReleaseDate": "2026-07-15",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coave2.jpg",
       "StoreURL": "https://store.steampowered.com/app/2569760",
       "Metacritic": 0,
-      "AddedCount": 15,
+      "AddedCount": 17,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvo1g.jpg",
@@ -1768,6 +1768,32 @@
       ],
       "Genres": [
         "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 335296,
+      "Title": "Wild Blue Skies",
+      "ReleaseDate": "2026-08-13",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaw26.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1921490",
+      "Metacritic": 0,
+      "AddedCount": 11,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvq4j.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvq4k.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvq4l.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvq4m.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvq4n.jpg"
+      ],
+      "Genres": [
+        "Shooter",
+        "Adventure",
+        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -1855,32 +1881,6 @@
       "Genres": [
         "Role-playing (RPG)",
         "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 335296,
-      "Title": "Wild Blue Skies",
-      "ReleaseDate": "2026-08-13",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaw26.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1921490",
-      "Metacritic": 0,
-      "AddedCount": 10,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvq4j.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvq4k.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvq4l.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvq4m.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvq4n.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Adventure",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -2025,6 +2025,37 @@
       ]
     },
     {
+      "ID": 398638,
+      "Title": "Corsair Cove",
+      "ReleaseDate": "2026-07-31",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobxwd.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1368140",
+      "Metacritic": 0,
+      "AddedCount": 7,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12zgr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12zgs.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12zgt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12zgu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12zgv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12zgw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12zgx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12zgy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12zgz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12zh0.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Strategy",
+        "Turn-based strategy (TBS)"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 350179,
       "Title": "Servant of the Lake",
       "ReleaseDate": "2026-06-30",
@@ -2098,37 +2129,6 @@
       "Genres": [
         "Adventure",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 398638,
-      "Title": "Corsair Cove",
-      "ReleaseDate": "2026-07-31",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobxwd.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1368140",
-      "Metacritic": 0,
-      "AddedCount": 6,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12zgr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12zgs.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12zgt.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12zgu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12zgv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12zgw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12zgx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12zgy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12zgz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12zh0.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Strategy",
-        "Turn-based strategy (TBS)"
       ],
       "Tags": [],
       "Platforms": [
@@ -2232,6 +2232,33 @@
       "Genres": [
         "Platform",
         "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 362089,
+      "Title": "Crushed in Time",
+      "ReleaseDate": "2026-06-10",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coafof.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3858650",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn52.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn54.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn56.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn59.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn5c.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn5e.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn5g.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -2459,6 +2486,36 @@
       ]
     },
     {
+      "ID": 391055,
+      "Title": "Dive or Die: Children of Rain",
+      "ReleaseDate": "2026-06-21",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobphf.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3590290",
+      "Metacritic": 0,
+      "AddedCount": 4,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc124zi.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc124zj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc124zk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc124zl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc124zm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc124zn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc124zo.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc124zp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc124zq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc124zr.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 388439,
       "Title": "Kyoto Xanadu: The Blooming Phantom",
       "ReleaseDate": "2026-07-16",
@@ -2532,33 +2589,6 @@
       "Genres": [
         "Simulator",
         "Strategy",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 362089,
-      "Title": "Crushed in Time",
-      "ReleaseDate": "2026-06-10",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coafof.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3858650",
-      "Metacritic": 0,
-      "AddedCount": 4,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn52.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn54.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn56.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn59.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn5c.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn5e.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn5g.jpg"
-      ],
-      "Genres": [
-        "Adventure",
         "Indie"
       ],
       "Tags": [],
@@ -2756,31 +2786,6 @@
       "Genres": [
         "Simulator",
         "Strategy",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 235402,
-      "Title": "Vampire Rancher",
-      "ReleaseDate": "2026-06-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8b6n.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2159260",
-      "Metacritic": 0,
-      "AddedCount": 4,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckyi7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckyi6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckyia.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckyi8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckyi9.jpg"
-      ],
-      "Genres": [
-        "Simulator",
         "Indie"
       ],
       "Tags": [],
