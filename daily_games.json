@@ -65,9 +65,9 @@
       "ReleaseDate": "2026-05-22",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coab09.jpg",
       "StoreURL": "https://store.steampowered.com/app/2215200",
-      "Metacritic": 80,
+      "Metacritic": 84,
       "AddedCount": 85,
-      "Rating": 79.88124151426416,
+      "Rating": 84.29699228531828,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymdu.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymdv.jpg",
@@ -93,7 +93,7 @@
       "StoreURL": "https://store.steampowered.com/app/1962700",
       "Metacritic": 90,
       "AddedCount": 85,
-      "Rating": 90.06834484499434,
+      "Rating": 90.06830362466903,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu8a0.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu8a1.jpg",
@@ -149,9 +149,9 @@
       "ReleaseDate": "2026-05-29",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4g15.jpg",
       "StoreURL": "https://store.steampowered.com/app/1875580",
-      "Metacritic": 90,
+      "Metacritic": 86,
       "AddedCount": 48,
-      "Rating": 90.34497032846387,
+      "Rating": 85.61258884073484,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scfkjl.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scfkjm.jpg",
@@ -1441,7 +1441,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc79u.jpg",
       "StoreURL": "https://store.steampowered.com/app/2713000",
       "Metacritic": 0,
-      "AddedCount": 97,
+      "AddedCount": 99,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9w.jpg",
@@ -1470,7 +1470,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7uod.jpg",
       "StoreURL": "https://store.steampowered.com/app/2825860",
       "Metacritic": 0,
-      "AddedCount": 53,
+      "AddedCount": 54,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqxv8.jpg",
@@ -1529,7 +1529,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc7a0.jpg",
       "StoreURL": "https://store.steampowered.com/app/2075800",
       "Metacritic": 0,
-      "AddedCount": 45,
+      "AddedCount": 46,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwdbl.jpg",
@@ -1570,6 +1570,31 @@
       "Genres": [
         "Role-playing (RPG)",
         "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 293733,
+      "Title": "Screenbound",
+      "ReleaseDate": "2026-09-10",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobyys.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2805070",
+      "Metacritic": 0,
+      "AddedCount": 33,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrhfh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrhfi.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrhfj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrhfk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrhfl.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -1980,6 +2005,36 @@
       ]
     },
     {
+      "ID": 389421,
+      "Title": "They Will Come",
+      "ReleaseDate": "2026-07-01",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobig1.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3957680",
+      "Metacritic": 0,
+      "AddedCount": 11,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ol5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ol6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ol7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ol8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ol9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ola.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13olb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13olc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13old.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ole.jpg"
+      ],
+      "Genres": [
+        "Puzzle",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 237123,
       "Title": "Moonlight Peaks",
       "ReleaseDate": "2026-07-07",
@@ -2103,36 +2158,6 @@
       ],
       "Genres": [
         "Role-playing (RPG)",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 389421,
-      "Title": "They Will Come",
-      "ReleaseDate": "2026-07-01",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobig1.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3957680",
-      "Metacritic": 0,
-      "AddedCount": 9,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ol5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ol6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ol7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ol8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ol9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ola.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13olb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13olc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13old.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ole.jpg"
-      ],
-      "Genres": [
-        "Puzzle",
         "Adventure"
       ],
       "Tags": [],
@@ -2445,6 +2470,35 @@
       ]
     },
     {
+      "ID": 387461,
+      "Title": "The Alighieri Circle: Dante\u2019s Bloodline",
+      "ReleaseDate": "2026-09-10",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobdjw.jpg",
+      "StoreURL": "https://store.steampowered.com/app/4262620",
+      "Metacritic": 0,
+      "AddedCount": 6,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11ig8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11iga.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11igb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11igc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11igd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11ig9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11ige.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11igf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11igg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11igh.jpg"
+      ],
+      "Genres": [
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 340029,
       "Title": "Cosmic Fear",
       "ReleaseDate": "2026-09-09",
@@ -2693,64 +2747,6 @@
         "Puzzle",
         "Adventure",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 309518,
-      "Title": "Lifted",
-      "ReleaseDate": "2026-07-22",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobrwj.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2184020",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct4ut.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct4uu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct4uv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct4uo.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct4up.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct4uq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct4ur.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct4us.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct4uw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct4ux.jpg"
-      ],
-      "Genres": [
-        "Platform",
-        "Puzzle",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 285987,
-      "Title": "Teeto",
-      "ReleaseDate": "2026-07-15",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9ecr.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2783370",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scygoy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scygoz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scygp0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scygp1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scygp2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scygp3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scygp4.jpg"
-      ],
-      "Genres": [
-        "Platform",
-        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
