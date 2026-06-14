@@ -8,7 +8,7 @@
       "StoreURL": "https://store.steampowered.com/app/3768760",
       "Metacritic": 84,
       "AddedCount": 289,
-      "Rating": 84.19593834223389,
+      "Rating": 84.18863721905495,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx79u.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx79v.jpg",
@@ -36,7 +36,7 @@
       "StoreURL": "https://store.steampowered.com/app/2483190",
       "Metacritic": 80,
       "AddedCount": 102,
-      "Rating": 80.15010294110724,
+      "Rating": 80.14982675473433,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdi.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdj.jpg",
@@ -65,9 +65,9 @@
       "ReleaseDate": "2026-05-22",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coab09.jpg",
       "StoreURL": "https://store.steampowered.com/app/2215200",
-      "Metacritic": 84,
+      "Metacritic": 85,
       "AddedCount": 85,
-      "Rating": 84.29699228531828,
+      "Rating": 84.61470119130598,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymdu.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymdv.jpg",
@@ -246,30 +246,6 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw2tx.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw2ty.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw2tz.jpg"
-      ],
-      "Genres": [
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 252846,
-      "Title": "Sand: Raiders Of Sophie",
-      "ReleaseDate": "2026-06-10",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coarmc.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1431300",
-      "Metacritic": 0,
-      "AddedCount": 22,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwp0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwp2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwp4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwp7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwp9.jpg"
       ],
       "Genres": [
         "Adventure"
@@ -1371,6 +1347,29 @@
       "Platforms": [
         "pc"
       ]
+    },
+    {
+      "ID": 397694,
+      "Title": "Airport Security Sucks!",
+      "ReleaseDate": "2026-06-05",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobwdv.jpg",
+      "StoreURL": "https://store.steampowered.com/app/4285690",
+      "Metacritic": 0,
+      "AddedCount": 4,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12vh7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12vh8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12vh9.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
     }
   ],
   "Upcoming": [
@@ -1399,6 +1398,35 @@
       ]
     },
     {
+      "ID": 348168,
+      "Title": "Resonance: A Plague Tale Legacy",
+      "ReleaseDate": "2026-08-27",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc79u.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2713000",
+      "Metacritic": 0,
+      "AddedCount": 103,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9w.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9x.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9y.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9z.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxba0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13q15.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13q16.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13q17.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13q18.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13q19.jpg"
+      ],
+      "Genres": [
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 348180,
       "Title": "Beast of Reincarnation",
       "ReleaseDate": "2026-08-04",
@@ -1417,35 +1445,6 @@
       ],
       "Genres": [
         "Role-playing (RPG)",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 348168,
-      "Title": "Resonance: A Plague Tale Legacy",
-      "ReleaseDate": "2026-08-27",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc79u.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2713000",
-      "Metacritic": 0,
-      "AddedCount": 101,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9w.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9x.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9y.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9z.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxba0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13q15.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13q16.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13q17.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13q18.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13q19.jpg"
-      ],
-      "Genres": [
         "Adventure"
       ],
       "Tags": [],
@@ -1545,7 +1544,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc5za.jpg",
       "StoreURL": "https://store.steampowered.com/app/3282300",
       "Metacritic": 0,
-      "AddedCount": 35,
+      "AddedCount": 36,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu85c.jpg",
@@ -1751,6 +1750,30 @@
       ]
     },
     {
+      "ID": 252846,
+      "Title": "Sand: Raiders Of Sophie",
+      "ReleaseDate": "2026-06-22",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coarmc.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1431300",
+      "Metacritic": 0,
+      "AddedCount": 22,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwp0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwp2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwp4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwp7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwp9.jpg"
+      ],
+      "Genres": [
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 381208,
       "Title": "TankRat",
       "ReleaseDate": "2026-06-30",
@@ -1781,7 +1804,7 @@
       "ID": 334673,
       "Title": "The Mound: Omen of Cthulhu",
       "ReleaseDate": "2026-07-15",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coave2.jpg",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc8k5.jpg",
       "StoreURL": "https://store.steampowered.com/app/2569760",
       "Metacritic": 0,
       "AddedCount": 20,
@@ -2203,6 +2226,36 @@
       ]
     },
     {
+      "ID": 279369,
+      "Title": "The Mermaid Mask",
+      "ReleaseDate": "2026-07-16",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8dvp.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1696770",
+      "Metacritic": 0,
+      "AddedCount": 9,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqi.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqs.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqe.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqk.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 253578,
       "Title": "Dimhaven: The Lost Source",
       "ReleaseDate": "2026-06-23",
@@ -2303,36 +2356,6 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12fxj.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12fxk.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12fxl.jpg"
-      ],
-      "Genres": [
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 279369,
-      "Title": "The Mermaid Mask",
-      "ReleaseDate": "2026-07-16",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8dvp.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1696770",
-      "Metacritic": 0,
-      "AddedCount": 8,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqi.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqs.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqe.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqk.jpg"
       ],
       "Genres": [
         "Adventure",
@@ -2519,6 +2542,32 @@
       ]
     },
     {
+      "ID": 350179,
+      "Title": "Servant of the Lake",
+      "ReleaseDate": "2026-08-13",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coab7n.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3636770",
+      "Metacritic": 0,
+      "AddedCount": 6,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxq7f.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxq7g.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxq7h.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxq7i.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxq7j.jpg"
+      ],
+      "Genres": [
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 340029,
       "Title": "Cosmic Fear",
       "ReleaseDate": "2026-09-09",
@@ -2680,63 +2729,6 @@
       "Genres": [
         "Platform",
         "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 369840,
-      "Title": "D-topia",
-      "ReleaseDate": "2026-07-14",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coajon.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1895460",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc0h.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc0j.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc0g.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc0k.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc0n.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc0o.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc0p.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc0q.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc0r.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc0i.jpg"
-      ],
-      "Genres": [
-        "Puzzle",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 350179,
-      "Title": "Servant of the Lake",
-      "ReleaseDate": "2026-08-13",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coab7n.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3636770",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxq7f.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxq7g.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxq7h.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxq7i.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxq7j.jpg"
-      ],
-      "Genres": [
-        "Puzzle",
-        "Adventure",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
