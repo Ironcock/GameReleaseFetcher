@@ -8,7 +8,7 @@
       "StoreURL": "https://store.steampowered.com/app/3768760",
       "Metacritic": 84,
       "AddedCount": 289,
-      "Rating": 84.18863721905495,
+      "Rating": 84.1843570900158,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx79u.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx79v.jpg",
@@ -36,7 +36,7 @@
       "StoreURL": "https://store.steampowered.com/app/2483190",
       "Metacritic": 80,
       "AddedCount": 102,
-      "Rating": 80.14982675473433,
+      "Rating": 80.16901843549014,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdi.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdj.jpg",
@@ -122,7 +122,7 @@
       "StoreURL": "https://store.steampowered.com/app/1875580",
       "Metacritic": 86,
       "AddedCount": 48,
-      "Rating": 85.61258884073484,
+      "Rating": 85.60312892916772,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scfkjl.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scfkjm.jpg",
@@ -356,6 +356,7 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv45g.jpg"
       ],
       "Genres": [
+        "Indie",
         "Visual Novel"
       ],
       "Tags": [],
@@ -1404,7 +1405,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc79u.jpg",
       "StoreURL": "https://store.steampowered.com/app/2713000",
       "Metacritic": 0,
-      "AddedCount": 103,
+      "AddedCount": 105,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9w.jpg",
@@ -1483,35 +1484,6 @@
       ]
     },
     {
-      "ID": 347132,
-      "Title": "Marvel Tokon: Fighting Souls",
-      "ReleaseDate": "2026-08-06",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc6oy.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3787240",
-      "Metacritic": 0,
-      "AddedCount": 47,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7bu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7bv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7bw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7bx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7by.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7bz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7c0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7c1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyrtc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyrtd.jpg"
-      ],
-      "Genres": [
-        "Fighting"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 340113,
       "Title": "Star Wars Zero Company",
       "ReleaseDate": "2026-08-27",
@@ -1531,6 +1503,35 @@
         "Strategy",
         "Turn-based strategy (TBS)",
         "Tactical"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 347132,
+      "Title": "Marvel Tokon: Fighting Souls",
+      "ReleaseDate": "2026-08-06",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc6oy.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3787240",
+      "Metacritic": 0,
+      "AddedCount": 46,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7bu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7bv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7bw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7bx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7by.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7bz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7c0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7c1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyrtc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyrtd.jpg"
+      ],
+      "Genres": [
+        "Fighting"
       ],
       "Tags": [],
       "Platforms": [
@@ -1623,7 +1624,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7h9m.jpg",
       "StoreURL": "https://store.steampowered.com/app/1478500",
       "Metacritic": 0,
-      "AddedCount": 30,
+      "AddedCount": 31,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpuym.jpg",
@@ -1648,11 +1649,11 @@
     {
       "ID": 361826,
       "Title": "Denshattack!",
-      "ReleaseDate": "2026-07-15",
+      "ReleaseDate": "2026-06-17",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaawz.jpg",
       "StoreURL": "https://store.steampowered.com/app/2524850",
       "Metacritic": 0,
-      "AddedCount": 29,
+      "AddedCount": 28,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym2a.jpg",
@@ -2048,6 +2049,33 @@
       ]
     },
     {
+      "ID": 362063,
+      "Title": "Hell Let Loose: Vietnam",
+      "ReleaseDate": "2026-08-13",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4hc.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3079210",
+      "Metacritic": 0,
+      "AddedCount": 11,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn72.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn73.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn74.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn75.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn76.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn77.jpg"
+      ],
+      "Genres": [
+        "Shooter",
+        "Simulator",
+        "Strategy"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 237123,
       "Title": "Moonlight Peaks",
       "ReleaseDate": "2026-07-07",
@@ -2078,26 +2106,21 @@
       ]
     },
     {
-      "ID": 362063,
-      "Title": "Hell Let Loose: Vietnam",
-      "ReleaseDate": "2026-08-13",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4hc.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3079210",
+      "ID": 378071,
+      "Title": "An Eggstremely Hard Game",
+      "ReleaseDate": "2026-07-24",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coauzw.jpg",
+      "StoreURL": "https://store.steampowered.com/app/4112070",
       "Metacritic": 0,
       "AddedCount": 10,
       "Rating": 0.0,
       "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn72.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn73.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn74.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn75.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn76.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn77.jpg"
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ezg.jpg"
       ],
       "Genres": [
-        "Shooter",
-        "Simulator",
-        "Strategy"
+        "Platform",
+        "Adventure",
+        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -2179,28 +2202,6 @@
       ]
     },
     {
-      "ID": 378071,
-      "Title": "An Eggstremely Hard Game",
-      "ReleaseDate": "2026-07-24",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coauzw.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4112070",
-      "Metacritic": 0,
-      "AddedCount": 9,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ezg.jpg"
-      ],
-      "Genres": [
-        "Platform",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 325182,
       "Title": "Toem 2",
       "ReleaseDate": "2026-06-30",
@@ -2215,6 +2216,31 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuqfh.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuqfi.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuqfj.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 310336,
+      "Title": "Nocturnal II",
+      "ReleaseDate": "2026-06-30",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9vk5.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2847780",
+      "Metacritic": 0,
+      "AddedCount": 9,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvvi4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvvi5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvvi6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvvi7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11mdn.jpg"
       ],
       "Genres": [
         "Adventure",
@@ -2274,31 +2300,6 @@
       ],
       "Genres": [
         "Puzzle",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 310336,
-      "Title": "Nocturnal II",
-      "ReleaseDate": "2026-06-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9vk5.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2847780",
-      "Metacritic": 0,
-      "AddedCount": 8,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvvi4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvvi5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvvi6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvvi7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11mdn.jpg"
-      ],
-      "Genres": [
         "Adventure",
         "Indie"
       ],
