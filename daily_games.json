@@ -6,9 +6,9 @@
       "ReleaseDate": "2026-05-27",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaoiz.jpg",
       "StoreURL": "https://store.steampowered.com/app/3768760",
-      "Metacritic": 84,
+      "Metacritic": 83,
       "AddedCount": 289,
-      "Rating": 84.1843570900158,
+      "Rating": 83.21453039903312,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx79u.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx79v.jpg",
@@ -36,7 +36,7 @@
       "StoreURL": "https://store.steampowered.com/app/2483190",
       "Metacritic": 80,
       "AddedCount": 102,
-      "Rating": 80.16901843549014,
+      "Rating": 80.1685341969642,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdi.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdj.jpg",
@@ -122,7 +122,7 @@
       "StoreURL": "https://store.steampowered.com/app/1875580",
       "Metacritic": 86,
       "AddedCount": 48,
-      "Rating": 85.60312892916772,
+      "Rating": 85.60418276674142,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scfkjl.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scfkjm.jpg",
@@ -757,6 +757,37 @@
       ]
     },
     {
+      "ID": 305177,
+      "Title": "Copa City",
+      "ReleaseDate": "2026-06-16",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobte0.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2210520",
+      "Metacritic": 0,
+      "AddedCount": 8,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsok9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsokb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsokc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsokd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsokf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoka.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoke.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12o4s.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12o4t.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12o4u.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Sport",
+        "Strategy"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 302176,
       "Title": "Warhammer 40,000: Mechanicus II",
       "ReleaseDate": "2026-05-21",
@@ -1348,29 +1379,6 @@
       "Platforms": [
         "pc"
       ]
-    },
-    {
-      "ID": 397694,
-      "Title": "Airport Security Sucks!",
-      "ReleaseDate": "2026-06-05",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobwdv.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4285690",
-      "Metacritic": 0,
-      "AddedCount": 4,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12vh7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12vh8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12vh9.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
     }
   ],
   "Upcoming": [
@@ -1381,7 +1389,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob7ym.jpg",
       "StoreURL": "https://store.steampowered.com/app/3751260",
       "Metacritic": 0,
-      "AddedCount": 198,
+      "AddedCount": 200,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv1hb.jpg",
@@ -1434,7 +1442,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobc5q.jpg",
       "StoreURL": "https://store.steampowered.com/app/2001760",
       "Metacritic": 0,
-      "AddedCount": 101,
+      "AddedCount": 102,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbca.jpg",
@@ -1598,7 +1606,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coblri.jpg",
       "StoreURL": "https://store.steampowered.com/app/3483510",
       "Metacritic": 0,
-      "AddedCount": 31,
+      "AddedCount": 32,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyaoe.jpg",
@@ -1649,7 +1657,7 @@
     {
       "ID": 361826,
       "Title": "Denshattack!",
-      "ReleaseDate": "2026-06-17",
+      "ReleaseDate": "2026-07-15",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaawz.jpg",
       "StoreURL": "https://store.steampowered.com/app/2524850",
       "Metacritic": 0,
@@ -1754,7 +1762,7 @@
       "ID": 252846,
       "Title": "Sand: Raiders Of Sophie",
       "ReleaseDate": "2026-06-22",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coarmc.jpg",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc93o.jpg",
       "StoreURL": "https://store.steampowered.com/app/1431300",
       "Metacritic": 0,
       "AddedCount": 22,
@@ -1993,6 +2001,35 @@
       ]
     },
     {
+      "ID": 370708,
+      "Title": "BrokenLore: Don't Lie",
+      "ReleaseDate": "2026-09-10",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coakzn.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3886200",
+      "Metacritic": 0,
+      "AddedCount": 12,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfht.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfhu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfhv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfhw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfhx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfhy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfhz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfi0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfi1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfhr.jpg"
+      ],
+      "Genres": [
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 335296,
       "Title": "Wild Blue Skies",
       "ReleaseDate": "2026-08-13",
@@ -2154,6 +2191,33 @@
       ]
     },
     {
+      "ID": 253578,
+      "Title": "Dimhaven: The Lost Source",
+      "ReleaseDate": "2026-06-23",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4qa.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2458980",
+      "Metacritic": 0,
+      "AddedCount": 10,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmzv9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmzva.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmzvb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmzvc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmzvd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmzve.jpg"
+      ],
+      "Genres": [
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 214706,
       "Title": "Lou's Lagoon",
       "ReleaseDate": "2026-08-27",
@@ -2275,64 +2339,6 @@
       "Genres": [
         "Adventure",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 253578,
-      "Title": "Dimhaven: The Lost Source",
-      "ReleaseDate": "2026-06-23",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4qa.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2458980",
-      "Metacritic": 0,
-      "AddedCount": 9,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmzv9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmzva.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmzvb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmzvc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmzvd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmzve.jpg"
-      ],
-      "Genres": [
-        "Puzzle",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 305177,
-      "Title": "Copa City",
-      "ReleaseDate": "2026-06-16",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobte0.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2210520",
-      "Metacritic": 0,
-      "AddedCount": 8,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsok9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsokb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsokc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsokd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsokf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoka.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoke.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12o4s.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12o4t.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12o4u.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Sport",
-        "Strategy"
       ],
       "Tags": [],
       "Platforms": [
@@ -2514,6 +2520,63 @@
       ]
     },
     {
+      "ID": 143710,
+      "Title": "Scarlet Deer Inn",
+      "ReleaseDate": "2026-07-21",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc8cz.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1553260",
+      "Metacritic": 0,
+      "AddedCount": 7,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc92ha.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc92hb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc92hc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc92hd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc92he.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc92hf.jpg"
+      ],
+      "Genres": [
+        "Platform",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 401893,
+      "Title": "Moss: The Forgotten Relic",
+      "ReleaseDate": "2026-07-16",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc2pc.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3914860",
+      "Metacritic": 0,
+      "AddedCount": 6,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13crn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13crj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13crh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13crg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13cri.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13crm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13crk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13crl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13cro.jpg"
+      ],
+      "Genres": [
+        "Fighting",
+        "Platform",
+        "Puzzle"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 387461,
       "Title": "The Alighieri Circle: Dante\u2019s Bloodline",
       "ReleaseDate": "2026-09-10",
@@ -2670,66 +2733,6 @@
         "Role-playing (RPG)",
         "Strategy",
         "Hack and slash/Beat 'em up"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 391055,
-      "Title": "Dive or Die: Children of Rain",
-      "ReleaseDate": "2026-06-21",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobphf.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3590290",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc124zi.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc124zj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc124zk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc124zl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc124zm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc124zn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc124zo.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc124zp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc124zq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc124zr.jpg"
-      ],
-      "Genres": [
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 375091,
-      "Title": "Skinwalker: First Blood",
-      "ReleaseDate": "2026-06-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqqi.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3086670",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc101id.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc101if.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc101ii.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc101ik.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc101il.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc101im.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc101in.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc101ie.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc101ih.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc101ij.jpg"
-      ],
-      "Genres": [
-        "Platform",
-        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
