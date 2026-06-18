@@ -6,9 +6,9 @@
       "ReleaseDate": "2026-05-27",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaoiz.jpg",
       "StoreURL": "https://store.steampowered.com/app/3768760",
-      "Metacritic": 81,
+      "Metacritic": 82,
       "AddedCount": 289,
-      "Rating": 81.15264175076895,
+      "Rating": 82.19970028166657,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx79u.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx79v.jpg",
@@ -22,37 +22,6 @@
       "Genres": [
         "Shooter",
         "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 348330,
-      "Title": "Forza Horizon 6",
-      "ReleaseDate": "2026-05-19",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobc5n.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2483190",
-      "Metacritic": 80,
-      "AddedCount": 102,
-      "Rating": 80.16843299653706,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdi.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fdo.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13cgq.jpg"
-      ],
-      "Genres": [
-        "Racing",
-        "Simulator",
-        "Sport"
       ],
       "Tags": [],
       "Platforms": [
@@ -197,6 +166,32 @@
       "Genres": [
         "Simulator",
         "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 358534,
+      "Title": "The Adventures of Elliot: The Millennium Tales",
+      "ReleaseDate": "2026-06-18",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coblri.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3483510",
+      "Metacritic": 0,
+      "AddedCount": 35,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyaoe.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyaof.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyaog.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyaoh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyaoi.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyaoj.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -932,33 +927,6 @@
       ]
     },
     {
-      "ID": 272348,
-      "Title": "Project: Mist",
-      "ReleaseDate": "2026-05-19",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co796q.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2383130",
-      "Metacritic": 0,
-      "AddedCount": 6,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scp1gq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scp1gs.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scp1gx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scp1gy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scp1gv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scp1gz.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 231484,
       "Title": "LumenTale: Memories of Trey",
       "ReleaseDate": "2026-05-26",
@@ -1375,6 +1343,37 @@
       "Platforms": [
         "pc"
       ]
+    },
+    {
+      "ID": 389109,
+      "Title": "Terrinoth: Heroes of Descent",
+      "ReleaseDate": "2026-06-07",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobhdc.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3929630",
+      "Metacritic": 0,
+      "AddedCount": 4,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11oox.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11ooy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11ooz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11op1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11op5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11op8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11opb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11op2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11op9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11op0.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Tactical"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
     }
   ],
   "Upcoming": [
@@ -1385,7 +1384,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob7ym.jpg",
       "StoreURL": "https://store.steampowered.com/app/3751260",
       "Metacritic": 0,
-      "AddedCount": 200,
+      "AddedCount": 203,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv1hb.jpg",
@@ -1571,32 +1570,6 @@
       ]
     },
     {
-      "ID": 358534,
-      "Title": "The Adventures of Elliot: The Millennium Tales",
-      "ReleaseDate": "2026-06-18",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coblri.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3483510",
-      "Metacritic": 0,
-      "AddedCount": 34,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyaoe.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyaof.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyaog.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyaoh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyaoi.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyaoj.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 293733,
       "Title": "Screenbound",
       "ReleaseDate": "2026-09-10",
@@ -1644,6 +1617,33 @@
         "Platform",
         "Puzzle",
         "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 165397,
+      "Title": "The Relic: First Guardian",
+      "ReleaseDate": "2026-07-31",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8btm.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2827820",
+      "Metacritic": 0,
+      "AddedCount": 30,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scq1wb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scq1wc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scq1wd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scq1we.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scq1wf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scq1wg.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -2187,6 +2187,36 @@
       ]
     },
     {
+      "ID": 279369,
+      "Title": "The Mermaid Mask",
+      "ReleaseDate": "2026-07-16",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8dvp.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1696770",
+      "Metacritic": 0,
+      "AddedCount": 10,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqi.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqs.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqe.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqk.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 253578,
       "Title": "Dimhaven: The Lost Source",
       "ReleaseDate": "2026-06-23",
@@ -2217,17 +2247,17 @@
       "ID": 214706,
       "Title": "Lou's Lagoon",
       "ReleaseDate": "2026-08-27",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9p05.jpg",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc9ja.jpg",
       "StoreURL": "https://store.steampowered.com/app/2100020",
       "Metacritic": 0,
       "AddedCount": 10,
       "Rating": 0.0,
       "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scijak.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scijaj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scijai.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scijal.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scijam.jpg"
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13x21.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13x22.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13x23.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13x24.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13x25.jpg"
       ],
       "Genres": [
         "Simulator",
@@ -2301,36 +2331,6 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvvi6.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvvi7.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11mdn.jpg"
-      ],
-      "Genres": [
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 279369,
-      "Title": "The Mermaid Mask",
-      "ReleaseDate": "2026-07-16",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8dvp.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1696770",
-      "Metacritic": 0,
-      "AddedCount": 9,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqi.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqs.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqe.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqk.jpg"
       ],
       "Genres": [
         "Adventure",
