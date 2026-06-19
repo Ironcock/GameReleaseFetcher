@@ -8,7 +8,7 @@
       "StoreURL": "https://store.steampowered.com/app/3768760",
       "Metacritic": 82,
       "AddedCount": 289,
-      "Rating": 82.19970028166657,
+      "Rating": 82.19915720532023,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx79u.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx79v.jpg",
@@ -192,34 +192,6 @@
       "Genres": [
         "Role-playing (RPG)",
         "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 224511,
-      "Title": "Thick as Thieves",
-      "ReleaseDate": "2026-05-20",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc2gk.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3341000",
-      "Metacritic": 0,
-      "AddedCount": 27,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13boq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13bor.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13bos.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13bot.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13bou.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13c3r.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13c3s.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13c3t.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -414,6 +386,37 @@
       ]
     },
     {
+      "ID": 324576,
+      "Title": "Prologue: Go Wayback!",
+      "ReleaseDate": "2026-06-17",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coav7e.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2943740",
+      "Metacritic": 0,
+      "AddedCount": 15,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fg8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fg9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fga.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fgb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fgc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fgd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fge.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fgg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fgf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scykhj.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 252828,
       "Title": "33 Immortals",
       "ReleaseDate": "2026-06-10",
@@ -490,32 +493,6 @@
         "Platform",
         "Adventure",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 270354,
-      "Title": "Deep Rock Galactic: Rogue Core",
-      "ReleaseDate": "2026-05-20",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coay8u.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2605790",
-      "Metacritic": 0,
-      "AddedCount": 13,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scov24.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scov26.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scov22.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scov23.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scov27.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scov25.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scov28.jpg"
-      ],
-      "Genres": [
-        "Shooter"
       ],
       "Tags": [],
       "Platforms": [
@@ -604,32 +581,6 @@
         "Puzzle",
         "Simulator",
         "Strategy"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 204549,
-      "Title": "Phonopolis",
-      "ReleaseDate": "2026-05-20",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4uyw.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1206070",
-      "Metacritic": 0,
-      "AddedCount": 11,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/schde7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/schde8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/schde9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/schdea.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/schdeb.jpg"
-      ],
-      "Genres": [
-        "Point-and-click",
-        "Puzzle",
-        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -752,6 +703,33 @@
       ]
     },
     {
+      "ID": 312791,
+      "Title": "Thank You For Your Application",
+      "ReleaseDate": "2026-06-19",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9wgf.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2881370",
+      "Metacritic": 0,
+      "AddedCount": 8,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx5l1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx5l3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx5l2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx5l6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx5l4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx5l5.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 305177,
       "Title": "Copa City",
       "ReleaseDate": "2026-06-16",
@@ -865,11 +843,41 @@
       ]
     },
     {
+      "ID": 302107,
+      "Title": "Maseylia: Echoes of the Past",
+      "ReleaseDate": "2026-06-19",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobz55.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2938870",
+      "Metacritic": 0,
+      "AddedCount": 7,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsb9l.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsb9c.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsb9i.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsb9p.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsb9s.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsb9w.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsba0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsba3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsba7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsb9f.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 280353,
       "Title": "Starminer",
       "ReleaseDate": "2026-05-27",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8ba1.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1116050",
+      "StoreURL": "https://store.steampowered.com/app/1749220",
       "Metacritic": 0,
       "AddedCount": 7,
       "Rating": 0.0,
@@ -1384,7 +1392,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob7ym.jpg",
       "StoreURL": "https://store.steampowered.com/app/3751260",
       "Metacritic": 0,
-      "AddedCount": 203,
+      "AddedCount": 204,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv1hb.jpg",
@@ -1408,7 +1416,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc79u.jpg",
       "StoreURL": "https://store.steampowered.com/app/2713000",
       "Metacritic": 0,
-      "AddedCount": 106,
+      "AddedCount": 107,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9w.jpg",
@@ -1437,7 +1445,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobc5q.jpg",
       "StoreURL": "https://store.steampowered.com/app/2001760",
       "Metacritic": 0,
-      "AddedCount": 102,
+      "AddedCount": 103,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbca.jpg",
@@ -1722,6 +1730,34 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn71.jpg"
       ],
       "Genres": [],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 361859,
+      "Title": "Warhammer 40,000: Dawn of War IV",
+      "ReleaseDate": "2026-09-17",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaaxx.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2272360",
+      "Metacritic": 0,
+      "AddedCount": 25,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymb4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymb1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymb2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymb3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymb5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymb8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymb9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymb6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymb7.jpg"
+      ],
+      "Genres": [
+        "Strategy"
+      ],
       "Tags": [],
       "Platforms": [
         "pc"
@@ -2342,6 +2378,36 @@
       ]
     },
     {
+      "ID": 404741,
+      "Title": "Trine 6: Together in Time",
+      "ReleaseDate": "2026-09-17",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc6o3.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2932260",
+      "Metacritic": 0,
+      "AddedCount": 8,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13nvv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13nvp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13nvq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13nvr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13nvs.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13nvt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13nvu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13nvw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13nvx.jpg"
+      ],
+      "Genres": [
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 365465,
       "Title": "Dressmaker",
       "ReleaseDate": "2026-09-01",
@@ -2479,36 +2545,6 @@
       ],
       "Genres": [
         "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 302107,
-      "Title": "Maseylia: Echoes of the Past",
-      "ReleaseDate": "2026-06-19",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobz55.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2938870",
-      "Metacritic": 0,
-      "AddedCount": 7,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsb9l.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsb9c.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsb9i.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsb9p.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsb9s.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsb9w.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsba0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsba3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsba7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsb9f.jpg"
-      ],
-      "Genres": [
-        "Adventure",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -2704,31 +2740,6 @@
       ],
       "Genres": [
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 316425,
-      "Title": "Ascend to Zero",
-      "ReleaseDate": "2026-07-13",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coazvz.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2697940",
-      "Metacritic": 0,
-      "AddedCount": 6,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10s5x.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10s5y.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10s5z.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10s60.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Strategy",
-        "Hack and slash/Beat 'em up"
       ],
       "Tags": [],
       "Platforms": [
