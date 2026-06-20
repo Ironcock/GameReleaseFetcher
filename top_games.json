@@ -69,7 +69,7 @@
       "StoreURL": "https://store.steampowered.com/app/1245620",
       "Metacritic": 94,
       "AddedCount": 96,
-      "Rating": 93.53304429129986,
+      "Rating": 93.53246628659356,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scagdm.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scagdn.jpg",
@@ -234,7 +234,7 @@
       "StoreURL": "https://store.steampowered.com/app/1771300",
       "Metacritic": 92,
       "AddedCount": 115,
-      "Rating": 92.43628439082187,
+      "Rating": 92.43240858907188,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scs1lj.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scs1lk.jpg",
@@ -278,6 +278,37 @@
         "Role-playing (RPG)",
         "Hack and slash/Beat 'em up",
         "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 305152,
+      "Title": "Clair Obscur: Expedition 33",
+      "ReleaseDate": "2025-04-24",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9gam.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1903340",
+      "Metacritic": 92,
+      "AddedCount": 131,
+      "Rating": 91.99213494835419,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsodz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoe8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoe2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoec.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoe7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoea.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoe4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoee.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoeg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoef.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -337,37 +368,6 @@
       ]
     },
     {
-      "ID": 305152,
-      "Title": "Clair Obscur: Expedition 33",
-      "ReleaseDate": "2025-04-24",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9gam.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1903340",
-      "Metacritic": 92,
-      "AddedCount": 131,
-      "Rating": 91.79033688797945,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsodz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoe8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoe2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoec.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoe7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoea.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoe4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoee.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoeg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoef.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 74,
       "Title": "Mass Effect 2",
       "ReleaseDate": "2010-01-26",
@@ -401,7 +401,7 @@
       "StoreURL": "https://store.steampowered.com/app/620",
       "Metacritic": 91,
       "AddedCount": 0,
-      "Rating": 91.29628020929312,
+      "Rating": 91.29677148595597,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/i9ys3zdhph1mh3futdit.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/rvrge8js7xnhr4z1vrbk.jpg",
@@ -680,7 +680,7 @@
       "StoreURL": "https://store.steampowered.com/app/3764200",
       "Metacritic": 90,
       "AddedCount": 309,
-      "Rating": 89.55872058630516,
+      "Rating": 89.56164794001778,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r3.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r0.jpg",
@@ -711,7 +711,7 @@
       "StoreURL": "https://store.steampowered.com/app/653530",
       "Metacritic": 90,
       "AddedCount": 6,
-      "Rating": 89.5339323358754,
+      "Rating": 89.5339577650899,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/qkewuti06rk7hyi56apj.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/ja7iz3sn9empf5ws3n0y.jpg",
@@ -742,7 +742,7 @@
       "StoreURL": "https://store.steampowered.com/app/1145360",
       "Metacritic": 89,
       "AddedCount": 3,
-      "Rating": 89.46831386322928,
+      "Rating": 89.46706753042463,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8lik.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8lim.jpg",
@@ -826,7 +826,7 @@
       "StoreURL": "https://store.steampowered.com/app/2592160",
       "Metacritic": 89,
       "AddedCount": 69,
-      "Rating": 89.326412291706,
+      "Rating": 89.3264602155915,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus2s.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus2t.jpg",
@@ -964,7 +964,7 @@
       "StoreURL": "https://store.steampowered.com/app/2694490",
       "Metacritic": 88,
       "AddedCount": 45,
-      "Rating": 88.4276084665328,
+      "Rating": 88.43381641389838,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwxx.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13awp.jpg",
@@ -1240,7 +1240,7 @@
       "Title": "Europa Universalis IV",
       "ReleaseDate": "2013-08-13",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaarv.jpg",
-      "StoreURL": "https://store.steampowered.com/app/236850",
+      "StoreURL": "https://store.steampowered.com/app/247890",
       "Metacritic": 87,
       "AddedCount": 0,
       "Rating": 87.46497579436506,
@@ -1489,7 +1489,7 @@
       "StoreURL": "https://store.steampowered.com/app/504230",
       "Metacritic": 87,
       "AddedCount": 2,
-      "Rating": 86.74456471925042,
+      "Rating": 86.74025498306789,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/e9lk3alqutkrciksfque.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/hisxvydbpgrg9thupnlg.jpg",
@@ -1706,10 +1706,10 @@
       "Title": "Portal",
       "ReleaseDate": "2007-10-10",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coay61.jpg",
-      "StoreURL": "https://store.steampowered.com/app/400",
+      "StoreURL": "https://store.steampowered.com/app/52003",
       "Metacritic": 86,
       "AddedCount": 0,
-      "Rating": 86.4014939295403,
+      "Rating": 86.40135334307328,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/x7pzfljardlljvtqcgv4.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/co2mtfe04a5iclqoo11c.jpg",
@@ -1817,7 +1817,7 @@
       "StoreURL": "https://store.steampowered.com/app/17460",
       "Metacritic": 86,
       "AddedCount": 2,
-      "Rating": 86.18683110680259,
+      "Rating": 86.18678264661423,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/r3uwmc94irofukfk6odw.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/hatacbd1inqmu5cavj7z.jpg",
@@ -1842,7 +1842,7 @@
       "StoreURL": "https://store.steampowered.com/app/413150",
       "Metacritic": 86,
       "AddedCount": 1,
-      "Rating": 86.16160484046245,
+      "Rating": 86.16170031693896,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/rhxs1x9w5hf5kde2osf5.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/iwswpvxa9ytrpk8yjcyx.jpg",
@@ -2018,7 +2018,7 @@
       "StoreURL": "https://store.steampowered.com/app/207610",
       "Metacritic": 86,
       "AddedCount": 0,
-      "Rating": 85.86383719238823,
+      "Rating": 85.86392887193793,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/m4gdjehicf1rd5wi7yyt.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/h1uisnak6rzgnsu629ul.jpg",
@@ -2270,7 +2270,7 @@
       "StoreURL": "https://store.steampowered.com/app/1444000",
       "Metacritic": 86,
       "AddedCount": 0,
-      "Rating": 85.62248508668631,
+      "Rating": 85.62232631862688,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/hj1lsmfhxysduatojr60.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/fdpzkez7ve4ukv28aqcu.jpg",
@@ -2731,7 +2731,7 @@
       "Title": "Doom",
       "ReleaseDate": "2016-05-12",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1nc7.jpg",
-      "StoreURL": "https://store.steampowered.com/app/379720",
+      "StoreURL": "https://store.steampowered.com/app/430910",
       "Metacritic": 85,
       "AddedCount": 29,
       "Rating": 85.14431651286132,
@@ -3332,7 +3332,7 @@
       "StoreURL": "https://store.steampowered.com/app/646570",
       "Metacritic": 84,
       "AddedCount": 4,
-      "Rating": 84.3415017140419,
+      "Rating": 84.34101958014051,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sxcn4siijskumtcdr44e.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/g9gcvlppj2qwuqsgprjd.jpg",
@@ -3500,7 +3500,7 @@
       "StoreURL": "https://store.steampowered.com/app/1808500",
       "Metacritic": 84,
       "AddedCount": 107,
-      "Rating": 84.106824492278,
+      "Rating": 84.10183614590055,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scii62.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11kk7.jpg",
@@ -3806,7 +3806,7 @@
       "Title": "Risk of Rain 2",
       "ReleaseDate": "2020-08-11",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaavb.jpg",
-      "StoreURL": "https://store.steampowered.com/app/632360",
+      "StoreURL": "https://store.steampowered.com/app/3885090",
       "Metacritic": 84,
       "AddedCount": 5,
       "Rating": 83.74335400796126,
@@ -3921,7 +3921,7 @@
       "Title": "Dragon Ball FighterZ",
       "ReleaseDate": "2018-01-26",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1nih.jpg",
-      "StoreURL": "https://store.steampowered.com/app/678950",
+      "StoreURL": "https://store.steampowered.com/app/1725510",
       "Metacritic": 84,
       "AddedCount": 14,
       "Rating": 83.5630233337068,
@@ -3950,7 +3950,7 @@
       "Title": "Total War: Shogun 2",
       "ReleaseDate": "2011-03-15",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2rpy.jpg",
-      "StoreURL": "https://store.steampowered.com/app/201270",
+      "StoreURL": "https://store.steampowered.com/app/379000",
       "Metacritic": 84,
       "AddedCount": 0,
       "Rating": 83.54625626807588,
@@ -4004,7 +4004,7 @@
       "StoreURL": "https://store.steampowered.com/app/250320",
       "Metacritic": 84,
       "AddedCount": 1,
-      "Rating": 83.52002879398766,
+      "Rating": 83.520216499426,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/mh2k4rrkrgtabcv9pqjn.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/dxeenymseuuo3t5csa6g.jpg",
