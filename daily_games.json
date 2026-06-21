@@ -29,32 +29,6 @@
       ]
     },
     {
-      "ID": 361855,
-      "Title": "LEGO Batman: Legacy of the Dark Knight",
-      "ReleaseDate": "2026-05-22",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coab09.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2215200",
-      "Metacritic": 85,
-      "AddedCount": 85,
-      "Rating": 84.63061568678383,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymdu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymdv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymdw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymdx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymdy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymdz.jpg"
-      ],
-      "Genres": [
-        "Puzzle",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 358769,
       "Title": "Fatekeeper",
       "ReleaseDate": "2026-06-02",
@@ -365,9 +339,9 @@
       "ReleaseDate": "2026-05-26",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4ax.jpg",
       "StoreURL": "https://store.steampowered.com/app/2100280",
-      "Metacritic": 0,
+      "Metacritic": 93,
       "AddedCount": 13,
-      "Rating": 0.0,
+      "Rating": 93.01075268817203,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymdp.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymdm.jpg",
@@ -380,37 +354,6 @@
       "Genres": [
         "Shooter",
         "Tactical"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 361820,
-      "Title": "Bubsy 4D",
-      "ReleaseDate": "2026-05-22",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaawv.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3237970",
-      "Metacritic": 0,
-      "AddedCount": 13,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymed.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymef.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymeg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyme7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyme8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymee.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyme9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymea.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymeb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymec.jpg"
-      ],
-      "Genres": [
-        "Platform",
-        "Adventure",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -844,6 +787,36 @@
       ],
       "Genres": [
         "Role-playing (RPG)",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 391055,
+      "Title": "Dive or Die: Children of Rain",
+      "ReleaseDate": "2026-06-21",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobphf.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3590290",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc124zi.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc124zj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc124zk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc124zl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc124zm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc124zn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc124zo.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc124zp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc124zq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc124zr.jpg"
+      ],
+      "Genres": [
         "Adventure",
         "Indie"
       ],
@@ -1388,6 +1361,35 @@
       "Platforms": [
         "pc"
       ]
+    },
+    {
+      "ID": 245733,
+      "Title": "Tales of Seikyu",
+      "ReleaseDate": "2026-06-11",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6eay.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2340520",
+      "Metacritic": 0,
+      "AddedCount": 4,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scm496.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scm498.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scm49a.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scm49c.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scm49e.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scm49g.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scm49i.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scm49k.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Strategy"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
     }
   ],
   "Upcoming": [
@@ -1422,7 +1424,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc79u.jpg",
       "StoreURL": "https://store.steampowered.com/app/2713000",
       "Metacritic": 0,
-      "AddedCount": 107,
+      "AddedCount": 106,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9w.jpg",
@@ -1928,7 +1930,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coay6k.jpg",
       "StoreURL": "https://store.steampowered.com/app/4094660",
       "Metacritic": 0,
-      "AddedCount": 15,
+      "AddedCount": 16,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10osy.jpg",
@@ -1997,6 +1999,35 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fmm.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fmn.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fmh.jpg"
+      ],
+      "Genres": [
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 370708,
+      "Title": "BrokenLore: Don't Lie",
+      "ReleaseDate": "2026-09-10",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coakzn.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3886200",
+      "Metacritic": 0,
+      "AddedCount": 13,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfht.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfhu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfhv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfhw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfhx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfhy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfhz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfi0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfi1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfhr.jpg"
       ],
       "Genres": [
         "Adventure"
@@ -2115,35 +2146,6 @@
       "Genres": [
         "Puzzle",
         "Racing",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 370708,
-      "Title": "BrokenLore: Don't Lie",
-      "ReleaseDate": "2026-09-10",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coakzn.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3886200",
-      "Metacritic": 0,
-      "AddedCount": 12,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfht.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfhu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfhv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfhw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfhx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfhy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfhz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfi0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfi1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfhr.jpg"
-      ],
-      "Genres": [
         "Adventure"
       ],
       "Tags": [],
