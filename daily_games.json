@@ -8,7 +8,7 @@
       "StoreURL": "https://store.steampowered.com/app/3768760",
       "Metacritic": 83,
       "AddedCount": 289,
-      "Rating": 82.91503929814824,
+      "Rating": 82.91501462232956,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx79u.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx79v.jpg",
@@ -156,6 +156,30 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw2tx.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw2ty.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw2tz.jpg"
+      ],
+      "Genres": [
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 252846,
+      "Title": "Sand: Raiders Of Sophie",
+      "ReleaseDate": "2026-06-22",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc93o.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1431300",
+      "Metacritic": 0,
+      "AddedCount": 22,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwp0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwp2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwp4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwp7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwp9.jpg"
       ],
       "Genres": [
         "Adventure"
@@ -787,36 +811,6 @@
       ],
       "Genres": [
         "Role-playing (RPG)",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 391055,
-      "Title": "Dive or Die: Children of Rain",
-      "ReleaseDate": "2026-06-21",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobphf.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3590290",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc124zi.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc124zj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc124zk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc124zl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc124zm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc124zn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc124zo.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc124zp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc124zq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc124zr.jpg"
-      ],
-      "Genres": [
         "Adventure",
         "Indie"
       ],
@@ -1564,7 +1558,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobtwq.jpg",
       "StoreURL": "https://store.steampowered.com/app/3255110",
       "Metacritic": 0,
-      "AddedCount": 37,
+      "AddedCount": 38,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso28.jpg",
@@ -1820,30 +1814,6 @@
       ],
       "Genres": [
         "Fighting"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 252846,
-      "Title": "Sand: Raiders Of Sophie",
-      "ReleaseDate": "2026-06-22",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc93o.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1431300",
-      "Metacritic": 0,
-      "AddedCount": 22,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwp0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwp2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwp4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwp7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwp9.jpg"
-      ],
-      "Genres": [
-        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -2367,29 +2337,6 @@
       ]
     },
     {
-      "ID": 393932,
-      "Title": "Echoes of Aincrad",
-      "ReleaseDate": "2026-07-10",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobpxh.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2244210",
-      "Metacritic": 0,
-      "AddedCount": 9,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12i5s.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12i5t.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12i5u.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 330174,
       "Title": "Dinoblade",
       "ReleaseDate": "2026-07-23",
@@ -2464,6 +2411,29 @@
         "Puzzle",
         "Adventure",
         "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 393932,
+      "Title": "Echoes of Aincrad",
+      "ReleaseDate": "2026-07-10",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobpxh.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2244210",
+      "Metacritic": 0,
+      "AddedCount": 8,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12i5s.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12i5t.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12i5u.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -2746,6 +2716,35 @@
       "Genres": [
         "Adventure",
         "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 339614,
+      "Title": "SpeedRunners 2: King of Speed",
+      "ReleaseDate": "2026-07-01",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9nld.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3183760",
+      "Metacritic": 0,
+      "AddedCount": 6,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw8fe.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw8fh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw8fi.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw8fj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw8fd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw8ff.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw8fk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw8fg.jpg"
+      ],
+      "Genres": [
+        "Fighting",
+        "Racing",
+        "Sport"
       ],
       "Tags": [],
       "Platforms": [
