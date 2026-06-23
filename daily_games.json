@@ -6,9 +6,9 @@
       "ReleaseDate": "2026-05-27",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaoiz.jpg",
       "StoreURL": "https://store.steampowered.com/app/3768760",
-      "Metacritic": 83,
+      "Metacritic": 82,
       "AddedCount": 289,
-      "Rating": 82.91501462232956,
+      "Rating": 81.98878083187108,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx79u.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx79v.jpg",
@@ -63,9 +63,9 @@
       "ReleaseDate": "2026-05-29",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4g15.jpg",
       "StoreURL": "https://store.steampowered.com/app/1875580",
-      "Metacritic": 86,
+      "Metacritic": 83,
       "AddedCount": 48,
-      "Rating": 85.60418276674142,
+      "Rating": 82.72786862924285,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scfkjl.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scfkjm.jpg",
@@ -134,6 +134,32 @@
       ],
       "Genres": [
         "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 202138,
+      "Title": "Deer & Boy",
+      "ReleaseDate": "2026-06-23",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4rqn.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1803140",
+      "Metacritic": 0,
+      "AddedCount": 27,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sch3f5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sch3f6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sch3f4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sch3f3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sch3f2.jpg"
+      ],
+      "Genres": [
+        "Platform",
+        "Puzzle",
         "Adventure"
       ],
       "Tags": [],
@@ -363,9 +389,9 @@
       "ReleaseDate": "2026-05-26",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4ax.jpg",
       "StoreURL": "https://store.steampowered.com/app/2100280",
-      "Metacritic": 93,
+      "Metacritic": 81,
       "AddedCount": 13,
-      "Rating": 93.01075268817203,
+      "Rating": 80.72,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymdp.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymdm.jpg",
@@ -527,6 +553,33 @@
       "Genres": [
         "Role-playing (RPG)",
         "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 253578,
+      "Title": "Dimhaven: The Lost Source",
+      "ReleaseDate": "2026-06-23",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4qa.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2458980",
+      "Metacritic": 0,
+      "AddedCount": 10,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmzv9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmzva.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmzvb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmzvc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmzvd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmzve.jpg"
+      ],
+      "Genres": [
+        "Puzzle",
+        "Adventure",
+        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -1329,61 +1382,6 @@
       "Platforms": [
         "pc"
       ]
-    },
-    {
-      "ID": 315459,
-      "Title": "Atre: Dominance Wars",
-      "ReleaseDate": "2026-06-08",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8t20.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2805850",
-      "Metacritic": 0,
-      "AddedCount": 4,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctvrz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctvs0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctvrx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctvs1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctvry.jpg"
-      ],
-      "Genres": [
-        "Real Time Strategy (RTS)",
-        "Role-playing (RPG)",
-        "Simulator"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 245733,
-      "Title": "Tales of Seikyu",
-      "ReleaseDate": "2026-06-11",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6eay.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2340520",
-      "Metacritic": 0,
-      "AddedCount": 4,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scm496.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scm498.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scm49a.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scm49c.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scm49e.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scm49g.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scm49i.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scm49k.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Simulator",
-        "Strategy"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
     }
   ],
   "Upcoming": [
@@ -1394,7 +1392,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob7ym.jpg",
       "StoreURL": "https://store.steampowered.com/app/3751260",
       "Metacritic": 0,
-      "AddedCount": 205,
+      "AddedCount": 206,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv1hb.jpg",
@@ -1711,32 +1709,6 @@
         "Platform",
         "Racing",
         "Sport"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 202138,
-      "Title": "Deer & Boy",
-      "ReleaseDate": "2026-06-23",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4rqn.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1803140",
-      "Metacritic": 0,
-      "AddedCount": 27,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sch3f5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sch3f6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sch3f4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sch3f3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sch3f2.jpg"
-      ],
-      "Genres": [
-        "Platform",
-        "Puzzle",
-        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -2186,11 +2158,11 @@
       "AddedCount": 11,
       "Rating": 0.0,
       "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10290.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10291.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10292.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10293.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10294.jpg"
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10294.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc141bp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc141bq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc141br.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc141bs.jpg"
       ],
       "Genres": [
         "Puzzle",
@@ -2276,33 +2248,6 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqk.jpg"
       ],
       "Genres": [
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 253578,
-      "Title": "Dimhaven: The Lost Source",
-      "ReleaseDate": "2026-06-23",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4qa.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2458980",
-      "Metacritic": 0,
-      "AddedCount": 10,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmzv9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmzva.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmzvb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmzvc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmzvd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmzve.jpg"
-      ],
-      "Genres": [
-        "Puzzle",
         "Adventure",
         "Indie"
       ],
@@ -2525,6 +2470,33 @@
       ]
     },
     {
+      "ID": 143710,
+      "Title": "Scarlet Deer Inn",
+      "ReleaseDate": "2026-07-21",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc8cz.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1553260",
+      "Metacritic": 0,
+      "AddedCount": 8,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc92ha.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc92hb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc92hc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc92hd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc92he.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc92hf.jpg"
+      ],
+      "Genres": [
+        "Platform",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 398638,
       "Title": "Corsair Cove",
       "ReleaseDate": "2026-07-31",
@@ -2578,33 +2550,6 @@
       ],
       "Genres": [
         "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 143710,
-      "Title": "Scarlet Deer Inn",
-      "ReleaseDate": "2026-07-21",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc8cz.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1553260",
-      "Metacritic": 0,
-      "AddedCount": 7,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc92ha.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc92hb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc92hc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc92hd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc92he.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc92hf.jpg"
-      ],
-      "Genres": [
-        "Platform",
-        "Adventure",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -2745,6 +2690,59 @@
         "Fighting",
         "Racing",
         "Sport"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 318625,
+      "Title": "Kernel Hearts",
+      "ReleaseDate": "2026-09-01",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9tun.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2902170",
+      "Metacritic": 0,
+      "AddedCount": 6,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu2ca.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu2c8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu2c9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu2cb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu2cc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu2cd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu2ce.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu2cf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu2cg.jpg"
+      ],
+      "Genres": [
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 316425,
+      "Title": "Ascend to Zero",
+      "ReleaseDate": "2026-07-13",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coazvz.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2697940",
+      "Metacritic": 0,
+      "AddedCount": 6,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10s5x.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10s5y.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10s5z.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10s60.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Hack and slash/Beat 'em up"
       ],
       "Tags": [],
       "Platforms": [
