@@ -8,7 +8,7 @@
       "StoreURL": "https://store.steampowered.com/app/3768760",
       "Metacritic": 82,
       "AddedCount": 289,
-      "Rating": 81.98878083187108,
+      "Rating": 81.98635141856798,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx79u.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx79v.jpg",
@@ -65,7 +65,7 @@
       "StoreURL": "https://store.steampowered.com/app/1875580",
       "Metacritic": 83,
       "AddedCount": 48,
-      "Rating": 82.72786862924285,
+      "Rating": 82.71966478846524,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scfkjl.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scfkjm.jpg",
@@ -79,36 +79,6 @@
         "Platform",
         "Role-playing (RPG)",
         "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 126547,
-      "Title": "Paralives",
-      "ReleaseDate": "2026-05-25",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa4iq.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1118520",
-      "Metacritic": 0,
-      "AddedCount": 43,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqqh6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqqh7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqqh9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqqha.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqqh5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqqh8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scznwh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scznwi.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scznwj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scznwk.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -816,6 +786,30 @@
       ]
     },
     {
+      "ID": 402471,
+      "Title": "Empulse",
+      "ReleaseDate": "2026-06-24",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc3gk.jpg",
+      "StoreURL": "https://store.steampowered.com/app/4323990",
+      "Metacritic": 0,
+      "AddedCount": 6,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ewc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ewd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ewe.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ewf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ewg.jpg"
+      ],
+      "Genres": [
+        "Shooter"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 288461,
       "Title": "Wild Assault",
       "ReleaseDate": "2026-05-28",
@@ -1165,32 +1159,6 @@
       ]
     },
     {
-      "ID": 177862,
-      "Title": "Enter the Chronosphere",
-      "ReleaseDate": "2026-05-25",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co862m.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1969810",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scs5f3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scs5f4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scs5f5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scs5f1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scs5f2.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Strategy",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 152121,
       "Title": "Survival Machine",
       "ReleaseDate": "2026-06-12",
@@ -1382,6 +1350,32 @@
       "Platforms": [
         "pc"
       ]
+    },
+    {
+      "ID": 315459,
+      "Title": "Atre: Dominance Wars",
+      "ReleaseDate": "2026-06-08",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8t20.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2805850",
+      "Metacritic": 0,
+      "AddedCount": 4,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctvrz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctvs0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctvrx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctvs1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctvry.jpg"
+      ],
+      "Genres": [
+        "Real Time Strategy (RTS)",
+        "Role-playing (RPG)",
+        "Simulator"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
     }
   ],
   "Upcoming": [
@@ -1392,7 +1386,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob7ym.jpg",
       "StoreURL": "https://store.steampowered.com/app/3751260",
       "Metacritic": 0,
-      "AddedCount": 206,
+      "AddedCount": 207,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv1hb.jpg",
@@ -1584,7 +1578,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc5za.jpg",
       "StoreURL": "https://store.steampowered.com/app/3282300",
       "Metacritic": 0,
-      "AddedCount": 36,
+      "AddedCount": 35,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu85c.jpg",
@@ -1612,7 +1606,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobyys.jpg",
       "StoreURL": "https://store.steampowered.com/app/2805070",
       "Metacritic": 0,
-      "AddedCount": 33,
+      "AddedCount": 32,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrhfh.jpg",
@@ -1744,7 +1738,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaaxx.jpg",
       "StoreURL": "https://store.steampowered.com/app/2272360",
       "Metacritic": 0,
-      "AddedCount": 25,
+      "AddedCount": 26,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymb4.jpg",
@@ -1793,6 +1787,30 @@
       ]
     },
     {
+      "ID": 334673,
+      "Title": "The Mound: Omen of Cthulhu",
+      "ReleaseDate": "2026-07-15",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc8k5.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2569760",
+      "Metacritic": 0,
+      "AddedCount": 22,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvo1g.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvo1c.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvo1d.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvo1e.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvo1f.jpg"
+      ],
+      "Genres": [
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 381208,
       "Title": "TankRat",
       "ReleaseDate": "2026-06-30",
@@ -1810,30 +1828,6 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tam.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tan.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tal.jpg"
-      ],
-      "Genres": [
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 334673,
-      "Title": "The Mound: Omen of Cthulhu",
-      "ReleaseDate": "2026-07-15",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc8k5.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2569760",
-      "Metacritic": 0,
-      "AddedCount": 20,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvo1g.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvo1c.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvo1d.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvo1e.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvo1f.jpg"
       ],
       "Genres": [
         "Adventure"
@@ -2587,35 +2581,6 @@
       ]
     },
     {
-      "ID": 387461,
-      "Title": "The Alighieri Circle: Dante\u2019s Bloodline",
-      "ReleaseDate": "2026-09-10",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobdjw.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4262620",
-      "Metacritic": 0,
-      "AddedCount": 6,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11ig8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11iga.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11igb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11igc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11igd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11ig9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11ige.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11igf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11igg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11igh.jpg"
-      ],
-      "Genres": [
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 350179,
       "Title": "Servant of the Lake",
       "ReleaseDate": "2026-08-13",
@@ -2743,6 +2708,36 @@
         "Role-playing (RPG)",
         "Strategy",
         "Hack and slash/Beat 'em up"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 312141,
+      "Title": "The Life and Suffering of Prince Jerian",
+      "ReleaseDate": "2026-07-20",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8mrk.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2936290",
+      "Metacritic": 0,
+      "AddedCount": 6,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctgxm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctgxn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctgxq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctgxr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctgxt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctgxk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctgxw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctgxy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctgy0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctgy1.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Indie"
       ],
       "Tags": [],
       "Platforms": [
