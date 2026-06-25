@@ -8,7 +8,7 @@
       "StoreURL": "https://store.steampowered.com/app/3768760",
       "Metacritic": 82,
       "AddedCount": 289,
-      "Rating": 81.98635141856798,
+      "Rating": 81.98574664437567,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx79u.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx79v.jpg",
@@ -346,93 +346,6 @@
       "Genres": [
         "Role-playing (RPG)",
         "Hack and slash/Beat 'em up",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 361890,
-      "Title": "World of Tanks: Heat",
-      "ReleaseDate": "2026-05-26",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4ax.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2100280",
-      "Metacritic": 81,
-      "AddedCount": 13,
-      "Rating": 80.72,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymdp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymdm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymdo.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymdq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymdr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymds.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymdt.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Tactical"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 336150,
-      "Title": "Romestead",
-      "ReleaseDate": "2026-05-26",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc3gt.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1805320",
-      "Metacritic": 0,
-      "AddedCount": 12,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvsmx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvsmw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvsms.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvsmt.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvsmz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvsmy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvsn0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvsmu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvsmv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvsmo.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 329736,
-      "Title": "Town to City",
-      "ReleaseDate": "2026-05-26",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9c3z.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3115220",
-      "Metacritic": 0,
-      "AddedCount": 12,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv77a.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv77d.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv77b.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv77f.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv77g.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv77h.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv77c.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv77e.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Strategy",
         "Indie"
       ],
       "Tags": [],
@@ -841,32 +754,6 @@
       ]
     },
     {
-      "ID": 231484,
-      "Title": "LumenTale: Memories of Trey",
-      "ReleaseDate": "2026-05-26",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobx9r.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2261430",
-      "Metacritic": 0,
-      "AddedCount": 6,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckjc2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckjc3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckjc4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckjc5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckjc6.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 375887,
       "Title": "NBA The Run",
       "ReleaseDate": "2026-06-09",
@@ -943,33 +830,6 @@
       "Genres": [
         "Role-playing (RPG)",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 348506,
-      "Title": "Life Below",
-      "ReleaseDate": "2026-05-26",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa55e.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2932150",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxd56.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxd59.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxd5d.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxd5i.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxd5o.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxd5u.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxd62.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Strategy"
       ],
       "Tags": [],
       "Platforms": [
@@ -1371,6 +1231,149 @@
         "Real Time Strategy (RTS)",
         "Role-playing (RPG)",
         "Simulator"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 245733,
+      "Title": "Tales of Seikyu",
+      "ReleaseDate": "2026-06-11",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6eay.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2340520",
+      "Metacritic": 0,
+      "AddedCount": 4,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scm496.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scm498.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scm49a.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scm49c.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scm49e.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scm49g.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scm49i.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scm49k.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Strategy"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 397606,
+      "Title": "There's Nothing Down There",
+      "ReleaseDate": "2026-06-04",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobw6t.jpg",
+      "StoreURL": "https://store.steampowered.com/app/4429870",
+      "Metacritic": 0,
+      "AddedCount": 3,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12v6j.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12v6k.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12v6l.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12v6m.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12v6n.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12v6o.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12v6p.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12v6q.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12v6r.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 383923,
+      "Title": "Dread Fields",
+      "ReleaseDate": "2026-05-28",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4o7.jpg",
+      "StoreURL": "https://store.steampowered.com/app/4258770",
+      "Metacritic": 0,
+      "AddedCount": 3,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13dtf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13dtk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13dtl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13dtg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13dth.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i82.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i83.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i84.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i85.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 383455,
+      "Title": "The Big Hollow: 1982",
+      "ReleaseDate": "2026-05-28",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob6ke.jpg",
+      "StoreURL": "https://store.steampowered.com/app/4012690",
+      "Metacritic": 0,
+      "AddedCount": 3,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc112c7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc112c8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc112c9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc112ca.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc112cb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc112cc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc112cd.jpg"
+      ],
+      "Genres": [
+        "Point-and-click",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 381087,
+      "Title": "Frog Sqwad",
+      "ReleaseDate": "2026-06-11",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob00u.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3989960",
+      "Metacritic": 0,
+      "AddedCount": 3,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10sgd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10sge.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10sgf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10sgg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10sgh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10sgi.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10sgj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10sgk.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -2090,6 +2093,33 @@
       ]
     },
     {
+      "ID": 362063,
+      "Title": "Hell Let Loose: Vietnam",
+      "ReleaseDate": "2026-08-13",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4hc.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3079210",
+      "Metacritic": 0,
+      "AddedCount": 12,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn72.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn73.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn74.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn75.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn76.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn77.jpg"
+      ],
+      "Genres": [
+        "Shooter",
+        "Simulator",
+        "Strategy"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 335296,
       "Title": "Wild Blue Skies",
       "ReleaseDate": "2026-08-13",
@@ -2109,33 +2139,6 @@
         "Shooter",
         "Adventure",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 362063,
-      "Title": "Hell Let Loose: Vietnam",
-      "ReleaseDate": "2026-08-13",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4hc.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3079210",
-      "Metacritic": 0,
-      "AddedCount": 11,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn72.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn73.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn74.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn75.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn76.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn77.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Simulator",
-        "Strategy"
       ],
       "Tags": [],
       "Platforms": [
@@ -2213,6 +2216,33 @@
       "Genres": [
         "Platform",
         "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 365465,
+      "Title": "Dressmaker",
+      "ReleaseDate": "2026-09-01",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc9be.jpg",
+      "StoreURL": "https://store.steampowered.com/app/4019220",
+      "Metacritic": 0,
+      "AddedCount": 10,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyxzx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyxzy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyxzz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyy00.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyy01.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyy02.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyy03.jpg"
+      ],
+      "Genres": [
+        "Simulator",
         "Indie"
       ],
       "Tags": [],
@@ -2373,33 +2403,6 @@
       "Genres": [
         "Role-playing (RPG)",
         "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 365465,
-      "Title": "Dressmaker",
-      "ReleaseDate": "2026-09-01",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc9be.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4019220",
-      "Metacritic": 0,
-      "AddedCount": 8,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyxzx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyxzy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyxzz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyy00.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyy01.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyy02.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyy03.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
