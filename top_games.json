@@ -39,7 +39,7 @@
       "StoreURL": "https://store.steampowered.com/app/292030",
       "Metacritic": 94,
       "AddedCount": 179,
-      "Rating": 93.82242336706882,
+      "Rating": 93.82236791758834,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/farvemmmxav0bgt6wx7t.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/z5t0yuhyiiui1ickwhgj.jpg",
@@ -372,7 +372,7 @@
       "Title": "Mass Effect 2",
       "ReleaseDate": "2010-01-26",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co20ac.jpg",
-      "StoreURL": "https://store.steampowered.com/app/24980",
+      "StoreURL": "https://store.steampowered.com/app/2362420",
       "Metacritic": 91,
       "AddedCount": 1,
       "Rating": 91.33905697952025,
@@ -427,7 +427,7 @@
       "StoreURL": "https://store.steampowered.com/app/2322010",
       "Metacritic": 91,
       "AddedCount": 77,
-      "Rating": 91.04533883337692,
+      "Rating": 91.04511332883379,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scd71v.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scd71w.jpg",
@@ -649,7 +649,7 @@
       "StoreURL": "https://store.steampowered.com/app/271590",
       "Metacritic": 90,
       "AddedCount": 0,
-      "Rating": 89.64511580326524,
+      "Rating": 89.6449809255403,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/hjnzngnrtwr82jzmmkef.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/n3t2agwuxlqggp3kryf9.jpg",
@@ -1842,7 +1842,7 @@
       "StoreURL": "https://store.steampowered.com/app/413150",
       "Metacritic": 86,
       "AddedCount": 1,
-      "Rating": 86.16170031693896,
+      "Rating": 86.16239818522382,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/rhxs1x9w5hf5kde2osf5.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/iwswpvxa9ytrpk8yjcyx.jpg",
@@ -2239,7 +2239,7 @@
       "Title": "Inscryption",
       "ReleaseDate": "2021-10-19",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co401c.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1092790",
+      "StoreURL": "https://store.steampowered.com/app/1469850",
       "Metacritic": 86,
       "AddedCount": 1,
       "Rating": 85.64403092183382,
@@ -2541,7 +2541,7 @@
       "StoreURL": "",
       "Metacritic": 85,
       "AddedCount": 0,
-      "Rating": 85.28440360113153,
+      "Rating": 85.2845438885989,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8d2z.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8d30.jpg",
@@ -2793,7 +2793,7 @@
       "StoreURL": "https://store.steampowered.com/app/208650",
       "Metacritic": 85,
       "AddedCount": 84,
-      "Rating": 84.96671926452686,
+      "Rating": 84.96657383824004,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/wmryo6uxdy1opndpqzsg.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/f7dtfyst1yempsfapqze.jpg",
@@ -3435,32 +3435,6 @@
       ]
     },
     {
-      "ID": 19562,
-      "Title": "Resident Evil 7: Biohazard",
-      "ReleaseDate": "2017-01-24",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobtwh.jpg",
-      "StoreURL": "https://store.steampowered.com/app/418370",
-      "Metacritic": 84,
-      "AddedCount": 20,
-      "Rating": 84.19437674879353,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/ctxtlpyzlo3q5hvshysw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/io6hffcfxfgtibwwn9jl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/wyn4sipweizrkjvshid9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/tc63ssff6rzvaiq1xjuw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/r03xsdmmrxyddimojni1.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Puzzle",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 7603,
       "Title": "Hellblade: Senua's Sacrifice",
       "ReleaseDate": "2017-08-07",
@@ -3484,6 +3458,32 @@
       "Genres": [
         "Simulator",
         "Hack and slash/Beat 'em up",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 19562,
+      "Title": "Resident Evil 7: Biohazard",
+      "ReleaseDate": "2017-01-24",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobtwh.jpg",
+      "StoreURL": "https://store.steampowered.com/app/418370",
+      "Metacritic": 84,
+      "AddedCount": 20,
+      "Rating": 84.15180116923145,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/ctxtlpyzlo3q5hvshysw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/io6hffcfxfgtibwwn9jl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/wyn4sipweizrkjvshid9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/tc63ssff6rzvaiq1xjuw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/r03xsdmmrxyddimojni1.jpg"
+      ],
+      "Genres": [
+        "Shooter",
+        "Puzzle",
         "Adventure"
       ],
       "Tags": [],
@@ -3951,7 +3951,7 @@
       "Title": "Dragon Ball FighterZ",
       "ReleaseDate": "2018-01-26",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1nih.jpg",
-      "StoreURL": "https://store.steampowered.com/app/678950",
+      "StoreURL": "https://store.steampowered.com/app/1725510",
       "Metacritic": 84,
       "AddedCount": 14,
       "Rating": 83.5630233337068,
