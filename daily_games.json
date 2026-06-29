@@ -2381,6 +2381,35 @@
       ]
     },
     {
+      "ID": 316836,
+      "Title": "Low-Budget Repairs",
+      "ReleaseDate": "2026-08-13",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9hd4.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3167920",
+      "Metacritic": 0,
+      "AddedCount": 9,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctxgr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctxgs.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctxgn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctxgo.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctxgp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctxgq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctxgt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctxgu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctxgv.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 310336,
       "Title": "Nocturnal II",
       "ReleaseDate": "2026-06-30",
@@ -2679,32 +2708,6 @@
       ],
       "Genres": [
         "Puzzle",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 340029,
-      "Title": "Cosmic Fear",
-      "ReleaseDate": "2026-09-09",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9o9r.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3306920",
-      "Metacritic": 0,
-      "AddedCount": 6,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwa1h.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwa1i.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwa1j.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwa1k.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwa1l.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwa1m.jpg"
-      ],
-      "Genres": [
         "Adventure",
         "Indie"
       ],
