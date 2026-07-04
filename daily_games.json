@@ -1255,35 +1255,6 @@
       ]
     },
     {
-      "ID": 397606,
-      "Title": "There's Nothing Down There",
-      "ReleaseDate": "2026-06-04",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobw6t.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4429870",
-      "Metacritic": 0,
-      "AddedCount": 3,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12v6j.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12v6k.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12v6l.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12v6m.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12v6n.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12v6o.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12v6p.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12v6q.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12v6r.jpg"
-      ],
-      "Genres": [
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 381087,
       "Title": "Frog Sqwad",
       "ReleaseDate": "2026-06-11",
@@ -1366,6 +1337,37 @@
         "Role-playing (RPG)",
         "Simulator",
         "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 356562,
+      "Title": "Kiyo: Bunny Tyranny",
+      "ReleaseDate": "2026-06-25",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa5r2.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2466790",
+      "Metacritic": 0,
+      "AddedCount": 3,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13082.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13083.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13084.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13085.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13086.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13087.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13088.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13089.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1308a.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1308b.jpg"
+      ],
+      "Genres": [
+        "Platform",
+        "Adventure",
+        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -1620,6 +1622,33 @@
       ]
     },
     {
+      "ID": 381247,
+      "Title": "Ace Combat 8: Wings of Theve",
+      "ReleaseDate": "2026-10-02",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0h1.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2288340",
+      "Metacritic": 0,
+      "AddedCount": 48,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tdv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tdu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tdx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tds.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tdt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tdw.jpg"
+      ],
+      "Genres": [
+        "Shooter",
+        "Simulator",
+        "Arcade"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 347132,
       "Title": "Marvel Tokon: Fighting Souls",
       "ReleaseDate": "2026-08-06",
@@ -1779,6 +1808,34 @@
       ],
       "Genres": [
         "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 203301,
+      "Title": "Nivalis Nights",
+      "ReleaseDate": "2026-09-29",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocc6d.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1488490",
+      "Metacritic": 0,
+      "AddedCount": 35,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sch7cx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sch7d3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sch7cy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sch7cz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sch7d0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sch7d1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sch7d2.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Simulator",
         "Adventure"
       ],
       "Tags": [],
@@ -2679,58 +2736,6 @@
       "Genres": [
         "Simulator",
         "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 145078,
-      "Title": "Woodo",
-      "ReleaseDate": "2026-09-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co80cc.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2572040",
-      "Metacritic": 0,
-      "AddedCount": 10,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sco9sw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sco9sx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sco9sr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sco9ss.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sco9st.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sco9su.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sco9sv.jpg"
-      ],
-      "Genres": [
-        "Puzzle",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 325182,
-      "Title": "Toem 2",
-      "ReleaseDate": "2026-09-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co94zw.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2900640",
-      "Metacritic": 0,
-      "AddedCount": 9,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuqff.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuqfg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuqfh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuqfi.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuqfj.jpg"
-      ],
-      "Genres": [
-        "Adventure",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
