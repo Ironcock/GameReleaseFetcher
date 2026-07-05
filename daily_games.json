@@ -983,29 +983,6 @@
       ]
     },
     {
-      "ID": 397694,
-      "Title": "Airport Security Sucks!",
-      "ReleaseDate": "2026-06-05",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobwdv.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4285690",
-      "Metacritic": 0,
-      "AddedCount": 4,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12vh7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12vh8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12vh9.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 389109,
       "Title": "Terrinoth: Heroes of Descent",
       "ReleaseDate": "2026-06-07",
@@ -1373,6 +1350,32 @@
       "Platforms": [
         "pc"
       ]
+    },
+    {
+      "ID": 352199,
+      "Title": "Empire in Decay",
+      "ReleaseDate": "2026-07-01",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc5uy.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3345260",
+      "Metacritic": 0,
+      "AddedCount": 3,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxsqk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13lhy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13lhz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13li0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13li1.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Turn-based strategy (TBS)"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
     }
   ],
   "Upcoming": [
@@ -1383,7 +1386,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob7ym.jpg",
       "StoreURL": "https://store.steampowered.com/app/3751260",
       "Metacritic": 0,
-      "AddedCount": 211,
+      "AddedCount": 213,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv1hb.jpg",
@@ -1407,7 +1410,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coccjg.jpg",
       "StoreURL": "https://store.steampowered.com/app/2638890",
       "Metacritic": 0,
-      "AddedCount": 164,
+      "AddedCount": 166,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus43.jpg",
@@ -1433,7 +1436,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc64f.jpg",
       "StoreURL": "https://store.steampowered.com/app/3669870",
       "Metacritic": 0,
-      "AddedCount": 160,
+      "AddedCount": 163,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuxut.jpg",
@@ -2523,6 +2526,36 @@
       ]
     },
     {
+      "ID": 279369,
+      "Title": "The Mermaid Mask",
+      "ReleaseDate": "2026-07-16",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8dvp.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1696770",
+      "Metacritic": 0,
+      "AddedCount": 11,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqi.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqs.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqe.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqk.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 275251,
       "Title": "Desktop Explorer",
       "ReleaseDate": "2026-07-17",
@@ -2572,6 +2605,31 @@
         "Role-playing (RPG)",
         "Simulator",
         "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 214706,
+      "Title": "Lou's Lagoon",
+      "ReleaseDate": "2026-08-27",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc9ja.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2100020",
+      "Metacritic": 0,
+      "AddedCount": 11,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13x21.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13x22.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13x23.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13x24.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13x25.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -2680,61 +2738,6 @@
       "Genres": [
         "Racing",
         "Role-playing (RPG)",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 279369,
-      "Title": "The Mermaid Mask",
-      "ReleaseDate": "2026-07-16",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8dvp.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1696770",
-      "Metacritic": 0,
-      "AddedCount": 10,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqi.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqs.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqe.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scptqk.jpg"
-      ],
-      "Genres": [
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 214706,
-      "Title": "Lou's Lagoon",
-      "ReleaseDate": "2026-08-27",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc9ja.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2100020",
-      "Metacritic": 0,
-      "AddedCount": 10,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13x21.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13x22.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13x23.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13x24.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13x25.jpg"
-      ],
-      "Genres": [
-        "Simulator",
         "Adventure"
       ],
       "Tags": [],
