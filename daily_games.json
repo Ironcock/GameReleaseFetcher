@@ -520,36 +520,6 @@
       ]
     },
     {
-      "ID": 279123,
-      "Title": "Momento",
-      "ReleaseDate": "2026-06-06",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc5a8.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2474770",
-      "Metacritic": 0,
-      "AddedCount": 8,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13jvl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13jvm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13jvn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13jvo.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13jvp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13jvq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13jvr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13jvs.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13jvt.jpg"
-      ],
-      "Genres": [
-        "Point-and-click",
-        "Puzzle",
-        "Simulator"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 252862,
       "Title": "Exo Rally Championship",
       "ReleaseDate": "2026-06-07",
@@ -1376,6 +1346,33 @@
       "Platforms": [
         "pc"
       ]
+    },
+    {
+      "ID": 347840,
+      "Title": "A Heavy Morning",
+      "ReleaseDate": "2026-06-30",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9y1a.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3509400",
+      "Metacritic": 0,
+      "AddedCount": 3,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxa98.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxa99.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxa9a.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxa9b.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxa9c.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxa9d.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxa9e.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
     }
   ],
   "Upcoming": [
@@ -1386,7 +1383,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob7ym.jpg",
       "StoreURL": "https://store.steampowered.com/app/3751260",
       "Metacritic": 0,
-      "AddedCount": 213,
+      "AddedCount": 215,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv1hb.jpg",
@@ -1410,7 +1407,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coccjg.jpg",
       "StoreURL": "https://store.steampowered.com/app/2638890",
       "Metacritic": 0,
-      "AddedCount": 166,
+      "AddedCount": 167,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus43.jpg",
@@ -1436,7 +1433,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc64f.jpg",
       "StoreURL": "https://store.steampowered.com/app/3669870",
       "Metacritic": 0,
-      "AddedCount": 163,
+      "AddedCount": 167,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuxut.jpg",
