@@ -8,7 +8,7 @@
       "StoreURL": "https://store.steampowered.com/app/1086940",
       "Metacritic": 96,
       "AddedCount": 39,
-      "Rating": 95.58574660734823,
+      "Rating": 95.58750052886461,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc81fj.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc81fh.jpg",
@@ -372,7 +372,7 @@
       "Title": "Mass Effect 2",
       "ReleaseDate": "2010-01-26",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co20ac.jpg",
-      "StoreURL": "https://store.steampowered.com/app/24980",
+      "StoreURL": "https://store.steampowered.com/app/2362420",
       "Metacritic": 91,
       "AddedCount": 1,
       "Rating": 91.33259793461093,
@@ -401,7 +401,7 @@
       "StoreURL": "https://store.steampowered.com/app/620",
       "Metacritic": 91,
       "AddedCount": 0,
-      "Rating": 91.29546216871681,
+      "Rating": 91.29545851129413,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/i9ys3zdhph1mh3futdit.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/rvrge8js7xnhr4z1vrbk.jpg",
@@ -1274,7 +1274,7 @@
       "StoreURL": "",
       "Metacritic": 87,
       "AddedCount": 95,
-      "Rating": 87.40660686543933,
+      "Rating": 87.40681273901137,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/llwixfa0dy8fpex3tcwr.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/o7ehlmbjcvkeeltwreeg.jpg",
@@ -1382,7 +1382,7 @@
       "Title": "Fallout: New Vegas",
       "ReleaseDate": "2010-10-19",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1u60.jpg",
-      "StoreURL": "https://store.steampowered.com/app/22490",
+      "StoreURL": "https://store.steampowered.com/app/22380",
       "Metacritic": 87,
       "AddedCount": 2,
       "Rating": 87.09215094509506,
@@ -1569,6 +1569,32 @@
       ]
     },
     {
+      "ID": 20,
+      "Title": "BioShock",
+      "ReleaseDate": "2007-08-21",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2mli.jpg",
+      "StoreURL": "https://store.steampowered.com/app/7670",
+      "Metacritic": 87,
+      "AddedCount": 1,
+      "Rating": 86.64261239955444,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/kjbwbdqemykovdzgidhu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/unvhwxrfzpjys4txfv4a.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/yg3j0yco50gq3wfcxujb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/wworjqefsfzc9ouvrpxd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/usn4aw2k54ym8jcjbkmg.jpg"
+      ],
+      "Genres": [
+        "Shooter",
+        "Puzzle",
+        "Role-playing (RPG)"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 7344,
       "Title": "Ori and the Blind Forest",
       "ReleaseDate": "2015-03-11",
@@ -1593,32 +1619,6 @@
         "Platform",
         "Puzzle",
         "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 20,
-      "Title": "BioShock",
-      "ReleaseDate": "2007-08-21",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2mli.jpg",
-      "StoreURL": "https://store.steampowered.com/app/7670",
-      "Metacritic": 87,
-      "AddedCount": 1,
-      "Rating": 86.6295537512922,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/kjbwbdqemykovdzgidhu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/unvhwxrfzpjys4txfv4a.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/yg3j0yco50gq3wfcxujb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/wworjqefsfzc9ouvrpxd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/usn4aw2k54ym8jcjbkmg.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Puzzle",
-        "Role-playing (RPG)"
       ],
       "Tags": [],
       "Platforms": [
@@ -1709,7 +1709,7 @@
       "StoreURL": "https://store.steampowered.com/app/52003",
       "Metacritic": 86,
       "AddedCount": 0,
-      "Rating": 86.40143875660841,
+      "Rating": 86.401462806697,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/x7pzfljardlljvtqcgv4.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/co2mtfe04a5iclqoo11c.jpg",
@@ -1786,7 +1786,7 @@
       "StoreURL": "https://store.steampowered.com/app/427520",
       "Metacritic": 86,
       "AddedCount": 13,
-      "Rating": 86.24446217322262,
+      "Rating": 86.2451588030763,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct3fy.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct3fz.jpg",
@@ -1842,7 +1842,7 @@
       "StoreURL": "https://store.steampowered.com/app/413150",
       "Metacritic": 86,
       "AddedCount": 1,
-      "Rating": 86.16423857927836,
+      "Rating": 86.16390561413243,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/rhxs1x9w5hf5kde2osf5.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/iwswpvxa9ytrpk8yjcyx.jpg",
@@ -2131,7 +2131,7 @@
       "StoreURL": "",
       "Metacritic": 86,
       "AddedCount": 173,
-      "Rating": 85.7511499635024,
+      "Rating": 85.7503967417246,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bi9.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bi8.jpg",
@@ -3836,7 +3836,7 @@
       "Title": "Risk of Rain 2",
       "ReleaseDate": "2020-08-11",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaavb.jpg",
-      "StoreURL": "https://store.steampowered.com/app/632360",
+      "StoreURL": "https://store.steampowered.com/app/3885090",
       "Metacritic": 84,
       "AddedCount": 5,
       "Rating": 83.74349190941146,
@@ -4001,7 +4001,7 @@
       "Title": "Dragon Ball FighterZ",
       "ReleaseDate": "2018-01-26",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1nih.jpg",
-      "StoreURL": "https://store.steampowered.com/app/678950",
+      "StoreURL": "https://store.steampowered.com/app/1725510",
       "Metacritic": 84,
       "AddedCount": 14,
       "Rating": 83.56044559928107,
