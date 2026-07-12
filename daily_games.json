@@ -470,32 +470,6 @@
       ]
     },
     {
-      "ID": 152121,
-      "Title": "Survival Machine",
-      "ReleaseDate": "2026-06-12",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9rau.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1601330",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scago0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scago2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scagny.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scagnx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scagnz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scago1.jpg"
-      ],
-      "Genres": [
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 400815,
       "Title": "Runback",
       "ReleaseDate": "2026-06-30",
@@ -991,26 +965,6 @@
       ]
     },
     {
-      "ID": 400374,
-      "Title": "End of Starchild",
-      "ReleaseDate": "2026-06-12",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc0i0.jpg",
-      "StoreURL": "",
-      "Metacritic": 0,
-      "AddedCount": 2,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13692.jpg"
-      ],
-      "Genres": [
-        "Shooter"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 395294,
       "Title": "Dark Scrolls",
       "ReleaseDate": "2026-06-22",
@@ -1143,9 +1097,9 @@
       "ReleaseDate": "2026-06-15",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobcv3.jpg",
       "StoreURL": "https://store.steampowered.com/app/4064510",
-      "Metacritic": 0,
+      "Metacritic": 95,
       "AddedCount": 2,
-      "Rating": 0.0,
+      "Rating": 95.10204081632652,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ff1.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ff0.jpg",
@@ -1363,6 +1317,60 @@
       "Platforms": [
         "pc"
       ]
+    },
+    {
+      "ID": 338053,
+      "Title": "Disc Golf Masters",
+      "ReleaseDate": "2026-06-23",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocbin.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2819400",
+      "Metacritic": 0,
+      "AddedCount": 2,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1430r.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1430s.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1430t.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1430u.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1430v.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1430w.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1430x.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1430y.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1430z.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Sport"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 325712,
+      "Title": "Feed The Pit",
+      "ReleaseDate": "2026-06-30",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co95mq.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3278290",
+      "Metacritic": 0,
+      "AddedCount": 2,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scushj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scushk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scushl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scushm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scushn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scusho.jpg"
+      ],
+      "Genres": [
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
     }
   ],
   "Upcoming": [
@@ -1397,7 +1405,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc64f.jpg",
       "StoreURL": "https://store.steampowered.com/app/3669870",
       "Metacritic": 0,
-      "AddedCount": 174,
+      "AddedCount": 175,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuxut.jpg",
@@ -1424,7 +1432,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coccjg.jpg",
       "StoreURL": "https://store.steampowered.com/app/2638890",
       "Metacritic": 0,
-      "AddedCount": 171,
+      "AddedCount": 172,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus43.jpg",
@@ -1450,7 +1458,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc79u.jpg",
       "StoreURL": "https://store.steampowered.com/app/2713000",
       "Metacritic": 0,
-      "AddedCount": 111,
+      "AddedCount": 113,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9w.jpg",
@@ -1479,7 +1487,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobc5q.jpg",
       "StoreURL": "https://store.steampowered.com/app/2001760",
       "Metacritic": 0,
-      "AddedCount": 107,
+      "AddedCount": 108,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbca.jpg",
@@ -1641,7 +1649,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7uod.jpg",
       "StoreURL": "https://store.steampowered.com/app/2825860",
       "Metacritic": 0,
-      "AddedCount": 56,
+      "AddedCount": 55,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqxv8.jpg",
@@ -1888,6 +1896,34 @@
       ]
     },
     {
+      "ID": 320141,
+      "Title": "Mistfall Hunter",
+      "ReleaseDate": "2026-07-29",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc5za.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3282300",
+      "Metacritic": 0,
+      "AddedCount": 36,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu85c.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu85d.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu85e.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu85f.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu85g.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu85h.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu85i.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu85j.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 203301,
       "Title": "Nivalis Nights",
       "ReleaseDate": "2026-09-29",
@@ -1908,34 +1944,6 @@
       "Genres": [
         "Role-playing (RPG)",
         "Simulator",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 320141,
-      "Title": "Mistfall Hunter",
-      "ReleaseDate": "2026-07-29",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc5za.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3282300",
-      "Metacritic": 0,
-      "AddedCount": 35,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu85c.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu85d.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu85e.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu85f.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu85g.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu85h.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu85i.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu85j.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
         "Adventure"
       ],
       "Tags": [],
@@ -1965,6 +1973,33 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ytt.jpg"
       ],
       "Genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 165397,
+      "Title": "The Relic: First Guardian",
+      "ReleaseDate": "2026-07-31",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8btm.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2827820",
+      "Metacritic": 0,
+      "AddedCount": 33,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scq1wb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scq1wc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scq1wd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scq1we.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scq1wf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scq1wg.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
         "Adventure",
         "Indie"
       ],
@@ -2021,33 +2056,6 @@
         "Platform",
         "Puzzle",
         "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 165397,
-      "Title": "The Relic: First Guardian",
-      "ReleaseDate": "2026-07-31",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8btm.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2827820",
-      "Metacritic": 0,
-      "AddedCount": 32,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scq1wb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scq1wc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scq1wd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scq1we.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scq1wf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scq1wg.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Adventure",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
