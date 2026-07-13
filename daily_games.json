@@ -191,6 +191,31 @@
       ]
     },
     {
+      "ID": 310336,
+      "Title": "Nocturnal II",
+      "ReleaseDate": "2026-06-30",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9vk5.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2847780",
+      "Metacritic": 0,
+      "AddedCount": 10,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvvi4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvvi5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvvi6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvvi7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11mdn.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 253578,
       "Title": "Dimhaven: The Lost Source",
       "ReleaseDate": "2026-06-23",
@@ -209,31 +234,6 @@
       ],
       "Genres": [
         "Puzzle",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 310336,
-      "Title": "Nocturnal II",
-      "ReleaseDate": "2026-06-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9vk5.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2847780",
-      "Metacritic": 0,
-      "AddedCount": 9,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvvi4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvvi5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvvi6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvvi7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11mdn.jpg"
-      ],
-      "Genres": [
         "Adventure",
         "Indie"
       ],
@@ -264,6 +264,31 @@
       "Genres": [
         "Adventure",
         "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 316425,
+      "Title": "Ascend to Zero",
+      "ReleaseDate": "2026-07-13",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coazvz.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2697940",
+      "Metacritic": 0,
+      "AddedCount": 8,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10s5x.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10s5y.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10s5z.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10s60.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Hack and slash/Beat 'em up"
       ],
       "Tags": [],
       "Platforms": [
@@ -1346,31 +1371,6 @@
       "Platforms": [
         "pc"
       ]
-    },
-    {
-      "ID": 325712,
-      "Title": "Feed The Pit",
-      "ReleaseDate": "2026-06-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co95mq.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3278290",
-      "Metacritic": 0,
-      "AddedCount": 2,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scushj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scushk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scushl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scushm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scushn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scusho.jpg"
-      ],
-      "Genres": [
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
     }
   ],
   "Upcoming": [
@@ -1405,7 +1405,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc64f.jpg",
       "StoreURL": "https://store.steampowered.com/app/3669870",
       "Metacritic": 0,
-      "AddedCount": 175,
+      "AddedCount": 176,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuxut.jpg",
@@ -1818,7 +1818,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocce2.jpg",
       "StoreURL": "https://store.steampowered.com/app/4126040",
       "Metacritic": 0,
-      "AddedCount": 42,
+      "AddedCount": 43,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxmej.jpg",
@@ -2410,6 +2410,36 @@
       ]
     },
     {
+      "ID": 140375,
+      "Title": "Akatori",
+      "ReleaseDate": "2026-08-12",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7y72.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1442520",
+      "Metacritic": 0,
+      "AddedCount": 14,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc9169.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc9168.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc9167.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc9166.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc9165.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckxrl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckxrm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckxrn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckxro.jpg"
+      ],
+      "Genres": [
+        "Platform",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 387496,
       "Title": "WheelMates",
       "ReleaseDate": "2026-09-07",
@@ -2716,32 +2746,6 @@
         "Puzzle",
         "Adventure",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 275251,
-      "Title": "Desktop Explorer",
-      "ReleaseDate": "2026-07-17",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc7bf.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2527160",
-      "Metacritic": 0,
-      "AddedCount": 11,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10294.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc141bp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc141bq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc141br.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc141bs.jpg"
-      ],
-      "Genres": [
-        "Puzzle",
-        "Simulator",
-        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
