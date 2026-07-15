@@ -27,6 +27,35 @@
       ]
     },
     {
+      "ID": 361826,
+      "Title": "Denshattack!",
+      "ReleaseDate": "2026-07-15",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaawz.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2524850",
+      "Metacritic": 0,
+      "AddedCount": 29,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym2a.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym2b.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym2c.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym2d.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym2e.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym2f.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym2g.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym2h.jpg"
+      ],
+      "Genres": [
+        "Platform",
+        "Racing",
+        "Sport"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 202138,
       "Title": "Deer & Boy",
       "ReleaseDate": "2026-06-23",
@@ -45,6 +74,30 @@
       "Genres": [
         "Platform",
         "Puzzle",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 334673,
+      "Title": "The Mound: Omen of Cthulhu",
+      "ReleaseDate": "2026-07-15",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc8k5.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2569760",
+      "Metacritic": 0,
+      "AddedCount": 23,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvo1g.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvo1c.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvo1d.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvo1e.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvo1f.jpg"
+      ],
+      "Genres": [
         "Adventure"
       ],
       "Tags": [],
@@ -519,6 +572,33 @@
       "Genres": [
         "Shooter",
         "Simulator"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 285987,
+      "Title": "Teeto",
+      "ReleaseDate": "2026-07-15",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9ecr.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2783370",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scygoy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scygoz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scygp0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scygp1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scygp2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scygp3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scygp4.jpg"
+      ],
+      "Genres": [
+        "Platform",
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -1207,36 +1287,6 @@
       ]
     },
     {
-      "ID": 378189,
-      "Title": "MOLE",
-      "ReleaseDate": "2026-06-15",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobcv3.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4064510",
-      "Metacritic": 95,
-      "AddedCount": 2,
-      "Rating": 95.10204081632652,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ff1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ff0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ff2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ff3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ff6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ff4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ff5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fey.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fez.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 377087,
       "Title": "The Loopler",
       "ReleaseDate": "2026-06-30",
@@ -1319,63 +1369,6 @@
       "Platforms": [
         "pc"
       ]
-    },
-    {
-      "ID": 367362,
-      "Title": "Eyes of the ElderWood",
-      "ReleaseDate": "2026-06-26",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4fo.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3963050",
-      "Metacritic": 0,
-      "AddedCount": 2,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc143fp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc143fq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc143fr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc143fs.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc143ft.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc143fu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc143fv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc143fw.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 366948,
-      "Title": "Treasure Beach",
-      "ReleaseDate": "2026-06-20",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocacd.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3939700",
-      "Metacritic": 0,
-      "AddedCount": 2,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz42j.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz42k.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz42l.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz42m.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz42n.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz42o.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz42p.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Strategy",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
     }
   ],
   "Upcoming": [
@@ -1434,7 +1427,7 @@
       "ID": 325602,
       "Title": "Onimusha: Way of the Sword",
       "ReleaseDate": "2026-09-04",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coccjg.jpg",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocdt3.jpg",
       "StoreURL": "https://store.steampowered.com/app/2638890",
       "Metacritic": 0,
       "AddedCount": 172,
@@ -1622,6 +1615,34 @@
       ]
     },
     {
+      "ID": 361833,
+      "Title": "Valor Mortis",
+      "ReleaseDate": "2026-10-13",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaazc.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2828710",
+      "Metacritic": 0,
+      "AddedCount": 69,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym6w.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym6x.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym6y.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym6z.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym70.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym71.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym72.jpg"
+      ],
+      "Genres": [
+        "Shooter",
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 381248,
       "Title": "Star Wars: Galactic Racer",
       "ReleaseDate": "2026-10-06",
@@ -1712,7 +1733,7 @@
       "ID": 347132,
       "Title": "Marvel Tokon: Fighting Souls",
       "ReleaseDate": "2026-08-06",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc6oy.jpg",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cociit.jpg",
       "StoreURL": "https://store.steampowered.com/app/3787240",
       "Metacritic": 0,
       "AddedCount": 49,
@@ -2068,42 +2089,13 @@
       ]
     },
     {
-      "ID": 361826,
-      "Title": "Denshattack!",
-      "ReleaseDate": "2026-07-15",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaawz.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2524850",
-      "Metacritic": 0,
-      "AddedCount": 29,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym2a.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym2b.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym2c.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym2d.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym2e.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym2f.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym2g.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym2h.jpg"
-      ],
-      "Genres": [
-        "Platform",
-        "Racing",
-        "Sport"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 362096,
       "Title": "Halloween: The Game",
       "ReleaseDate": "2026-09-08",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc6x4.jpg",
       "StoreURL": "https://store.steampowered.com/app/3219630",
       "Metacritic": 0,
-      "AddedCount": 27,
+      "AddedCount": 29,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn6x.jpg",
@@ -2167,30 +2159,6 @@
       ],
       "Genres": [
         "Fighting"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 334673,
-      "Title": "The Mound: Omen of Cthulhu",
-      "ReleaseDate": "2026-07-15",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc8k5.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2569760",
-      "Metacritic": 0,
-      "AddedCount": 23,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvo1g.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvo1c.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvo1d.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvo1e.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvo1f.jpg"
-      ],
-      "Genres": [
-        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -2698,6 +2666,34 @@
       "Genres": [
         "Adventure",
         "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 402959,
+      "Title": "Planet Zoo 2",
+      "ReleaseDate": "2026-10-13",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc5at.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3219030",
+      "Metacritic": 0,
+      "AddedCount": 11,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13iiy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13iiz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ij0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ij1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ij2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ij3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ij4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ij5.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Strategy"
       ],
       "Tags": [],
       "Platforms": [
