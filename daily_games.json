@@ -61,9 +61,9 @@
       "ReleaseDate": "2026-06-23",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocbxh.jpg",
       "StoreURL": "https://store.steampowered.com/app/1803140",
-      "Metacritic": 0,
+      "Metacritic": 70,
       "AddedCount": 27,
-      "Rating": 0.0,
+      "Rating": 70.22802500728763,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sch3f5.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sch3f6.jpg",
@@ -124,37 +124,6 @@
       ],
       "Genres": [
         "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 324576,
-      "Title": "Prologue: Go Wayback!",
-      "ReleaseDate": "2026-06-17",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coav7e.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2943740",
-      "Metacritic": 0,
-      "AddedCount": 15,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fg8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fg9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fga.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fgb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fgc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fgd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fge.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fgg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10fgf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scykhj.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Adventure",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -239,6 +208,32 @@
         "Puzzle",
         "Adventure",
         "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 275251,
+      "Title": "Desktop Explorer",
+      "ReleaseDate": "2026-07-17",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc7bf.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2527160",
+      "Metacritic": 0,
+      "AddedCount": 11,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10294.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc141bp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc141bq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc141br.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc141bs.jpg"
+      ],
+      "Genres": [
+        "Puzzle",
+        "Simulator",
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -1199,6 +1194,33 @@
       ]
     },
     {
+      "ID": 330831,
+      "Title": "Frozen Ship",
+      "ReleaseDate": "2026-07-17",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9u9c.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3423990",
+      "Metacritic": 0,
+      "AddedCount": 3,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvaf6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvaf7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvaf2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvaf3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvaf4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvaf5.jpg"
+      ],
+      "Genres": [
+        "Strategy",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 277763,
       "Title": "Celestial Return",
       "ReleaseDate": "2026-07-14",
@@ -1368,30 +1390,6 @@
       "Platforms": [
         "pc"
       ]
-    },
-    {
-      "ID": 395294,
-      "Title": "Dark Scrolls",
-      "ReleaseDate": "2026-06-22",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobwrc.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2912550",
-      "Metacritic": 0,
-      "AddedCount": 2,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12mpr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12mps.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12mpt.jpg"
-      ],
-      "Genres": [
-        "Platform",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
     }
   ],
   "Upcoming": [
@@ -1402,7 +1400,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob7ym.jpg",
       "StoreURL": "https://store.steampowered.com/app/3751260",
       "Metacritic": 0,
-      "AddedCount": 223,
+      "AddedCount": 222,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv1hb.jpg",
@@ -1426,7 +1424,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc64f.jpg",
       "StoreURL": "https://store.steampowered.com/app/3669870",
       "Metacritic": 0,
-      "AddedCount": 176,
+      "AddedCount": 177,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuxut.jpg",
@@ -1692,6 +1690,37 @@
       ]
     },
     {
+      "ID": 389434,
+      "Title": "Castlevania: Belmont's Curse",
+      "ReleaseDate": "2026-10-15",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc76j.jpg",
+      "StoreURL": "https://store.steampowered.com/app/4231820",
+      "Metacritic": 0,
+      "AddedCount": 57,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x74.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x75.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x76.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x77.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x78.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x6z.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x70.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x71.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x72.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x73.jpg"
+      ],
+      "Genres": [
+        "Platform",
+        "Role-playing (RPG)",
+        "Hack and slash/Beat 'em up"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 289696,
       "Title": "The Sinking City 2",
       "ReleaseDate": "2026-08-18",
@@ -1887,6 +1916,34 @@
       ]
     },
     {
+      "ID": 251059,
+      "Title": "Grave Seasons",
+      "ReleaseDate": "2026-09-30",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobtwq.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3255110",
+      "Metacritic": 0,
+      "AddedCount": 40,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso28.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso24.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso25.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso26.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso27.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso29.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso2a.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 339608,
       "Title": "Neverway",
       "ReleaseDate": "2026-10-01",
@@ -1909,34 +1966,6 @@
       "Genres": [
         "Role-playing (RPG)",
         "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 251059,
-      "Title": "Grave Seasons",
-      "ReleaseDate": "2026-09-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobtwq.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3255110",
-      "Metacritic": 0,
-      "AddedCount": 39,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso28.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso24.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso25.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso26.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso27.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso29.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso2a.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Simulator",
         "Indie"
       ],
       "Tags": [],
@@ -2275,7 +2304,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coay6k.jpg",
       "StoreURL": "https://store.steampowered.com/app/4094660",
       "Metacritic": 0,
-      "AddedCount": 16,
+      "AddedCount": 17,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10osy.jpg",
@@ -2739,32 +2768,6 @@
         "Shooter",
         "Adventure",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 275251,
-      "Title": "Desktop Explorer",
-      "ReleaseDate": "2026-07-17",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc7bf.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2527160",
-      "Metacritic": 0,
-      "AddedCount": 11,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10294.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc141bp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc141bq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc141br.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc141bs.jpg"
-      ],
-      "Genres": [
-        "Puzzle",
-        "Simulator",
-        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
