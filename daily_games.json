@@ -1,32 +1,6 @@
 {
   "NewReleases": [
     {
-      "ID": 358534,
-      "Title": "The Adventures of Elliot: The Millennium Tales",
-      "ReleaseDate": "2026-06-18",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coblri.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3483510",
-      "Metacritic": 0,
-      "AddedCount": 35,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyaoe.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyaof.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyaog.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyaoh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyaoi.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyaoj.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 361826,
       "Title": "Denshattack!",
       "ReleaseDate": "2026-07-15",
@@ -1390,6 +1364,36 @@
       "Platforms": [
         "pc"
       ]
+    },
+    {
+      "ID": 399848,
+      "Title": "Database Detective: Minor Crimes Division",
+      "ReleaseDate": "2026-07-17",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc0c8.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3950130",
+      "Metacritic": 0,
+      "AddedCount": 2,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc134a6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc134a7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc134a8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc135yl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc135ym.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc135yk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc135yh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc135yg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc135yi.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc135yj.jpg"
+      ],
+      "Genres": [
+        "Puzzle",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
     }
   ],
   "Upcoming": [
@@ -1696,7 +1700,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc76j.jpg",
       "StoreURL": "https://store.steampowered.com/app/4231820",
       "Metacritic": 0,
-      "AddedCount": 57,
+      "AddedCount": 58,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x74.jpg",
@@ -2030,6 +2034,33 @@
       ]
     },
     {
+      "ID": 165397,
+      "Title": "The Relic: First Guardian",
+      "ReleaseDate": "2026-07-31",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8btm.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2827820",
+      "Metacritic": 0,
+      "AddedCount": 34,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scq1wb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scq1wc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scq1wd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scq1we.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scq1wf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scq1wg.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 313597,
       "Title": "Silver Pines",
       "ReleaseDate": "2026-10-08",
@@ -2051,33 +2082,6 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ytt.jpg"
       ],
       "Genres": [
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 165397,
-      "Title": "The Relic: First Guardian",
-      "ReleaseDate": "2026-07-31",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8btm.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2827820",
-      "Metacritic": 0,
-      "AddedCount": 33,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scq1wb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scq1wc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scq1wd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scq1we.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scq1wf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scq1wg.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
         "Adventure",
         "Indie"
       ],
@@ -2157,6 +2161,34 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn71.jpg"
       ],
       "Genres": [],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 216692,
+      "Title": "Tenebris Somnia",
+      "ReleaseDate": "2026-10-16",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7aws.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2121510",
+      "Metacritic": 0,
+      "AddedCount": 26,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scp9bp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scp9bq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scp9br.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scp9bs.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scp9bl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scp9bm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scp9bn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scp9bo.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie"
+      ],
       "Tags": [],
       "Platforms": [
         "pc"
@@ -2523,6 +2555,33 @@
       ]
     },
     {
+      "ID": 362063,
+      "Title": "Hell Let Loose: Vietnam",
+      "ReleaseDate": "2026-08-13",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4hc.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3079210",
+      "Metacritic": 0,
+      "AddedCount": 13,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn72.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn73.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn74.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn75.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn76.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn77.jpg"
+      ],
+      "Genres": [
+        "Shooter",
+        "Simulator",
+        "Strategy"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 358396,
       "Title": "Shutter Story",
       "ReleaseDate": "2026-09-30",
@@ -2642,33 +2701,6 @@
       ]
     },
     {
-      "ID": 362063,
-      "Title": "Hell Let Loose: Vietnam",
-      "ReleaseDate": "2026-08-13",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4hc.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3079210",
-      "Metacritic": 0,
-      "AddedCount": 12,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn72.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn73.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn74.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn75.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn76.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn77.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Simulator",
-        "Strategy"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 136299,
       "Title": "Forever Ago",
       "ReleaseDate": "2026-10-08",
@@ -2741,32 +2773,6 @@
       ],
       "Genres": [
         "Simulator",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 335296,
-      "Title": "Wild Blue Skies",
-      "ReleaseDate": "2026-08-13",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaw26.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1921490",
-      "Metacritic": 0,
-      "AddedCount": 11,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvq4j.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvq4k.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvq4l.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvq4m.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvq4n.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Adventure",
         "Indie"
       ],
       "Tags": [],
