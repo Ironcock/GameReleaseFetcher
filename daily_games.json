@@ -86,9 +86,9 @@
       "ReleaseDate": "2026-06-22",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc93o.jpg",
       "StoreURL": "https://store.steampowered.com/app/1431300",
-      "Metacritic": 86,
+      "Metacritic": 89,
       "AddedCount": 22,
-      "Rating": 85.67234455061626,
+      "Rating": 88.83806235839897,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwp0.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwp2.jpg",
@@ -404,6 +404,63 @@
         "Simulator",
         "Strategy",
         "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 312141,
+      "Title": "The Life and Suffering of Prince Jerian",
+      "ReleaseDate": "2026-07-20",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8mrk.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2936290",
+      "Metacritic": 0,
+      "AddedCount": 7,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctgxm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctgxn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctgxq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctgxr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctgxt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctgxk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctgxw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctgxy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctgy0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctgy1.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 262659,
+      "Title": "ZeroSpace",
+      "ReleaseDate": "2026-07-20",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9a9t.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1605850",
+      "Metacritic": 0,
+      "AddedCount": 7,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sco1g7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sco1g8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sco1g9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sco1g4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sco1g5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sco1g6.jpg"
+      ],
+      "Genres": [
+        "Real Time Strategy (RTS)",
+        "Role-playing (RPG)",
+        "Strategy"
       ],
       "Tags": [],
       "Platforms": [
@@ -935,6 +992,34 @@
       ]
     },
     {
+      "ID": 382273,
+      "Title": "Foghorns Drown",
+      "ReleaseDate": "2026-07-20",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc9vw.jpg",
+      "StoreURL": "https://store.steampowered.com/app/4244640",
+      "Metacritic": 0,
+      "AddedCount": 3,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10xjv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10xjo.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10xjp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10xjq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10xjr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10xjs.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10xjt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10xju.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 374711,
       "Title": "Pawsome Resort",
       "ReleaseDate": "2026-06-22",
@@ -1016,33 +1101,6 @@
         "Role-playing (RPG)",
         "Strategy",
         "Turn-based strategy (TBS)"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 347439,
-      "Title": "Grim Trials",
-      "ReleaseDate": "2026-06-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9y28.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2621930",
-      "Metacritic": 0,
-      "AddedCount": 3,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx8n9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx8na.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx8n7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx8n8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx8nb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx8nc.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Hack and slash/Beat 'em up",
-        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -1284,76 +1342,28 @@
       ]
     },
     {
-      "ID": 401278,
-      "Title": "Acting Out",
-      "ReleaseDate": "2026-07-01",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc1vg.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4267780",
+      "ID": 405165,
+      "Title": "Moldrise",
+      "ReleaseDate": "2026-07-20",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coca0z.jpg",
+      "StoreURL": "https://store.steampowered.com/app/4519130",
       "Metacritic": 0,
       "AddedCount": 2,
       "Rating": 0.0,
       "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13a32.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13a33.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13a34.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13a35.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13a36.jpg"
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13qgb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13qgc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13qgd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13qge.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13qgf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13qgg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13qgh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13qgi.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13qgj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13qgk.jpg"
       ],
       "Genres": [
-        "Simulator",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 399848,
-      "Title": "Database Detective: Minor Crimes Division",
-      "ReleaseDate": "2026-07-17",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc0c8.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3950130",
-      "Metacritic": 0,
-      "AddedCount": 2,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc134a6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc134a7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc134a8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc135yl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc135ym.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc135yk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc135yh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc135yg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc135yi.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc135yj.jpg"
-      ],
-      "Genres": [
-        "Puzzle",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 395294,
-      "Title": "Dark Scrolls",
-      "ReleaseDate": "2026-06-22",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobwrc.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2912550",
-      "Metacritic": 0,
-      "AddedCount": 2,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12mpr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12mps.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12mpt.jpg"
-      ],
-      "Genres": [
-        "Platform",
+        "Role-playing (RPG)",
         "Adventure",
         "Indie"
       ],
@@ -1363,17 +1373,21 @@
       ]
     },
     {
-      "ID": 393968,
-      "Title": "Echoes of Aincrad: Ultimate Edition",
-      "ReleaseDate": "2026-07-09",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobpyx.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2244210",
+      "ID": 402652,
+      "Title": "Loot Gobblin' Together",
+      "ReleaseDate": "2026-07-20",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coca5j.jpg",
+      "StoreURL": "https://store.steampowered.com/app/4651490",
       "Metacritic": 0,
       "AddedCount": 2,
       "Rating": 0.0,
-      "ShortScreenshots": [],
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13fn3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13fn4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13fn5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13fn6.jpg"
+      ],
       "Genres": [
-        "Role-playing (RPG)",
         "Adventure"
       ],
       "Tags": [],
@@ -1414,7 +1428,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc64f.jpg",
       "StoreURL": "https://store.steampowered.com/app/3669870",
       "Metacritic": 0,
-      "AddedCount": 177,
+      "AddedCount": 178,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuxut.jpg",
@@ -1441,7 +1455,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocdt3.jpg",
       "StoreURL": "https://store.steampowered.com/app/2638890",
       "Metacritic": 0,
-      "AddedCount": 171,
+      "AddedCount": 172,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus43.jpg",
@@ -1686,7 +1700,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc76j.jpg",
       "StoreURL": "https://store.steampowered.com/app/4231820",
       "Metacritic": 0,
-      "AddedCount": 57,
+      "AddedCount": 59,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x74.jpg",
@@ -1778,7 +1792,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cociit.jpg",
       "StoreURL": "https://store.steampowered.com/app/3787240",
       "Metacritic": 0,
-      "AddedCount": 49,
+      "AddedCount": 50,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7bu.jpg",
@@ -1886,7 +1900,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocce2.jpg",
       "StoreURL": "https://store.steampowered.com/app/4126040",
       "Metacritic": 0,
-      "AddedCount": 45,
+      "AddedCount": 46,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxmej.jpg",
@@ -2322,7 +2336,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coay6k.jpg",
       "StoreURL": "https://store.steampowered.com/app/4094660",
       "Metacritic": 0,
-      "AddedCount": 17,
+      "AddedCount": 18,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10osy.jpg",
