@@ -81,23 +81,27 @@
       ]
     },
     {
-      "ID": 252846,
-      "Title": "Sand: Raiders Of Sophie",
-      "ReleaseDate": "2026-06-22",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc93o.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1431300",
-      "Metacritic": 89,
-      "AddedCount": 22,
-      "Rating": 88.83806235839897,
+      "ID": 305011,
+      "Title": "Tears of Metal",
+      "ReleaseDate": "2026-07-22",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8bic.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1913120",
+      "Metacritic": 0,
+      "AddedCount": 19,
+      "Rating": 0.0,
       "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwp0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwp2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwp4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwp7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwp9.jpg"
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnzb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnzc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnzd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnze.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnzg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnzh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnzn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnzj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnzl.jpg"
       ],
       "Genres": [
-        "Adventure"
+        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -382,6 +386,31 @@
       ]
     },
     {
+      "ID": 352789,
+      "Title": "Shift at Midnight",
+      "ReleaseDate": "2026-07-22",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa2v6.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3722330",
+      "Metacritic": 0,
+      "AddedCount": 8,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxu34.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxu35.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxu36.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxu37.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxu33.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 316425,
       "Title": "Ascend to Zero",
       "ReleaseDate": "2026-07-13",
@@ -400,36 +429,6 @@
         "Role-playing (RPG)",
         "Strategy",
         "Hack and slash/Beat 'em up"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 401893,
-      "Title": "Moss: The Forgotten Relic",
-      "ReleaseDate": "2026-07-16",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc2pc.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3914860",
-      "Metacritic": 0,
-      "AddedCount": 7,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13crn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13crj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13crh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13crg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13cri.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13crm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13crk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13crl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13cro.jpg"
-      ],
-      "Genres": [
-        "Fighting",
-        "Platform",
-        "Puzzle"
       ],
       "Tags": [],
       "Platforms": [
@@ -667,6 +666,34 @@
       ]
     },
     {
+      "ID": 398217,
+      "Title": "DragonSword: Awakening",
+      "ReleaseDate": "2026-07-22",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobx46.jpg",
+      "StoreURL": "https://store.steampowered.com/app/4570720",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc131kd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc131ke.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc131kf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc131kg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc131kh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc131ki.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc131kj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc131kc.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 391055,
       "Title": "Dive or Die: Children of Rain",
       "ReleaseDate": "2026-07-21",
@@ -690,6 +717,37 @@
       "Genres": [
         "Adventure",
         "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 309518,
+      "Title": "Lifted",
+      "ReleaseDate": "2026-07-22",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobrwj.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2184020",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct4ut.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct4uu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct4uv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct4uo.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct4up.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct4uq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct4ur.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct4us.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct4uw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct4ux.jpg"
+      ],
+      "Genres": [
+        "Platform",
+        "Puzzle",
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -1112,37 +1170,6 @@
       ]
     },
     {
-      "ID": 374711,
-      "Title": "Pawsome Resort",
-      "ReleaseDate": "2026-06-22",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaq3x.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3759220",
-      "Metacritic": 0,
-      "AddedCount": 3,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczza5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczza6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczzad.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczzae.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczzaf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczza7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczza8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczza9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczzaa.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczzab.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Simulator",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 356562,
       "Title": "Kiyo: Bunny Tyranny",
       "ReleaseDate": "2026-06-25",
@@ -1261,6 +1288,36 @@
       ]
     },
     {
+      "ID": 334544,
+      "Title": "Hand of Fate: Hordes",
+      "ReleaseDate": "2026-07-22",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc7ch.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3075410",
+      "Metacritic": 0,
+      "AddedCount": 3,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwnh3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwngy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwnh4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwngz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwnh0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwnh1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwnh2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwnh5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwnh6.jpg"
+      ],
+      "Genres": [
+        "Shooter",
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 277763,
       "Title": "Celestial Return",
       "ReleaseDate": "2026-07-14",
@@ -1346,60 +1403,6 @@
         "Role-playing (RPG)",
         "Simulator",
         "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 202129,
-      "Title": "Athanasia",
-      "ReleaseDate": "2026-06-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9wni.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1761910",
-      "Metacritic": 0,
-      "AddedCount": 3,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sch3ed.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sch3ea.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sch3eb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sch3ec.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sch3e9.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 134954,
-      "Title": "Urban Strife",
-      "ReleaseDate": "2026-07-14",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5wl6.jpg",
-      "StoreURL": "https://store.steampowered.com/app/710230",
-      "Metacritic": 0,
-      "AddedCount": 3,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8c3j.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8c3h.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sce4t8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sce4t9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckc2n.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckc2o.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckc2q.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckc2p.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Strategy",
-        "Turn-based strategy (TBS)"
       ],
       "Tags": [],
       "Platforms": [
@@ -1521,7 +1524,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobc5q.jpg",
       "StoreURL": "https://store.steampowered.com/app/2001760",
       "Metacritic": 0,
-      "AddedCount": 108,
+      "AddedCount": 109,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbca.jpg",
@@ -1547,7 +1550,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc77n.jpg",
       "StoreURL": "https://store.steampowered.com/app/3010850",
       "Metacritic": 0,
-      "AddedCount": 93,
+      "AddedCount": 94,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoft.jpg",
@@ -1561,6 +1564,30 @@
       ],
       "Genres": [
         "Shooter",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 347637,
+      "Title": "End of Abyss",
+      "ReleaseDate": "2026-10-01",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xhm.jpg",
+      "StoreURL": "https://store.epicgames.com/p/8541c863a8c64e0aad48abd8ad3006cd",
+      "Metacritic": 0,
+      "AddedCount": 85,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxk44.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxk45.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxk46.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxk48.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxk47.jpg"
+      ],
+      "Genres": [
         "Adventure"
       ],
       "Tags": [],
@@ -1589,30 +1616,6 @@
       ],
       "Genres": [
         "Puzzle",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 347637,
-      "Title": "End of Abyss",
-      "ReleaseDate": "2026-10-01",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xhm.jpg",
-      "StoreURL": "https://store.epicgames.com/p/8541c863a8c64e0aad48abd8ad3006cd",
-      "Metacritic": 0,
-      "AddedCount": 84,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxk44.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxk45.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxk46.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxk48.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxk47.jpg"
-      ],
-      "Genres": [
         "Adventure"
       ],
       "Tags": [],
@@ -2426,6 +2429,26 @@
       ]
     },
     {
+      "ID": 373593,
+      "Title": "Lord of Mysteries",
+      "ReleaseDate": "2026-08-21",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coat53.jpg",
+      "StoreURL": "",
+      "Metacritic": 0,
+      "AddedCount": 14,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc108ll.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 361830,
       "Title": "He-Man and the Masters of the Universe: Dragon Pearl of Destruction",
       "ReleaseDate": "2026-09-30",
@@ -2754,32 +2777,6 @@
       ],
       "Genres": [
         "Simulator",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 335296,
-      "Title": "Wild Blue Skies",
-      "ReleaseDate": "2026-08-13",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaw26.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1921490",
-      "Metacritic": 0,
-      "AddedCount": 11,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvq4j.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvq4k.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvq4l.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvq4m.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvq4n.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Adventure",
         "Indie"
       ],
       "Tags": [],
