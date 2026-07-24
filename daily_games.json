@@ -280,10 +280,32 @@
       ]
     },
     {
+      "ID": 378071,
+      "Title": "An Eggstremely Hard Game",
+      "ReleaseDate": "2026-07-24",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coauzw.jpg",
+      "StoreURL": "https://store.steampowered.com/app/4112070",
+      "Metacritic": 0,
+      "AddedCount": 10,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ezg.jpg"
+      ],
+      "Genres": [
+        "Platform",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 330174,
       "Title": "Dinoblade",
       "ReleaseDate": "2026-07-23",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9l4b.jpg",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cock59.jpg",
       "StoreURL": "https://store.steampowered.com/app/3440070",
       "Metacritic": 0,
       "AddedCount": 10,
@@ -465,37 +487,6 @@
       ]
     },
     {
-      "ID": 371080,
-      "Title": "Citystate Metropolis",
-      "ReleaseDate": "2026-06-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coalij.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2828020",
-      "Metacritic": 0,
-      "AddedCount": 7,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczh3c.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczh3h.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczh3o.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczh3r.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczh3j.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczh3g.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczh3d.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczh3e.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczh3m.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczh3f.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Strategy",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 312141,
       "Title": "The Life and Suffering of Prince Jerian",
       "ReleaseDate": "2026-07-20",
@@ -557,34 +548,10 @@
       ]
     },
     {
-      "ID": 402471,
-      "Title": "Empulse",
-      "ReleaseDate": "2026-06-24",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc3gk.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4323990",
-      "Metacritic": 0,
-      "AddedCount": 6,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ewc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ewd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ewe.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ewf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ewg.jpg"
-      ],
-      "Genres": [
-        "Shooter"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 384205,
       "Title": "Hololive Dreams",
       "ReleaseDate": "2026-07-23",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob7sa.jpg",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cock2f.jpg",
       "StoreURL": "https://store.steampowered.com/app/4282500",
       "Metacritic": 0,
       "AddedCount": 6,
@@ -598,6 +565,37 @@
         "Music",
         "Role-playing (RPG)",
         "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 371080,
+      "Title": "Citystate Metropolis",
+      "ReleaseDate": "2026-06-30",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coalij.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2828020",
+      "Metacritic": 0,
+      "AddedCount": 6,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczh3c.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczh3h.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczh3o.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczh3r.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczh3j.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczh3g.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczh3d.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczh3e.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczh3m.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczh3f.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Strategy",
+        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -721,7 +719,7 @@
     {
       "ID": 398217,
       "Title": "DragonSword: Awakening",
-      "ReleaseDate": "2026-07-22",
+      "ReleaseDate": "2026-07-23",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobx46.jpg",
       "StoreURL": "https://store.steampowered.com/app/4570720",
       "Metacritic": 0,
@@ -2299,6 +2297,36 @@
       ]
     },
     {
+      "ID": 380960,
+      "Title": "ReStory",
+      "ReleaseDate": "2026-08-06",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coazo7.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3812600",
+      "Metacritic": 0,
+      "AddedCount": 18,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10rkp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10rkq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10rkr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10rks.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10rkt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10rku.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10rkv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10rkw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10rkx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10rky.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 380416,
       "Title": "Rivage",
       "ReleaseDate": "2026-08-13",
@@ -2732,32 +2760,6 @@
       ],
       "Genres": [
         "Simulator",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 335296,
-      "Title": "Wild Blue Skies",
-      "ReleaseDate": "2026-08-13",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaw26.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1921490",
-      "Metacritic": 0,
-      "AddedCount": 11,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvq4j.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvq4k.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvq4l.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvq4m.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvq4n.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Adventure",
         "Indie"
       ],
       "Tags": [],
