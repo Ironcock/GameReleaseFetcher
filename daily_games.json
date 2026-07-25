@@ -1305,37 +1305,6 @@
       ]
     },
     {
-      "ID": 356562,
-      "Title": "Kiyo: Bunny Tyranny",
-      "ReleaseDate": "2026-06-25",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa5r2.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2466790",
-      "Metacritic": 0,
-      "AddedCount": 3,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13082.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13083.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13084.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13085.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13086.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13087.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13088.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13089.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1308a.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1308b.jpg"
-      ],
-      "Genres": [
-        "Platform",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 352199,
       "Title": "Empire in Decay",
       "ReleaseDate": "2026-07-01",
@@ -1388,6 +1357,31 @@
       "Platforms": [
         "pc"
       ]
+    },
+    {
+      "ID": 340592,
+      "Title": "Bookbinding",
+      "ReleaseDate": "2026-07-24",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc8dg.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3555780",
+      "Metacritic": 0,
+      "AddedCount": 3,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwdqh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwdqk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwdqm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwdqn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwdqp.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
     }
   ],
   "Upcoming": [
@@ -1398,7 +1392,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob7ym.jpg",
       "StoreURL": "https://store.steampowered.com/app/3751260",
       "Metacritic": 0,
-      "AddedCount": 226,
+      "AddedCount": 227,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv1hb.jpg",
@@ -1422,7 +1416,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc64f.jpg",
       "StoreURL": "https://store.steampowered.com/app/3669870",
       "Metacritic": 0,
-      "AddedCount": 181,
+      "AddedCount": 183,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuxut.jpg",
@@ -1582,7 +1576,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc5sw.jpg",
       "StoreURL": "https://store.steampowered.com/app/1636440",
       "Metacritic": 0,
-      "AddedCount": 85,
+      "AddedCount": 84,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjfq5.jpg",
@@ -1786,7 +1780,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cociit.jpg",
       "StoreURL": "https://store.steampowered.com/app/3787240",
       "Metacritic": 0,
-      "AddedCount": 49,
+      "AddedCount": 50,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7bu.jpg",
@@ -1978,7 +1972,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocc6d.jpg",
       "StoreURL": "https://store.steampowered.com/app/1488490",
       "Metacritic": 0,
-      "AddedCount": 36,
+      "AddedCount": 37,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sch7cx.jpg",
@@ -2034,7 +2028,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaxvl.jpg",
       "StoreURL": "https://store.steampowered.com/app/2333000",
       "Metacritic": 0,
-      "AddedCount": 33,
+      "AddedCount": 34,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctn0w.jpg",
@@ -2210,6 +2204,32 @@
       ],
       "Genres": [
         "Strategy"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 403310,
+      "Title": "Call of Duty: Modern Warfare 4",
+      "ReleaseDate": "2026-10-23",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4mu.jpg",
+      "StoreURL": "https://store.steampowered.com/app/4435490",
+      "Metacritic": 0,
+      "AddedCount": 23,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3n.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3o.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3p.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3q.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3r.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3s.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3t.jpg"
+      ],
+      "Genres": [
+        "Shooter"
       ],
       "Tags": [],
       "Platforms": [
@@ -2734,33 +2754,6 @@
       "Genres": [
         "Simulator",
         "Strategy"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 365465,
-      "Title": "Dressmaker",
-      "ReleaseDate": "2026-09-01",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc9be.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4019220",
-      "Metacritic": 0,
-      "AddedCount": 11,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyxzx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyxzy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyxzz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyy00.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyy01.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyy02.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyy03.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
