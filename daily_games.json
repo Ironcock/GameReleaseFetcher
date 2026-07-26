@@ -6,9 +6,9 @@
       "ReleaseDate": "2026-07-15",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaawz.jpg",
       "StoreURL": "https://store.steampowered.com/app/2524850",
-      "Metacritic": 0,
+      "Metacritic": 80,
       "AddedCount": 29,
-      "Rating": 0.0,
+      "Rating": 79.87577639751552,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym2a.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym2b.jpg",
@@ -1634,7 +1634,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaazc.jpg",
       "StoreURL": "https://store.steampowered.com/app/2828710",
       "Metacritic": 0,
-      "AddedCount": 69,
+      "AddedCount": 68,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym6w.jpg",
@@ -1908,34 +1908,6 @@
       ]
     },
     {
-      "ID": 251059,
-      "Title": "Grave Seasons",
-      "ReleaseDate": "2026-09-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobtwq.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3255110",
-      "Metacritic": 0,
-      "AddedCount": 40,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso28.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso24.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso25.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso26.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso27.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso29.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso2a.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Simulator",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 339608,
       "Title": "Neverway",
       "ReleaseDate": "2026-10-01",
@@ -1958,6 +1930,34 @@
       "Genres": [
         "Role-playing (RPG)",
         "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 251059,
+      "Title": "Grave Seasons",
+      "ReleaseDate": "2026-09-30",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobtwq.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3255110",
+      "Metacritic": 0,
+      "AddedCount": 39,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso28.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso24.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso25.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso26.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso27.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso29.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso2a.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Simulator",
         "Indie"
       ],
       "Tags": [],
