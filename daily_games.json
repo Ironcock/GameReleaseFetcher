@@ -8,7 +8,7 @@
       "StoreURL": "https://store.steampowered.com/app/2524850",
       "Metacritic": 80,
       "AddedCount": 29,
-      "Rating": 79.87577639751552,
+      "Rating": 79.8953893839597,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym2a.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym2b.jpg",
@@ -346,6 +346,37 @@
       ],
       "Genres": [
         "Platform",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 110939,
+      "Title": "Forsaken Realms: Vahrin's Call",
+      "ReleaseDate": "2026-07-27",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob7tk.jpg",
+      "StoreURL": "https://store.steampowered.com/app/951770",
+      "Metacritic": 0,
+      "AddedCount": 10,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11mfw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11mfz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11mg0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11mg3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11mfp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11mfq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11mfr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11mft.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11mfu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11mfo.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
         "Adventure",
         "Indie"
       ],
@@ -1357,31 +1388,6 @@
       "Platforms": [
         "pc"
       ]
-    },
-    {
-      "ID": 340592,
-      "Title": "Bookbinding",
-      "ReleaseDate": "2026-07-24",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc8dg.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3555780",
-      "Metacritic": 0,
-      "AddedCount": 3,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwdqh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwdqk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwdqm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwdqn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwdqp.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
     }
   ],
   "Upcoming": [
@@ -1416,7 +1422,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc64f.jpg",
       "StoreURL": "https://store.steampowered.com/app/3669870",
       "Metacritic": 0,
-      "AddedCount": 183,
+      "AddedCount": 184,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuxut.jpg",
@@ -1443,7 +1449,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocdt3.jpg",
       "StoreURL": "https://store.steampowered.com/app/2638890",
       "Metacritic": 0,
-      "AddedCount": 173,
+      "AddedCount": 174,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus43.jpg",
@@ -1524,7 +1530,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc77n.jpg",
       "StoreURL": "https://store.steampowered.com/app/3010850",
       "Metacritic": 0,
-      "AddedCount": 95,
+      "AddedCount": 96,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoft.jpg",
@@ -1604,7 +1610,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xhg.jpg",
       "StoreURL": "https://store.steampowered.com/app/2584270",
       "Metacritic": 0,
-      "AddedCount": 76,
+      "AddedCount": 77,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9gn.jpg",
@@ -1634,7 +1640,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaazc.jpg",
       "StoreURL": "https://store.steampowered.com/app/2828710",
       "Metacritic": 0,
-      "AddedCount": 68,
+      "AddedCount": 69,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym6w.jpg",
@@ -1662,7 +1668,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobihx.jpg",
       "StoreURL": "https://store.steampowered.com/app/4078430",
       "Metacritic": 0,
-      "AddedCount": 63,
+      "AddedCount": 64,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tdy.jpg",
@@ -1719,7 +1725,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7uod.jpg",
       "StoreURL": "https://store.steampowered.com/app/2825860",
       "Metacritic": 0,
-      "AddedCount": 54,
+      "AddedCount": 55,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqxv8.jpg",
@@ -1780,7 +1786,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cociit.jpg",
       "StoreURL": "https://store.steampowered.com/app/3787240",
       "Metacritic": 0,
-      "AddedCount": 50,
+      "AddedCount": 49,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7bu.jpg",
@@ -1862,7 +1868,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa5o9.jpg",
       "StoreURL": "https://store.steampowered.com/app/1551980",
       "Metacritic": 0,
-      "AddedCount": 46,
+      "AddedCount": 47,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy2x8.jpg",
@@ -1888,7 +1894,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocce2.jpg",
       "StoreURL": "https://store.steampowered.com/app/4126040",
       "Metacritic": 0,
-      "AddedCount": 46,
+      "AddedCount": 47,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxmej.jpg",
@@ -1972,7 +1978,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocc6d.jpg",
       "StoreURL": "https://store.steampowered.com/app/1488490",
       "Metacritic": 0,
-      "AddedCount": 37,
+      "AddedCount": 38,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sch7cx.jpg",
@@ -2028,7 +2034,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaxvl.jpg",
       "StoreURL": "https://store.steampowered.com/app/2333000",
       "Metacritic": 0,
-      "AddedCount": 34,
+      "AddedCount": 35,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctn0w.jpg",
@@ -2058,7 +2064,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8btm.jpg",
       "StoreURL": "https://store.steampowered.com/app/2827820",
       "Metacritic": 0,
-      "AddedCount": 33,
+      "AddedCount": 35,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scq1wb.jpg",
@@ -2217,7 +2223,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4mu.jpg",
       "StoreURL": "https://store.steampowered.com/app/4435490",
       "Metacritic": 0,
-      "AddedCount": 23,
+      "AddedCount": 24,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3n.jpg",
@@ -2317,6 +2323,32 @@
       ]
     },
     {
+      "ID": 380416,
+      "Title": "Rivage",
+      "ReleaseDate": "2026-08-13",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coay6k.jpg",
+      "StoreURL": "https://store.steampowered.com/app/4094660",
+      "Metacritic": 0,
+      "AddedCount": 19,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10osy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10osx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ot0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10osz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ot1.jpg"
+      ],
+      "Genres": [
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 380960,
       "Title": "ReStory",
       "ReleaseDate": "2026-08-06",
@@ -2339,32 +2371,6 @@
       ],
       "Genres": [
         "Simulator",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 380416,
-      "Title": "Rivage",
-      "ReleaseDate": "2026-08-13",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coay6k.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4094660",
-      "Metacritic": 0,
-      "AddedCount": 18,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10osy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10osx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ot0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10osz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ot1.jpg"
-      ],
-      "Genres": [
-        "Puzzle",
-        "Adventure",
         "Indie"
       ],
       "Tags": [],
@@ -2403,6 +2409,26 @@
       ]
     },
     {
+      "ID": 373593,
+      "Title": "Lord of Mysteries",
+      "ReleaseDate": "2026-08-21",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coat53.jpg",
+      "StoreURL": "",
+      "Metacritic": 0,
+      "AddedCount": 15,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc108ll.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 387496,
       "Title": "WheelMates",
       "ReleaseDate": "2026-09-07",
@@ -2425,26 +2451,6 @@
         "Puzzle",
         "Racing",
         "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 373593,
-      "Title": "Lord of Mysteries",
-      "ReleaseDate": "2026-08-21",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coat53.jpg",
-      "StoreURL": "",
-      "Metacritic": 0,
-      "AddedCount": 14,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc108ll.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)"
       ],
       "Tags": [],
       "Platforms": [
