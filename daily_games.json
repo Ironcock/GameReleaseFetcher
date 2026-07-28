@@ -1422,7 +1422,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc64f.jpg",
       "StoreURL": "https://store.steampowered.com/app/3669870",
       "Metacritic": 0,
-      "AddedCount": 184,
+      "AddedCount": 185,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuxut.jpg",
@@ -1475,7 +1475,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc79u.jpg",
       "StoreURL": "https://store.steampowered.com/app/2713000",
       "Metacritic": 0,
-      "AddedCount": 113,
+      "AddedCount": 115,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9w.jpg",
@@ -1694,7 +1694,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc76j.jpg",
       "StoreURL": "https://store.steampowered.com/app/4231820",
       "Metacritic": 0,
-      "AddedCount": 61,
+      "AddedCount": 62,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x74.jpg",
@@ -1786,7 +1786,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cociit.jpg",
       "StoreURL": "https://store.steampowered.com/app/3787240",
       "Metacritic": 0,
-      "AddedCount": 49,
+      "AddedCount": 50,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7bu.jpg",
@@ -2006,7 +2006,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc5za.jpg",
       "StoreURL": "https://store.steampowered.com/app/3282300",
       "Metacritic": 0,
-      "AddedCount": 35,
+      "AddedCount": 36,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu85c.jpg",
@@ -2189,6 +2189,32 @@
       ]
     },
     {
+      "ID": 403310,
+      "Title": "Call of Duty: Modern Warfare 4",
+      "ReleaseDate": "2026-10-23",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4mu.jpg",
+      "StoreURL": "https://store.steampowered.com/app/4435490",
+      "Metacritic": 0,
+      "AddedCount": 25,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3n.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3o.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3p.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3q.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3r.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3s.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3t.jpg"
+      ],
+      "Genres": [
+        "Shooter"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 361859,
       "Title": "Warhammer 40,000: Dawn of War IV",
       "ReleaseDate": "2026-09-17",
@@ -2210,32 +2236,6 @@
       ],
       "Genres": [
         "Strategy"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 403310,
-      "Title": "Call of Duty: Modern Warfare 4",
-      "ReleaseDate": "2026-10-23",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4mu.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4435490",
-      "Metacritic": 0,
-      "AddedCount": 24,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3n.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3o.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3p.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3q.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3r.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3s.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3t.jpg"
-      ],
-      "Genres": [
-        "Shooter"
       ],
       "Tags": [],
       "Platforms": [
@@ -2385,7 +2385,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc6me.jpg",
       "StoreURL": "https://store.steampowered.com/app/2821390",
       "Metacritic": 0,
-      "AddedCount": 16,
+      "AddedCount": 17,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13nrs.jpg",
@@ -2539,6 +2539,37 @@
       ]
     },
     {
+      "ID": 371847,
+      "Title": "Blackwood",
+      "ReleaseDate": "2026-09-30",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coampe.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3639070",
+      "Metacritic": 0,
+      "AddedCount": 13,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczk7z.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczk80.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczk82.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczk83.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczk84.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczk87.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczk85.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczk88.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczk81.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczk86.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 370708,
       "Title": "BrokenLore: Don't Lie",
       "ReleaseDate": "2026-09-10",
@@ -2649,37 +2680,6 @@
       "Genres": [
         "Shooter",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 371847,
-      "Title": "Blackwood",
-      "ReleaseDate": "2026-09-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coampe.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3639070",
-      "Metacritic": 0,
-      "AddedCount": 12,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczk7z.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczk80.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczk82.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczk83.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczk84.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczk87.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczk85.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczk88.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczk81.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczk86.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Strategy",
-        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
