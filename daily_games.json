@@ -901,6 +901,33 @@
       ]
     },
     {
+      "ID": 265390,
+      "Title": "Blue Ridge Hunting",
+      "ReleaseDate": "2026-08-01",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9qkv.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2434930",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwlcp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwlcq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwlcr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwlcs.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwlct.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwlcu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwlcv.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 235913,
       "Title": "Gurei",
       "ReleaseDate": "2026-07-23",
@@ -1064,6 +1091,36 @@
       ]
     },
     {
+      "ID": 340570,
+      "Title": "Nomad Drive",
+      "ReleaseDate": "2026-08-01",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc9al.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2223980",
+      "Metacritic": 0,
+      "AddedCount": 4,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd50.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd51.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd52.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd53.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd54.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd55.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd56.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd57.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd58.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 327817,
       "Title": "Hell Maiden",
       "ReleaseDate": "2026-07-16",
@@ -1085,6 +1142,32 @@
       ],
       "Genres": [
         "Role-playing (RPG)",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 204463,
+      "Title": "Good Heavens!",
+      "ReleaseDate": "2026-08-01",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobwv9.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1617120",
+      "Metacritic": 0,
+      "AddedCount": 4,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/schd1d.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/schd1e.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/schd1f.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/schd1g.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/schd1h.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure",
         "Indie"
       ],
       "Tags": [],
@@ -1226,6 +1309,31 @@
       ]
     },
     {
+      "ID": 398967,
+      "Title": "Chop Chop Inc.",
+      "ReleaseDate": "2026-08-01",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobyi3.jpg",
+      "StoreURL": "https://store.steampowered.com/app/4369130",
+      "Metacritic": 0,
+      "AddedCount": 3,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc130o4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc130o5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc130o6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc130o7.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 393305,
       "Title": "Funnel Runners",
       "ReleaseDate": "2026-07-16",
@@ -1283,121 +1391,6 @@
       "Platforms": [
         "pc"
       ]
-    },
-    {
-      "ID": 383067,
-      "Title": "Meowstery Wisp",
-      "ReleaseDate": "2026-07-10",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc3w4.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4265380",
-      "Metacritic": 0,
-      "AddedCount": 3,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13g6o.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13g6p.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13g6q.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13g6r.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13g6s.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13g6t.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13g6u.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13g6v.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13g6w.jpg"
-      ],
-      "Genres": [
-        "Strategy",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 382273,
-      "Title": "Foghorns Drown",
-      "ReleaseDate": "2026-07-20",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc9vw.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4244640",
-      "Metacritic": 0,
-      "AddedCount": 3,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10xjv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10xjo.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10xjp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10xjq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10xjr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10xjs.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10xjt.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10xju.jpg"
-      ],
-      "Genres": [
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 358537,
-      "Title": "Village in the Shade",
-      "ReleaseDate": "2026-07-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobtql.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3934250",
-      "Metacritic": 0,
-      "AddedCount": 3,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz2s7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz2s3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz2s4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz2s5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz2s8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz2s9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz2sa.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz2sb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz2sc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz2s6.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 342305,
-      "Title": "Dodo Duckie",
-      "ReleaseDate": "2026-07-23",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa8if.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3358170",
-      "Metacritic": 0,
-      "AddedCount": 3,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwnoj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwnom.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwnox.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwnor.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwnou.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwnoo.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwnoy.jpg"
-      ],
-      "Genres": [
-        "Puzzle",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
     }
   ],
   "Upcoming": [
@@ -1418,6 +1411,33 @@
       ],
       "Genres": [
         "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 225582,
+      "Title": "Control Resonant",
+      "ReleaseDate": "2026-09-24",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc64f.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3669870",
+      "Metacritic": 0,
+      "AddedCount": 188,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuxut.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10td0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10td1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10td2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10td3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tcz.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Hack and slash/Beat 'em up",
         "Adventure"
       ],
       "Tags": [],
@@ -1453,40 +1473,13 @@
       ]
     },
     {
-      "ID": 225582,
-      "Title": "Control Resonant",
-      "ReleaseDate": "2026-09-24",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc64f.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3669870",
-      "Metacritic": 0,
-      "AddedCount": 186,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuxut.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10td0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10td1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10td2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10td3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tcz.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Hack and slash/Beat 'em up",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 325602,
       "Title": "Onimusha: Way of the Sword",
       "ReleaseDate": "2026-09-04",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocdt3.jpg",
       "StoreURL": "https://store.steampowered.com/app/2638890",
       "Metacritic": 0,
-      "AddedCount": 173,
+      "AddedCount": 174,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus43.jpg",
@@ -1567,7 +1560,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc77n.jpg",
       "StoreURL": "https://store.steampowered.com/app/3010850",
       "Metacritic": 0,
-      "AddedCount": 97,
+      "AddedCount": 98,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoft.jpg",
@@ -1647,7 +1640,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xhg.jpg",
       "StoreURL": "https://store.steampowered.com/app/2584270",
       "Metacritic": 0,
-      "AddedCount": 77,
+      "AddedCount": 78,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9gn.jpg",
@@ -2311,7 +2304,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coazo7.jpg",
       "StoreURL": "https://store.steampowered.com/app/3812600",
       "Metacritic": 0,
-      "AddedCount": 19,
+      "AddedCount": 20,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10rkp.jpg",
@@ -2363,7 +2356,7 @@
     {
       "ID": 404710,
       "Title": "Hot Wheels Infinite Rush",
-      "ReleaseDate": "2026-09-24",
+      "ReleaseDate": "2026-09-10",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc6me.jpg",
       "StoreURL": "https://store.steampowered.com/app/2821390",
       "Metacritic": 0,
@@ -2404,6 +2397,31 @@
       ],
       "Genres": [
         "Role-playing (RPG)"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 252870,
+      "Title": "Breathedge 2",
+      "ReleaseDate": "2026-08-31",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6m12.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2412960",
+      "Metacritic": 0,
+      "AddedCount": 15,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwph.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwpi.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwpj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwpk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwpg.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Simulator"
       ],
       "Tags": [],
       "Platforms": [
@@ -2497,6 +2515,37 @@
       ]
     },
     {
+      "ID": 358396,
+      "Title": "Shutter Story",
+      "ReleaseDate": "2026-09-30",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobjhp.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3798860",
+      "Metacritic": 0,
+      "AddedCount": 14,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyay9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyaya.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyayb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyayc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyayd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyaye.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyayf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyayg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyayh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyayi.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 307541,
       "Title": ".45 Parabellum Bloodhound",
       "ReleaseDate": "2026-09-30",
@@ -2574,37 +2623,6 @@
       ],
       "Genres": [
         "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 358396,
-      "Title": "Shutter Story",
-      "ReleaseDate": "2026-09-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobjhp.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3798860",
-      "Metacritic": 0,
-      "AddedCount": 13,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyay9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyaya.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyayb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyayc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyayd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyaye.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyayf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyayg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyayh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyayi.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Adventure",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -2744,34 +2762,6 @@
         "Platform",
         "Puzzle",
         "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 402959,
-      "Title": "Planet Zoo 2",
-      "ReleaseDate": "2026-10-13",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc5at.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3219030",
-      "Metacritic": 0,
-      "AddedCount": 11,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13iiy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13iiz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ij0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ij1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ij2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ij3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ij4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ij5.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Strategy"
       ],
       "Tags": [],
       "Platforms": [
