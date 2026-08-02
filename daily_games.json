@@ -1401,7 +1401,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob7ym.jpg",
       "StoreURL": "https://store.steampowered.com/app/3751260",
       "Metacritic": 0,
-      "AddedCount": 228,
+      "AddedCount": 229,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv1hb.jpg",
@@ -1411,6 +1411,33 @@
       ],
       "Genres": [
         "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 250618,
+      "Title": "Phantom Blade 0",
+      "ReleaseDate": "2026-10-29",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob64v.jpg",
+      "StoreURL": "https://store.steampowered.com/app/4115450",
+      "Metacritic": 0,
+      "AddedCount": 188,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmngp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmngq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmngr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmngs.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmngt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13652.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Hack and slash/Beat 'em up",
         "Adventure"
       ],
       "Tags": [],
@@ -1434,33 +1461,6 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10td2.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10td3.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tcz.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Hack and slash/Beat 'em up",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 250618,
-      "Title": "Phantom Blade 0",
-      "ReleaseDate": "2026-10-29",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob64v.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4115450",
-      "Metacritic": 0,
-      "AddedCount": 187,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmngp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmngq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmngr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmngs.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmngt.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13652.jpg"
       ],
       "Genres": [
         "Role-playing (RPG)",
@@ -1755,7 +1755,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7uod.jpg",
       "StoreURL": "https://store.steampowered.com/app/2825860",
       "Metacritic": 0,
-      "AddedCount": 55,
+      "AddedCount": 56,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqxv8.jpg",
@@ -1839,6 +1839,58 @@
       ]
     },
     {
+      "ID": 356552,
+      "Title": "Clive Barker's Hellraiser: Revival",
+      "ReleaseDate": "2026-10-08",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa5o9.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1551980",
+      "Metacritic": 0,
+      "AddedCount": 49,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy2x8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy2x9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy2xa.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy2xb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy2xc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy2xd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy2xe.jpg"
+      ],
+      "Genres": [
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 340113,
+      "Title": "Star Wars Zero Company",
+      "ReleaseDate": "2026-08-27",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc7a0.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2075800",
+      "Metacritic": 0,
+      "AddedCount": 49,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwdbl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwdbm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwdbn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwdbo.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwdbp.jpg"
+      ],
+      "Genres": [
+        "Strategy",
+        "Turn-based strategy (TBS)",
+        "Tactical"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 381247,
       "Title": "Ace Combat 8: Wings of Theve",
       "ReleaseDate": "2026-10-02",
@@ -1866,32 +1918,6 @@
       ]
     },
     {
-      "ID": 356552,
-      "Title": "Clive Barker's Hellraiser: Revival",
-      "ReleaseDate": "2026-10-08",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa5o9.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1551980",
-      "Metacritic": 0,
-      "AddedCount": 48,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy2x8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy2x9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy2xa.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy2xb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy2xc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy2xd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy2xe.jpg"
-      ],
-      "Genres": [
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 348202,
       "Title": "Aniimo",
       "ReleaseDate": "2026-09-30",
@@ -1911,32 +1937,6 @@
         "Puzzle",
         "Role-playing (RPG)",
         "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 340113,
-      "Title": "Star Wars Zero Company",
-      "ReleaseDate": "2026-08-27",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc7a0.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2075800",
-      "Metacritic": 0,
-      "AddedCount": 48,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwdbl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwdbm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwdbn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwdbo.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwdbp.jpg"
-      ],
-      "Genres": [
-        "Strategy",
-        "Turn-based strategy (TBS)",
-        "Tactical"
       ],
       "Tags": [],
       "Platforms": [
@@ -2162,6 +2162,34 @@
       ]
     },
     {
+      "ID": 361859,
+      "Title": "Warhammer 40,000: Dawn of War IV",
+      "ReleaseDate": "2026-09-17",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaaxx.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2272360",
+      "Metacritic": 0,
+      "AddedCount": 26,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymb4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymb1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymb2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymb3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymb5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymb8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymb9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymb6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymb7.jpg"
+      ],
+      "Genres": [
+        "Strategy"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 216692,
       "Title": "Tenebris Somnia",
       "ReleaseDate": "2026-10-16",
@@ -2190,34 +2218,6 @@
       ]
     },
     {
-      "ID": 361859,
-      "Title": "Warhammer 40,000: Dawn of War IV",
-      "ReleaseDate": "2026-09-17",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaaxx.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2272360",
-      "Metacritic": 0,
-      "AddedCount": 25,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymb4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymb1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymb2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymb3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymb5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymb8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymb9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymb6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymb7.jpg"
-      ],
-      "Genres": [
-        "Strategy"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 310665,
       "Title": "Duskfade",
       "ReleaseDate": "2026-08-13",
@@ -2233,6 +2233,31 @@
       ],
       "Genres": [
         "Platform",
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 381212,
+      "Title": "Stupid Never Dies",
+      "ReleaseDate": "2026-09-30",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc8br.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3486530",
+      "Metacritic": 0,
+      "AddedCount": 21,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tbd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tbe.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tbg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tbh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tbf.jpg"
+      ],
+      "Genres": [
         "Role-playing (RPG)",
         "Adventure"
       ],
@@ -2265,31 +2290,6 @@
       "Genres": [
         "Role-playing (RPG)",
         "Hack and slash/Beat 'em up",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 381212,
-      "Title": "Stupid Never Dies",
-      "ReleaseDate": "2026-09-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc8br.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3486530",
-      "Metacritic": 0,
-      "AddedCount": 20,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tbd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tbe.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tbg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tbh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tbf.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
         "Adventure"
       ],
       "Tags": [],
@@ -2687,6 +2687,36 @@
       ]
     },
     {
+      "ID": 404741,
+      "Title": "Trine 6: Together in Time",
+      "ReleaseDate": "2026-09-17",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc6o3.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2932260",
+      "Metacritic": 0,
+      "AddedCount": 12,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13nvv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13nvp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13nvq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13nvr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13nvs.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13nvt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13nvu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13nvw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13nvx.jpg"
+      ],
+      "Genres": [
+        "Platform",
+        "Puzzle",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 362063,
       "Title": "Hell Let Loose: Vietnam",
       "ReleaseDate": "2026-08-13",
@@ -2732,36 +2762,6 @@
       "Genres": [
         "Adventure",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 404741,
-      "Title": "Trine 6: Together in Time",
-      "ReleaseDate": "2026-09-17",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc6o3.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2932260",
-      "Metacritic": 0,
-      "AddedCount": 11,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13nvv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13nvp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13nvq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13nvr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13nvs.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13nvt.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13nvu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13nvw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13nvx.jpg"
-      ],
-      "Genres": [
-        "Platform",
-        "Puzzle",
-        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
