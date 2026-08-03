@@ -1211,7 +1211,7 @@
       "StoreURL": "",
       "Metacritic": 98,
       "AddedCount": 4,
-      "Rating": 98.4751431178254,
+      "Rating": 98.38729189057538,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scnylm.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scnyln.jpg",
@@ -1309,31 +1309,6 @@
       ]
     },
     {
-      "ID": 398967,
-      "Title": "Chop Chop Inc.",
-      "ReleaseDate": "2026-08-01",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobyi3.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4369130",
-      "Metacritic": 0,
-      "AddedCount": 3,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc130o4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc130o5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc130o6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc130o7.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 393305,
       "Title": "Funnel Runners",
       "ReleaseDate": "2026-07-16",
@@ -1391,6 +1366,35 @@
       "Platforms": [
         "pc"
       ]
+    },
+    {
+      "ID": 383067,
+      "Title": "Meowstery Wisp",
+      "ReleaseDate": "2026-07-10",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc3w4.jpg",
+      "StoreURL": "https://store.steampowered.com/app/4265380",
+      "Metacritic": 0,
+      "AddedCount": 3,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13g6o.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13g6p.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13g6q.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13g6r.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13g6s.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13g6t.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13g6u.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13g6v.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13g6w.jpg"
+      ],
+      "Genres": [
+        "Strategy",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
     }
   ],
   "Upcoming": [
@@ -1401,7 +1405,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob7ym.jpg",
       "StoreURL": "https://store.steampowered.com/app/3751260",
       "Metacritic": 0,
-      "AddedCount": 229,
+      "AddedCount": 231,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv1hb.jpg",
@@ -1425,7 +1429,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob64v.jpg",
       "StoreURL": "https://store.steampowered.com/app/4115450",
       "Metacritic": 0,
-      "AddedCount": 188,
+      "AddedCount": 190,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmngp.jpg",
@@ -1452,7 +1456,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc64f.jpg",
       "StoreURL": "https://store.steampowered.com/app/3669870",
       "Metacritic": 0,
-      "AddedCount": 188,
+      "AddedCount": 190,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuxut.jpg",
@@ -1505,7 +1509,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc79u.jpg",
       "StoreURL": "https://store.steampowered.com/app/2713000",
       "Metacritic": 0,
-      "AddedCount": 115,
+      "AddedCount": 116,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9w.jpg",
@@ -1582,6 +1586,34 @@
       ]
     },
     {
+      "ID": 222342,
+      "Title": "Silent Hill: Townfall",
+      "ReleaseDate": "2026-09-24",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc5sw.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1636440",
+      "Metacritic": 0,
+      "AddedCount": 86,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjfq5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x88.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x82.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x83.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x84.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x85.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x86.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x87.jpg"
+      ],
+      "Genres": [
+        "Puzzle",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 347637,
       "Title": "End of Abyss",
       "ReleaseDate": "2026-10-01",
@@ -1598,34 +1630,6 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxk47.jpg"
       ],
       "Genres": [
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 222342,
-      "Title": "Silent Hill: Townfall",
-      "ReleaseDate": "2026-09-24",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc5sw.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1636440",
-      "Metacritic": 0,
-      "AddedCount": 84,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjfq5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x88.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x82.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x83.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x84.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x85.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x86.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x87.jpg"
-      ],
-      "Genres": [
-        "Puzzle",
         "Adventure"
       ],
       "Tags": [],
@@ -1839,6 +1843,33 @@
       ]
     },
     {
+      "ID": 381247,
+      "Title": "Ace Combat 8: Wings of Theve",
+      "ReleaseDate": "2026-10-02",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0h1.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2288340",
+      "Metacritic": 0,
+      "AddedCount": 49,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tdv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tdu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tdx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tds.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tdt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tdw.jpg"
+      ],
+      "Genres": [
+        "Shooter",
+        "Simulator",
+        "Arcade"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 356552,
       "Title": "Clive Barker's Hellraiser: Revival",
       "ReleaseDate": "2026-10-08",
@@ -1884,33 +1915,6 @@
         "Strategy",
         "Turn-based strategy (TBS)",
         "Tactical"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 381247,
-      "Title": "Ace Combat 8: Wings of Theve",
-      "ReleaseDate": "2026-10-02",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0h1.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2288340",
-      "Metacritic": 0,
-      "AddedCount": 48,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tdv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tdu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tdx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tds.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tdt.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tdw.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Simulator",
-        "Arcade"
       ],
       "Tags": [],
       "Platforms": [
@@ -2384,6 +2388,36 @@
       ]
     },
     {
+      "ID": 140375,
+      "Title": "Akatori",
+      "ReleaseDate": "2026-08-05",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7y72.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1442520",
+      "Metacritic": 0,
+      "AddedCount": 16,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc9169.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc9168.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc9167.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc9166.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc9165.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckxrl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckxrm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckxrn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckxro.jpg"
+      ],
+      "Genres": [
+        "Platform",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 373593,
       "Title": "Lord of Mysteries",
       "ReleaseDate": "2026-08-21",
@@ -2422,36 +2456,6 @@
       "Genres": [
         "Role-playing (RPG)",
         "Simulator"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 140375,
-      "Title": "Akatori",
-      "ReleaseDate": "2026-08-05",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7y72.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1442520",
-      "Metacritic": 0,
-      "AddedCount": 15,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc9169.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc9168.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc9167.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc9166.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc9165.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckxrl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckxrm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckxrn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckxro.jpg"
-      ],
-      "Genres": [
-        "Platform",
-        "Adventure",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
