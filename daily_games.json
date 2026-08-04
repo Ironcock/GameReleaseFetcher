@@ -1,6 +1,32 @@
 {
   "NewReleases": [
     {
+      "ID": 348180,
+      "Title": "Beast of Reincarnation",
+      "ReleaseDate": "2026-08-04",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobc5q.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2001760",
+      "Metacritic": 0,
+      "AddedCount": 110,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbca.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbcb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbcc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbcd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbce.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbcf.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 320141,
       "Title": "Mistfall Hunter",
       "ReleaseDate": "2026-07-29",
@@ -49,6 +75,35 @@
         "Role-playing (RPG)",
         "Adventure",
         "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 279624,
+      "Title": "Big Walk",
+      "ReleaseDate": "2026-08-04",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7h9m.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1478500",
+      "Metacritic": 0,
+      "AddedCount": 33,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpuym.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpuyn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpuyp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpuyr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpuyt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpuyv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpuyx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpuyy.jpg"
+      ],
+      "Genres": [
+        "Platform",
+        "Puzzle",
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -1337,64 +1392,6 @@
       "Platforms": [
         "pc"
       ]
-    },
-    {
-      "ID": 388439,
-      "Title": "Kyoto Xanadu: The Blooming Phantom",
-      "ReleaseDate": "2026-07-16",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobrhn.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4449410",
-      "Metacritic": 0,
-      "AddedCount": 3,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11maw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11max.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11may.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11maz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11mb0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11mb1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11mb2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11mb3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11mb4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12kzd.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 383067,
-      "Title": "Meowstery Wisp",
-      "ReleaseDate": "2026-07-10",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc3w4.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4265380",
-      "Metacritic": 0,
-      "AddedCount": 3,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13g6o.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13g6p.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13g6q.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13g6r.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13g6s.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13g6t.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13g6u.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13g6v.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13g6w.jpg"
-      ],
-      "Genres": [
-        "Strategy",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
     }
   ],
   "Upcoming": [
@@ -1423,21 +1420,21 @@
       ]
     },
     {
-      "ID": 250618,
-      "Title": "Phantom Blade 0",
-      "ReleaseDate": "2026-10-29",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob64v.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4115450",
+      "ID": 225582,
+      "Title": "Control Resonant",
+      "ReleaseDate": "2026-09-24",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc64f.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3669870",
       "Metacritic": 0,
-      "AddedCount": 190,
+      "AddedCount": 192,
       "Rating": 0.0,
       "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmngp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmngq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmngr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmngs.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmngt.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13652.jpg"
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuxut.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10td0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10td1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10td2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10td3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tcz.jpg"
       ],
       "Genres": [
         "Role-playing (RPG)",
@@ -1450,21 +1447,21 @@
       ]
     },
     {
-      "ID": 225582,
-      "Title": "Control Resonant",
-      "ReleaseDate": "2026-09-24",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc64f.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3669870",
+      "ID": 250618,
+      "Title": "Phantom Blade 0",
+      "ReleaseDate": "2026-10-29",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob64v.jpg",
+      "StoreURL": "https://store.steampowered.com/app/4115450",
       "Metacritic": 0,
-      "AddedCount": 190,
+      "AddedCount": 191,
       "Rating": 0.0,
       "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuxut.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10td0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10td1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10td2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10td3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tcz.jpg"
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmngp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmngq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmngr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmngs.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmngt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13652.jpg"
       ],
       "Genres": [
         "Role-playing (RPG)",
@@ -1509,7 +1506,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc79u.jpg",
       "StoreURL": "https://store.steampowered.com/app/2713000",
       "Metacritic": 0,
-      "AddedCount": 116,
+      "AddedCount": 117,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9w.jpg",
@@ -1524,32 +1521,6 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13q19.jpg"
       ],
       "Genres": [
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 348180,
-      "Title": "Beast of Reincarnation",
-      "ReleaseDate": "2026-08-04",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobc5q.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2001760",
-      "Metacritic": 0,
-      "AddedCount": 110,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbca.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbcb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbcc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbcd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbce.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbcf.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
         "Adventure"
       ],
       "Tags": [],
@@ -1586,34 +1557,6 @@
       ]
     },
     {
-      "ID": 222342,
-      "Title": "Silent Hill: Townfall",
-      "ReleaseDate": "2026-09-24",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc5sw.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1636440",
-      "Metacritic": 0,
-      "AddedCount": 86,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjfq5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x88.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x82.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x83.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x84.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x85.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x86.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x87.jpg"
-      ],
-      "Genres": [
-        "Puzzle",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 347637,
       "Title": "End of Abyss",
       "ReleaseDate": "2026-10-01",
@@ -1630,6 +1573,34 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxk47.jpg"
       ],
       "Genres": [
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 222342,
+      "Title": "Silent Hill: Townfall",
+      "ReleaseDate": "2026-09-24",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc5sw.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1636440",
+      "Metacritic": 0,
+      "AddedCount": 85,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjfq5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x88.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x82.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x83.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x84.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x85.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x86.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x87.jpg"
+      ],
+      "Genres": [
+        "Puzzle",
         "Adventure"
       ],
       "Tags": [],
@@ -1674,7 +1645,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaazc.jpg",
       "StoreURL": "https://store.steampowered.com/app/2828710",
       "Metacritic": 0,
-      "AddedCount": 68,
+      "AddedCount": 69,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym6w.jpg",
@@ -1702,7 +1673,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobihx.jpg",
       "StoreURL": "https://store.steampowered.com/app/4078430",
       "Metacritic": 0,
-      "AddedCount": 65,
+      "AddedCount": 67,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tdy.jpg",
@@ -1789,7 +1760,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc6oq.jpg",
       "StoreURL": "https://store.steampowered.com/app/3031890",
       "Metacritic": 0,
-      "AddedCount": 53,
+      "AddedCount": 54,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsv25.jpg",
@@ -1807,6 +1778,32 @@
         "Fighting",
         "Hack and slash/Beat 'em up",
         "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 340113,
+      "Title": "Star Wars Zero Company",
+      "ReleaseDate": "2026-08-27",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc7a0.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2075800",
+      "Metacritic": 0,
+      "AddedCount": 52,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwdbl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwdbm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwdbn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwdbo.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwdbp.jpg"
+      ],
+      "Genres": [
+        "Strategy",
+        "Turn-based strategy (TBS)",
+        "Tactical"
       ],
       "Tags": [],
       "Platforms": [
@@ -1889,32 +1886,6 @@
       ],
       "Genres": [
         "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 340113,
-      "Title": "Star Wars Zero Company",
-      "ReleaseDate": "2026-08-27",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc7a0.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2075800",
-      "Metacritic": 0,
-      "AddedCount": 49,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwdbl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwdbm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwdbn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwdbo.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwdbp.jpg"
-      ],
-      "Genres": [
-        "Strategy",
-        "Turn-based strategy (TBS)",
-        "Tactical"
       ],
       "Tags": [],
       "Platforms": [
@@ -2064,35 +2035,6 @@
       ]
     },
     {
-      "ID": 279624,
-      "Title": "Big Walk",
-      "ReleaseDate": "2026-08-04",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7h9m.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1478500",
-      "Metacritic": 0,
-      "AddedCount": 33,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpuym.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpuyn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpuyp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpuyr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpuyt.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpuyv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpuyx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpuyy.jpg"
-      ],
-      "Genres": [
-        "Platform",
-        "Puzzle",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 293733,
       "Title": "Screenbound",
       "ReleaseDate": "2026-09-10",
@@ -2140,39 +2082,13 @@
       ]
     },
     {
-      "ID": 403310,
-      "Title": "Call of Duty: Modern Warfare 4",
-      "ReleaseDate": "2026-10-23",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4mu.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4435490",
-      "Metacritic": 0,
-      "AddedCount": 26,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3n.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3o.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3p.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3q.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3r.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3s.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3t.jpg"
-      ],
-      "Genres": [
-        "Shooter"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 361859,
       "Title": "Warhammer 40,000: Dawn of War IV",
       "ReleaseDate": "2026-09-17",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaaxx.jpg",
       "StoreURL": "https://store.steampowered.com/app/2272360",
       "Metacritic": 0,
-      "AddedCount": 26,
+      "AddedCount": 27,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymb4.jpg",
@@ -2200,7 +2116,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7aws.jpg",
       "StoreURL": "https://store.steampowered.com/app/2121510",
       "Metacritic": 0,
-      "AddedCount": 26,
+      "AddedCount": 27,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scp9bp.jpg",
@@ -2215,6 +2131,32 @@
       "Genres": [
         "Adventure",
         "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 403310,
+      "Title": "Call of Duty: Modern Warfare 4",
+      "ReleaseDate": "2026-10-23",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4mu.jpg",
+      "StoreURL": "https://store.steampowered.com/app/4435490",
+      "Metacritic": 0,
+      "AddedCount": 26,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3n.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3o.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3p.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3q.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3r.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3s.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3t.jpg"
+      ],
+      "Genres": [
+        "Shooter"
       ],
       "Tags": [],
       "Platforms": [
@@ -2295,6 +2237,36 @@
         "Role-playing (RPG)",
         "Hack and slash/Beat 'em up",
         "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 389428,
+      "Title": "Crimson Moon",
+      "ReleaseDate": "2026-09-01",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobigu.jpg",
+      "StoreURL": "https://store.steampowered.com/app/4317690",
+      "Metacritic": 0,
+      "AddedCount": 20,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x6g.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x6h.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x6i.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x6j.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x6k.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x6l.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x6m.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x6n.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x6o.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -2391,7 +2363,7 @@
       "ID": 140375,
       "Title": "Akatori",
       "ReleaseDate": "2026-08-05",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7y72.jpg",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocm6f.jpg",
       "StoreURL": "https://store.steampowered.com/app/1442520",
       "Metacritic": 0,
       "AddedCount": 16,
@@ -2411,6 +2383,35 @@
         "Platform",
         "Adventure",
         "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 387496,
+      "Title": "WheelMates",
+      "ReleaseDate": "2026-09-07",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc7x3.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3905450",
+      "Metacritic": 0,
+      "AddedCount": 15,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11ii3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11ii5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13rit.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13riu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13riv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13riw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13rir.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ris.jpg"
+      ],
+      "Genres": [
+        "Puzzle",
+        "Racing",
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -2456,35 +2457,6 @@
       "Genres": [
         "Role-playing (RPG)",
         "Simulator"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 387496,
-      "Title": "WheelMates",
-      "ReleaseDate": "2026-09-07",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc7x3.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3905450",
-      "Metacritic": 0,
-      "AddedCount": 14,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11ii3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11ii5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13rit.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13riu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13riv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13riw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13rir.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ris.jpg"
-      ],
-      "Genres": [
-        "Puzzle",
-        "Racing",
-        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -2766,6 +2738,34 @@
       "Genres": [
         "Adventure",
         "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 402959,
+      "Title": "Planet Zoo 2",
+      "ReleaseDate": "2026-10-13",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc5at.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3219030",
+      "Metacritic": 0,
+      "AddedCount": 11,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13iiy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13iiz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ij0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ij1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ij2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ij3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ij4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ij5.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Strategy"
       ],
       "Tags": [],
       "Platforms": [
