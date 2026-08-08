@@ -61,9 +61,9 @@
       "ReleaseDate": "2026-07-29",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocldz.jpg",
       "StoreURL": "https://store.steampowered.com/app/3282300",
-      "Metacritic": 100,
+      "Metacritic": 94,
       "AddedCount": 36,
-      "Rating": 100.0,
+      "Rating": 93.6,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu85c.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu85d.jpg",
@@ -222,7 +222,7 @@
     },
     {
       "ID": 380960,
-      "Title": "ReStory",
+      "Title": "ReStory: Chill Electronics Repairs",
       "ReleaseDate": "2026-08-06",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coazo7.jpg",
       "StoreURL": "https://store.steampowered.com/app/3812600",
@@ -302,32 +302,6 @@
         "Platform",
         "Adventure",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 393932,
-      "Title": "Echoes of Aincrad",
-      "ReleaseDate": "2026-07-09",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobpxh.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2244210",
-      "Metacritic": 0,
-      "AddedCount": 14,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14g7p.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14g7j.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14g7k.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14g7o.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14g7l.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14g7n.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -1397,6 +1371,31 @@
       "Platforms": [
         "pc"
       ]
+    },
+    {
+      "ID": 305022,
+      "Title": "Rogue Eclipse",
+      "ReleaseDate": "2026-08-07",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8bin.jpg",
+      "StoreURL": "https://store.steampowered.com/app/782260",
+      "Metacritic": 0,
+      "AddedCount": 4,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnyj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnys.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnyx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnz0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnyo.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnyu.jpg"
+      ],
+      "Genres": [
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
     }
   ],
   "Upcoming": [
@@ -1407,7 +1406,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob7ym.jpg",
       "StoreURL": "https://store.steampowered.com/app/3751260",
       "Metacritic": 0,
-      "AddedCount": 232,
+      "AddedCount": 235,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv1hb.jpg",
@@ -1431,7 +1430,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc64f.jpg",
       "StoreURL": "https://store.steampowered.com/app/3669870",
       "Metacritic": 0,
-      "AddedCount": 193,
+      "AddedCount": 195,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuxut.jpg",
@@ -1458,7 +1457,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob64v.jpg",
       "StoreURL": "https://store.steampowered.com/app/4115450",
       "Metacritic": 0,
-      "AddedCount": 192,
+      "AddedCount": 194,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmngp.jpg",
@@ -1485,7 +1484,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocdt3.jpg",
       "StoreURL": "https://store.steampowered.com/app/2638890",
       "Metacritic": 0,
-      "AddedCount": 176,
+      "AddedCount": 177,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus43.jpg",
@@ -1568,7 +1567,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc5sw.jpg",
       "StoreURL": "https://store.steampowered.com/app/1636440",
       "Metacritic": 0,
-      "AddedCount": 85,
+      "AddedCount": 86,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjfq5.jpg",
@@ -1596,7 +1595,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xhm.jpg",
       "StoreURL": "https://store.epicgames.com/p/8541c863a8c64e0aad48abd8ad3006cd",
       "Metacritic": 0,
-      "AddedCount": 84,
+      "AddedCount": 85,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxk44.jpg",
@@ -1678,7 +1677,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobihx.jpg",
       "StoreURL": "https://store.steampowered.com/app/4078430",
       "Metacritic": 0,
-      "AddedCount": 67,
+      "AddedCount": 68,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tdy.jpg",
@@ -1704,7 +1703,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc76j.jpg",
       "StoreURL": "https://store.steampowered.com/app/4231820",
       "Metacritic": 0,
-      "AddedCount": 63,
+      "AddedCount": 64,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x74.jpg",
@@ -1735,7 +1734,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7uod.jpg",
       "StoreURL": "https://store.steampowered.com/app/2825860",
       "Metacritic": 0,
-      "AddedCount": 57,
+      "AddedCount": 59,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqxv8.jpg",
@@ -2086,6 +2085,32 @@
       ]
     },
     {
+      "ID": 403310,
+      "Title": "Call of Duty: Modern Warfare 4",
+      "ReleaseDate": "2026-10-23",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4mu.jpg",
+      "StoreURL": "https://store.steampowered.com/app/4435490",
+      "Metacritic": 0,
+      "AddedCount": 27,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3n.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3o.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3p.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3q.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3r.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3s.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3t.jpg"
+      ],
+      "Genres": [
+        "Shooter"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 216692,
       "Title": "Tenebris Somnia",
       "ReleaseDate": "2026-10-16",
@@ -2107,32 +2132,6 @@
       "Genres": [
         "Adventure",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 403310,
-      "Title": "Call of Duty: Modern Warfare 4",
-      "ReleaseDate": "2026-10-23",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4mu.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4435490",
-      "Metacritic": 0,
-      "AddedCount": 26,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3n.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3o.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3p.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3q.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3r.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3s.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3t.jpg"
-      ],
-      "Genres": [
-        "Shooter"
       ],
       "Tags": [],
       "Platforms": [
@@ -2462,6 +2461,35 @@
       ]
     },
     {
+      "ID": 396022,
+      "Title": "Serious Sam: Shatterverse",
+      "ReleaseDate": "2026-08-31",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobw5w.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2067210",
+      "Metacritic": 0,
+      "AddedCount": 13,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12piq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12pir.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12pis.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12pit.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12piv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12piw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12pix.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12piy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12piu.jpg"
+      ],
+      "Genres": [
+        "Shooter",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 371847,
       "Title": "Blackwood",
       "ReleaseDate": "2026-09-30",
@@ -2737,32 +2765,6 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy1rs.jpg"
       ],
       "Genres": [
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 335296,
-      "Title": "Wild Blue Skies",
-      "ReleaseDate": "2026-08-13",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaw26.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1921490",
-      "Metacritic": 0,
-      "AddedCount": 11,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvq4j.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvq4k.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvq4l.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvq4m.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvq4n.jpg"
-      ],
-      "Genres": [
-        "Shooter",
         "Adventure",
         "Indie"
       ],
