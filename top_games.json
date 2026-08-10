@@ -69,7 +69,7 @@
       "StoreURL": "https://store.steampowered.com/app/1771300",
       "Metacritic": 94,
       "AddedCount": 115,
-      "Rating": 93.55408184480041,
+      "Rating": 93.55314303140662,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scs1lj.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scs1lk.jpg",
@@ -157,7 +157,7 @@
       "StoreURL": "https://store.steampowered.com/app/632470",
       "Metacritic": 93,
       "AddedCount": 12,
-      "Rating": 92.6638515966701,
+      "Rating": 92.66410060873656,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/jgfwlctsfh8yljnjdeab.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/vqxtn7qqv5qns9pneqzm.jpg",
@@ -372,7 +372,7 @@
       "Title": "Mass Effect 2",
       "ReleaseDate": "2010-01-26",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co20ac.jpg",
-      "StoreURL": "https://store.steampowered.com/app/24980",
+      "StoreURL": "https://store.steampowered.com/app/2362420",
       "Metacritic": 91,
       "AddedCount": 1,
       "Rating": 91.30916435754514,
@@ -743,7 +743,7 @@
       "StoreURL": "https://store.steampowered.com/app/3764200",
       "Metacritic": 89,
       "AddedCount": 309,
-      "Rating": 89.46774770005932,
+      "Rating": 89.46780186044025,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r3.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r0.jpg",
@@ -965,7 +965,7 @@
       "StoreURL": "https://store.steampowered.com/app/1426210",
       "Metacritic": 88,
       "AddedCount": 5,
-      "Rating": 88.4174303058929,
+      "Rating": 88.41697352896709,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8cg4.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8cg5.jpg",
@@ -1469,7 +1469,7 @@
       "StoreURL": "https://store.steampowered.com/app/1569580",
       "Metacritic": 87,
       "AddedCount": 33,
-      "Rating": 86.87189938941447,
+      "Rating": 86.87282306615757,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scs5ew.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scs5ex.jpg",
@@ -1738,7 +1738,7 @@
       "Title": "Portal",
       "ReleaseDate": "2007-10-10",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coay61.jpg",
-      "StoreURL": "https://store.steampowered.com/app/52003",
+      "StoreURL": "https://store.steampowered.com/app/400",
       "Metacritic": 86,
       "AddedCount": 0,
       "Rating": 86.40574217117779,
@@ -1902,7 +1902,7 @@
       "StoreURL": "https://store.steampowered.com/app/413150",
       "Metacritic": 86,
       "AddedCount": 1,
-      "Rating": 86.08842009399844,
+      "Rating": 86.08844546100899,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/rhxs1x9w5hf5kde2osf5.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/iwswpvxa9ytrpk8yjcyx.jpg",
@@ -1928,7 +1928,7 @@
       "StoreURL": "https://store.steampowered.com/app/2379780",
       "Metacritic": 86,
       "AddedCount": 2,
-      "Rating": 86.05757851815925,
+      "Rating": 86.05709229072195,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmsev.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmsew.jpg",
@@ -1985,7 +1985,7 @@
       "StoreURL": "https://store.steampowered.com/app/2679460",
       "Metacritic": 86,
       "AddedCount": 37,
-      "Rating": 85.98903030361862,
+      "Rating": 85.98532253718444,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwms.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwmr.jpg",
@@ -2011,7 +2011,7 @@
       "StoreURL": "https://store.steampowered.com/app/391540",
       "Metacritic": 86,
       "AddedCount": 0,
-      "Rating": 85.97104552631409,
+      "Rating": 85.97083468030648,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/ze8i79ycm3gyymrjvxf0.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/dp7ytj3ouesyoq7ddrrx.jpg",
@@ -2184,30 +2184,6 @@
       ]
     },
     {
-      "ID": 144024,
-      "Title": "Final Fantasy VII Remake Intergrade",
-      "ReleaseDate": "2021-06-10",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob9hh.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1462040",
-      "Metacritic": 86,
-      "AddedCount": 2,
-      "Rating": 85.70276050739665,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc9382.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc9383.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc9384.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc9385.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 7342,
       "Title": "Inside",
       "ReleaseDate": "2016-06-29",
@@ -2231,6 +2207,30 @@
       "Genres": [
         "Platform",
         "Puzzle",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 144024,
+      "Title": "Final Fantasy VII Remake Intergrade",
+      "ReleaseDate": "2021-06-10",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob9hh.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1462040",
+      "Metacritic": 86,
+      "AddedCount": 2,
+      "Rating": 85.70213526538424,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc9382.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc9383.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc9384.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc9385.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
         "Adventure"
       ],
       "Tags": [],
@@ -2356,7 +2356,7 @@
       "Title": "Dead Space",
       "ReleaseDate": "2008-10-14",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2g7w.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1444000",
+      "StoreURL": "https://store.steampowered.com/app/17470",
       "Metacritic": 86,
       "AddedCount": 0,
       "Rating": 85.62063284353849,
@@ -2411,7 +2411,7 @@
       "StoreURL": "https://store.steampowered.com/app/1659040",
       "Metacritic": 85,
       "AddedCount": 11,
-      "Rating": 85.49332658988808,
+      "Rating": 85.49445054202769,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bi7.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bkk.jpg",
@@ -2572,7 +2572,7 @@
       "StoreURL": "",
       "Metacritic": 85,
       "AddedCount": 0,
-      "Rating": 85.28712109842282,
+      "Rating": 85.28728109914212,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8d2z.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8d30.jpg",
@@ -3094,7 +3094,7 @@
       "StoreURL": "https://store.steampowered.com/app/782330",
       "Metacritic": 85,
       "AddedCount": 124,
-      "Rating": 84.80035500829746,
+      "Rating": 84.80045186429885,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/iuqr5hhkgfphav8x4uda.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/dkjdvrbqaoyyh4klvbwb.jpg",
@@ -3560,7 +3560,7 @@
       "StoreURL": "https://store.steampowered.com/app/418370",
       "Metacritic": 84,
       "AddedCount": 20,
-      "Rating": 84.15063015542715,
+      "Rating": 84.15091309607996,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/ctxtlpyzlo3q5hvshysw.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/io6hffcfxfgtibwwn9jl.jpg",
@@ -3898,7 +3898,7 @@
       "Title": "Risk of Rain 2",
       "ReleaseDate": "2020-08-11",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaavb.jpg",
-      "StoreURL": "https://store.steampowered.com/app/632360",
+      "StoreURL": "https://store.steampowered.com/app/3885090",
       "Metacritic": 84,
       "AddedCount": 5,
       "Rating": 83.71731093188963,

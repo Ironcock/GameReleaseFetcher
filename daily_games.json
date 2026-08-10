@@ -1406,7 +1406,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob7ym.jpg",
       "StoreURL": "https://store.steampowered.com/app/3751260",
       "Metacritic": 0,
-      "AddedCount": 235,
+      "AddedCount": 236,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv1hb.jpg",
@@ -1430,7 +1430,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc64f.jpg",
       "StoreURL": "https://store.steampowered.com/app/3669870",
       "Metacritic": 0,
-      "AddedCount": 196,
+      "AddedCount": 197,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuxut.jpg",
@@ -1457,7 +1457,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob64v.jpg",
       "StoreURL": "https://store.steampowered.com/app/4115450",
       "Metacritic": 0,
-      "AddedCount": 194,
+      "AddedCount": 195,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmngp.jpg",
@@ -1484,7 +1484,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocdt3.jpg",
       "StoreURL": "https://store.steampowered.com/app/2638890",
       "Metacritic": 0,
-      "AddedCount": 177,
+      "AddedCount": 178,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus43.jpg",
@@ -1758,6 +1758,32 @@
       ]
     },
     {
+      "ID": 340113,
+      "Title": "Star Wars Zero Company",
+      "ReleaseDate": "2026-08-27",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc7a0.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2075800",
+      "Metacritic": 0,
+      "AddedCount": 54,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwdbl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwdbm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwdbn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwdbo.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwdbp.jpg"
+      ],
+      "Genres": [
+        "Strategy",
+        "Turn-based strategy (TBS)",
+        "Tactical"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 305550,
       "Title": "Acts of Blood",
       "ReleaseDate": "2026-09-30",
@@ -1782,32 +1808,6 @@
         "Fighting",
         "Hack and slash/Beat 'em up",
         "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 340113,
-      "Title": "Star Wars Zero Company",
-      "ReleaseDate": "2026-08-27",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc7a0.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2075800",
-      "Metacritic": 0,
-      "AddedCount": 53,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwdbl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwdbm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwdbn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwdbo.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwdbp.jpg"
-      ],
-      "Genres": [
-        "Strategy",
-        "Turn-based strategy (TBS)",
-        "Tactical"
       ],
       "Tags": [],
       "Platforms": [
