@@ -61,9 +61,9 @@
       "ReleaseDate": "2026-07-29",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocldz.jpg",
       "StoreURL": "https://store.steampowered.com/app/3282300",
-      "Metacritic": 94,
+      "Metacritic": 89,
       "AddedCount": 36,
-      "Rating": 93.6,
+      "Rating": 89.09090909090908,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu85c.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu85d.jpg",
@@ -444,6 +444,37 @@
       ]
     },
     {
+      "ID": 148270,
+      "Title": "Agent 64: Spies Never Die",
+      "ReleaseDate": "2026-08-11",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coakk2.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1574480",
+      "Metacritic": 0,
+      "AddedCount": 10,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczefv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczefw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczefx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczefy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczefz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczeg0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczefn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczefo.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczefp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczefq.jpg"
+      ],
+      "Genres": [
+        "Shooter",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 143710,
       "Title": "Scarlet Deer Inn",
       "ReleaseDate": "2026-07-21",
@@ -778,10 +809,40 @@
       ]
     },
     {
+      "ID": 149340,
+      "Title": "No More Room in Hell 2",
+      "ReleaseDate": "2026-08-11",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8zli.jpg",
+      "StoreURL": "https://store.steampowered.com/app/292000",
+      "Metacritic": 0,
+      "AddedCount": 7,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sca04j.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sca04m.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sca04o.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sca04s.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sca04w.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sca04y.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sca050.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sca053.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sca056.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sca058.jpg"
+      ],
+      "Genres": [
+        "Shooter",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 384205,
       "Title": "Hololive Dreams",
       "ReleaseDate": "2026-07-23",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cock2f.jpg",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocnet.jpg",
       "StoreURL": "https://store.steampowered.com/app/4282500",
       "Metacritic": 0,
       "AddedCount": 6,
@@ -849,6 +910,35 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyv1j.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyv1k.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyv1l.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 314426,
+      "Title": "Echoes of Mystralia",
+      "ReleaseDate": "2026-08-11",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8pqq.jpg",
+      "StoreURL": "https://store.steampowered.com/app/974480",
+      "Metacritic": 0,
+      "AddedCount": 6,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctozx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctozy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctozz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctp00.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctp01.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctp03.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctp05.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctp02.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctp04.jpg"
       ],
       "Genres": [
         "Role-playing (RPG)",
@@ -1312,90 +1402,6 @@
       "Platforms": [
         "pc"
       ]
-    },
-    {
-      "ID": 340570,
-      "Title": "Nomad Drive",
-      "ReleaseDate": "2026-08-01",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc9al.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2223980",
-      "Metacritic": 0,
-      "AddedCount": 4,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd50.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd51.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd52.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd53.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd54.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd55.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd56.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd57.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd58.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 327817,
-      "Title": "Hell Maiden",
-      "ReleaseDate": "2026-07-16",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9ufi.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3372060",
-      "Metacritic": 0,
-      "AddedCount": 4,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwx90.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwx91.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwx92.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwx93.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwx94.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwx95.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwx96.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwx97.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwx98.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 305022,
-      "Title": "Rogue Eclipse",
-      "ReleaseDate": "2026-08-07",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8bin.jpg",
-      "StoreURL": "https://store.steampowered.com/app/782260",
-      "Metacritic": 0,
-      "AddedCount": 4,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnyj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnys.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnyx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnz0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnyo.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnyu.jpg"
-      ],
-      "Genres": [
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
     }
   ],
   "Upcoming": [
@@ -1406,7 +1412,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob7ym.jpg",
       "StoreURL": "https://store.steampowered.com/app/3751260",
       "Metacritic": 0,
-      "AddedCount": 236,
+      "AddedCount": 237,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv1hb.jpg",
@@ -1457,7 +1463,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob64v.jpg",
       "StoreURL": "https://store.steampowered.com/app/4115450",
       "Metacritic": 0,
-      "AddedCount": 195,
+      "AddedCount": 196,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmngp.jpg",
@@ -1677,7 +1683,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobihx.jpg",
       "StoreURL": "https://store.steampowered.com/app/4078430",
       "Metacritic": 0,
-      "AddedCount": 68,
+      "AddedCount": 69,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tdy.jpg",
@@ -2057,6 +2063,32 @@
       ]
     },
     {
+      "ID": 403310,
+      "Title": "Call of Duty: Modern Warfare 4",
+      "ReleaseDate": "2026-10-23",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4mu.jpg",
+      "StoreURL": "https://store.steampowered.com/app/4435490",
+      "Metacritic": 0,
+      "AddedCount": 28,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3n.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3o.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3p.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3q.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3r.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3s.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3t.jpg"
+      ],
+      "Genres": [
+        "Shooter"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 361859,
       "Title": "Warhammer 40,000: Dawn of War IV",
       "ReleaseDate": "2026-09-17",
@@ -2078,32 +2110,6 @@
       ],
       "Genres": [
         "Strategy"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 403310,
-      "Title": "Call of Duty: Modern Warfare 4",
-      "ReleaseDate": "2026-10-23",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4mu.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4435490",
-      "Metacritic": 0,
-      "AddedCount": 27,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3n.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3o.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3p.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3q.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3r.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3s.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3t.jpg"
-      ],
-      "Genres": [
-        "Shooter"
       ],
       "Tags": [],
       "Platforms": [
@@ -2145,7 +2151,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocda0.jpg",
       "StoreURL": "https://store.steampowered.com/app/2542020",
       "Metacritic": 0,
-      "AddedCount": 22,
+      "AddedCount": 23,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctahq.jpg",
@@ -2399,37 +2405,6 @@
       "Genres": [
         "Hack and slash/Beat 'em up",
         "Arcade"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 358396,
-      "Title": "Shutter Story",
-      "ReleaseDate": "2026-09-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobjhp.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3798860",
-      "Metacritic": 0,
-      "AddedCount": 14,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyay9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyaya.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyayb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyayc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyayd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyaye.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyayf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyayg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyayh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyayi.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Adventure",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -2765,6 +2740,32 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy1rs.jpg"
       ],
       "Genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 335296,
+      "Title": "Wild Blue Skies",
+      "ReleaseDate": "2026-08-13",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaw26.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1921490",
+      "Metacritic": 0,
+      "AddedCount": 11,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvq4j.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvq4k.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvq4l.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvq4m.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvq4n.jpg"
+      ],
+      "Genres": [
+        "Shooter",
         "Adventure",
         "Indie"
       ],

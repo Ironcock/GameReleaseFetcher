@@ -39,7 +39,7 @@
       "StoreURL": "https://store.steampowered.com/app/292030",
       "Metacritic": 94,
       "AddedCount": 179,
-      "Rating": 93.79070033896183,
+      "Rating": 93.79065773963652,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/farvemmmxav0bgt6wx7t.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/z5t0yuhyiiui1ickwhgj.jpg",
@@ -54,33 +54,6 @@
       ],
       "Genres": [
         "Role-playing (RPG)",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 298526,
-      "Title": "Kingdom Come: Deliverance II",
-      "ReleaseDate": "2025-02-04",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8qmv.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1771300",
-      "Metacritic": 94,
-      "AddedCount": 115,
-      "Rating": 93.55314303140662,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scs1lj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scs1lk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scs1ll.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scs1lm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scs1ln.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scs1lo.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Simulator",
         "Adventure"
       ],
       "Tags": [],
@@ -111,6 +84,33 @@
       ],
       "Genres": [
         "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 298526,
+      "Title": "Kingdom Come: Deliverance II",
+      "ReleaseDate": "2025-02-04",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8qmv.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1771300",
+      "Metacritic": 93,
+      "AddedCount": 115,
+      "Rating": 93.42713580798775,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scs1lj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scs1lk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scs1ll.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scs1lm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scs1ln.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scs1lo.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Simulator",
         "Adventure"
       ],
       "Tags": [],
@@ -236,7 +236,7 @@
       "StoreURL": "https://store.steampowered.com/app/1593500",
       "Metacritic": 92,
       "AddedCount": 92,
-      "Rating": 91.95951614602912,
+      "Rating": 91.95953420498483,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/rm35ytrytuka9qkylqyk.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/ywrkjcrbeemmb51flsfj.jpg",
@@ -429,7 +429,7 @@
       "StoreURL": "https://store.steampowered.com/app/2322010",
       "Metacritic": 91,
       "AddedCount": 77,
-      "Rating": 90.89871923557281,
+      "Rating": 90.89886684528918,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scd71v.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scd71w.jpg",
@@ -514,7 +514,7 @@
       "StoreURL": "https://store.steampowered.com/app/1150690",
       "Metacritic": 90,
       "AddedCount": 4,
-      "Rating": 90.27232063157572,
+      "Rating": 90.27414283988352,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc752s.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc752r.jpg",
@@ -596,7 +596,7 @@
       "StoreURL": "https://store.steampowered.com/app/524220",
       "Metacritic": 90,
       "AddedCount": 32,
-      "Rating": 89.78634151377616,
+      "Rating": 89.7847023515123,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/gzkc9kfusk2qss9vnuj4.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/m5ytymipeljiatfrblhs.jpg",
@@ -652,7 +652,7 @@
       "StoreURL": "https://store.steampowered.com/app/271590",
       "Metacritic": 90,
       "AddedCount": 0,
-      "Rating": 89.64818822541847,
+      "Rating": 89.64833068138567,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/hjnzngnrtwr82jzmmkef.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/n3t2agwuxlqggp3kryf9.jpg",
@@ -683,7 +683,7 @@
       "StoreURL": "https://store.steampowered.com/app/814380",
       "Metacritic": 90,
       "AddedCount": 64,
-      "Rating": 89.58064068513812,
+      "Rating": 89.58074407314747,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/smay0rol1vbibwop2t7n.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/cmootzhyx1l7scxeihej.jpg",
@@ -1275,7 +1275,7 @@
       "StoreURL": "",
       "Metacritic": 87,
       "AddedCount": 95,
-      "Rating": 87.42127095417882,
+      "Rating": 87.4182014888855,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/llwixfa0dy8fpex3tcwr.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/o7ehlmbjcvkeeltwreeg.jpg",
@@ -1438,7 +1438,7 @@
       "StoreURL": "https://store.steampowered.com/app/2592160",
       "Metacritic": 87,
       "AddedCount": 69,
-      "Rating": 86.91816969117973,
+      "Rating": 86.91742772517532,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus2s.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus2t.jpg",
@@ -1738,10 +1738,10 @@
       "Title": "Portal",
       "ReleaseDate": "2007-10-10",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coay61.jpg",
-      "StoreURL": "https://store.steampowered.com/app/400",
+      "StoreURL": "https://store.steampowered.com/app/52003",
       "Metacritic": 86,
       "AddedCount": 0,
-      "Rating": 86.40574217117779,
+      "Rating": 86.40461301155841,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/x7pzfljardlljvtqcgv4.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/co2mtfe04a5iclqoo11c.jpg",
@@ -2356,7 +2356,7 @@
       "Title": "Dead Space",
       "ReleaseDate": "2008-10-14",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2g7w.jpg",
-      "StoreURL": "https://store.steampowered.com/app/17470",
+      "StoreURL": "https://store.steampowered.com/app/1444000",
       "Metacritic": 86,
       "AddedCount": 0,
       "Rating": 85.62063284353849,
@@ -3898,7 +3898,7 @@
       "Title": "Risk of Rain 2",
       "ReleaseDate": "2020-08-11",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaavb.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3885090",
+      "StoreURL": "https://store.steampowered.com/app/632360",
       "Metacritic": 84,
       "AddedCount": 5,
       "Rating": 83.71731093188963,
@@ -4009,7 +4009,7 @@
       "Title": "Borderlands 2",
       "ReleaseDate": "2012-09-18",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9ba3.jpg",
-      "StoreURL": "https://store.steampowered.com/app/49520",
+      "StoreURL": "https://store.steampowered.com/app/379880",
       "Metacritic": 84,
       "AddedCount": 1,
       "Rating": 83.59186447612045,
