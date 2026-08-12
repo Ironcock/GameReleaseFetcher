@@ -61,9 +61,9 @@
       "ReleaseDate": "2026-07-29",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocldz.jpg",
       "StoreURL": "https://store.steampowered.com/app/3282300",
-      "Metacritic": 89,
+      "Metacritic": 84,
       "AddedCount": 36,
-      "Rating": 89.09090909090908,
+      "Rating": 83.77044861658536,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu85c.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu85d.jpg",
@@ -370,6 +370,36 @@
       ]
     },
     {
+      "ID": 356188,
+      "Title": "Agefield High: Rock the School",
+      "ReleaseDate": "2026-08-12",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa5dh.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3562580",
+      "Metacritic": 0,
+      "AddedCount": 11,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy1rv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy1rw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy1rx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy1ry.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy1rt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy1ru.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy1rz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy1s0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy1rq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy1rs.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 275251,
       "Title": "Desktop Explorer",
       "ReleaseDate": "2026-07-17",
@@ -665,31 +695,6 @@
       "Genres": [
         "Adventure",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 316425,
-      "Title": "Ascend to Zero",
-      "ReleaseDate": "2026-07-13",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coazvz.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2697940",
-      "Metacritic": 0,
-      "AddedCount": 8,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10s5x.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10s5y.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10s5z.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10s60.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Strategy",
-        "Hack and slash/Beat 'em up"
       ],
       "Tags": [],
       "Platforms": [
@@ -1412,7 +1417,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob7ym.jpg",
       "StoreURL": "https://store.steampowered.com/app/3751260",
       "Metacritic": 0,
-      "AddedCount": 237,
+      "AddedCount": 240,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv1hb.jpg",
@@ -1436,7 +1441,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc64f.jpg",
       "StoreURL": "https://store.steampowered.com/app/3669870",
       "Metacritic": 0,
-      "AddedCount": 197,
+      "AddedCount": 199,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuxut.jpg",
@@ -1490,7 +1495,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocdt3.jpg",
       "StoreURL": "https://store.steampowered.com/app/2638890",
       "Metacritic": 0,
-      "AddedCount": 178,
+      "AddedCount": 177,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus43.jpg",
@@ -1516,7 +1521,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc79u.jpg",
       "StoreURL": "https://store.steampowered.com/app/2713000",
       "Metacritic": 0,
-      "AddedCount": 120,
+      "AddedCount": 121,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9w.jpg",
@@ -1545,7 +1550,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc77n.jpg",
       "StoreURL": "https://store.steampowered.com/app/3010850",
       "Metacritic": 0,
-      "AddedCount": 101,
+      "AddedCount": 102,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoft.jpg",
@@ -1573,7 +1578,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc5sw.jpg",
       "StoreURL": "https://store.steampowered.com/app/1636440",
       "Metacritic": 0,
-      "AddedCount": 87,
+      "AddedCount": 88,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjfq5.jpg",
@@ -1601,7 +1606,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xhm.jpg",
       "StoreURL": "https://store.epicgames.com/p/8541c863a8c64e0aad48abd8ad3006cd",
       "Metacritic": 0,
-      "AddedCount": 85,
+      "AddedCount": 86,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxk44.jpg",
@@ -1625,7 +1630,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xhg.jpg",
       "StoreURL": "https://store.steampowered.com/app/2584270",
       "Metacritic": 0,
-      "AddedCount": 78,
+      "AddedCount": 79,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9gn.jpg",
@@ -1655,7 +1660,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaazc.jpg",
       "StoreURL": "https://store.steampowered.com/app/2828710",
       "Metacritic": 0,
-      "AddedCount": 70,
+      "AddedCount": 71,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym6w.jpg",
@@ -1683,7 +1688,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobihx.jpg",
       "StoreURL": "https://store.steampowered.com/app/4078430",
       "Metacritic": 0,
-      "AddedCount": 69,
+      "AddedCount": 70,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tdy.jpg",
@@ -1709,7 +1714,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc76j.jpg",
       "StoreURL": "https://store.steampowered.com/app/4231820",
       "Metacritic": 0,
-      "AddedCount": 64,
+      "AddedCount": 65,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x74.jpg",
@@ -1740,7 +1745,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7uod.jpg",
       "StoreURL": "https://store.steampowered.com/app/2825860",
       "Metacritic": 0,
-      "AddedCount": 59,
+      "AddedCount": 60,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqxv8.jpg",
@@ -1770,7 +1775,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc7a0.jpg",
       "StoreURL": "https://store.steampowered.com/app/2075800",
       "Metacritic": 0,
-      "AddedCount": 54,
+      "AddedCount": 55,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwdbl.jpg",
@@ -1796,7 +1801,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc6oq.jpg",
       "StoreURL": "https://store.steampowered.com/app/3031890",
       "Metacritic": 0,
-      "AddedCount": 54,
+      "AddedCount": 55,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsv25.jpg",
@@ -1827,7 +1832,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0h1.jpg",
       "StoreURL": "https://store.steampowered.com/app/2288340",
       "Metacritic": 0,
-      "AddedCount": 49,
+      "AddedCount": 50,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tdv.jpg",
@@ -1854,7 +1859,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa5o9.jpg",
       "StoreURL": "https://store.steampowered.com/app/1551980",
       "Metacritic": 0,
-      "AddedCount": 49,
+      "AddedCount": 50,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy2x8.jpg",
@@ -1964,7 +1969,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocc6d.jpg",
       "StoreURL": "https://store.steampowered.com/app/1488490",
       "Metacritic": 0,
-      "AddedCount": 38,
+      "AddedCount": 39,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sch7cx.jpg",
@@ -1992,7 +1997,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaxvl.jpg",
       "StoreURL": "https://store.steampowered.com/app/2333000",
       "Metacritic": 0,
-      "AddedCount": 35,
+      "AddedCount": 36,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctn0w.jpg",
@@ -2016,38 +2021,13 @@
       ]
     },
     {
-      "ID": 293733,
-      "Title": "Screenbound",
-      "ReleaseDate": "2026-09-10",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobyys.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2805070",
-      "Metacritic": 0,
-      "AddedCount": 32,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrhfh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrhfi.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrhfj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrhfk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scrhfl.jpg"
-      ],
-      "Genres": [
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 362096,
       "Title": "Halloween: The Game",
       "ReleaseDate": "2026-09-08",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc6x4.jpg",
       "StoreURL": "https://store.steampowered.com/app/3219630",
       "Metacritic": 0,
-      "AddedCount": 29,
+      "AddedCount": 30,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn6x.jpg",
@@ -2069,7 +2049,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4mu.jpg",
       "StoreURL": "https://store.steampowered.com/app/4435490",
       "Metacritic": 0,
-      "AddedCount": 28,
+      "AddedCount": 29,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3n.jpg",
@@ -2095,7 +2075,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaaxx.jpg",
       "StoreURL": "https://store.steampowered.com/app/2272360",
       "Metacritic": 0,
-      "AddedCount": 28,
+      "AddedCount": 29,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymb4.jpg",
@@ -2123,7 +2103,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7aws.jpg",
       "StoreURL": "https://store.steampowered.com/app/2121510",
       "Metacritic": 0,
-      "AddedCount": 27,
+      "AddedCount": 28,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scp9bp.jpg",
@@ -2151,7 +2131,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocda0.jpg",
       "StoreURL": "https://store.steampowered.com/app/2542020",
       "Metacritic": 0,
-      "AddedCount": 23,
+      "AddedCount": 24,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctahq.jpg",
@@ -2175,7 +2155,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobigu.jpg",
       "StoreURL": "https://store.steampowered.com/app/4317690",
       "Metacritic": 0,
-      "AddedCount": 21,
+      "AddedCount": 22,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x6g.jpg",
@@ -2719,36 +2699,6 @@
       ]
     },
     {
-      "ID": 356188,
-      "Title": "Agefield High: Rock the School",
-      "ReleaseDate": "2026-08-12",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa5dh.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3562580",
-      "Metacritic": 0,
-      "AddedCount": 11,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy1rv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy1rw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy1rx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy1ry.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy1rt.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy1ru.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy1rz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy1s0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy1rq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy1rs.jpg"
-      ],
-      "Genres": [
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 335296,
       "Title": "Wild Blue Skies",
       "ReleaseDate": "2026-08-13",
@@ -2767,6 +2717,60 @@
       "Genres": [
         "Shooter",
         "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 214706,
+      "Title": "Lou's Lagoon",
+      "ReleaseDate": "2026-08-27",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc9ja.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2100020",
+      "Metacritic": 0,
+      "AddedCount": 11,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13x21.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13x22.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13x23.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13x24.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13x25.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 316836,
+      "Title": "Low-Budget Repairs",
+      "ReleaseDate": "2026-08-13",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9hd4.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3167920",
+      "Metacritic": 0,
+      "AddedCount": 10,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctxgr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctxgs.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctxgn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctxgo.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctxgp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctxgq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctxgt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctxgu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctxgv.jpg"
+      ],
+      "Genres": [
+        "Simulator",
         "Indie"
       ],
       "Tags": [],
