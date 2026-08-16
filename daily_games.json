@@ -12,10 +12,10 @@
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbca.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbcb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbcc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbcd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbcf.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbce.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbcf.jpg"
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbcc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbcd.jpg"
       ],
       "Genres": [
         "Role-playing (RPG)",
@@ -116,18 +116,18 @@
       "ReleaseDate": "2026-08-04",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7h9m.jpg",
       "StoreURL": "https://store.steampowered.com/app/1478500",
-      "Metacritic": 81,
+      "Metacritic": 83,
       "AddedCount": 33,
-      "Rating": 80.91449760851262,
+      "Rating": 82.6152959157588,
       "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpuym.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpuyy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpuyx.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpuyn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpuyv.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpuyp.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpuyr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpuyt.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpuyv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpuyx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpuyy.jpg"
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpuym.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpuyt.jpg"
       ],
       "Genres": [
         "Platform",
@@ -390,32 +390,6 @@
       ]
     },
     {
-      "ID": 275251,
-      "Title": "Desktop Explorer",
-      "ReleaseDate": "2026-07-17",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc7bf.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2527160",
-      "Metacritic": 0,
-      "AddedCount": 11,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10294.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc141bp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc141bq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc141br.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc141bs.jpg"
-      ],
-      "Genres": [
-        "Puzzle",
-        "Simulator",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 378071,
       "Title": "An Eggstremely Hard Game",
       "ReleaseDate": "2026-07-24",
@@ -447,9 +421,9 @@
       "AddedCount": 10,
       "Rating": 0.0,
       "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv8e8.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv8eb.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv8ec.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv8e8.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv8e9.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv8ea.jpg"
       ],
@@ -989,10 +963,10 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctozy.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctozz.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctp00.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctp01.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctp03.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctp05.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctp02.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctp01.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctp04.jpg"
       ],
       "Genres": [
@@ -1250,11 +1224,11 @@
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10wya.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10wyb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10wy9.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10wyc.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10wyd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10wye.jpg"
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10wye.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10wyb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10wy9.jpg"
       ],
       "Genres": [
         "Platform",
@@ -1403,6 +1377,31 @@
       "Platforms": [
         "pc"
       ]
+    },
+    {
+      "ID": 305022,
+      "Title": "Rogue Eclipse",
+      "ReleaseDate": "2026-08-14",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8bin.jpg",
+      "StoreURL": "https://store.steampowered.com/app/782260",
+      "Metacritic": 0,
+      "AddedCount": 4,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnyj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnys.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnyx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnz0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnyo.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnyu.jpg"
+      ],
+      "Genres": [
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
     }
   ],
   "Upcoming": [
@@ -1413,7 +1412,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob7ym.jpg",
       "StoreURL": "https://store.steampowered.com/app/3751260",
       "Metacritic": 0,
-      "AddedCount": 240,
+      "AddedCount": 241,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14p31.jpg",
@@ -1443,7 +1442,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc64f.jpg",
       "StoreURL": "https://store.steampowered.com/app/3669870",
       "Metacritic": 0,
-      "AddedCount": 199,
+      "AddedCount": 200,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuxut.jpg",
@@ -1523,7 +1522,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc79u.jpg",
       "StoreURL": "https://store.steampowered.com/app/2713000",
       "Metacritic": 0,
-      "AddedCount": 123,
+      "AddedCount": 125,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9w.jpg",
@@ -1907,6 +1906,34 @@
       ]
     },
     {
+      "ID": 251059,
+      "Title": "Grave Seasons",
+      "ReleaseDate": "2026-09-30",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobtwq.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3255110",
+      "Metacritic": 0,
+      "AddedCount": 40,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso28.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso24.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso25.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso26.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso27.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso29.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso2a.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 339608,
       "Title": "Neverway",
       "ReleaseDate": "2026-10-01",
@@ -1929,34 +1956,6 @@
       "Genres": [
         "Role-playing (RPG)",
         "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 251059,
-      "Title": "Grave Seasons",
-      "ReleaseDate": "2026-09-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobtwq.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3255110",
-      "Metacritic": 0,
-      "AddedCount": 39,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso28.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso24.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso25.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso26.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso27.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso29.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso2a.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Simulator",
         "Indie"
       ],
       "Tags": [],
@@ -2023,6 +2022,32 @@
       ]
     },
     {
+      "ID": 403310,
+      "Title": "Call of Duty: Modern Warfare 4",
+      "ReleaseDate": "2026-10-23",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4mu.jpg",
+      "StoreURL": "https://store.steampowered.com/app/4435490",
+      "Metacritic": 0,
+      "AddedCount": 30,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3n.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3o.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3p.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3q.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3r.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3s.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3t.jpg"
+      ],
+      "Genres": [
+        "Shooter"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 361859,
       "Title": "Warhammer 40,000: Dawn of War IV",
       "ReleaseDate": "2026-09-17",
@@ -2067,32 +2092,6 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn71.jpg"
       ],
       "Genres": [],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 403310,
-      "Title": "Call of Duty: Modern Warfare 4",
-      "ReleaseDate": "2026-10-23",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4mu.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4435490",
-      "Metacritic": 0,
-      "AddedCount": 28,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3n.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3o.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3p.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3q.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3r.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3s.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3t.jpg"
-      ],
-      "Genres": [
-        "Shooter"
-      ],
       "Tags": [],
       "Platforms": [
         "pc"
