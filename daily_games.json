@@ -27,6 +27,36 @@
       ]
     },
     {
+      "ID": 347633,
+      "Title": "Mortal Shell II",
+      "ReleaseDate": "2026-08-20",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xhg.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2584270",
+      "Metacritic": 0,
+      "AddedCount": 83,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9gq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9gr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9gg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9gm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9go.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9gh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9gi.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9gj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9gn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9gp.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 289696,
       "Title": "The Sinking City 2",
       "ReleaseDate": "2026-08-18",
@@ -91,9 +121,9 @@
       "ReleaseDate": "2026-07-29",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocldz.jpg",
       "StoreURL": "https://store.steampowered.com/app/3282300",
-      "Metacritic": 84,
+      "Metacritic": 85,
       "AddedCount": 36,
-      "Rating": 84.29057931565616,
+      "Rating": 84.96942030856553,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu85c.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu85d.jpg",
@@ -148,7 +178,7 @@
       "StoreURL": "https://store.steampowered.com/app/1478500",
       "Metacritic": 80,
       "AddedCount": 33,
-      "Rating": 80.43211001047779,
+      "Rating": 80.29523094305094,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpuyy.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpuyx.jpg",
@@ -300,36 +330,6 @@
         "Platform",
         "Adventure",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 347887,
-      "Title": "Fading Echo",
-      "ReleaseDate": "2026-07-21",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobpgb.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2467880",
-      "Metacritic": 0,
-      "AddedCount": 14,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11jlj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11jlk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11jll.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11jlm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11jln.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11jlo.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11jlp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11jlq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11jlr.jpg"
-      ],
-      "Genres": [
-        "Platform",
-        "Role-playing (RPG)",
-        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -545,33 +545,6 @@
       ],
       "Genres": [
         "Shooter",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 143710,
-      "Title": "Scarlet Deer Inn",
-      "ReleaseDate": "2026-07-21",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc8cz.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1553260",
-      "Metacritic": 0,
-      "AddedCount": 10,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc92ha.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc92hb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc92hc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc92hd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc92he.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc92hf.jpg"
-      ],
-      "Genres": [
-        "Platform",
         "Adventure",
         "Indie"
       ],
@@ -804,6 +777,34 @@
         "Role-playing (RPG)",
         "Simulator",
         "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 347240,
+      "Title": "Mexican Ninja",
+      "ReleaseDate": "2026-08-20",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coadam.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3764970",
+      "Metacritic": 0,
+      "AddedCount": 7,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7ou.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7ov.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7ow.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7ox.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7oy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7oz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7ot.jpg"
+      ],
+      "Genres": [
+        "Fighting",
+        "Hack and slash/Beat 'em up",
+        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -1094,29 +1095,25 @@
       ]
     },
     {
-      "ID": 391055,
-      "Title": "Dive or Die: Children of Rain",
-      "ReleaseDate": "2026-07-21",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobphf.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3590290",
+      "ID": 375515,
+      "Title": "Puppergeist",
+      "ReleaseDate": "2026-08-20",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coargh.jpg",
+      "StoreURL": "https://store.steampowered.com/app/4029740",
       "Metacritic": 0,
       "AddedCount": 5,
       "Rating": 0.0,
       "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc124zi.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc124zj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc124zk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc124zl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc124zm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc124zn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc124zo.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc124zp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc124zq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc124zr.jpg"
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc103kx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc103kz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc103l0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc103kt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc103kw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc103ku.jpg"
       ],
       "Genres": [
-        "Adventure",
-        "Indie"
+        "Music",
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -1174,6 +1171,34 @@
         "Strategy",
         "Adventure",
         "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 326325,
+      "Title": "Vacation Cafe Simulator",
+      "ReleaseDate": "2026-08-20",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocow5.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3196440",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuuyw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuuz7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuuyp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuuza.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuuze.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuuys.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuuyz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuuzd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuuz4.jpg"
+      ],
+      "Genres": [
+        "Simulator"
       ],
       "Tags": [],
       "Platforms": [
@@ -1325,6 +1350,34 @@
       ]
     },
     {
+      "ID": 119625,
+      "Title": "Brigador Killers",
+      "ReleaseDate": "2026-08-20",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob3ip.jpg",
+      "StoreURL": "https://store.steampowered.com/app/903930",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14nlw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14nlx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14nly.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14nlz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14nm0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14nm1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14nm2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14nm3.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 397811,
       "Title": "Machine Party",
       "ReleaseDate": "2026-07-30",
@@ -1350,68 +1403,17 @@
       "Platforms": [
         "pc"
       ]
-    },
-    {
-      "ID": 386539,
-      "Title": "The Skin Stapler",
-      "ReleaseDate": "2026-08-06",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobkuj.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4310610",
-      "Metacritic": 0,
-      "AddedCount": 4,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fxd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fxa.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fxn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fxg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fxi.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fxk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fxe.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fxc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fxh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11fxm.jpg"
-      ],
-      "Genres": [
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 369765,
-      "Title": "How Many Dudes?",
-      "ReleaseDate": "2026-07-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc1r6.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3934270",
-      "Metacritic": 0,
-      "AddedCount": 4,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczbox.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Strategy",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
     }
   ],
   "Upcoming": [
     {
       "ID": 282831,
       "Title": "The Blood of Dawnwalker",
-      "ReleaseDate": "2026-09-03",
+      "ReleaseDate": "2026-09-02",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob7ym.jpg",
       "StoreURL": "https://store.steampowered.com/app/3751260",
       "Metacritic": 0,
-      "AddedCount": 241,
+      "AddedCount": 243,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14p31.jpg",
@@ -1441,7 +1443,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc64f.jpg",
       "StoreURL": "https://store.steampowered.com/app/3669870",
       "Metacritic": 0,
-      "AddedCount": 201,
+      "AddedCount": 202,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuxut.jpg",
@@ -1495,7 +1497,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocdt3.jpg",
       "StoreURL": "https://store.steampowered.com/app/2638890",
       "Metacritic": 0,
-      "AddedCount": 177,
+      "AddedCount": 178,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus43.jpg",
@@ -1624,36 +1626,6 @@
       ]
     },
     {
-      "ID": 347633,
-      "Title": "Mortal Shell II",
-      "ReleaseDate": "2026-08-20",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xhg.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2584270",
-      "Metacritic": 0,
-      "AddedCount": 84,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9gq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9gr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9gg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9gm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9go.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9gh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9gi.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9gj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9gn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9gp.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 381248,
       "Title": "Star Wars: Galactic Racer",
       "ReleaseDate": "2026-10-06",
@@ -1745,7 +1717,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc7a0.jpg",
       "StoreURL": "https://store.steampowered.com/app/2075800",
       "Metacritic": 0,
-      "AddedCount": 55,
+      "AddedCount": 56,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwdbl.jpg",
@@ -2238,6 +2210,26 @@
       ]
     },
     {
+      "ID": 373593,
+      "Title": "Lord of Mysteries",
+      "ReleaseDate": "2026-08-21",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coat53.jpg",
+      "StoreURL": "",
+      "Metacritic": 0,
+      "AddedCount": 16,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc108ll.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 394670,
       "Title": "Remothered: Red Nun's Legacy",
       "ReleaseDate": "2026-10-27",
@@ -2261,26 +2253,6 @@
       "Genres": [
         "Puzzle",
         "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 373593,
-      "Title": "Lord of Mysteries",
-      "ReleaseDate": "2026-08-21",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coat53.jpg",
-      "StoreURL": "",
-      "Metacritic": 0,
-      "AddedCount": 15,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc108ll.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)"
       ],
       "Tags": [],
       "Platforms": [
@@ -2773,6 +2745,34 @@
         "Music",
         "Adventure",
         "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 215773,
+      "Title": "Lucid",
+      "ReleaseDate": "2026-09-30",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co87mw.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1717730",
+      "Metacritic": 0,
+      "AddedCount": 8,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scin3s.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scin3t.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scin3n.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scin3o.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scin3p.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scin3q.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scin3r.jpg"
+      ],
+      "Genres": [
+        "Platform",
+        "Puzzle",
+        "Role-playing (RPG)"
       ],
       "Tags": [],
       "Platforms": [
