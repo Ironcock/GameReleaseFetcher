@@ -6,9 +6,9 @@
       "ReleaseDate": "2026-08-04",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobc5q.jpg",
       "StoreURL": "https://store.steampowered.com/app/2001760",
-      "Metacritic": 99,
+      "Metacritic": 86,
       "AddedCount": 110,
-      "Rating": 99.33976795415111,
+      "Rating": 85.81020609391581,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbca.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbcb.jpg",
@@ -30,7 +30,7 @@
       "ID": 347633,
       "Title": "Mortal Shell II",
       "ReleaseDate": "2026-08-20",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xhg.jpg",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocqos.jpg",
       "StoreURL": "https://store.steampowered.com/app/2584270",
       "Metacritic": 0,
       "AddedCount": 83,
@@ -121,9 +121,9 @@
       "ReleaseDate": "2026-07-29",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocldz.jpg",
       "StoreURL": "https://store.steampowered.com/app/3282300",
-      "Metacritic": 87,
+      "Metacritic": 71,
       "AddedCount": 36,
-      "Rating": 86.69432834988362,
+      "Rating": 70.9968945319097,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu85c.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu85d.jpg",
@@ -404,28 +404,6 @@
         "Role-playing (RPG)",
         "Simulator",
         "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 378071,
-      "Title": "An Eggstremely Hard Game",
-      "ReleaseDate": "2026-07-24",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coauzw.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4112070",
-      "Metacritic": 0,
-      "AddedCount": 10,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ezg.jpg"
-      ],
-      "Genres": [
-        "Platform",
-        "Adventure",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -1389,6 +1367,33 @@
       "Platforms": [
         "pc"
       ]
+    },
+    {
+      "ID": 152498,
+      "Title": "Luminary",
+      "ReleaseDate": "2026-08-11",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocn1y.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1648360",
+      "Metacritic": 0,
+      "AddedCount": 4,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scaij6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scaij7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scaij8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scaij9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scaija.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scaijb.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
     }
   ],
   "Upcoming": [
@@ -1429,7 +1434,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc64f.jpg",
       "StoreURL": "https://store.steampowered.com/app/3669870",
       "Metacritic": 0,
-      "AddedCount": 206,
+      "AddedCount": 207,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10td0.jpg",
