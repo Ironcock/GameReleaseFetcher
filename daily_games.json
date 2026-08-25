@@ -8,7 +8,7 @@
       "StoreURL": "https://store.steampowered.com/app/2001760",
       "Metacritic": 86,
       "AddedCount": 110,
-      "Rating": 85.81020609391581,
+      "Rating": 85.65645523750455,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbca.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbcb.jpg",
@@ -79,6 +79,34 @@
       ],
       "Genres": [
         "Shooter",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 404693,
+      "Title": "1666: Amsterdam",
+      "ReleaseDate": "2026-08-25",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc6mk.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3949550",
+      "Metacritic": 0,
+      "AddedCount": 59,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13npe.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13npf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13npg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13nph.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13npi.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13npj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13npk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13npl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13npm.jpg"
+      ],
+      "Genres": [
         "Adventure"
       ],
       "Tags": [],
@@ -756,6 +784,35 @@
       ]
     },
     {
+      "ID": 400824,
+      "Title": "Aliens: Fireteam Elite 2",
+      "ReleaseDate": "2026-08-25",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc171.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3448650",
+      "Metacritic": 0,
+      "AddedCount": 6,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc139zv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc139zw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc139zx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc139zy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc139zz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13a00.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13a01.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13a02.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13a03.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13a04.jpg"
+      ],
+      "Genres": [
+        "Shooter"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 364821,
       "Title": "Ragnarok: The New World",
       "ReleaseDate": "2026-07-27",
@@ -1339,61 +1396,6 @@
       "Platforms": [
         "pc"
       ]
-    },
-    {
-      "ID": 167419,
-      "Title": "Kusan: City of Wolves",
-      "ReleaseDate": "2026-07-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocml5.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1714510",
-      "Metacritic": 0,
-      "AddedCount": 4,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scd07h.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scd07k.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scd07e.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scd07g.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scd07i.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scd07j.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scd07f.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Indie",
-        "Arcade"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 152498,
-      "Title": "Luminary",
-      "ReleaseDate": "2026-08-11",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocn1y.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1648360",
-      "Metacritic": 0,
-      "AddedCount": 4,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scaij6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scaij7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scaij8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scaij9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scaija.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scaijb.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
     }
   ],
   "Upcoming": [
@@ -1434,7 +1436,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc64f.jpg",
       "StoreURL": "https://store.steampowered.com/app/3669870",
       "Metacritic": 0,
-      "AddedCount": 208,
+      "AddedCount": 207,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10td0.jpg",
@@ -1677,7 +1679,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc76j.jpg",
       "StoreURL": "https://store.steampowered.com/app/4231820",
       "Metacritic": 0,
-      "AddedCount": 64,
+      "AddedCount": 65,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x74.jpg",
@@ -1768,12 +1770,12 @@
       "AddedCount": 51,
       "Rating": 0.0,
       "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy2x8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy2x9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy2xa.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy2xb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy2xc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy2x8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy2xa.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy2xd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy2x9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy2xc.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy2xe.jpg"
       ],
       "Genres": [
@@ -1956,7 +1958,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc6x4.jpg",
       "StoreURL": "https://store.steampowered.com/app/3219630",
       "Metacritic": 0,
-      "AddedCount": 29,
+      "AddedCount": 30,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn6z.jpg",
@@ -2377,15 +2379,15 @@
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfht.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfhz.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfhu.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfhv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfhw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfhx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfhy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfhz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfi0.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfi1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfhr.jpg"
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfhr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfhw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfhs.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfhx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfhy.jpg"
       ],
       "Genres": [
         "Adventure"
@@ -2554,6 +2556,36 @@
       "Genres": [
         "Simulator",
         "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 323462,
+      "Title": "Lily's World XD",
+      "ReleaseDate": "2026-09-17",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc67x.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3195580",
+      "Metacritic": 0,
+      "AddedCount": 11,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13mjz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13mk0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13mk1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13mk2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13mjw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13mjx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13mjy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13mk3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13mk4.jpg"
+      ],
+      "Genres": [
+        "Point-and-click",
+        "Puzzle",
+        "Simulator"
       ],
       "Tags": [],
       "Platforms": [
@@ -2740,34 +2772,6 @@
         "Platform",
         "Puzzle",
         "Role-playing (RPG)"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 152446,
-      "Title": "They Are Here: Alien Abduction Horror",
-      "ReleaseDate": "2026-09-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co46de.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1547540",
-      "Metacritic": 0,
-      "AddedCount": 8,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scai7g.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scai7k.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scai7n.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scai7r.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scai7x.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scai7z.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scai82.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scai85.jpg"
-      ],
-      "Genres": [
-        "Adventure",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
