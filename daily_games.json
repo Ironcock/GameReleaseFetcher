@@ -37,7 +37,7 @@
       "StoreURL": "https://store.steampowered.com/app/2001760",
       "Metacritic": 86,
       "AddedCount": 110,
-      "Rating": 85.5952722053278,
+      "Rating": 85.58284256891291,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbca.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbcb.jpg",
@@ -61,9 +61,9 @@
       "ReleaseDate": "2026-08-20",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocqos.jpg",
       "StoreURL": "https://store.steampowered.com/app/2584270",
-      "Metacritic": 0,
+      "Metacritic": 71,
       "AddedCount": 83,
-      "Rating": 0.0,
+      "Rating": 71.0758238345163,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9gq.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9gr.jpg",
@@ -192,33 +192,6 @@
       ],
       "Genres": [
         "Fighting"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 165397,
-      "Title": "The Relic: First Guardian",
-      "ReleaseDate": "2026-07-31",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8btm.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2827820",
-      "Metacritic": 0,
-      "AddedCount": 35,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scq1wd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scq1we.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scq1wc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scq1wb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scq1wf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scq1wg.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Adventure",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -607,37 +580,6 @@
         "Shooter",
         "Adventure",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 398638,
-      "Title": "Corsair Cove",
-      "ReleaseDate": "2026-07-31",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobxwd.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1368140",
-      "Metacritic": 50,
-      "AddedCount": 8,
-      "Rating": 50.15295758126599,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12zgr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12zgs.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12zgt.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12zgu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12zgv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12zgw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12zgz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12zgx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12zgy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12zh0.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Strategy",
-        "Turn-based strategy (TBS)"
       ],
       "Tags": [],
       "Platforms": [
@@ -1383,6 +1325,49 @@
       "Platforms": [
         "pc"
       ]
+    },
+    {
+      "ID": 400492,
+      "Title": "Hyperdimension Neptunia Unlimited",
+      "ReleaseDate": "2026-08-27",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc0oj.jpg",
+      "StoreURL": "",
+      "Metacritic": 0,
+      "AddedCount": 3,
+      "Rating": 0.0,
+      "ShortScreenshots": [],
+      "Genres": [
+        "Role-playing (RPG)"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 398967,
+      "Title": "Chop Chop Inc.",
+      "ReleaseDate": "2026-08-07",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobyi3.jpg",
+      "StoreURL": "https://store.steampowered.com/app/4369130",
+      "Metacritic": 0,
+      "AddedCount": 3,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc130o4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc130o5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc130o6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc130o7.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
     }
   ],
   "Upcoming": [
@@ -1503,7 +1488,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc77n.jpg",
       "StoreURL": "https://store.steampowered.com/app/3010850",
       "Metacritic": 0,
-      "AddedCount": 104,
+      "AddedCount": 105,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoft.jpg",
@@ -1531,7 +1516,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc5sw.jpg",
       "StoreURL": "https://store.steampowered.com/app/1636440",
       "Metacritic": 0,
-      "AddedCount": 93,
+      "AddedCount": 94,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjfq5.jpg",
@@ -1778,7 +1763,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocc6d.jpg",
       "StoreURL": "https://store.steampowered.com/app/1488490",
       "Metacritic": 0,
-      "AddedCount": 43,
+      "AddedCount": 44,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sch7cx.jpg",
@@ -1892,7 +1877,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4mu.jpg",
       "StoreURL": "https://store.steampowered.com/app/4435490",
       "Metacritic": 0,
-      "AddedCount": 31,
+      "AddedCount": 32,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3n.jpg",
@@ -2025,7 +2010,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobigu.jpg",
       "StoreURL": "https://store.steampowered.com/app/4317690",
       "Metacritic": 0,
-      "AddedCount": 23,
+      "AddedCount": 24,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x6g.jpg",
@@ -2134,6 +2119,32 @@
       ]
     },
     {
+      "ID": 380416,
+      "Title": "Rivage",
+      "ReleaseDate": "2026-09-22",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coay6k.jpg",
+      "StoreURL": "https://store.steampowered.com/app/4094660",
+      "Metacritic": 0,
+      "AddedCount": 22,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10osy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ot0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10osx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10osz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ot1.jpg"
+      ],
+      "Genres": [
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 344669,
       "Title": "Warhammer 40,000: Boltgun 2",
       "ReleaseDate": "2026-10-14",
@@ -2164,39 +2175,13 @@
       ]
     },
     {
-      "ID": 380416,
-      "Title": "Rivage",
-      "ReleaseDate": "2026-09-22",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coay6k.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4094660",
-      "Metacritic": 0,
-      "AddedCount": 21,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10osy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ot0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10osx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10osz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ot1.jpg"
-      ],
-      "Genres": [
-        "Puzzle",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 371847,
       "Title": "Blackwood",
       "ReleaseDate": "2026-09-16",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coampe.jpg",
       "StoreURL": "https://store.steampowered.com/app/3639070",
       "Metacritic": 0,
-      "AddedCount": 18,
+      "AddedCount": 20,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczk83.jpg",
@@ -2500,6 +2485,31 @@
       ]
     },
     {
+      "ID": 393015,
+      "Title": "We Were Here Tomorrow",
+      "ReleaseDate": "2026-10-01",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobwi7.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2315050",
+      "Metacritic": 0,
+      "AddedCount": 13,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12et4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12et5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12et6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12et2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12et3.jpg"
+      ],
+      "Genres": [
+        "Puzzle",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 370708,
       "Title": "BrokenLore: Don't Lie",
       "ReleaseDate": "2026-09-10",
@@ -2628,31 +2638,6 @@
       ],
       "Genres": [
         "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 393015,
-      "Title": "We Were Here Tomorrow",
-      "ReleaseDate": "2026-10-01",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobwi7.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2315050",
-      "Metacritic": 0,
-      "AddedCount": 11,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12et4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12et5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12et6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12et2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12et3.jpg"
-      ],
-      "Genres": [
-        "Puzzle",
         "Indie"
       ],
       "Tags": [],
