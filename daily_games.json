@@ -6,9 +6,9 @@
       "ReleaseDate": "2026-08-27",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc79u.jpg",
       "StoreURL": "https://store.steampowered.com/app/2713000",
-      "Metacritic": 0,
+      "Metacritic": 84,
       "AddedCount": 128,
-      "Rating": 0.0,
+      "Rating": 84.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9w.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9x.jpg",
@@ -323,6 +323,60 @@
         "Platform",
         "Adventure",
         "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 252870,
+      "Title": "Breathedge 2",
+      "ReleaseDate": "2026-08-31",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6m12.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2412960",
+      "Metacritic": 0,
+      "AddedCount": 15,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwph.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwpi.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwpj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwpk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwpg.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Simulator"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 396022,
+      "Title": "Serious Sam: Shatterverse",
+      "ReleaseDate": "2026-08-31",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobw5w.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2067210",
+      "Metacritic": 0,
+      "AddedCount": 14,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12pis.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12pit.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12piv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12piw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12pix.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12pir.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12piy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12piq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12piu.jpg"
+      ],
+      "Genres": [
+        "Shooter",
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -1325,49 +1379,6 @@
       "Platforms": [
         "pc"
       ]
-    },
-    {
-      "ID": 400492,
-      "Title": "Hyperdimension Neptunia Unlimited",
-      "ReleaseDate": "2026-08-27",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc0oj.jpg",
-      "StoreURL": "",
-      "Metacritic": 0,
-      "AddedCount": 3,
-      "Rating": 0.0,
-      "ShortScreenshots": [],
-      "Genres": [
-        "Role-playing (RPG)"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 398967,
-      "Title": "Chop Chop Inc.",
-      "ReleaseDate": "2026-08-07",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobyi3.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4369130",
-      "Metacritic": 0,
-      "AddedCount": 3,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc130o4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc130o5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc130o6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc130o7.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
     }
   ],
   "Upcoming": [
@@ -1378,7 +1389,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob7ym.jpg",
       "StoreURL": "https://store.steampowered.com/app/3751260",
       "Metacritic": 0,
-      "AddedCount": 254,
+      "AddedCount": 255,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14p31.jpg",
@@ -1408,7 +1419,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc64f.jpg",
       "StoreURL": "https://store.steampowered.com/app/3669870",
       "Metacritic": 0,
-      "AddedCount": 213,
+      "AddedCount": 214,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10td0.jpg",
@@ -1516,7 +1527,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc5sw.jpg",
       "StoreURL": "https://store.steampowered.com/app/1636440",
       "Metacritic": 0,
-      "AddedCount": 94,
+      "AddedCount": 95,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjfq5.jpg",
@@ -1684,7 +1695,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocce2.jpg",
       "StoreURL": "https://store.steampowered.com/app/4126040",
       "Metacritic": 0,
-      "AddedCount": 52,
+      "AddedCount": 53,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxmel.jpg",
@@ -1903,7 +1914,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc6x4.jpg",
       "StoreURL": "https://store.steampowered.com/app/3219630",
       "Metacritic": 0,
-      "AddedCount": 30,
+      "AddedCount": 31,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn6z.jpg",
@@ -2238,7 +2249,7 @@
     {
       "ID": 387496,
       "Title": "WheelMates",
-      "ReleaseDate": "2026-09-07",
+      "ReleaseDate": "2026-09-01",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc7x3.jpg",
       "StoreURL": "https://store.steampowered.com/app/3905450",
       "Metacritic": 0,
@@ -2248,10 +2259,10 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11ii3.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11ii5.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13rit.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13riu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13riv.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13riw.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13rir.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13riu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13riv.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ris.jpg"
       ],
       "Genres": [
@@ -2316,60 +2327,6 @@
       "Genres": [
         "Platform",
         "Role-playing (RPG)",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 252870,
-      "Title": "Breathedge 2",
-      "ReleaseDate": "2026-08-31",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6m12.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2412960",
-      "Metacritic": 0,
-      "AddedCount": 15,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwph.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwpi.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwpj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwpk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwpg.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Simulator"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 396022,
-      "Title": "Serious Sam: Shatterverse",
-      "ReleaseDate": "2026-08-31",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobw5w.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2067210",
-      "Metacritic": 0,
-      "AddedCount": 14,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12pis.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12pit.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12piv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12piw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12pix.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12pir.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12piy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12piq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12piu.jpg"
-      ],
-      "Genres": [
-        "Shooter",
         "Adventure"
       ],
       "Tags": [],
@@ -2510,6 +2467,31 @@
       ]
     },
     {
+      "ID": 382400,
+      "Title": "Trees Hate You",
+      "ReleaseDate": "2026-11-16",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob3ai.jpg",
+      "StoreURL": "https://store.steampowered.com/app/4171850",
+      "Metacritic": 0,
+      "AddedCount": 13,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10y3n.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10y3o.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10y3p.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10y3q.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10y3m.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 370708,
       "Title": "BrokenLore: Don't Lie",
       "ReleaseDate": "2026-09-10",
@@ -2586,31 +2568,6 @@
       "Genres": [
         "Simulator",
         "Strategy"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 382400,
-      "Title": "Trees Hate You",
-      "ReleaseDate": "2026-11-16",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob3ai.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4171850",
-      "Metacritic": 0,
-      "AddedCount": 12,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10y3n.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10y3o.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10y3p.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10y3q.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10y3m.jpg"
-      ],
-      "Genres": [
-        "Adventure",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -2757,6 +2714,58 @@
       "Genres": [
         "Role-playing (RPG)",
         "Strategy",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 279615,
+      "Title": "Usual June",
+      "ReleaseDate": "2026-10-28",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7h9e.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2702430",
+      "Metacritic": 0,
+      "AddedCount": 10,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpuyo.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpuyq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpuys.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpuyu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpuyw.jpg"
+      ],
+      "Genres": [
+        "Hack and slash/Beat 'em up"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 145078,
+      "Title": "Woodo",
+      "ReleaseDate": "2026-09-16",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co80cc.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2572040",
+      "Metacritic": 0,
+      "AddedCount": 10,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sco9st.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sco9sw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sco9sx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sco9sr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sco9ss.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sco9su.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sco9sv.jpg"
+      ],
+      "Genres": [
+        "Puzzle",
+        "Adventure",
         "Indie"
       ],
       "Tags": [],
