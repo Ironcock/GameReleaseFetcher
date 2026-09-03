@@ -1,14 +1,44 @@
 {
   "NewReleases": [
     {
+      "ID": 282831,
+      "Title": "The Blood of Dawnwalker",
+      "ReleaseDate": "2026-09-03",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob7ym.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3751260",
+      "Metacritic": 0,
+      "AddedCount": 272,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14p31.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14p2y.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14p2z.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14p32.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14p3c.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14p3d.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv1hd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv1id.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv1hb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv1hc.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 348168,
       "Title": "Resonance: A Plague Tale Legacy",
       "ReleaseDate": "2026-08-27",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc79u.jpg",
       "StoreURL": "https://store.steampowered.com/app/2713000",
-      "Metacritic": 90,
+      "Metacritic": 80,
       "AddedCount": 128,
-      "Rating": 89.83328187712257,
+      "Rating": 79.96286209457787,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9w.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9x.jpg",
@@ -22,32 +52,6 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13q19.jpg"
       ],
       "Genres": [
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 348180,
-      "Title": "Beast of Reincarnation",
-      "ReleaseDate": "2026-08-04",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobc5q.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2001760",
-      "Metacritic": 86,
-      "AddedCount": 110,
-      "Rating": 85.53857759441226,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbca.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbcb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbcf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbce.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbcc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbcd.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
         "Adventure"
       ],
       "Tags": [],
@@ -219,35 +223,6 @@
       "Genres": [
         "Role-playing (RPG)",
         "Simulator",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 279624,
-      "Title": "Big Walk",
-      "ReleaseDate": "2026-08-04",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7h9m.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1478500",
-      "Metacritic": 80,
-      "AddedCount": 33,
-      "Rating": 80.23891951392147,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpuyy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpuyx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpuyn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpuyv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpuyp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpuyr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpuym.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpuyt.jpg"
-      ],
-      "Genres": [
-        "Platform",
-        "Puzzle",
         "Adventure"
       ],
       "Tags": [],
@@ -810,28 +785,6 @@
       ]
     },
     {
-      "ID": 322111,
-      "Title": "Rogue Point",
-      "ReleaseDate": "2026-08-04",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobf3b.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1843840",
-      "Metacritic": 0,
-      "AddedCount": 7,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scufup.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scufuq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scufur.jpg"
-      ],
-      "Genres": [
-        "Shooter"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 149340,
       "Title": "No More Room in Hell 2",
       "ReleaseDate": "2026-08-11",
@@ -855,6 +808,35 @@
       "Genres": [
         "Shooter",
         "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 404905,
+      "Title": "BioEden",
+      "ReleaseDate": "2026-09-03",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc6vl.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3265840",
+      "Metacritic": 0,
+      "AddedCount": 6,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13oj8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13oj9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13oja.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ojb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ojc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ojd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13oje.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ojf.jpg"
+      ],
+      "Genres": [
+        "Real Time Strategy (RTS)",
+        "Simulator",
+        "Strategy"
       ],
       "Tags": [],
       "Platforms": [
@@ -971,6 +953,35 @@
         "Point-and-click",
         "Puzzle",
         "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 339614,
+      "Title": "SpeedRunners 2: King of Speed",
+      "ReleaseDate": "2026-09-03",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9nld.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3183760",
+      "Metacritic": 0,
+      "AddedCount": 6,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw8fk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw8ff.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw8fe.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw8fi.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw8fh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw8fj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw8fd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw8fg.jpg"
+      ],
+      "Genres": [
+        "Fighting",
+        "Racing",
+        "Sport"
       ],
       "Tags": [],
       "Platforms": [
@@ -1199,6 +1210,33 @@
       ]
     },
     {
+      "ID": 403744,
+      "Title": "Marsupilami 2: Salsa Palombia",
+      "ReleaseDate": "2026-09-03",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc6vp.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3650170",
+      "Metacritic": 0,
+      "AddedCount": 4,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13juk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13juf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13juq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13juh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13juj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13jun.jpg"
+      ],
+      "Genres": [
+        "Platform",
+        "Adventure",
+        "Arcade"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 386539,
       "Title": "The Skin Stapler",
       "ReleaseDate": "2026-08-06",
@@ -1336,52 +1374,29 @@
       ]
     },
     {
-      "ID": 267094,
-      "Title": "House 2",
-      "ReleaseDate": "2026-08-28",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocsbg.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2586440",
+      "ID": 278965,
+      "Title": "Odd Town",
+      "ReleaseDate": "2026-09-01",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob9no.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2688780",
       "Metacritic": 0,
       "AddedCount": 4,
       "Rating": 0.0,
       "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scokzh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scokzl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scokzj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scokzk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scokzi.jpg"
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scps1f.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scps1g.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scps1c.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scps1d.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scps1i.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scps1j.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scps1n.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scps1e.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scps1o.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scps1k.jpg"
       ],
       "Genres": [
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 226035,
-      "Title": "Fields of Mistria",
-      "ReleaseDate": "2026-08-05",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7gwn.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2142790",
-      "Metacritic": 80,
-      "AddedCount": 4,
-      "Rating": 80.49666185408404,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjvx2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjvx7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjvx1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjvx4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjvx6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjvx3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjvx5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjvx8.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
         "Simulator",
+        "Adventure",
         "Indie"
       ],
       "Tags": [],
@@ -1391,36 +1406,6 @@
     }
   ],
   "Upcoming": [
-    {
-      "ID": 282831,
-      "Title": "The Blood of Dawnwalker",
-      "ReleaseDate": "2026-09-03",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob7ym.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3751260",
-      "Metacritic": 0,
-      "AddedCount": 268,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14p31.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14p2y.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14p2z.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14p32.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14p3c.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14p3d.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv1hd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv1id.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv1hb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv1hc.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
     {
       "ID": 225582,
       "Title": "Control Resonant",
@@ -1455,7 +1440,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cococe.jpg",
       "StoreURL": "https://store.steampowered.com/app/4115450",
       "Metacritic": 0,
-      "AddedCount": 199,
+      "AddedCount": 200,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmngq.jpg",
@@ -1482,7 +1467,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocdt3.jpg",
       "StoreURL": "https://store.steampowered.com/app/2638890",
       "Metacritic": 0,
-      "AddedCount": 185,
+      "AddedCount": 186,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus45.jpg",
@@ -1588,7 +1573,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobihx.jpg",
       "StoreURL": "https://store.steampowered.com/app/4078430",
       "Metacritic": 0,
-      "AddedCount": 76,
+      "AddedCount": 77,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10te0.jpg",
@@ -1897,7 +1882,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4mu.jpg",
       "StoreURL": "https://store.steampowered.com/app/4435490",
       "Metacritic": 0,
-      "AddedCount": 32,
+      "AddedCount": 33,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3n.jpg",
@@ -2770,6 +2755,32 @@
         "Point-and-click",
         "Adventure",
         "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 325182,
+      "Title": "Toem 2",
+      "ReleaseDate": "2026-09-29",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocn4a.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2900640",
+      "Metacritic": 0,
+      "AddedCount": 9,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuqff.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuqfg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuqfi.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuqfj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuqfh.jpg"
+      ],
+      "Genres": [
+        "Platform",
+        "Puzzle",
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
