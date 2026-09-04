@@ -31,14 +31,40 @@
       ]
     },
     {
+      "ID": 325602,
+      "Title": "Onimusha: Way of the Sword",
+      "ReleaseDate": "2026-09-04",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocdt3.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2638890",
+      "Metacritic": 0,
+      "AddedCount": 187,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus45.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus43.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus47.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus44.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus46.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Hack and slash/Beat 'em up",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 348168,
       "Title": "Resonance: A Plague Tale Legacy",
       "ReleaseDate": "2026-08-27",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc79u.jpg",
       "StoreURL": "https://store.steampowered.com/app/2713000",
-      "Metacritic": 80,
+      "Metacritic": 84,
       "AddedCount": 128,
-      "Rating": 79.96286209457787,
+      "Rating": 84.04173091873018,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9w.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9x.jpg",
@@ -65,9 +91,9 @@
       "ReleaseDate": "2026-08-20",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocqos.jpg",
       "StoreURL": "https://store.steampowered.com/app/2584270",
-      "Metacritic": 73,
+      "Metacritic": 88,
       "AddedCount": 83,
-      "Rating": 72.80994629842029,
+      "Rating": 88.16750552442645,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9gq.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9gr.jpg",
@@ -121,9 +147,9 @@
       "ReleaseDate": "2026-08-18",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7uod.jpg",
       "StoreURL": "https://store.steampowered.com/app/2825860",
-      "Metacritic": 0,
+      "Metacritic": 80,
       "AddedCount": 62,
-      "Rating": 0.0,
+      "Rating": 79.88128459697789,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqxvb.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqxvc.jpg",
@@ -266,9 +292,9 @@
       "ReleaseDate": "2026-08-13",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocda0.jpg",
       "StoreURL": "https://store.steampowered.com/app/2542020",
-      "Metacritic": 0,
+      "Metacritic": 100,
       "AddedCount": 23,
-      "Rating": 0.0,
+      "Rating": 99.880537580886,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctahr.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctahs.jpg",
@@ -318,20 +344,22 @@
       "ID": 387496,
       "Title": "WheelMates",
       "ReleaseDate": "2026-09-01",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc7x3.jpg",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coctq3.jpg",
       "StoreURL": "https://store.steampowered.com/app/3905450",
       "Metacritic": 0,
       "AddedCount": 16,
       "Rating": 0.0,
       "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11ii3.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11ii5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13rit.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13riw.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13rir.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13riu.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13riv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ris.jpg"
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ris.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc150y9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc150ya.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc150yb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc150yc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc150yd.jpg"
       ],
       "Genres": [
         "Puzzle",
@@ -357,34 +385,6 @@
       ],
       "Genres": [
         "Role-playing (RPG)"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 140375,
-      "Title": "Akatori",
-      "ReleaseDate": "2026-08-05",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocm6f.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1442520",
-      "Metacritic": 0,
-      "AddedCount": 16,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14os7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14os8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14os9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14osa.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14osb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14osc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14osd.jpg"
-      ],
-      "Genres": [
-        "Platform",
-        "Adventure",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -853,16 +853,16 @@
       "AddedCount": 6,
       "Rating": 0.0,
       "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13mcx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13mcy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13mcz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13md0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13md1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13md2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13md3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13mcw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13md4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13md5.jpg"
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc150gr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc150gg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc150gh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc150gn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc150gj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc150gp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc150gq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc150gl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc150go.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc150gm.jpg"
       ],
       "Genres": [
         "Puzzle",
@@ -1018,36 +1018,6 @@
       ]
     },
     {
-      "ID": 276201,
-      "Title": "Kill The Shadow",
-      "ReleaseDate": "2026-08-05",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co927f.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2660230",
-      "Metacritic": 0,
-      "AddedCount": 6,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpgtg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpgth.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpgti.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpgtk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpgtm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpgtn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpgto.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpgtp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpgtr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpgts.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 28132,
       "Title": "Everything Must Fall",
       "ReleaseDate": "2026-08-26",
@@ -1148,6 +1118,33 @@
       ],
       "Genres": [
         "Simulator"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 288782,
+      "Title": "Dungeon Settlers",
+      "ReleaseDate": "2026-09-04",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobjy2.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2798330",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc121xn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc121xp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc121xq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc121xr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc121xs.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc121xt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc121xu.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Strategy"
       ],
       "Tags": [],
       "Platforms": [
@@ -1449,32 +1446,6 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmngr.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmngs.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13652.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Hack and slash/Beat 'em up",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 325602,
-      "Title": "Onimusha: Way of the Sword",
-      "ReleaseDate": "2026-09-04",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocdt3.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2638890",
-      "Metacritic": 0,
-      "AddedCount": 186,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus45.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus43.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus47.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus44.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus46.jpg"
       ],
       "Genres": [
         "Role-playing (RPG)",
@@ -1878,7 +1849,7 @@
     {
       "ID": 403310,
       "Title": "Call of Duty: Modern Warfare 4",
-      "ReleaseDate": "2026-10-16",
+      "ReleaseDate": "2026-10-23",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4mu.jpg",
       "StoreURL": "https://store.steampowered.com/app/4435490",
       "Metacritic": 0,
@@ -1908,7 +1879,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc6x4.jpg",
       "StoreURL": "https://store.steampowered.com/app/3219630",
       "Metacritic": 0,
-      "AddedCount": 32,
+      "AddedCount": 31,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn6z.jpg",
@@ -1918,6 +1889,34 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn71.jpg"
       ],
       "Genres": [],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 361859,
+      "Title": "Warhammer 40,000: Dawn of War IV",
+      "ReleaseDate": "2026-12-03",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaaxx.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2272360",
+      "Metacritic": 0,
+      "AddedCount": 30,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymb4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymb1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymb2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymb6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymb7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymb8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymb9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymb3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymb5.jpg"
+      ],
+      "Genres": [
+        "Strategy"
+      ],
       "Tags": [],
       "Platforms": [
         "pc"
@@ -2015,7 +2014,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobwhy.jpg",
       "StoreURL": "https://store.steampowered.com/app/4358690",
       "Metacritic": 0,
-      "AddedCount": 23,
+      "AddedCount": 24,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12xli.jpg",
@@ -2031,6 +2030,57 @@
         "Role-playing (RPG)",
         "Simulator",
         "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 381212,
+      "Title": "Stupid Never Dies",
+      "ReleaseDate": "2026-10-21",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc8br.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3486530",
+      "Metacritic": 0,
+      "AddedCount": 23,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tbd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tbe.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tbg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tbh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tbf.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 380416,
+      "Title": "Rivage",
+      "ReleaseDate": "2026-09-22",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coay6k.jpg",
+      "StoreURL": "https://store.steampowered.com/app/4094660",
+      "Metacritic": 0,
+      "AddedCount": 23,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10osy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ot0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10osx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10osz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ot1.jpg"
+      ],
+      "Genres": [
+        "Puzzle",
+        "Adventure",
+        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -2062,57 +2112,6 @@
         "Role-playing (RPG)",
         "Hack and slash/Beat 'em up",
         "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 381212,
-      "Title": "Stupid Never Dies",
-      "ReleaseDate": "2026-10-21",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc8br.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3486530",
-      "Metacritic": 0,
-      "AddedCount": 22,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tbd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tbe.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tbg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tbh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tbf.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 380416,
-      "Title": "Rivage",
-      "ReleaseDate": "2026-09-22",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coay6k.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4094660",
-      "Metacritic": 0,
-      "AddedCount": 22,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10osy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ot0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10osx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10osz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ot1.jpg"
-      ],
-      "Genres": [
-        "Puzzle",
-        "Adventure",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -2217,19 +2216,19 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob9v9.jpg",
       "StoreURL": "https://store.steampowered.com/app/1313230",
       "Metacritic": 0,
-      "AddedCount": 16,
+      "AddedCount": 17,
       "Rating": 0.0,
       "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scb3pw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scb3px.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scb3py.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scb3pz.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scofvg.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scofvh.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scofvi.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scofvj.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scofvk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scofvl.jpg"
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scofvl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scb3px.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scb3py.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scb3pw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scb3pz.jpg"
       ],
       "Genres": [
         "Shooter",
