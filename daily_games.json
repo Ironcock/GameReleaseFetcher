@@ -64,7 +64,7 @@
       "StoreURL": "https://store.steampowered.com/app/2713000",
       "Metacritic": 84,
       "AddedCount": 128,
-      "Rating": 83.98275305011806,
+      "Rating": 83.97525041281767,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9w.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9x.jpg",
@@ -1206,7 +1206,7 @@
     {
       "ID": 329964,
       "Title": "Withering Realms",
-      "ReleaseDate": "2026-09-02",
+      "ReleaseDate": "2026-09-04",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobf3s.jpg",
       "StoreURL": "https://store.steampowered.com/app/3441990",
       "Metacritic": 0,
@@ -1430,7 +1430,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cococe.jpg",
       "StoreURL": "https://store.steampowered.com/app/4115450",
       "Metacritic": 0,
-      "AddedCount": 202,
+      "AddedCount": 204,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmngq.jpg",
@@ -1705,7 +1705,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0h1.jpg",
       "StoreURL": "https://store.steampowered.com/app/2288340",
       "Metacritic": 0,
-      "AddedCount": 48,
+      "AddedCount": 49,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tdv.jpg",
@@ -2081,6 +2081,36 @@
       ]
     },
     {
+      "ID": 344669,
+      "Title": "Warhammer 40,000: Boltgun 2",
+      "ReleaseDate": "2026-10-14",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9uam.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3115160",
+      "Metacritic": 0,
+      "AddedCount": 23,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc101je.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc101jf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc101jn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13b01.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13b02.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13b03.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13b04.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13b05.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13b06.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13b07.jpg"
+      ],
+      "Genres": [
+        "Shooter",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 395525,
       "Title": "Minecraft Dungeons II",
       "ReleaseDate": "2026-09-29",
@@ -2136,36 +2166,6 @@
         "Role-playing (RPG)",
         "Strategy",
         "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 344669,
-      "Title": "Warhammer 40,000: Boltgun 2",
-      "ReleaseDate": "2026-10-14",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9uam.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3115160",
-      "Metacritic": 0,
-      "AddedCount": 22,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc101je.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc101jf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc101jn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13b01.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13b02.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13b03.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13b04.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13b05.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13b06.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13b07.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
