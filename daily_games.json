@@ -6,9 +6,9 @@
       "ReleaseDate": "2026-09-03",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob7ym.jpg",
       "StoreURL": "https://store.steampowered.com/app/3751260",
-      "Metacritic": 66,
+      "Metacritic": 61,
       "AddedCount": 272,
-      "Rating": 66.39999999999999,
+      "Rating": 61.16287528768835,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14p31.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14p2y.jpg",
@@ -64,7 +64,7 @@
       "StoreURL": "https://store.steampowered.com/app/2713000",
       "Metacritic": 84,
       "AddedCount": 128,
-      "Rating": 83.97618903223557,
+      "Rating": 83.96541146377716,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9w.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9x.jpg",
@@ -307,7 +307,7 @@
       "ID": 348047,
       "Title": "Wanderburg",
       "ReleaseDate": "2026-09-08",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocszr.jpg",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocuz0.jpg",
       "StoreURL": "https://store.steampowered.com/app/3624140",
       "Metacritic": 0,
       "AddedCount": 19,
@@ -723,6 +723,32 @@
       ]
     },
     {
+      "ID": 340029,
+      "Title": "Cosmic Fear",
+      "ReleaseDate": "2026-09-09",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9o9r.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3306920",
+      "Metacritic": 0,
+      "AddedCount": 7,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwa1i.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwa1j.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwa1l.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwa1h.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwa1k.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwa1m.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 149340,
       "Title": "No More Room in Hell 2",
       "ReleaseDate": "2026-08-11",
@@ -1088,6 +1114,33 @@
       ]
     },
     {
+      "ID": 265787,
+      "Title": "Barbarian Saga: The Beastmaster",
+      "ReleaseDate": "2026-09-09",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc2gf.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2459840",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scoflw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scoflx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scofly.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scoflz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scofm0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scofm1.jpg"
+      ],
+      "Genres": [
+        "Platform",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 239828,
       "Title": "He Who Watches",
       "ReleaseDate": "2026-09-02",
@@ -1328,62 +1381,6 @@
       ],
       "Genres": [
         "Role-playing (RPG)",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 305022,
-      "Title": "Rogue Eclipse",
-      "ReleaseDate": "2026-08-14",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8bin.jpg",
-      "StoreURL": "https://store.steampowered.com/app/782260",
-      "Metacritic": 0,
-      "AddedCount": 4,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnyj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnys.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnyx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnz0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnyo.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnyu.jpg"
-      ],
-      "Genres": [
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 278965,
-      "Title": "Odd Town",
-      "ReleaseDate": "2026-09-01",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob9no.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2688780",
-      "Metacritic": 0,
-      "AddedCount": 4,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scps1f.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scps1g.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scps1c.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scps1d.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scps1i.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scps1j.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scps1n.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scps1e.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scps1o.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scps1k.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Adventure",
         "Indie"
       ],
       "Tags": [],
@@ -1676,7 +1673,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa5o9.jpg",
       "StoreURL": "https://store.steampowered.com/app/1551980",
       "Metacritic": 0,
-      "AddedCount": 52,
+      "AddedCount": 51,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy2xb.jpg",
@@ -1869,7 +1866,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaaxx.jpg",
       "StoreURL": "https://store.steampowered.com/app/2272360",
       "Metacritic": 0,
-      "AddedCount": 30,
+      "AddedCount": 31,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymb4.jpg",
