@@ -6,9 +6,9 @@
       "ReleaseDate": "2026-09-03",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob7ym.jpg",
       "StoreURL": "https://store.steampowered.com/app/3751260",
-      "Metacritic": 65,
+      "Metacritic": 70,
       "AddedCount": 272,
-      "Rating": 64.54575868939831,
+      "Rating": 69.68505186221005,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14p31.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14p2y.jpg",
@@ -207,7 +207,7 @@
       "StoreURL": "https://store.steampowered.com/app/1867240",
       "Metacritic": 80,
       "AddedCount": 36,
-      "Rating": 80.11937724056335,
+      "Rating": 80.11770223465284,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11nmp.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11nmq.jpg",
@@ -1248,37 +1248,6 @@
       ]
     },
     {
-      "ID": 338988,
-      "Title": "Lootbound",
-      "ReleaseDate": "2026-08-14",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocknk.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3091140",
-      "Metacritic": 0,
-      "AddedCount": 4,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14frm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14frl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14frq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14frj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14frk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14frg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14fri.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14frp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14frn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14fro.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Strategy",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 329964,
       "Title": "Withering Realms",
       "ReleaseDate": "2026-09-04",
@@ -1332,31 +1301,6 @@
       ]
     },
     {
-      "ID": 305022,
-      "Title": "Rogue Eclipse",
-      "ReleaseDate": "2026-08-14",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8bin.jpg",
-      "StoreURL": "https://store.steampowered.com/app/782260",
-      "Metacritic": 0,
-      "AddedCount": 4,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnyj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnys.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnyx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnz0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnyo.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnyu.jpg"
-      ],
-      "Genres": [
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 278965,
       "Title": "Odd Town",
       "ReleaseDate": "2026-09-01",
@@ -1381,6 +1325,57 @@
         "Simulator",
         "Adventure",
         "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 267094,
+      "Title": "House 2",
+      "ReleaseDate": "2026-08-28",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocsbg.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2586440",
+      "Metacritic": 0,
+      "AddedCount": 4,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scokzh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scokzl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scokzj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scokzk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scokzi.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 412313,
+      "Title": "Mine Defense",
+      "ReleaseDate": "2026-08-20",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocmdx.jpg",
+      "StoreURL": "",
+      "Metacritic": 0,
+      "AddedCount": 3,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14r1i.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14r1j.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14r1k.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14r1g.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14r1h.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Tactical"
       ],
       "Tags": [],
       "Platforms": [
@@ -1506,7 +1501,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocrau.jpg",
       "StoreURL": "https://store.epicgames.com/p/8541c863a8c64e0aad48abd8ad3006cd",
       "Metacritic": 0,
-      "AddedCount": 89,
+      "AddedCount": 90,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxk45.jpg",
@@ -1941,7 +1936,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc954.jpg",
       "StoreURL": "https://store.steampowered.com/app/499170",
       "Metacritic": 0,
-      "AddedCount": 28,
+      "AddedCount": 29,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tc3.jpg",
@@ -2045,6 +2040,32 @@
       ]
     },
     {
+      "ID": 380416,
+      "Title": "Rivage",
+      "ReleaseDate": "2026-09-22",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coay6k.jpg",
+      "StoreURL": "https://store.steampowered.com/app/4094660",
+      "Metacritic": 0,
+      "AddedCount": 25,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10osy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ot0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10osx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10osz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ot1.jpg"
+      ],
+      "Genres": [
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 397817,
       "Title": "Graveyard Keeper II",
       "ReleaseDate": "2026-09-22",
@@ -2067,32 +2088,6 @@
         "Role-playing (RPG)",
         "Simulator",
         "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 380416,
-      "Title": "Rivage",
-      "ReleaseDate": "2026-09-22",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coay6k.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4094660",
-      "Metacritic": 0,
-      "AddedCount": 24,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10osy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ot0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10osx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10osz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ot1.jpg"
-      ],
-      "Genres": [
-        "Puzzle",
-        "Adventure",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
