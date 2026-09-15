@@ -200,6 +200,34 @@
       ]
     },
     {
+      "ID": 322158,
+      "Title": "Active Matter",
+      "ReleaseDate": "2026-09-15",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocv7g.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2887580",
+      "Metacritic": 0,
+      "AddedCount": 39,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scufvh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scufvn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scufvi.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scufvm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scufvl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scufvj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scufvk.jpg"
+      ],
+      "Genres": [
+        "Shooter",
+        "Simulator",
+        "Tactical"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 388285,
       "Title": "Wardogs",
       "ReleaseDate": "2026-09-10",
@@ -207,7 +235,7 @@
       "StoreURL": "https://store.steampowered.com/app/1867240",
       "Metacritic": 80,
       "AddedCount": 36,
-      "Rating": 80.11770223465284,
+      "Rating": 80.16391493656926,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11nmp.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11nmq.jpg",
@@ -509,7 +537,7 @@
       "ID": 319629,
       "Title": "Welcome to Elderfield",
       "ReleaseDate": "2026-09-10",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8xtd.jpg",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocwiz.jpg",
       "StoreURL": "https://store.steampowered.com/app/3195440",
       "Metacritic": 0,
       "AddedCount": 13,
@@ -558,6 +586,37 @@
       "Genres": [
         "Simulator",
         "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 309862,
+      "Title": "TCG Card Shop Simulator",
+      "ReleaseDate": "2026-09-15",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8o8l.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3070070",
+      "Metacritic": 78,
+      "AddedCount": 12,
+      "Rating": 78.31115130859003,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct6re.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct6rm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct6ro.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct6r9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct6rb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct6ra.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct6rc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct6rn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct6rf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct6rg.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Strategy",
+        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -1057,6 +1116,32 @@
       ]
     },
     {
+      "ID": 249202,
+      "Title": "Dimraeth",
+      "ReleaseDate": "2026-09-15",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocwem.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2402680",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz2de.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz2df.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz2dg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz2dh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz2di.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 239828,
       "Title": "He Who Watches",
       "ReleaseDate": "2026-09-02",
@@ -1132,6 +1217,35 @@
       "Genres": [
         "Simulator",
         "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 414945,
+      "Title": "Train Sim World 7",
+      "ReleaseDate": "2026-09-15",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocrgl.jpg",
+      "StoreURL": "https://store.steampowered.com/app/4678800",
+      "Metacritic": 0,
+      "AddedCount": 4,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14vi5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14vi6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14vhr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14vhs.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14vht.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14vhu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14vhv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14vhw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14vhx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14vhy.jpg"
+      ],
+      "Genres": [
+        "Simulator"
       ],
       "Tags": [],
       "Platforms": [
@@ -1248,139 +1362,28 @@
       ]
     },
     {
-      "ID": 329964,
-      "Title": "Withering Realms",
-      "ReleaseDate": "2026-09-04",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobf3s.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3441990",
-      "Metacritic": 0,
+      "ID": 337712,
+      "Title": "RuneScape: Dragonwilds",
+      "ReleaseDate": "2026-09-15",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocaxf.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1374490",
+      "Metacritic": 80,
       "AddedCount": 4,
-      "Rating": 0.0,
+      "Rating": 79.94776767875847,
       "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv7sh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv7si.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv7sj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv7sk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv7sf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv7sg.jpg"
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw1d7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw1d8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw1d9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw1da.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw1db.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw1dc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw1dd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw1de.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw1df.jpg"
       ],
       "Genres": [
         "Role-playing (RPG)",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 321067,
-      "Title": "Effulgence RPG",
-      "ReleaseDate": "2026-09-10",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9o39.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3302080",
-      "Metacritic": 0,
-      "AddedCount": 4,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuc7x.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuc7w.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuc7y.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuc7z.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuc80.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuc81.jpg"
-      ],
-      "Genres": [
-        "Adventure",
-        "Indie",
-        "Arcade"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 320131,
-      "Title": "Dunebound Tactics",
-      "ReleaseDate": "2026-09-14",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobjwt.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3034660",
-      "Metacritic": 0,
-      "AddedCount": 4,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu844.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu843.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu846.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu849.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu848.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu84a.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu84b.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu84c.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu845.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu847.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Strategy",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 278965,
-      "Title": "Odd Town",
-      "ReleaseDate": "2026-09-01",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob9no.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2688780",
-      "Metacritic": 0,
-      "AddedCount": 4,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scps1f.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scps1g.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scps1c.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scps1d.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scps1i.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scps1j.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scps1n.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scps1e.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scps1o.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scps1k.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 267094,
-      "Title": "House 2",
-      "ReleaseDate": "2026-08-28",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocsbg.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2586440",
-      "Metacritic": 0,
-      "AddedCount": 4,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scokzh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scokzl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scokzj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scokzk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scokzi.jpg"
-      ],
-      "Genres": [
-        "Adventure",
-        "Indie"
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -1396,7 +1399,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc64f.jpg",
       "StoreURL": "https://store.steampowered.com/app/3669870",
       "Metacritic": 0,
-      "AddedCount": 233,
+      "AddedCount": 234,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10td0.jpg",
@@ -1615,7 +1618,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc6oq.jpg",
       "StoreURL": "https://store.steampowered.com/app/3031890",
       "Metacritic": 0,
-      "AddedCount": 55,
+      "AddedCount": 56,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsv25.jpg",
@@ -1646,7 +1649,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocce2.jpg",
       "StoreURL": "https://store.steampowered.com/app/4126040",
       "Metacritic": 0,
-      "AddedCount": 53,
+      "AddedCount": 54,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxmel.jpg",
@@ -1776,62 +1779,6 @@
       ]
     },
     {
-      "ID": 251059,
-      "Title": "Grave Seasons",
-      "ReleaseDate": "2026-09-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobtwq.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3255110",
-      "Metacritic": 0,
-      "AddedCount": 43,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso24.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso25.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso27.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso28.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso26.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso2a.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scso29.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Simulator",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 322158,
-      "Title": "Active Matter",
-      "ReleaseDate": "2026-09-15",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocv7g.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2887580",
-      "Metacritic": 0,
-      "AddedCount": 39,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scufvh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scufvn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scufvi.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scufvm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scufvl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scufvj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scufvk.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Simulator",
-        "Tactical"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 403310,
       "Title": "Call of Duty: Modern Warfare 4",
       "ReleaseDate": "2026-10-23",
@@ -1858,32 +1805,13 @@
       ]
     },
     {
-      "ID": 236665,
-      "Title": "Professor Layton and the New World of Steam",
-      "ReleaseDate": "2026-12-10",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co66va.jpg",
-      "StoreURL": "",
-      "Metacritic": 0,
-      "AddedCount": 37,
-      "Rating": 0.0,
-      "ShortScreenshots": [],
-      "Genres": [
-        "Puzzle",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 313597,
       "Title": "Silver Pines",
       "ReleaseDate": "2026-10-08",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaxvl.jpg",
       "StoreURL": "https://store.steampowered.com/app/2333000",
       "Metacritic": 0,
-      "AddedCount": 36,
+      "AddedCount": 37,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctn0w.jpg",
@@ -1900,6 +1828,25 @@
       "Genres": [
         "Adventure",
         "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 236665,
+      "Title": "Professor Layton and the New World of Steam",
+      "ReleaseDate": "2026-12-10",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co66va.jpg",
+      "StoreURL": "",
+      "Metacritic": 0,
+      "AddedCount": 37,
+      "Rating": 0.0,
+      "ShortScreenshots": [],
+      "Genres": [
+        "Puzzle",
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -2472,6 +2419,36 @@
       ]
     },
     {
+      "ID": 323462,
+      "Title": "Lily's World XD",
+      "ReleaseDate": "2026-09-17",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc67x.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3195580",
+      "Metacritic": 0,
+      "AddedCount": 13,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13mjz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13mk0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13mk1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13mk2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13mjw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13mjx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13mjy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13mk3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13mk4.jpg"
+      ],
+      "Genres": [
+        "Point-and-click",
+        "Puzzle",
+        "Simulator"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 276028,
       "Title": "Paperhead",
       "ReleaseDate": "2026-10-09",
@@ -2520,36 +2497,6 @@
       ],
       "Genres": [
         "Music"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 323462,
-      "Title": "Lily's World XD",
-      "ReleaseDate": "2026-09-17",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc67x.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3195580",
-      "Metacritic": 0,
-      "AddedCount": 12,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13mjz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13mk0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13mk1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13mk2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13mjw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13mjx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13mjy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13mk3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13mk4.jpg"
-      ],
-      "Genres": [
-        "Point-and-click",
-        "Puzzle",
-        "Simulator"
       ],
       "Tags": [],
       "Platforms": [
@@ -2762,6 +2709,59 @@
         "Platform",
         "Puzzle",
         "Role-playing (RPG)"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 145078,
+      "Title": "Woodo",
+      "ReleaseDate": "2026-09-16",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co80cc.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2572040",
+      "Metacritic": 0,
+      "AddedCount": 9,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sco9st.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sco9sw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sco9sx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sco9sr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sco9ss.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sco9su.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sco9sv.jpg"
+      ],
+      "Genres": [
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 289433,
+      "Title": "Don't Fret",
+      "ReleaseDate": "2026-10-01",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc6xj.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2716830",
+      "Metacritic": 0,
+      "AddedCount": 8,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqwgh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqwgi.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqwgd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqwgf.jpg"
+      ],
+      "Genres": [
+        "Music",
+        "Adventure",
+        "Indie"
       ],
       "Tags": [],
       "Platforms": [
