@@ -8,7 +8,7 @@
       "StoreURL": "https://store.steampowered.com/app/3751260",
       "Metacritic": 70,
       "AddedCount": 272,
-      "Rating": 69.7656797537214,
+      "Rating": 69.79447114997004,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14p31.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14p2y.jpg",
@@ -36,9 +36,9 @@
       "ReleaseDate": "2026-09-04",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocdt3.jpg",
       "StoreURL": "https://store.steampowered.com/app/2638890",
-      "Metacritic": 0,
+      "Metacritic": 89,
       "AddedCount": 187,
-      "Rating": 0.0,
+      "Rating": 88.74494897258697,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus45.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus43.jpg",
@@ -64,7 +64,7 @@
       "StoreURL": "https://store.steampowered.com/app/2713000",
       "Metacritic": 83,
       "AddedCount": 128,
-      "Rating": 82.9034009045763,
+      "Rating": 82.90235108825013,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9w.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9x.jpg",
@@ -93,7 +93,7 @@
       "StoreURL": "https://store.steampowered.com/app/2584270",
       "Metacritic": 91,
       "AddedCount": 83,
-      "Rating": 90.9071424118445,
+      "Rating": 90.90267369029885,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9gq.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9gr.jpg",
@@ -175,9 +175,9 @@
       "ReleaseDate": "2026-09-16",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocce2.jpg",
       "StoreURL": "https://store.steampowered.com/app/4126040",
-      "Metacritic": 0,
+      "Metacritic": 92,
       "AddedCount": 56,
-      "Rating": 0.0,
+      "Rating": 92.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxmel.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxmem.jpg",
@@ -1078,9 +1078,9 @@
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxuat.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxuau.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxuas.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxuav.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxuaw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxuas.jpg"
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxuaw.jpg"
       ],
       "Genres": [
         "Adventure",
@@ -1756,7 +1756,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4mu.jpg",
       "StoreURL": "https://store.steampowered.com/app/4435490",
       "Metacritic": 0,
-      "AddedCount": 38,
+      "AddedCount": 39,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3n.jpg",
@@ -1831,7 +1831,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaaxx.jpg",
       "StoreURL": "https://store.steampowered.com/app/2272360",
       "Metacritic": 0,
-      "AddedCount": 31,
+      "AddedCount": 33,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scymb4.jpg",
@@ -1876,6 +1876,35 @@
       "Genres": [
         "Puzzle",
         "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 397817,
+      "Title": "Graveyard Keeper II",
+      "ReleaseDate": "2026-09-22",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobwhy.jpg",
+      "StoreURL": "https://store.steampowered.com/app/4358690",
+      "Metacritic": 0,
+      "AddedCount": 27,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12xli.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12xlj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12xlk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12xll.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12xlm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12xln.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12xlo.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12xlp.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Strategy"
       ],
       "Tags": [],
       "Platforms": [
@@ -1931,35 +1960,6 @@
       "Genres": [
         "Adventure",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 397817,
-      "Title": "Graveyard Keeper II",
-      "ReleaseDate": "2026-09-22",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobwhy.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4358690",
-      "Metacritic": 0,
-      "AddedCount": 26,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12xli.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12xlj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12xlk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12xll.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12xlm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12xln.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12xlo.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12xlp.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Simulator",
-        "Strategy"
       ],
       "Tags": [],
       "Platforms": [
@@ -2024,7 +2024,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9uam.jpg",
       "StoreURL": "https://store.steampowered.com/app/3115160",
       "Metacritic": 0,
-      "AddedCount": 24,
+      "AddedCount": 25,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc101je.jpg",
@@ -2085,7 +2085,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9wp1.jpg",
       "StoreURL": "https://store.steampowered.com/app/1173980",
       "Metacritic": 0,
-      "AddedCount": 20,
+      "AddedCount": 21,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1537q.jpg",
@@ -2103,6 +2103,30 @@
         "Role-playing (RPG)",
         "Strategy",
         "Turn-based strategy (TBS)"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 333201,
+      "Title": "Edge of Memories",
+      "ReleaseDate": "2026-11-05",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9gem.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2738170",
+      "Metacritic": 0,
+      "AddedCount": 17,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scviub.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvijp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scviu8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scviua.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scviu9.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)"
       ],
       "Tags": [],
       "Platforms": [
@@ -2225,6 +2249,35 @@
       ]
     },
     {
+      "ID": 393269,
+      "Title": "Stage Tour",
+      "ReleaseDate": "2026-12-10",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocriy.jpg",
+      "StoreURL": "https://store.steampowered.com/app/4452700",
+      "Metacritic": 0,
+      "AddedCount": 14,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12fw5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12fw6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12fpc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12fpd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12fw2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12fw7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12fw3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12fw4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14xbv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14xbw.jpg"
+      ],
+      "Genres": [
+        "Music"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 393015,
       "Title": "We Were Here Tomorrow",
       "ReleaseDate": "2026-10-01",
@@ -2327,35 +2380,6 @@
       "Genres": [
         "Simulator",
         "Strategy"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 393269,
-      "Title": "Stage Tour",
-      "ReleaseDate": "2026-12-10",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocriy.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4452700",
-      "Metacritic": 0,
-      "AddedCount": 13,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12fw5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12fw6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12fpc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12fpd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12fw2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12fw7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12fw3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12fw4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14xbv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14xbw.jpg"
-      ],
-      "Genres": [
-        "Music"
       ],
       "Tags": [],
       "Platforms": [
@@ -2651,6 +2675,33 @@
       ]
     },
     {
+      "ID": 203520,
+      "Title": "Calx",
+      "ReleaseDate": "2026-10-08",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coblm1.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2022640",
+      "Metacritic": 0,
+      "AddedCount": 8,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13jb7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13jb8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13jb9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13jba.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13jbc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13jbd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13jbb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13jbe.jpg"
+      ],
+      "Genres": [
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 152446,
       "Title": "They Are Here: Alien Abduction Horror",
       "ReleaseDate": "2026-09-30",
@@ -2703,63 +2754,6 @@
         "Racing",
         "Sport",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 385308,
-      "Title": "Milki Delivery",
-      "ReleaseDate": "2026-11-17",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coblsh.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4259360",
-      "Metacritic": 0,
-      "AddedCount": 7,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc119sy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc119sz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc119t0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc119t1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc119t3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc119t7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc119t2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc119t4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc119t5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc119t6.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 344466,
-      "Title": "Transport Fever 3",
-      "ReleaseDate": "2026-09-29",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9u3u.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3493540",
-      "Metacritic": 0,
-      "AddedCount": 7,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scww0j.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scww07.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scww0d.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scww0a.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scww0g.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scww0m.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Strategy"
       ],
       "Tags": [],
       "Platforms": [
