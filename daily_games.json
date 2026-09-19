@@ -64,7 +64,7 @@
       "StoreURL": "https://store.steampowered.com/app/2713000",
       "Metacritic": 83,
       "AddedCount": 128,
-      "Rating": 82.90235108825013,
+      "Rating": 82.89705243051674,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9w.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9x.jpg",
@@ -78,36 +78,6 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13q19.jpg"
       ],
       "Genres": [
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 347633,
-      "Title": "Mortal Shell II",
-      "ReleaseDate": "2026-08-20",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocqos.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2584270",
-      "Metacritic": 91,
-      "AddedCount": 83,
-      "Rating": 90.90267369029885,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9gq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9gr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9gg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9gm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9go.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9gh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9gi.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9gj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9gn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9gp.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
         "Adventure"
       ],
       "Tags": [],
@@ -175,9 +145,9 @@
       "ReleaseDate": "2026-09-16",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocce2.jpg",
       "StoreURL": "https://store.steampowered.com/app/4126040",
-      "Metacritic": 92,
+      "Metacritic": 93,
       "AddedCount": 56,
-      "Rating": 92.0,
+      "Rating": 93.33333333333334,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxmel.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxmem.jpg",
@@ -871,34 +841,6 @@
       ]
     },
     {
-      "ID": 347240,
-      "Title": "Mexican Ninja",
-      "ReleaseDate": "2026-08-20",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coadam.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3764970",
-      "Metacritic": 0,
-      "AddedCount": 7,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7ox.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7oy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7oz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7ot.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7ou.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7ov.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx7ow.jpg"
-      ],
-      "Genres": [
-        "Fighting",
-        "Hack and slash/Beat 'em up",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 340029,
       "Title": "Cosmic Fear",
       "ReleaseDate": "2026-09-09",
@@ -1156,72 +1098,18 @@
       "AddedCount": 5,
       "Rating": 0.0,
       "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11mmk.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11m2v.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11m2w.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11m2x.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11m2y.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11m2z.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11mmk.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11mml.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11mmm.jpg"
       ],
       "Genres": [
         "Role-playing (RPG)",
         "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 375515,
-      "Title": "Puppergeist",
-      "ReleaseDate": "2026-08-20",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coargh.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4029740",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc103kx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc103kz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc103l0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc103kt.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc103kw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc103ku.jpg"
-      ],
-      "Genres": [
-        "Music",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 326325,
-      "Title": "Vacation Cafe Simulator",
-      "ReleaseDate": "2026-08-20",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocow5.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3196440",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuuyw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuuz7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuuyp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuuza.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuuze.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuuys.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuuyz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuuzd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuuz4.jpg"
-      ],
-      "Genres": [
-        "Simulator"
       ],
       "Tags": [],
       "Platforms": [
@@ -1336,34 +1224,6 @@
       ]
     },
     {
-      "ID": 119625,
-      "Title": "Brigador Killers",
-      "ReleaseDate": "2026-08-20",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob3ip.jpg",
-      "StoreURL": "https://store.steampowered.com/app/903930",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14nlw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14nlx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14nly.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14nlz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14nm0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14nm1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14nm2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14nm3.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 414945,
       "Title": "Train Sim World 7",
       "ReleaseDate": "2026-09-15",
@@ -1391,6 +1251,145 @@
       "Platforms": [
         "pc"
       ]
+    },
+    {
+      "ID": 403744,
+      "Title": "Marsupilami 2: Salsa Palombia",
+      "ReleaseDate": "2026-09-03",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc6vp.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3650170",
+      "Metacritic": 0,
+      "AddedCount": 4,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13juk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13juf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13juq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13juh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13juj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13jun.jpg"
+      ],
+      "Genres": [
+        "Platform",
+        "Adventure",
+        "Arcade"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 388436,
+      "Title": "Sniper Dan",
+      "ReleaseDate": "2026-09-17",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocxe4.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2841650",
+      "Metacritic": 0,
+      "AddedCount": 4,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11m2f.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11m23.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11m24.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11m27.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11m28.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11m29.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11m25.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11m26.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11m2b.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11m2c.jpg"
+      ],
+      "Genres": [
+        "Shooter",
+        "Puzzle",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 355086,
+      "Title": "Bus Simulator 27",
+      "ReleaseDate": "2026-09-08",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coclj6.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2397320",
+      "Metacritic": 0,
+      "AddedCount": 4,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxzq0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxzqc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxzq3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxzq6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxzqd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxzq1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxzq2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxzq5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxzq8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxzq9.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 339674,
+      "Title": "Scavland",
+      "ReleaseDate": "2026-09-04",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocu3n.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3373500",
+      "Metacritic": 0,
+      "AddedCount": 4,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwuu6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwuu9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwuua.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwuu7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwuu8.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 338920,
+      "Title": "Trivia Murder Party 3",
+      "ReleaseDate": "2026-09-17",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob3p1.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3048060",
+      "Metacritic": 0,
+      "AddedCount": 4,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc159m7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc159m5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc159m6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc159m8.jpg"
+      ],
+      "Genres": [
+        "Strategy",
+        "Quiz/Trivia",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
     }
   ],
   "Upcoming": [
@@ -1401,7 +1400,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc64f.jpg",
       "StoreURL": "https://store.steampowered.com/app/3669870",
       "Metacritic": 0,
-      "AddedCount": 237,
+      "AddedCount": 239,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10td0.jpg",
@@ -1483,7 +1482,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc5sw.jpg",
       "StoreURL": "https://store.steampowered.com/app/1636440",
       "Metacritic": 0,
-      "AddedCount": 99,
+      "AddedCount": 100,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjfq5.jpg",
@@ -1973,7 +1972,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc8br.jpg",
       "StoreURL": "https://store.steampowered.com/app/3486530",
       "Metacritic": 0,
-      "AddedCount": 25,
+      "AddedCount": 26,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tbd.jpg",
@@ -2054,7 +2053,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc75p.jpg",
       "StoreURL": "https://store.steampowered.com/app/1912410",
       "Metacritic": 0,
-      "AddedCount": 22,
+      "AddedCount": 23,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12nhq.jpg",
@@ -2116,7 +2115,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9gem.jpg",
       "StoreURL": "https://store.steampowered.com/app/2738170",
       "Metacritic": 0,
-      "AddedCount": 17,
+      "AddedCount": 18,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scviub.jpg",
@@ -2469,7 +2468,7 @@
       "ID": 365465,
       "Title": "Dressmaker",
       "ReleaseDate": "2026-09-21",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc9be.jpg",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocxtp.jpg",
       "StoreURL": "https://store.steampowered.com/app/4019220",
       "Metacritic": 0,
       "AddedCount": 11,
