@@ -38,7 +38,7 @@
       "StoreURL": "https://store.steampowered.com/app/2638890",
       "Metacritic": 89,
       "AddedCount": 187,
-      "Rating": 88.71632735400391,
+      "Rating": 89.10741912814044,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus45.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus43.jpg",
@@ -91,9 +91,9 @@
       "ReleaseDate": "2026-08-27",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc7a0.jpg",
       "StoreURL": "https://store.steampowered.com/app/2075800",
-      "Metacritic": 82,
+      "Metacritic": 84,
       "AddedCount": 62,
-      "Rating": 82.35792897076365,
+      "Rating": 83.84142789947765,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwdbm.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwdbn.jpg",
@@ -145,9 +145,9 @@
       "ReleaseDate": "2026-09-16",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocce2.jpg",
       "StoreURL": "https://store.steampowered.com/app/4126040",
-      "Metacritic": 93,
+      "Metacritic": 94,
       "AddedCount": 56,
-      "Rating": 93.33333333333334,
+      "Rating": 93.63636363636363,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxmel.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxmem.jpg",
@@ -804,6 +804,32 @@
       ]
     },
     {
+      "ID": 121395,
+      "Title": "Wind Runners",
+      "ReleaseDate": "2026-09-23",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3n9b.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1101370",
+      "Metacritic": 0,
+      "AddedCount": 10,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc6z9z.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc6za0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc6z9y.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc6za1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc6za3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc6za2.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 333095,
       "Title": "OpenFront",
       "ReleaseDate": "2026-09-17",
@@ -961,7 +987,7 @@
       "ID": 318625,
       "Title": "Kernel Hearts",
       "ReleaseDate": "2026-09-17",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9tun.jpg",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocyj2.jpg",
       "StoreURL": "https://store.steampowered.com/app/2902170",
       "Metacritic": 0,
       "AddedCount": 7,
@@ -1370,33 +1396,6 @@
       "Platforms": [
         "pc"
       ]
-    },
-    {
-      "ID": 239828,
-      "Title": "He Who Watches",
-      "ReleaseDate": "2026-09-02",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coct9m.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1070500",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sclj4s.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sclj4y.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sclj52.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sclj4o.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sclj4i.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sclj55.jpg"
-      ],
-      "Genres": [
-        "Puzzle",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
     }
   ],
   "Upcoming": [
@@ -1434,7 +1433,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cococe.jpg",
       "StoreURL": "https://store.steampowered.com/app/4115450",
       "Metacritic": 0,
-      "AddedCount": 212,
+      "AddedCount": 213,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmngq.jpg",
@@ -1541,7 +1540,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobihx.jpg",
       "StoreURL": "https://store.steampowered.com/app/4078430",
       "Metacritic": 0,
-      "AddedCount": 82,
+      "AddedCount": 81,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10te0.jpg",
@@ -1762,7 +1761,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4mu.jpg",
       "StoreURL": "https://store.steampowered.com/app/4435490",
       "Metacritic": 0,
-      "AddedCount": 42,
+      "AddedCount": 43,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3n.jpg",
