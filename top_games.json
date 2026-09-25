@@ -67,9 +67,9 @@
       "ReleaseDate": "2022-02-25",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4jni.jpg",
       "StoreURL": "https://store.steampowered.com/app/1245620",
-      "Metacritic": 94,
+      "Metacritic": 93,
       "AddedCount": 96,
-      "Rating": 93.72715661893466,
+      "Rating": 93.40980427222844,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scagdo.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu5kw.jpg",
@@ -99,7 +99,7 @@
       "StoreURL": "https://store.steampowered.com/app/1174180",
       "Metacritic": 93,
       "AddedCount": 257,
-      "Rating": 93.2439616656825,
+      "Rating": 93.24450476895178,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/xegpfnsvlyeld0zkjnrc.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/kcfpf8wa8esalk0qkpo5.jpg",
@@ -301,7 +301,7 @@
       "StoreURL": "https://store.steampowered.com/app/367520",
       "Metacritic": 92,
       "AddedCount": 3,
-      "Rating": 91.79871478659992,
+      "Rating": 91.79770117315819,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/p3svrq6ewzxnn7p1a3v9.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/ityinxmtkakwbokpcwws.jpg",
@@ -432,7 +432,7 @@
       "StoreURL": "https://store.steampowered.com/app/2322010",
       "Metacritic": 91,
       "AddedCount": 77,
-      "Rating": 90.89436405527186,
+      "Rating": 90.894195517041,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scd71x.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scd71v.jpg",
@@ -745,7 +745,7 @@
       "StoreURL": "https://store.steampowered.com/app/3764200",
       "Metacritic": 89,
       "AddedCount": 309,
-      "Rating": 89.42901900119573,
+      "Rating": 89.42592948178044,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r1.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tjs.jpg",
@@ -776,7 +776,7 @@
       "StoreURL": "https://store.steampowered.com/app/3280350",
       "Metacritic": 89,
       "AddedCount": 188,
-      "Rating": 89.39678969649447,
+      "Rating": 89.39265425125467,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scka9g.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqbvm.jpg",
@@ -1166,7 +1166,7 @@
       "StoreURL": "https://store.steampowered.com/app/72850",
       "Metacritic": 88,
       "AddedCount": 0,
-      "Rating": 87.72049192769572,
+      "Rating": 87.72125619412782,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctdy4.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/muv70yw3rds1cw8ymr5v.jpg",
@@ -1193,7 +1193,7 @@
       "StoreURL": "https://store.steampowered.com/app/57400",
       "Metacritic": 88,
       "AddedCount": 0,
-      "Rating": 87.59234776758075,
+      "Rating": 87.62289494986118,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/optmyqz2utbniy4abipu.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/ygltnojhp2e8dvo8yapm.jpg",
@@ -1246,7 +1246,7 @@
       "StoreURL": "https://store.steampowered.com/app/236850",
       "Metacritic": 87,
       "AddedCount": 0,
-      "Rating": 87.44710872535563,
+      "Rating": 87.44798544709468,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc6vno.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc6vni.jpg",
@@ -1827,7 +1827,7 @@
       "Title": "Chants of Sennaar",
       "ReleaseDate": "2023-09-05",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9mjo.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1931770",
+      "StoreURL": "https://store.steampowered.com/app/1515190",
       "Metacritic": 86,
       "AddedCount": 1,
       "Rating": 86.36710692298551,
@@ -2041,32 +2041,6 @@
       ]
     },
     {
-      "ID": 17000,
-      "Title": "Stardew Valley",
-      "ReleaseDate": "2016-02-26",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa93h.jpg",
-      "StoreURL": "https://store.steampowered.com/app/413150",
-      "Metacritic": 86,
-      "AddedCount": 1,
-      "Rating": 85.98464128728196,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/rhxs1x9w5hf5kde2osf5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/iwswpvxa9ytrpk8yjcyx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sw7rtba7p1xs77klsime.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/ak7zmag7zztpqha1jjde.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/g1aakqbkp2quq0krqeky.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Simulator",
-        "Strategy"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 144024,
       "Title": "Final Fantasy VII Remake Intergrade",
       "ReleaseDate": "2021-06-10",
@@ -2084,6 +2058,32 @@
       "Genres": [
         "Role-playing (RPG)",
         "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 17000,
+      "Title": "Stardew Valley",
+      "ReleaseDate": "2016-02-26",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa93h.jpg",
+      "StoreURL": "https://store.steampowered.com/app/413150",
+      "Metacritic": 86,
+      "AddedCount": 1,
+      "Rating": 85.98431747584704,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/rhxs1x9w5hf5kde2osf5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/iwswpvxa9ytrpk8yjcyx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sw7rtba7p1xs77klsime.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/ak7zmag7zztpqha1jjde.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/g1aakqbkp2quq0krqeky.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Strategy"
       ],
       "Tags": [],
       "Platforms": [
@@ -2364,7 +2364,7 @@
       "StoreURL": "https://store.steampowered.com/app/35010",
       "Metacritic": 86,
       "AddedCount": 0,
-      "Rating": 85.60759194821343,
+      "Rating": 85.61975348316084,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/qrsf7hfmlwb4iscrq5xi.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczja8.jpg",
@@ -2531,7 +2531,7 @@
       "StoreURL": "https://store.steampowered.com/app/1064271",
       "Metacritic": 85,
       "AddedCount": 1,
-      "Rating": 85.26859383915132,
+      "Rating": 85.26868366117583,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/qly3lqrhwefbray4gh0w.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/yrg9pyxwrkdlzw8dovsc.jpg",
@@ -2802,6 +2802,36 @@
       ]
     },
     {
+      "ID": 5503,
+      "Title": "Batman: Arkham Knight",
+      "ReleaseDate": "2015-06-23",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coagib.jpg",
+      "StoreURL": "https://store.steampowered.com/app/208650",
+      "Metacritic": 85,
+      "AddedCount": 84,
+      "Rating": 84.9936966251756,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scprhc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/f7dtfyst1yempsfapqze.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/njfbulzuivfqqtavv8pi.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/gvexzjpbwq7aelsicwt1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/hhpdzsjzt1rq0zfyztqh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/ietlbq4wk9beejz4we8d.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/z3z1odurhninhnorve6g.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/qphzev6p9rdtqun10tnj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scprhd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scprh8.jpg"
+      ],
+      "Genres": [
+        "Hack and slash/Beat 'em up",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 107218,
       "Title": "Desperados III",
       "ReleaseDate": "2020-06-16",
@@ -2826,36 +2856,6 @@
         "Real Time Strategy (RTS)",
         "Simulator",
         "Strategy"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 5503,
-      "Title": "Batman: Arkham Knight",
-      "ReleaseDate": "2015-06-23",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coagib.jpg",
-      "StoreURL": "https://store.steampowered.com/app/208650",
-      "Metacritic": 85,
-      "AddedCount": 84,
-      "Rating": 84.95556944014527,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scprhc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/f7dtfyst1yempsfapqze.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/njfbulzuivfqqtavv8pi.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/gvexzjpbwq7aelsicwt1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/hhpdzsjzt1rq0zfyztqh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/ietlbq4wk9beejz4we8d.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/z3z1odurhninhnorve6g.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/qphzev6p9rdtqun10tnj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scprhd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scprh8.jpg"
-      ],
-      "Genres": [
-        "Hack and slash/Beat 'em up",
-        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -3169,7 +3169,7 @@
       "StoreURL": "https://store.steampowered.com/app/2651280",
       "Metacritic": 85,
       "AddedCount": 18,
-      "Rating": 84.65386816664889,
+      "Rating": 84.6186356808628,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwdi.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwdk.jpg",
@@ -3329,7 +3329,7 @@
       "Title": "Lies of P",
       "ReleaseDate": "2023-09-18",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6lxr.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1627720",
+      "StoreURL": "https://store.steampowered.com/app/1980050",
       "Metacritic": 84,
       "AddedCount": 17,
       "Rating": 84.43207681461816,
@@ -3546,7 +3546,7 @@
       "StoreURL": "https://store.steampowered.com/app/418370",
       "Metacritic": 84,
       "AddedCount": 20,
-      "Rating": 84.22908959615592,
+      "Rating": 84.22928358423812,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/wyn4sipweizrkjvshid9.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/io6hffcfxfgtibwwn9jl.jpg",
@@ -3626,7 +3626,7 @@
       "StoreURL": "https://store.steampowered.com/app/1196590",
       "Metacritic": 84,
       "AddedCount": 31,
-      "Rating": 84.01785744266778,
+      "Rating": 84.01763856405965,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc99kk.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc99kl.jpg",
@@ -3883,7 +3883,7 @@
       "StoreURL": "https://store.steampowered.com/app/213670",
       "Metacritic": 84,
       "AddedCount": 16,
-      "Rating": 83.70725838128514,
+      "Rating": 83.70720130801726,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/bjwrnizsisnykyj2unls.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/vevt14vztlsidoewcrip.jpg",

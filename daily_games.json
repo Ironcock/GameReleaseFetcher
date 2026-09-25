@@ -37,7 +37,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc64f.jpg",
       "StoreURL": "https://store.steampowered.com/app/3669870",
       "Metacritic": 0,
-      "AddedCount": 241,
+      "AddedCount": 242,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10td0.jpg",
@@ -91,7 +91,7 @@
       "StoreURL": "https://store.steampowered.com/app/2713000",
       "Metacritic": 83,
       "AddedCount": 128,
-      "Rating": 82.58333664615022,
+      "Rating": 82.59266397042565,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9w.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9x.jpg",
@@ -1065,6 +1065,31 @@
       ]
     },
     {
+      "ID": 408819,
+      "Title": "EA Sports FC 27",
+      "ReleaseDate": "2026-09-25",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coclf3.jpg",
+      "StoreURL": "https://store.steampowered.com/app/4080220",
+      "Metacritic": 0,
+      "AddedCount": 6,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14etq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14etr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14ett.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14etw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14etu.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Sport"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 404905,
       "Title": "BioEden",
       "ReleaseDate": "2026-09-03",
@@ -1230,32 +1255,6 @@
       ]
     },
     {
-      "ID": 28132,
-      "Title": "Everything Must Fall",
-      "ReleaseDate": "2026-08-26",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2810.jpg",
-      "StoreURL": "https://store.steampowered.com/app/623800",
-      "Metacritic": 70,
-      "AddedCount": 6,
-      "Rating": 70.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/vcbu6ex3e25wfmoyrj7p.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/rojgdizxvlh6hfn4dnxj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/avmcndequ6qibwclswco.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/vjmoohm66mpsd3aj3vrv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/y2z4ylp7dowyrd0hh3ku.jpg"
-      ],
-      "Genres": [
-        "Adventure",
-        "Indie",
-        "Arcade"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 388448,
       "Title": "Another Eden Begins",
       "ReleaseDate": "2026-09-17",
@@ -1408,7 +1407,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cococe.jpg",
       "StoreURL": "https://store.steampowered.com/app/4115450",
       "Metacritic": 0,
-      "AddedCount": 212,
+      "AddedCount": 213,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmngq.jpg",
@@ -1481,39 +1480,13 @@
       ]
     },
     {
-      "ID": 381248,
-      "Title": "Star Wars: Galactic Racer",
-      "ReleaseDate": "2026-10-06",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobihx.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4078430",
-      "Metacritic": 0,
-      "AddedCount": 81,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10te0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tdy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tdz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10te1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10te2.jpg"
-      ],
-      "Genres": [
-        "Racing",
-        "Sport",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 361833,
       "Title": "Valor Mortis",
       "ReleaseDate": "2026-10-13",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaazc.jpg",
       "StoreURL": "https://store.steampowered.com/app/2828710",
       "Metacritic": 0,
-      "AddedCount": 81,
+      "AddedCount": 82,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym6w.jpg",
@@ -1527,6 +1500,32 @@
       "Genres": [
         "Shooter",
         "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 381248,
+      "Title": "Star Wars: Galactic Racer",
+      "ReleaseDate": "2026-10-06",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobihx.jpg",
+      "StoreURL": "https://store.steampowered.com/app/4078430",
+      "Metacritic": 0,
+      "AddedCount": 80,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10te0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tdy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tdz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10te1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10te2.jpg"
+      ],
+      "Genres": [
+        "Racing",
+        "Sport",
         "Adventure"
       ],
       "Tags": [],
@@ -1728,32 +1727,13 @@
       ]
     },
     {
-      "ID": 236665,
-      "Title": "Professor Layton and the New World of Steam",
-      "ReleaseDate": "2026-12-10",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co66va.jpg",
-      "StoreURL": "",
-      "Metacritic": 0,
-      "AddedCount": 38,
-      "Rating": 0.0,
-      "ShortScreenshots": [],
-      "Genres": [
-        "Puzzle",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 313597,
       "Title": "Silver Pines",
       "ReleaseDate": "2026-10-08",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaxvl.jpg",
       "StoreURL": "https://store.steampowered.com/app/2333000",
       "Metacritic": 0,
-      "AddedCount": 37,
+      "AddedCount": 38,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctn0w.jpg",
@@ -1770,6 +1750,25 @@
       "Genres": [
         "Adventure",
         "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 236665,
+      "Title": "Professor Layton and the New World of Steam",
+      "ReleaseDate": "2026-12-10",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co66va.jpg",
+      "StoreURL": "",
+      "Metacritic": 0,
+      "AddedCount": 38,
+      "Rating": 0.0,
+      "ShortScreenshots": [],
+      "Genres": [
+        "Puzzle",
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -1951,7 +1950,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc75p.jpg",
       "StoreURL": "https://store.steampowered.com/app/1912410",
       "Metacritic": 0,
-      "AddedCount": 23,
+      "AddedCount": 24,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12nhq.jpg",
@@ -2037,7 +2036,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8qbv.jpg",
       "StoreURL": "https://store.steampowered.com/app/3090810",
       "Metacritic": 0,
-      "AddedCount": 18,
+      "AddedCount": 19,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct6b5.jpg",
@@ -2053,6 +2052,36 @@
       "Genres": [
         "Adventure",
         "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 394670,
+      "Title": "Remothered: Red Nun's Legacy",
+      "ReleaseDate": "2026-10-27",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobrbr.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3335310",
+      "Metacritic": 0,
+      "AddedCount": 16,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12kj9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12kja.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12kjc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12kjf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12kje.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12kjg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12kjh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12kjd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12kjb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13q8x.jpg"
+      ],
+      "Genres": [
+        "Puzzle",
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -2080,36 +2109,6 @@
       "Genres": [
         "Hack and slash/Beat 'em up",
         "Arcade"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 394670,
-      "Title": "Remothered: Red Nun's Legacy",
-      "ReleaseDate": "2026-10-27",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobrbr.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3335310",
-      "Metacritic": 0,
-      "AddedCount": 15,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12kj9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12kja.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12kjc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12kjf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12kje.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12kjg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12kjh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12kjd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12kjb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13q8x.jpg"
-      ],
-      "Genres": [
-        "Puzzle",
-        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -2240,11 +2239,11 @@
       "AddedCount": 14,
       "Rating": 0.0,
       "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sca9im.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sca9il.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sca9ii.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sca9ij.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sca9ik.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sca9il.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sca9im.jpg"
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sca9ik.jpg"
       ],
       "Genres": [
         "Adventure",
@@ -2418,6 +2417,32 @@
       ]
     },
     {
+      "ID": 231488,
+      "Title": "RetroSpace",
+      "ReleaseDate": "2026-10-01",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co79jg.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2067820",
+      "Metacritic": 0,
+      "AddedCount": 10,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckjcg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckjch.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckjci.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckjcf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckjce.jpg"
+      ],
+      "Genres": [
+        "Shooter",
+        "Simulator",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 329692,
       "Title": "Am I Nima",
       "ReleaseDate": "2026-11-27",
@@ -2458,32 +2483,6 @@
       "Genres": [
         "Platform",
         "Puzzle",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 231488,
-      "Title": "RetroSpace",
-      "ReleaseDate": "2026-10-01",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co79jg.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2067820",
-      "Metacritic": 0,
-      "AddedCount": 9,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckjcg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckjch.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckjci.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckjcf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckjce.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Simulator",
         "Adventure"
       ],
       "Tags": [],
