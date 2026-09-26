@@ -84,35 +84,6 @@
       ]
     },
     {
-      "ID": 348168,
-      "Title": "Resonance: A Plague Tale Legacy",
-      "ReleaseDate": "2026-08-27",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc79u.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2713000",
-      "Metacritic": 83,
-      "AddedCount": 128,
-      "Rating": 82.59266397042565,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9w.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9x.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9y.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxb9z.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxba0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13q15.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13q16.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13q17.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13q18.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13q19.jpg"
-      ],
-      "Genres": [
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 222342,
       "Title": "Silent Hill: Townfall",
       "ReleaseDate": "2026-09-24",
@@ -134,32 +105,6 @@
       "Genres": [
         "Puzzle",
         "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 340113,
-      "Title": "Star Wars Zero Company",
-      "ReleaseDate": "2026-08-27",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc7a0.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2075800",
-      "Metacritic": 84,
-      "AddedCount": 62,
-      "Rating": 83.84142789947765,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwdbm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwdbn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwdbp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwdbo.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwdbl.jpg"
-      ],
-      "Genres": [
-        "Strategy",
-        "Turn-based strategy (TBS)",
-        "Tactical"
       ],
       "Tags": [],
       "Platforms": [
@@ -688,34 +633,6 @@
       ]
     },
     {
-      "ID": 214706,
-      "Title": "Lou's Lagoon",
-      "ReleaseDate": "2026-08-27",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc9ja.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2100020",
-      "Metacritic": 0,
-      "AddedCount": 13,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14o1p.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14o1r.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13x23.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13x22.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13x24.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14o1q.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13x21.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13x25.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 309862,
       "Title": "TCG Card Shop Simulator",
       "ReleaseDate": "2026-09-15",
@@ -723,7 +640,7 @@
       "StoreURL": "https://store.steampowered.com/app/3070070",
       "Metacritic": 78,
       "AddedCount": 12,
-      "Rating": 78.2959396879798,
+      "Rating": 78.29770736967986,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct6re.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct6rm.jpg",
@@ -1397,6 +1314,85 @@
       "Platforms": [
         "pc"
       ]
+    },
+    {
+      "ID": 265277,
+      "Title": "The Rabbit Haul",
+      "ReleaseDate": "2026-09-21",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coak4r.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2514330",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scod7e.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scod7j.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scod72.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scod76.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scod7b.jpg"
+      ],
+      "Genres": [
+        "Strategy",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 249202,
+      "Title": "Dimraeth",
+      "ReleaseDate": "2026-09-15",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocwem.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2402680",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz2de.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz2df.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz2dg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz2dh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz2di.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 239828,
+      "Title": "He Who Watches",
+      "ReleaseDate": "2026-09-02",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coct9m.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1070500",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sclj4s.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sclj4y.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sclj52.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sclj4o.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sclj4i.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sclj55.jpg"
+      ],
+      "Genres": [
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
     }
   ],
   "Upcoming": [
@@ -1407,7 +1403,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cococe.jpg",
       "StoreURL": "https://store.steampowered.com/app/4115450",
       "Metacritic": 0,
-      "AddedCount": 213,
+      "AddedCount": 212,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmngq.jpg",
@@ -1540,7 +1536,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocrky.jpg",
       "StoreURL": "https://store.steampowered.com/app/4231820",
       "Metacritic": 0,
-      "AddedCount": 72,
+      "AddedCount": 71,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x74.jpg",
@@ -1596,6 +1592,33 @@
       ]
     },
     {
+      "ID": 381247,
+      "Title": "Ace Combat 8: Wings of Theve",
+      "ReleaseDate": "2026-10-02",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0h1.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2288340",
+      "Metacritic": 0,
+      "AddedCount": 54,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tdv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tdu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tdx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tds.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tdt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tdw.jpg"
+      ],
+      "Genres": [
+        "Shooter",
+        "Simulator",
+        "Arcade"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 356552,
       "Title": "Clive Barker's Hellraiser: Revival",
       "ReleaseDate": "2026-10-08",
@@ -1615,33 +1638,6 @@
       ],
       "Genres": [
         "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 381247,
-      "Title": "Ace Combat 8: Wings of Theve",
-      "ReleaseDate": "2026-10-02",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0h1.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2288340",
-      "Metacritic": 0,
-      "AddedCount": 53,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tdv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tdu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tdx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tds.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tdt.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tdw.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Simulator",
-        "Arcade"
       ],
       "Tags": [],
       "Platforms": [
@@ -1707,7 +1703,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4mu.jpg",
       "StoreURL": "https://store.steampowered.com/app/4435490",
       "Metacritic": 0,
-      "AddedCount": 43,
+      "AddedCount": 44,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3n.jpg",
@@ -1981,7 +1977,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9wp1.jpg",
       "StoreURL": "https://store.steampowered.com/app/1173980",
       "Metacritic": 0,
-      "AddedCount": 21,
+      "AddedCount": 22,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1537q.jpg",
