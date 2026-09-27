@@ -961,7 +961,7 @@
       "ID": 279963,
       "Title": "Dragon Shelter",
       "ReleaseDate": "2026-09-24",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8brx.jpg",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocz60.jpg",
       "StoreURL": "https://store.steampowered.com/app/2712590",
       "Metacritic": 0,
       "AddedCount": 7,
@@ -1430,7 +1430,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc77n.jpg",
       "StoreURL": "https://store.steampowered.com/app/3010850",
       "Metacritic": 0,
-      "AddedCount": 108,
+      "AddedCount": 109,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoft.jpg",
@@ -1916,7 +1916,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9uam.jpg",
       "StoreURL": "https://store.steampowered.com/app/3115160",
       "Metacritic": 0,
-      "AddedCount": 25,
+      "AddedCount": 26,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc101je.jpg",
@@ -2085,33 +2085,6 @@
       ]
     },
     {
-      "ID": 361830,
-      "Title": "He-Man and the Masters of the Universe: Dragon Pearl of Destruction",
-      "ReleaseDate": "2026-09-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaax5.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3749580",
-      "Metacritic": 0,
-      "AddedCount": 16,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7m.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7j.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7l.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7n.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7o.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7p.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7k.jpg"
-      ],
-      "Genres": [
-        "Hack and slash/Beat 'em up",
-        "Arcade"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 393015,
       "Title": "We Were Here Tomorrow",
       "ReleaseDate": "2026-10-20",
@@ -2130,6 +2103,33 @@
       "Genres": [
         "Puzzle",
         "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 361830,
+      "Title": "He-Man and the Masters of the Universe: Dragon Pearl of Destruction",
+      "ReleaseDate": "2026-09-30",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaax5.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3749580",
+      "Metacritic": 0,
+      "AddedCount": 15,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7m.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7j.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7l.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7n.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7o.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7p.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7k.jpg"
+      ],
+      "Genres": [
+        "Hack and slash/Beat 'em up",
+        "Arcade"
       ],
       "Tags": [],
       "Platforms": [
@@ -2307,18 +2307,18 @@
       "ID": 276028,
       "Title": "Paperhead",
       "ReleaseDate": "2026-10-09",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co914x.jpg",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocz72.jpg",
       "StoreURL": "https://store.steampowered.com/app/2680280",
       "Metacritic": 0,
       "AddedCount": 13,
       "Rating": 0.0,
       "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpg6k.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpg6l.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpg6j.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpg6g.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpg6h.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpg6i.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpg6j.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpg6k.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpg6l.jpg"
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpg6i.jpg"
       ],
       "Genres": [
         "Shooter",
@@ -2347,6 +2347,58 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12fxi.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12fxl.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12fxk.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 265267,
+      "Title": "Tom the Postgirl",
+      "ReleaseDate": "2026-10-29",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8bj6.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2257440",
+      "Metacritic": 0,
+      "AddedCount": 11,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scod5e.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scod5j.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scod59.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scod5b.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scod5o.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scod5r.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie",
+        "Visual Novel"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 310336,
+      "Title": "Nocturnal II",
+      "ReleaseDate": "2026-11-10",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9vk5.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2847780",
+      "Metacritic": 0,
+      "AddedCount": 10,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvvi4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11mdn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvvi6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvvi5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvvi7.jpg"
       ],
       "Genres": [
         "Adventure",
@@ -2703,59 +2755,6 @@
         "Puzzle",
         "Adventure",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 344466,
-      "Title": "Transport Fever 3",
-      "ReleaseDate": "2026-09-29",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9u3u.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3493540",
-      "Metacritic": 0,
-      "AddedCount": 7,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scww0j.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scww07.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scww0d.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scww0a.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scww0g.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scww0m.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Strategy"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 405102,
-      "Title": "Star Trek: Outposts Unknown",
-      "ReleaseDate": "2026-10-20",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc74n.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3469910",
-      "Metacritic": 0,
-      "AddedCount": 6,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13pad.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13pae.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13paf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13pag.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13pah.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13pai.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13paj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13pak.jpg"
-      ],
-      "Genres": [
-        "Strategy"
       ],
       "Tags": [],
       "Platforms": [
