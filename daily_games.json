@@ -36,9 +36,9 @@
       "ReleaseDate": "2026-09-24",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc64f.jpg",
       "StoreURL": "https://store.steampowered.com/app/3669870",
-      "Metacritic": 0,
+      "Metacritic": 82,
       "AddedCount": 242,
-      "Rating": 0.0,
+      "Rating": 82.20942260961112,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10td0.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10td1.jpg",
@@ -65,7 +65,7 @@
       "StoreURL": "https://store.steampowered.com/app/2638890",
       "Metacritic": 89,
       "AddedCount": 187,
-      "Rating": 89.10741912814044,
+      "Rating": 89.10200296912491,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus45.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus43.jpg",
@@ -89,9 +89,9 @@
       "ReleaseDate": "2026-09-24",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc5sw.jpg",
       "StoreURL": "https://store.steampowered.com/app/1636440",
-      "Metacritic": 0,
+      "Metacritic": 63,
       "AddedCount": 105,
-      "Rating": 0.0,
+      "Rating": 62.66457838090183,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjfq5.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x88.jpg",
@@ -117,9 +117,9 @@
       "ReleaseDate": "2026-09-16",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocce2.jpg",
       "StoreURL": "https://store.steampowered.com/app/4126040",
-      "Metacritic": 94,
+      "Metacritic": 88,
       "AddedCount": 56,
-      "Rating": 93.63636363636363,
+      "Rating": 88.22222222222223,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxmel.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxmem.jpg",
@@ -178,7 +178,7 @@
       "StoreURL": "https://store.steampowered.com/app/1867240",
       "Metacritic": 80,
       "AddedCount": 36,
-      "Rating": 80.16391493656926,
+      "Rating": 80.20949073533514,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11nmp.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11nmq.jpg",
@@ -741,32 +741,6 @@
         "Simulator",
         "Strategy",
         "Turn-based strategy (TBS)"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 121395,
-      "Title": "Wind Runners",
-      "ReleaseDate": "2026-09-23",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3n9b.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1101370",
-      "Metacritic": 0,
-      "AddedCount": 10,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc6z9z.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc6za0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc6z9y.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc6za1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc6za3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc6za2.jpg"
-      ],
-      "Genres": [
-        "Adventure",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -1393,6 +1367,32 @@
       "Platforms": [
         "pc"
       ]
+    },
+    {
+      "ID": 217549,
+      "Title": "Eagle Knight Paradox",
+      "ReleaseDate": "2026-09-21",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6eaf.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3008700",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyolp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyolq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyolt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyols.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyolr.jpg"
+      ],
+      "Genres": [
+        "Platform",
+        "Simulator",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
     }
   ],
   "Upcoming": [
@@ -1482,7 +1482,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaazc.jpg",
       "StoreURL": "https://store.steampowered.com/app/2828710",
       "Metacritic": 0,
-      "AddedCount": 82,
+      "AddedCount": 83,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym6w.jpg",
@@ -1561,44 +1561,13 @@
       ]
     },
     {
-      "ID": 305550,
-      "Title": "Acts of Blood",
-      "ReleaseDate": "2026-09-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc6oq.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3031890",
-      "Metacritic": 0,
-      "AddedCount": 57,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsv25.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsv26.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsv27.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsv2c.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsv2d.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsv2e.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsv2f.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsv2g.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsv2h.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsv2i.jpg"
-      ],
-      "Genres": [
-        "Fighting",
-        "Hack and slash/Beat 'em up",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 381247,
       "Title": "Ace Combat 8: Wings of Theve",
       "ReleaseDate": "2026-10-02",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0h1.jpg",
       "StoreURL": "https://store.steampowered.com/app/2288340",
       "Metacritic": 0,
-      "AddedCount": 54,
+      "AddedCount": 56,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tdv.jpg",
@@ -1625,7 +1594,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa5o9.jpg",
       "StoreURL": "https://store.steampowered.com/app/1551980",
       "Metacritic": 0,
-      "AddedCount": 54,
+      "AddedCount": 55,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy2xb.jpg",
@@ -1651,7 +1620,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocc6d.jpg",
       "StoreURL": "https://store.steampowered.com/app/1488490",
       "Metacritic": 0,
-      "AddedCount": 46,
+      "AddedCount": 47,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sch7cx.jpg",
@@ -1666,6 +1635,32 @@
         "Role-playing (RPG)",
         "Simulator",
         "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 403310,
+      "Title": "Call of Duty: Modern Warfare 4",
+      "ReleaseDate": "2026-10-23",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4mu.jpg",
+      "StoreURL": "https://store.steampowered.com/app/4435490",
+      "Metacritic": 0,
+      "AddedCount": 45,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3n.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3o.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3p.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3q.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3r.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3s.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3t.jpg"
+      ],
+      "Genres": [
+        "Shooter"
       ],
       "Tags": [],
       "Platforms": [
@@ -1697,39 +1692,13 @@
       ]
     },
     {
-      "ID": 403310,
-      "Title": "Call of Duty: Modern Warfare 4",
-      "ReleaseDate": "2026-10-23",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4mu.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4435490",
-      "Metacritic": 0,
-      "AddedCount": 44,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3n.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3o.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3p.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3q.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3r.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3s.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3t.jpg"
-      ],
-      "Genres": [
-        "Shooter"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 313597,
       "Title": "Silver Pines",
       "ReleaseDate": "2026-10-08",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaxvl.jpg",
       "StoreURL": "https://store.steampowered.com/app/2333000",
       "Metacritic": 0,
-      "AddedCount": 38,
+      "AddedCount": 39,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctn0w.jpg",
@@ -1949,16 +1918,16 @@
       "AddedCount": 24,
       "Rating": 0.0,
       "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12nhq.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12nhr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13psi.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13psj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13psk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13psh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12nhq.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12njn.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12njo.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12njp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13psb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13psg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13psc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13psd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13pse.jpg"
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13psb.jpg"
       ],
       "Genres": [
         "Role-playing (RPG)",
@@ -2103,33 +2072,6 @@
       "Genres": [
         "Puzzle",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 361830,
-      "Title": "He-Man and the Masters of the Universe: Dragon Pearl of Destruction",
-      "ReleaseDate": "2026-09-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaax5.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3749580",
-      "Metacritic": 0,
-      "AddedCount": 15,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7m.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7j.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7l.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7n.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7o.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7p.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym7k.jpg"
-      ],
-      "Genres": [
-        "Hack and slash/Beat 'em up",
-        "Arcade"
       ],
       "Tags": [],
       "Platforms": [
@@ -2594,6 +2536,32 @@
       ]
     },
     {
+      "ID": 344466,
+      "Title": "Transport Fever 3",
+      "ReleaseDate": "2026-09-29",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9u3u.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3493540",
+      "Metacritic": 0,
+      "AddedCount": 8,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scww0j.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scww07.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scww0d.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scww0a.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scww0g.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scww0m.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Strategy"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 289433,
       "Title": "Don't Fret",
       "ReleaseDate": "2026-10-01",
@@ -2754,6 +2722,35 @@
       "Genres": [
         "Puzzle",
         "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 341980,
+      "Title": "Demon Bluff",
+      "ReleaseDate": "2026-10-01",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobxv9.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3522600",
+      "Metacritic": 0,
+      "AddedCount": 7,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12zef.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12zeh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12zej.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12zec.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12zee.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12zed.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12zeg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12zei.jpg"
+      ],
+      "Genres": [
+        "Puzzle",
+        "Strategy",
         "Indie"
       ],
       "Tags": [],
