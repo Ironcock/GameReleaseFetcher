@@ -143,6 +143,34 @@
       ]
     },
     {
+      "ID": 203301,
+      "Title": "Nivalis Nights",
+      "ReleaseDate": "2026-09-29",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocc6d.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1488490",
+      "Metacritic": 0,
+      "AddedCount": 47,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sch7cx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sch7cy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sch7d1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sch7cz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sch7d2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sch7d3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sch7d0.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 322158,
       "Title": "Active Matter",
       "ReleaseDate": "2026-09-15",
@@ -274,6 +302,37 @@
         "Role-playing (RPG)",
         "Simulator",
         "Strategy"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 395525,
+      "Title": "Minecraft Dungeons II",
+      "ReleaseDate": "2026-09-29",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc75p.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1912410",
+      "Metacritic": 0,
+      "AddedCount": 26,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12nhr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13psi.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13psj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13psk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13psh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12nhq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12njn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12njo.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12njp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13psb.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Hack and slash/Beat 'em up",
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -774,6 +833,32 @@
       ]
     },
     {
+      "ID": 325182,
+      "Title": "Toem 2",
+      "ReleaseDate": "2026-09-29",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocn4a.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2900640",
+      "Metacritic": 0,
+      "AddedCount": 9,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuqff.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuqfg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuqfi.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuqfj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuqfh.jpg"
+      ],
+      "Genres": [
+        "Platform",
+        "Puzzle",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 145078,
       "Title": "Woodo",
       "ReleaseDate": "2026-09-16",
@@ -839,6 +924,32 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx5kn.jpg"
       ],
       "Genres": [
+        "Strategy"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 344466,
+      "Title": "Transport Fever 3",
+      "ReleaseDate": "2026-09-29",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9u3u.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3493540",
+      "Metacritic": 0,
+      "AddedCount": 8,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scww0j.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scww07.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scww0d.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scww0a.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scww0g.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scww0m.jpg"
+      ],
+      "Genres": [
+        "Simulator",
         "Strategy"
       ],
       "Tags": [],
@@ -1288,111 +1399,6 @@
       "Platforms": [
         "pc"
       ]
-    },
-    {
-      "ID": 265277,
-      "Title": "The Rabbit Haul",
-      "ReleaseDate": "2026-09-21",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coak4r.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2514330",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scod7e.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scod7j.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scod72.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scod76.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scod7b.jpg"
-      ],
-      "Genres": [
-        "Strategy",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 249202,
-      "Title": "Dimraeth",
-      "ReleaseDate": "2026-09-15",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocwem.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2402680",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz2de.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz2df.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz2dg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz2dh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz2di.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 239828,
-      "Title": "He Who Watches",
-      "ReleaseDate": "2026-09-02",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coct9m.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1070500",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sclj4s.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sclj4y.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sclj52.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sclj4o.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sclj4i.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sclj55.jpg"
-      ],
-      "Genres": [
-        "Puzzle",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 217549,
-      "Title": "Eagle Knight Paradox",
-      "ReleaseDate": "2026-09-21",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6eaf.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3008700",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyolp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyolq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyolt.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyols.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyolr.jpg"
-      ],
-      "Genres": [
-        "Platform",
-        "Simulator",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
     }
   ],
   "Upcoming": [
@@ -1458,7 +1464,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocrau.jpg",
       "StoreURL": "https://store.epicgames.com/p/8541c863a8c64e0aad48abd8ad3006cd",
       "Metacritic": 0,
-      "AddedCount": 90,
+      "AddedCount": 92,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxk45.jpg",
@@ -1614,26 +1620,22 @@
       ]
     },
     {
-      "ID": 203301,
-      "Title": "Nivalis Nights",
-      "ReleaseDate": "2026-09-29",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocc6d.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1488490",
+      "ID": 314449,
+      "Title": "Hela: Of Mice & Magic",
+      "ReleaseDate": "2026-12-01",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coax99.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3161310",
       "Metacritic": 0,
-      "AddedCount": 47,
+      "AddedCount": 46,
       "Rating": 0.0,
       "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sch7cx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sch7cy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sch7d1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sch7cz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sch7d2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sch7d3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sch7d0.jpg"
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctty4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctty5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctty6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctty7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctty8.jpg"
       ],
       "Genres": [
-        "Role-playing (RPG)",
-        "Simulator",
         "Adventure"
       ],
       "Tags": [],
@@ -1661,30 +1663,6 @@
       ],
       "Genres": [
         "Shooter"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 314449,
-      "Title": "Hela: Of Mice & Magic",
-      "ReleaseDate": "2026-12-01",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coax99.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3161310",
-      "Metacritic": 0,
-      "AddedCount": 45,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctty4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctty5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctty6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctty7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctty8.jpg"
-      ],
-      "Genres": [
-        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -1909,37 +1887,6 @@
       ]
     },
     {
-      "ID": 395525,
-      "Title": "Minecraft Dungeons II",
-      "ReleaseDate": "2026-09-29",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc75p.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1912410",
-      "Metacritic": 0,
-      "AddedCount": 24,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12nhr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13psi.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13psj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13psk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13psh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12nhq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12njn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12njo.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12njp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13psb.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Hack and slash/Beat 'em up",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 124209,
       "Title": "Shadow of the Road",
       "ReleaseDate": "2026-11-12",
@@ -2071,6 +2018,7 @@
       ],
       "Genres": [
         "Puzzle",
+        "Adventure",
         "Indie"
       ],
       "Tags": [],
@@ -2433,6 +2381,33 @@
       ]
     },
     {
+      "ID": 381077,
+      "Title": "Virtue and a Sledgehammer",
+      "ReleaseDate": "2026-10-27",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob00e.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3743260",
+      "Metacritic": 0,
+      "AddedCount": 9,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10sfi.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10sfk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10sfl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10sfm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10sfn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10sfg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10sfh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10sfj.jpg"
+      ],
+      "Genres": [
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 329692,
       "Title": "Am I Nima",
       "ReleaseDate": "2026-11-27",
@@ -2448,32 +2423,6 @@
         "Point-and-click",
         "Adventure",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 325182,
-      "Title": "Toem 2",
-      "ReleaseDate": "2026-09-29",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocn4a.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2900640",
-      "Metacritic": 0,
-      "AddedCount": 9,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuqff.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuqfg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuqfi.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuqfj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuqfh.jpg"
-      ],
-      "Genres": [
-        "Platform",
-        "Puzzle",
-        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -2502,59 +2451,6 @@
         "Platform",
         "Puzzle",
         "Role-playing (RPG)"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 381077,
-      "Title": "Virtue and a Sledgehammer",
-      "ReleaseDate": "2026-10-27",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob00e.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3743260",
-      "Metacritic": 0,
-      "AddedCount": 8,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10sfi.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10sfk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10sfl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10sfm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10sfn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10sfg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10sfh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10sfj.jpg"
-      ],
-      "Genres": [
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 344466,
-      "Title": "Transport Fever 3",
-      "ReleaseDate": "2026-09-29",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9u3u.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3493540",
-      "Metacritic": 0,
-      "AddedCount": 8,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scww0j.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scww07.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scww0d.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scww0a.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scww0g.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scww0m.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Strategy"
       ],
       "Tags": [],
       "Platforms": [
@@ -2704,6 +2600,34 @@
       ]
     },
     {
+      "ID": 378896,
+      "Title": "Lost Host",
+      "ReleaseDate": "2026-11-04",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob3bs.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3273260",
+      "Metacritic": 0,
+      "AddedCount": 7,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ihw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ihy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ihz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ihv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10iht.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ihu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ii0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ihx.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 347898,
       "Title": "Hope in the City",
       "ReleaseDate": "2026-11-10",
@@ -2752,6 +2676,85 @@
         "Puzzle",
         "Strategy",
         "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 405102,
+      "Title": "Star Trek: Outposts Unknown",
+      "ReleaseDate": "2026-10-20",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc74n.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3469910",
+      "Metacritic": 0,
+      "AddedCount": 6,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13pad.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13pae.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13paf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13pag.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13pah.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13pai.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13paj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13pak.jpg"
+      ],
+      "Genres": [
+        "Strategy"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 403174,
+      "Title": "Dragon Quest Monsters: The Withered World",
+      "ReleaseDate": "2026-12-03",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coctri.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3681610",
+      "Metacritic": 0,
+      "AddedCount": 6,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13qsm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13qsh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13qsi.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13qsj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13qsk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13qsl.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 394023,
+      "Title": "Cozy Game Restoration",
+      "ReleaseDate": "2026-11-04",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobsd7.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3581230",
+      "Metacritic": 0,
+      "AddedCount": 6,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12j3t.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12j3u.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12j3v.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12j3w.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12j3x.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12j3y.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12j3s.jpg"
+      ],
+      "Genres": [
+        "Simulator"
       ],
       "Tags": [],
       "Platforms": [
