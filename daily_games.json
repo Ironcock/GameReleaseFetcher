@@ -1,44 +1,14 @@
 {
   "NewReleases": [
     {
-      "ID": 282831,
-      "Title": "The Blood of Dawnwalker",
-      "ReleaseDate": "2026-09-03",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob7ym.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3751260",
-      "Metacritic": 70,
-      "AddedCount": 272,
-      "Rating": 69.88876885244295,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14p31.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14p2y.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14p2z.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14p32.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14p3c.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14p3d.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv1hd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv1id.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv1hb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv1hc.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 225582,
       "Title": "Control Resonant",
       "ReleaseDate": "2026-09-24",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc64f.jpg",
       "StoreURL": "https://store.steampowered.com/app/3669870",
-      "Metacritic": 85,
+      "Metacritic": 86,
       "AddedCount": 242,
-      "Rating": 85.18157855828206,
+      "Rating": 85.63712659437451,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10td0.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10td1.jpg",
@@ -91,7 +61,7 @@
       "StoreURL": "https://store.steampowered.com/app/1636440",
       "Metacritic": 70,
       "AddedCount": 105,
-      "Rating": 69.71208323421506,
+      "Rating": 69.68267192121145,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjfq5.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x88.jpg",
@@ -142,7 +112,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0h1.jpg",
       "StoreURL": "https://store.steampowered.com/app/2288340",
       "Metacritic": 0,
-      "AddedCount": 57,
+      "AddedCount": 58,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tdv.jpg",
@@ -341,16 +311,16 @@
       "AddedCount": 26,
       "Rating": 0.0,
       "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12nhr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15f23.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15f27.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15f22.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15f24.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15f25.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13psi.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13psj.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13psk.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13psh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12nhq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12njn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12njo.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12njp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13psb.jpg"
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15h9y.jpg"
       ],
       "Genres": [
         "Role-playing (RPG)",
@@ -1226,35 +1196,6 @@
       ]
     },
     {
-      "ID": 404905,
-      "Title": "BioEden",
-      "ReleaseDate": "2026-09-03",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc6vl.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3265840",
-      "Metacritic": 0,
-      "AddedCount": 6,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13oj8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13oj9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13oja.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ojb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ojc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ojd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13oje.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ojf.jpg"
-      ],
-      "Genres": [
-        "Real Time Strategy (RTS)",
-        "Simulator",
-        "Strategy"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 393036,
       "Title": "Sprawl Zero",
       "ReleaseDate": "2026-09-08",
@@ -1298,35 +1239,6 @@
       "Genres": [
         "Adventure",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 339614,
-      "Title": "SpeedRunners 2: King of Speed",
-      "ReleaseDate": "2026-09-03",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9nld.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3183760",
-      "Metacritic": 0,
-      "AddedCount": 6,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw8fk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw8ff.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw8fe.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw8fi.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw8fh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw8fj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw8fd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw8fg.jpg"
-      ],
-      "Genres": [
-        "Fighting",
-        "Racing",
-        "Sport"
       ],
       "Tags": [],
       "Platforms": [
@@ -1384,6 +1296,90 @@
       "Platforms": [
         "pc"
       ]
+    },
+    {
+      "ID": 277846,
+      "Title": "EVE Vanguard",
+      "ReleaseDate": "2026-09-30",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cociud.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1872800",
+      "Metacritic": 0,
+      "AddedCount": 6,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw8cp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw8cq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw8cw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw8cy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw8co.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw8cv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz1w4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz1w5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw8cs.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw8ct.jpg"
+      ],
+      "Genres": [
+        "Shooter",
+        "Strategy",
+        "Tactical"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 190422,
+      "Title": "Demon Spore",
+      "ReleaseDate": "2026-09-30",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8tf2.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1808160",
+      "Metacritic": 0,
+      "AddedCount": 6,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scfoph.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scfopi.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scfopj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scfopk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scfopl.jpg"
+      ],
+      "Genres": [
+        "Shooter",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 388448,
+      "Title": "Another Eden Begins",
+      "ReleaseDate": "2026-09-17",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobfte.jpg",
+      "StoreURL": "https://store.steampowered.com/app/4163960",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11mmk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11m2v.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11m2w.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11m2x.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11m2y.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11m2z.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11mml.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11mmm.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
     }
   ],
   "Upcoming": [
@@ -1394,7 +1390,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cococe.jpg",
       "StoreURL": "https://store.steampowered.com/app/4115450",
       "Metacritic": 0,
-      "AddedCount": 212,
+      "AddedCount": 215,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmngq.jpg",
@@ -1421,7 +1417,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc77n.jpg",
       "StoreURL": "https://store.steampowered.com/app/3010850",
       "Metacritic": 0,
-      "AddedCount": 111,
+      "AddedCount": 112,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoft.jpg",
@@ -1503,7 +1499,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocrky.jpg",
       "StoreURL": "https://store.steampowered.com/app/4231820",
       "Metacritic": 0,
-      "AddedCount": 71,
+      "AddedCount": 72,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x74.jpg",
@@ -1720,16 +1716,16 @@
       "AddedCount": 39,
       "Rating": 0.0,
       "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15i3g.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctn0w.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctn0v.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ytp.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ytm.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ytn.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ytr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ytt.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10yto.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ytl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ytq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10yts.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ytt.jpg"
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ytl.jpg"
       ],
       "Genres": [
         "Adventure",
@@ -2341,36 +2337,6 @@
       ]
     },
     {
-      "ID": 369997,
-      "Title": "Chronoscript: The Endless End",
-      "ReleaseDate": "2026-12-31",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coajy0.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4018380",
-      "Metacritic": 0,
-      "AddedCount": 17,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczcpo.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczcpp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczcpn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczcpq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczcps.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczcpv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczcpr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczcpt.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczcpu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczcpm.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 340334,
       "Title": "Dreadmoor",
       "ReleaseDate": "2026-12-31",
@@ -2761,6 +2727,30 @@
       "Genres": [
         "Adventure",
         "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 368311,
+      "Title": "Arkheron",
+      "ReleaseDate": "2026-12-31",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaioi.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3333850",
+      "Metacritic": 0,
+      "AddedCount": 13,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz7aq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz7au.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz7as.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz7at.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz7ar.jpg"
+      ],
+      "Genres": [
+        "Tactical"
       ],
       "Tags": [],
       "Platforms": [
