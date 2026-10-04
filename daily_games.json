@@ -6,9 +6,9 @@
       "ReleaseDate": "2026-09-24",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc64f.jpg",
       "StoreURL": "https://store.steampowered.com/app/3669870",
-      "Metacritic": 86,
+      "Metacritic": 85,
       "AddedCount": 242,
-      "Rating": 85.63712659437451,
+      "Rating": 84.53758503036414,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10td0.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10td1.jpg",
@@ -16,32 +16,6 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10td3.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tcz.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuxut.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Hack and slash/Beat 'em up",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 325602,
-      "Title": "Onimusha: Way of the Sword",
-      "ReleaseDate": "2026-09-04",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocdt3.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2638890",
-      "Metacritic": 89,
-      "AddedCount": 187,
-      "Rating": 89.09227009925714,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus45.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus43.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus47.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus44.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scus46.jpg"
       ],
       "Genres": [
         "Role-playing (RPG)",
@@ -1147,6 +1121,33 @@
       ]
     },
     {
+      "ID": 314419,
+      "Title": "Mars Attracts",
+      "ReleaseDate": "2026-09-24",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8ppt.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2760580",
+      "Metacritic": 0,
+      "AddedCount": 7,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoy0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoxy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoy1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoy2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoy4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoxz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoy3.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Strategy"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 279963,
       "Title": "Dragon Shelter",
       "ReleaseDate": "2026-09-24",
@@ -1163,7 +1164,8 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpw79.jpg"
       ],
       "Genres": [
-        "Simulator"
+        "Simulator",
+        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -1354,27 +1356,25 @@
       ]
     },
     {
-      "ID": 388448,
-      "Title": "Another Eden Begins",
-      "ReleaseDate": "2026-09-17",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobfte.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4163960",
+      "ID": 396079,
+      "Title": "Cohen 1939",
+      "ReleaseDate": "2026-09-30",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobtyl.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3582120",
       "Metacritic": 0,
       "AddedCount": 5,
       "Rating": 0.0,
       "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11mmk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11m2v.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11m2w.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11m2x.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11m2y.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11m2z.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11mml.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11mmm.jpg"
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12pq5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12pq6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12pq7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12pq8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12pq9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12pqa.jpg"
       ],
       "Genres": [
-        "Role-playing (RPG)",
-        "Adventure"
+        "Adventure",
+        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -1417,7 +1417,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc77n.jpg",
       "StoreURL": "https://store.steampowered.com/app/3010850",
       "Metacritic": 0,
-      "AddedCount": 112,
+      "AddedCount": 113,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoft.jpg",
@@ -1445,7 +1445,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaazc.jpg",
       "StoreURL": "https://store.steampowered.com/app/2828710",
       "Metacritic": 0,
-      "AddedCount": 83,
+      "AddedCount": 84,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym6w.jpg",
@@ -1606,6 +1606,32 @@
       ]
     },
     {
+      "ID": 403310,
+      "Title": "Call of Duty: Modern Warfare 4",
+      "ReleaseDate": "2026-10-23",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4mu.jpg",
+      "StoreURL": "https://store.steampowered.com/app/4435490",
+      "Metacritic": 0,
+      "AddedCount": 46,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3n.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3o.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3p.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3q.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3r.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3s.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3t.jpg"
+      ],
+      "Genres": [
+        "Shooter"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 314449,
       "Title": "Hela: Of Mice & Magic",
       "ReleaseDate": "2026-12-01",
@@ -1623,32 +1649,6 @@
       ],
       "Genres": [
         "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 403310,
-      "Title": "Call of Duty: Modern Warfare 4",
-      "ReleaseDate": "2026-10-23",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4mu.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4435490",
-      "Metacritic": 0,
-      "AddedCount": 45,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3n.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3o.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3p.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3q.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3r.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3s.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3t.jpg"
-      ],
-      "Genres": [
-        "Shooter"
       ],
       "Tags": [],
       "Platforms": [
@@ -1843,7 +1843,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc954.jpg",
       "StoreURL": "https://store.steampowered.com/app/499170",
       "Metacritic": 0,
-      "AddedCount": 29,
+      "AddedCount": 30,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tc3.jpg",
@@ -2337,6 +2337,35 @@
       ]
     },
     {
+      "ID": 408607,
+      "Title": "Guns of Eschaton",
+      "ReleaseDate": "2026-12-31",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocrqy.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3734220",
+      "Metacritic": 0,
+      "AddedCount": 17,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc144nh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc144na.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc144nb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc144nc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc144nd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc144ne.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc144nf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc144ng.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc144ni.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc144nj.jpg"
+      ],
+      "Genres": [
+        "Shooter"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 340334,
       "Title": "Dreadmoor",
       "ReleaseDate": "2026-12-31",
@@ -2416,35 +2445,6 @@
       "Genres": [
         "Adventure",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 408607,
-      "Title": "Guns of Eschaton",
-      "ReleaseDate": "2026-12-31",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocrqy.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3734220",
-      "Metacritic": 0,
-      "AddedCount": 16,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc144nh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc144na.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc144nb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc144nc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc144nd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc144ne.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc144nf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc144ng.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc144ni.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc144nj.jpg"
-      ],
-      "Genres": [
-        "Shooter"
       ],
       "Tags": [],
       "Platforms": [
