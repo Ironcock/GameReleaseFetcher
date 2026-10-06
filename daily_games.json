@@ -8,7 +8,7 @@
       "StoreURL": "https://store.steampowered.com/app/3669870",
       "Metacritic": 80,
       "AddedCount": 242,
-      "Rating": 79.65646538818623,
+      "Rating": 79.70298306567584,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10td0.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10td1.jpg",
@@ -28,6 +28,34 @@
       ]
     },
     {
+      "ID": 305160,
+      "Title": "Gears of War: E-Day",
+      "ReleaseDate": "2026-10-06",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc77n.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3010850",
+      "Metacritic": 0,
+      "AddedCount": 115,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoft.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsofq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsofu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsofx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsofs.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsofw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsofr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsofv.jpg"
+      ],
+      "Genres": [
+        "Shooter",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 222342,
       "Title": "Silent Hill: Townfall",
       "ReleaseDate": "2026-09-24",
@@ -35,7 +63,7 @@
       "StoreURL": "https://store.steampowered.com/app/1636440",
       "Metacritic": 70,
       "AddedCount": 105,
-      "Rating": 69.69804290362417,
+      "Rating": 69.68361603935313,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjfq5.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x88.jpg",
@@ -72,6 +100,32 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxk47.jpg"
       ],
       "Genres": [
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 381248,
+      "Title": "Star Wars: Galactic Racer",
+      "ReleaseDate": "2026-10-06",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobihx.jpg",
+      "StoreURL": "https://store.steampowered.com/app/4078430",
+      "Metacritic": 0,
+      "AddedCount": 81,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10te0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tdy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tdz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10te1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10te2.jpg"
+      ],
+      "Genres": [
+        "Racing",
+        "Sport",
         "Adventure"
       ],
       "Tags": [],
@@ -201,7 +255,7 @@
       "StoreURL": "https://store.steampowered.com/app/1867240",
       "Metacritic": 80,
       "AddedCount": 36,
-      "Rating": 80.25544962840411,
+      "Rating": 80.25471024615715,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11nmp.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11nmq.jpg",
@@ -230,9 +284,9 @@
       "ReleaseDate": "2026-09-08",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc6x4.jpg",
       "StoreURL": "https://store.steampowered.com/app/3219630",
-      "Metacritic": 0,
+      "Metacritic": 62,
       "AddedCount": 34,
-      "Rating": 0.0,
+      "Rating": 61.6010498687664,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn6z.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn6y.jpg",
@@ -281,9 +335,9 @@
       "ReleaseDate": "2026-09-29",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc75p.jpg",
       "StoreURL": "https://store.steampowered.com/app/1912410",
-      "Metacritic": 0,
+      "Metacritic": 71,
       "AddedCount": 26,
-      "Rating": 0.0,
+      "Rating": 71.12299401781864,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15f23.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15f27.jpg",
@@ -714,7 +768,7 @@
     },
     {
       "ID": 231488,
-      "Title": "RetroSpace",
+      "Title": "Retrospace",
       "ReleaseDate": "2026-10-01",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod15a.jpg",
       "StoreURL": "https://store.steampowered.com/app/2067820",
@@ -1329,63 +1383,12 @@
       "Platforms": [
         "pc"
       ]
-    },
-    {
-      "ID": 190422,
-      "Title": "Demon Spore",
-      "ReleaseDate": "2026-09-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8tf2.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1808160",
-      "Metacritic": 0,
-      "AddedCount": 6,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scfoph.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scfopi.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scfopj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scfopk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scfopl.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 396079,
-      "Title": "Cohen 1939",
-      "ReleaseDate": "2026-09-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobtyl.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3582120",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12pq5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12pq6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12pq7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12pq8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12pq9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12pqa.jpg"
-      ],
-      "Genres": [
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
     }
   ],
   "Upcoming": [
     {
       "ID": 250618,
-      "Title": "Phantom Blade 0",
+      "Title": "Phantom Blade Zero",
       "ReleaseDate": "2026-10-29",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cococe.jpg",
       "StoreURL": "https://store.steampowered.com/app/4115450",
@@ -1403,34 +1406,6 @@
       "Genres": [
         "Role-playing (RPG)",
         "Hack and slash/Beat 'em up",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 305160,
-      "Title": "Gears of War: E-Day",
-      "ReleaseDate": "2026-10-06",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc77n.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3010850",
-      "Metacritic": 0,
-      "AddedCount": 114,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoft.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsofq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsofu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsofx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsofs.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsofw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsofr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsofv.jpg"
-      ],
-      "Genres": [
-        "Shooter",
         "Adventure"
       ],
       "Tags": [],
@@ -1467,39 +1442,13 @@
       ]
     },
     {
-      "ID": 381248,
-      "Title": "Star Wars: Galactic Racer",
-      "ReleaseDate": "2026-10-06",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobihx.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4078430",
-      "Metacritic": 0,
-      "AddedCount": 81,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10te0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tdy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tdz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10te1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10te2.jpg"
-      ],
-      "Genres": [
-        "Racing",
-        "Sport",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 389434,
       "Title": "Castlevania: Belmont's Curse",
       "ReleaseDate": "2026-10-15",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocrky.jpg",
       "StoreURL": "https://store.steampowered.com/app/4231820",
       "Metacritic": 0,
-      "AddedCount": 72,
+      "AddedCount": 73,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x74.jpg",
@@ -1586,7 +1535,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa5o9.jpg",
       "StoreURL": "https://store.steampowered.com/app/1551980",
       "Metacritic": 0,
-      "AddedCount": 56,
+      "AddedCount": 58,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy2xb.jpg",
@@ -1612,7 +1561,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4mu.jpg",
       "StoreURL": "https://store.steampowered.com/app/4435490",
       "Metacritic": 0,
-      "AddedCount": 48,
+      "AddedCount": 50,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3n.jpg",
@@ -2056,6 +2005,32 @@
       ]
     },
     {
+      "ID": 336164,
+      "Title": "Dark Mass",
+      "ReleaseDate": "2026-12-31",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9k1k.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1879940",
+      "Metacritic": 0,
+      "AddedCount": 23,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw00y.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw00z.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw010.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw011.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw012.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 152268,
       "Title": "SacriFire",
       "ReleaseDate": "2026-12-31",
@@ -2075,32 +2050,6 @@
       ],
       "Genres": [
         "Role-playing (RPG)",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 336164,
-      "Title": "Dark Mass",
-      "ReleaseDate": "2026-12-31",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9k1k.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1879940",
-      "Metacritic": 0,
-      "AddedCount": 22,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw00y.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw00z.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw010.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw011.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw012.jpg"
-      ],
-      "Genres": [
-        "Simulator",
         "Adventure",
         "Indie"
       ],
@@ -2751,6 +2700,63 @@
       ],
       "Genres": [
         "Tactical"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 321054,
+      "Title": "Animal Use Protocol",
+      "ReleaseDate": "2026-12-31",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8zro.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2591790",
+      "Metacritic": 0,
+      "AddedCount": 13,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuc6p.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuc6q.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuc6r.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuc6s.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuc6t.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuc6u.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuc6v.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 317817,
+      "Title": "Tanuki: Pon's Summer",
+      "ReleaseDate": "2026-12-31",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8uyz.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3218570",
+      "Metacritic": 0,
+      "AddedCount": 13,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0i5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0i9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0ib.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0ig.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0id.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0ii.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0if.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0i7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0ie.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0i6.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Indie"
       ],
       "Tags": [],
       "Platforms": [
