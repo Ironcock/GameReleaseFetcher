@@ -8,7 +8,7 @@
       "StoreURL": "https://store.steampowered.com/app/3669870",
       "Metacritic": 80,
       "AddedCount": 242,
-      "Rating": 79.70298306567584,
+      "Rating": 79.74096810344494,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10td0.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10td1.jpg",
@@ -63,7 +63,7 @@
       "StoreURL": "https://store.steampowered.com/app/1636440",
       "Metacritic": 70,
       "AddedCount": 105,
-      "Rating": 69.68361603935313,
+      "Rating": 69.68455455625742,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjfq5.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x88.jpg",
@@ -484,9 +484,9 @@
       "ReleaseDate": "2026-09-22",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa8qh.jpg",
       "StoreURL": "https://store.steampowered.com/app/3699590",
-      "Metacritic": 0,
+      "Metacritic": 80,
       "AddedCount": 17,
-      "Rating": 0.0,
+      "Rating": 79.82911489408541,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyfuv.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyfv1.jpg",
@@ -767,6 +767,30 @@
       ]
     },
     {
+      "ID": 315689,
+      "Title": "Spam",
+      "ReleaseDate": "2026-10-07",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocuxe.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2902720",
+      "Metacritic": 0,
+      "AddedCount": 10,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15is7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15is8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15is9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15isa.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15isb.jpg"
+      ],
+      "Genres": [
+        "Card & Board Game"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 231488,
       "Title": "Retrospace",
       "ReleaseDate": "2026-10-01",
@@ -801,7 +825,7 @@
       "ID": 333095,
       "Title": "OpenFront",
       "ReleaseDate": "2026-09-17",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9g7r.jpg",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod23e.jpg",
       "StoreURL": "https://store.steampowered.com/app/3560670",
       "Metacritic": 0,
       "AddedCount": 9,
@@ -816,7 +840,8 @@
       ],
       "Genres": [
         "Real Time Strategy (RTS)",
-        "Indie"
+        "Simulator",
+        "Strategy"
       ],
       "Tags": [],
       "Platforms": [
@@ -1352,37 +1377,6 @@
       "Platforms": [
         "pc"
       ]
-    },
-    {
-      "ID": 277846,
-      "Title": "EVE Vanguard",
-      "ReleaseDate": "2026-09-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cociud.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1872800",
-      "Metacritic": 0,
-      "AddedCount": 6,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw8cp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw8cq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw8cw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw8cy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw8co.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw8cv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz1w4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz1w5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw8cs.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scw8ct.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Strategy",
-        "Tactical"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
     }
   ],
   "Upcoming": [
@@ -1448,7 +1442,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocrky.jpg",
       "StoreURL": "https://store.steampowered.com/app/4231820",
       "Metacritic": 0,
-      "AddedCount": 73,
+      "AddedCount": 75,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x74.jpg",
@@ -1535,7 +1529,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa5o9.jpg",
       "StoreURL": "https://store.steampowered.com/app/1551980",
       "Metacritic": 0,
-      "AddedCount": 58,
+      "AddedCount": 60,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scy2xb.jpg",
@@ -1561,7 +1555,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4mu.jpg",
       "StoreURL": "https://store.steampowered.com/app/4435490",
       "Metacritic": 0,
-      "AddedCount": 50,
+      "AddedCount": 49,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3n.jpg",
@@ -1587,7 +1581,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coax99.jpg",
       "StoreURL": "https://store.steampowered.com/app/3161310",
       "Metacritic": 0,
-      "AddedCount": 46,
+      "AddedCount": 47,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctty4.jpg",
@@ -2059,6 +2053,35 @@
       ]
     },
     {
+      "ID": 348205,
+      "Title": "At Fate's End",
+      "ReleaseDate": "2026-12-31",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xwy.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2210150",
+      "Metacritic": 0,
+      "AddedCount": 22,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbbk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbbh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbbi.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbbj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbbl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbbm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbbn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbbf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbbg.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 330566,
       "Title": "Liminal Point",
       "ReleaseDate": "2026-12-31",
@@ -2141,35 +2164,6 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10t9q.jpg"
       ],
       "Genres": [
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 348205,
-      "Title": "At Fate's End",
-      "ReleaseDate": "2026-12-31",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xwy.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2210150",
-      "Metacritic": 0,
-      "AddedCount": 21,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbbk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbbh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbbi.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbbj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbbl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbbm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbbn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbbf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxbbg.jpg"
-      ],
-      "Genres": [
-        "Adventure",
         "Indie"
       ],
       "Tags": [],
@@ -2431,6 +2425,34 @@
       ]
     },
     {
+      "ID": 402959,
+      "Title": "Planet Zoo 2",
+      "ReleaseDate": "2026-10-13",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc5at.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3219030",
+      "Metacritic": 0,
+      "AddedCount": 15,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ij5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13iiy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13iiz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ij0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ij1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ij2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ij3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ij4.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Strategy"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 393015,
       "Title": "We Were Here Tomorrow",
       "ReleaseDate": "2026-10-20",
@@ -2509,34 +2531,6 @@
       ],
       "Genres": [
         "Hack and slash/Beat 'em up"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 402959,
-      "Title": "Planet Zoo 2",
-      "ReleaseDate": "2026-10-13",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc5at.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3219030",
-      "Metacritic": 0,
-      "AddedCount": 14,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ij5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13iiy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13iiz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ij0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ij1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ij2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ij3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ij4.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Strategy"
       ],
       "Tags": [],
       "Platforms": [
