@@ -8,7 +8,7 @@
       "StoreURL": "https://store.steampowered.com/app/3669870",
       "Metacritic": 80,
       "AddedCount": 242,
-      "Rating": 79.89266209357717,
+      "Rating": 80.06038335210002,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10td0.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10td1.jpg",
@@ -809,6 +809,8 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15isb.jpg"
       ],
       "Genres": [
+        "Role-playing (RPG)",
+        "Strategy",
         "Card & Board Game"
       ],
       "Tags": [],
@@ -901,34 +903,6 @@
       ]
     },
     {
-      "ID": 215773,
-      "Title": "Lucid",
-      "ReleaseDate": "2026-09-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co87mw.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1717730",
-      "Metacritic": 0,
-      "AddedCount": 9,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scin3s.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scin3t.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scin3n.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scin3o.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scin3p.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scin3q.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scin3r.jpg"
-      ],
-      "Genres": [
-        "Platform",
-        "Puzzle",
-        "Role-playing (RPG)"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 145078,
       "Title": "Woodo",
       "ReleaseDate": "2026-09-16",
@@ -997,31 +971,6 @@
       "Genres": [
         "Simulator",
         "Strategy"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 289433,
-      "Title": "Don't Fret",
-      "ReleaseDate": "2026-10-01",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc6xj.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2716830",
-      "Metacritic": 0,
-      "AddedCount": 8,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqwgh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqwgi.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqwgd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqwgf.jpg"
-      ],
-      "Genres": [
-        "Music",
-        "Adventure",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -1380,6 +1329,61 @@
       "Platforms": [
         "pc"
       ]
+    },
+    {
+      "ID": 383138,
+      "Title": "Farming Camp",
+      "ReleaseDate": "2026-09-24",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coba9t.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2985880",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1113v.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1113w.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1113x.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1113y.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11140.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11141.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11142.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11143.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11144.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14o0c.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 345195,
+      "Title": "Gravebound",
+      "ReleaseDate": "2026-09-22",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocyh9.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3613050",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15bjd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15bje.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15bjg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15bja.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15bjb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15bjc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15bjf.jpg"
+      ],
+      "Genres": [],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
     }
   ],
   "Upcoming": [
@@ -1417,7 +1421,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaazc.jpg",
       "StoreURL": "https://store.steampowered.com/app/2828710",
       "Metacritic": 0,
-      "AddedCount": 85,
+      "AddedCount": 86,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym6w.jpg",
@@ -1532,7 +1536,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4mu.jpg",
       "StoreURL": "https://store.steampowered.com/app/4435490",
       "Metacritic": 0,
-      "AddedCount": 49,
+      "AddedCount": 50,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3n.jpg",
