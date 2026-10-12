@@ -6,9 +6,9 @@
       "ReleaseDate": "2026-09-24",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc64f.jpg",
       "StoreURL": "https://store.steampowered.com/app/3669870",
-      "Metacritic": 80,
+      "Metacritic": 78,
       "AddedCount": 242,
-      "Rating": 80.06038335210002,
+      "Rating": 77.74120061212878,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10td0.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10td1.jpg",
@@ -610,7 +610,12 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sca9il.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sca9ii.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sca9ij.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sca9ik.jpg"
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sca9ik.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15i4k.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15i4o.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15i4i.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15i4h.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15i4j.jpg"
       ],
       "Genres": [
         "Adventure",
@@ -924,27 +929,6 @@
         "Puzzle",
         "Adventure",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 412303,
-      "Title": "Luduvo",
-      "ReleaseDate": "2026-09-12",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocmfu.jpg",
-      "StoreURL": "",
-      "Metacritic": 0,
-      "AddedCount": 8,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14k4w.jpg"
-      ],
-      "Genres": [
-        "Platform",
-        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -1362,6 +1346,35 @@
       ]
     },
     {
+      "ID": 375578,
+      "Title": "Battleplan",
+      "ReleaseDate": "2026-10-12",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coat76.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3743140",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc108r9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc108ra.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc108rb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc108rc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc108rd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc108re.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc108rf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc108rg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc108rh.jpg"
+      ],
+      "Genres": [
+        "Real Time Strategy (RTS)",
+        "Strategy"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 345195,
       "Title": "Gravebound",
       "ReleaseDate": "2026-09-22",
@@ -1449,7 +1462,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocrky.jpg",
       "StoreURL": "https://store.steampowered.com/app/4231820",
       "Metacritic": 0,
-      "AddedCount": 75,
+      "AddedCount": 76,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x74.jpg",
@@ -2070,7 +2083,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0e2.jpg",
       "StoreURL": "",
       "Metacritic": 0,
-      "AddedCount": 21,
+      "AddedCount": 20,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10t9h.jpg",
@@ -2109,7 +2122,8 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scviu9.jpg"
       ],
       "Genres": [
-        "Role-playing (RPG)"
+        "Role-playing (RPG)",
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -2488,6 +2502,33 @@
       ]
     },
     {
+      "ID": 321054,
+      "Title": "Animal Use Protocol",
+      "ReleaseDate": "2026-12-31",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8zro.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2591790",
+      "Metacritic": 0,
+      "AddedCount": 14,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuc6p.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuc6q.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuc6r.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuc6s.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuc6t.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuc6u.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuc6v.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 382400,
       "Title": "Trees Hate You",
       "ReleaseDate": "2026-11-16",
@@ -2513,6 +2554,32 @@
       ]
     },
     {
+      "ID": 376145,
+      "Title": "Warhammer Survivors",
+      "ReleaseDate": "2026-11-10",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coasoa.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3669620",
+      "Metacritic": 0,
+      "AddedCount": 13,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc106mp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc106mq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc106mu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc106mr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc106mt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc106ms.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 368311,
       "Title": "Arkheron",
       "ReleaseDate": "2026-12-31",
@@ -2530,33 +2597,6 @@
       ],
       "Genres": [
         "Tactical"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 321054,
-      "Title": "Animal Use Protocol",
-      "ReleaseDate": "2026-12-31",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8zro.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2591790",
-      "Metacritic": 0,
-      "AddedCount": 13,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuc6p.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuc6q.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuc6r.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuc6s.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuc6t.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuc6u.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuc6v.jpg"
-      ],
-      "Genres": [
-        "Adventure",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -2646,32 +2686,6 @@
       "Genres": [
         "Role-playing (RPG)",
         "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 376145,
-      "Title": "Warhammer Survivors",
-      "ReleaseDate": "2026-11-10",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coasoa.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3669620",
-      "Metacritic": 0,
-      "AddedCount": 12,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc106mp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc106mq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc106mu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc106mr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc106mt.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc106ms.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
         "Indie"
       ],
       "Tags": [],
