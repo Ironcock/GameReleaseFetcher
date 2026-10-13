@@ -108,6 +108,34 @@
       ]
     },
     {
+      "ID": 361833,
+      "Title": "Valor Mortis",
+      "ReleaseDate": "2026-10-13",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaazc.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2828710",
+      "Metacritic": 0,
+      "AddedCount": 88,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym6w.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym6x.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym6y.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym6z.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym70.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym71.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym72.jpg"
+      ],
+      "Genres": [
+        "Shooter",
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 381248,
       "Title": "Star Wars: Galactic Racer",
       "ReleaseDate": "2026-10-06",
@@ -139,9 +167,9 @@
       "ReleaseDate": "2026-10-08",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa5o9.jpg",
       "StoreURL": "https://store.steampowered.com/app/1551980",
-      "Metacritic": 0,
+      "Metacritic": 90,
       "AddedCount": 61,
-      "Rating": 0.0,
+      "Rating": 89.59242713034044,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15h7u.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15h80.jpg",
@@ -371,9 +399,9 @@
       "ReleaseDate": "2026-09-29",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc75p.jpg",
       "StoreURL": "https://store.steampowered.com/app/1912410",
-      "Metacritic": 71,
+      "Metacritic": 72,
       "AddedCount": 26,
-      "Rating": 71.3625947054092,
+      "Rating": 71.56995295240986,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15f23.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15f27.jpg",
@@ -505,6 +533,34 @@
         "Platform",
         "Role-playing (RPG)",
         "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 402959,
+      "Title": "Planet Zoo 2",
+      "ReleaseDate": "2026-10-13",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc5at.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3219030",
+      "Metacritic": 0,
+      "AddedCount": 15,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ij5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13iiy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13iiz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ij0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ij1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ij2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ij3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ij4.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Strategy"
       ],
       "Tags": [],
       "Platforms": [
@@ -817,6 +873,37 @@
         "Role-playing (RPG)",
         "Strategy",
         "Card & Board Game"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 298680,
+      "Title": "Deep Dish Dungeon",
+      "ReleaseDate": "2026-10-13",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9fh8.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2871520",
+      "Metacritic": 0,
+      "AddedCount": 10,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scs1ns.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scs1nt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scs1nv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scs1nx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scs1nz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scs1o1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scs1o2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scs1o3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scs1o4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scs1o6.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -1313,90 +1400,6 @@
       "Platforms": [
         "pc"
       ]
-    },
-    {
-      "ID": 383138,
-      "Title": "Farming Camp",
-      "ReleaseDate": "2026-09-24",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coba9t.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2985880",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1113v.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1113w.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1113x.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1113y.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11140.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11141.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11142.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11143.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11144.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14o0c.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Simulator",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 375578,
-      "Title": "Battleplan",
-      "ReleaseDate": "2026-10-12",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coat76.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3743140",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc108r9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc108ra.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc108rb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc108rc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc108rd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc108re.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc108rf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc108rg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc108rh.jpg"
-      ],
-      "Genres": [
-        "Real Time Strategy (RTS)",
-        "Strategy"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 345195,
-      "Title": "Gravebound",
-      "ReleaseDate": "2026-09-22",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocyh9.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3613050",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15bjd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15bje.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15bjg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15bja.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15bjb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15bjc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15bjf.jpg"
-      ],
-      "Genres": [],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
     }
   ],
   "Upcoming": [
@@ -1407,7 +1410,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cococe.jpg",
       "StoreURL": "https://store.steampowered.com/app/4115450",
       "Metacritic": 0,
-      "AddedCount": 215,
+      "AddedCount": 216,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmngq.jpg",
@@ -1428,41 +1431,13 @@
       ]
     },
     {
-      "ID": 361833,
-      "Title": "Valor Mortis",
-      "ReleaseDate": "2026-10-13",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaazc.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2828710",
-      "Metacritic": 0,
-      "AddedCount": 86,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym6w.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym6x.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym6y.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym6z.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym70.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym71.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym72.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Role-playing (RPG)",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 389434,
       "Title": "Castlevania: Belmont's Curse",
       "ReleaseDate": "2026-10-15",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocrky.jpg",
       "StoreURL": "https://store.steampowered.com/app/4231820",
       "Metacritic": 0,
-      "AddedCount": 76,
+      "AddedCount": 78,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x74.jpg",
@@ -1988,6 +1963,36 @@
       ]
     },
     {
+      "ID": 330566,
+      "Title": "Liminal Point",
+      "ReleaseDate": "2026-12-31",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9d3n.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3299920",
+      "Metacritic": 0,
+      "AddedCount": 23,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv9i6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv9ia.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv9ib.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv9i3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv9ic.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv9id.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv9i5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv9i8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv9i4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv9i7.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 152268,
       "Title": "SacriFire",
       "ReleaseDate": "2026-12-31",
@@ -2007,36 +2012,6 @@
       ],
       "Genres": [
         "Role-playing (RPG)",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 330566,
-      "Title": "Liminal Point",
-      "ReleaseDate": "2026-12-31",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9d3n.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3299920",
-      "Metacritic": 0,
-      "AddedCount": 22,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv9i6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv9ia.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv9ib.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv9i3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv9ic.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv9id.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv9i5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv9i8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv9i4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scv9i7.jpg"
-      ],
-      "Genres": [
         "Adventure",
         "Indie"
       ],
@@ -2112,7 +2087,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9gem.jpg",
       "StoreURL": "https://store.steampowered.com/app/2738170",
       "Metacritic": 0,
-      "AddedCount": 19,
+      "AddedCount": 20,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scviub.jpg",
@@ -2324,34 +2299,6 @@
       "Genres": [
         "Adventure",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 402959,
-      "Title": "Planet Zoo 2",
-      "ReleaseDate": "2026-10-13",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc5at.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3219030",
-      "Metacritic": 0,
-      "AddedCount": 15,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ij5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13iiy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13iiz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ij0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ij1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ij2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ij3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ij4.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Strategy"
       ],
       "Tags": [],
       "Platforms": [
@@ -2766,6 +2713,62 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsowc.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsow9.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsowb.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 361053,
+      "Title": "The Road of Dust and Sorrow",
+      "ReleaseDate": "2026-12-03",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob3pt.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3895110",
+      "Metacritic": 0,
+      "AddedCount": 11,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyjx7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyjx8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyjx9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyjxa.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyjxb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyjxc.jpg"
+      ],
+      "Genres": [
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 285768,
+      "Title": "Lost Hellden",
+      "ReleaseDate": "2026-12-31",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod4is.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2355020",
+      "Metacritic": 0,
+      "AddedCount": 11,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqgqh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqgqi.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqgqc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqgqd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqgqe.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqgqg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqgqf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqgqb.jpg"
       ],
       "Genres": [
         "Role-playing (RPG)",
