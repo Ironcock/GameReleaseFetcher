@@ -8,7 +8,7 @@
       "StoreURL": "https://store.steampowered.com/app/3669870",
       "Metacritic": 78,
       "AddedCount": 242,
-      "Rating": 77.74120061212878,
+      "Rating": 77.75042063391285,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10td0.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10td1.jpg",
@@ -35,7 +35,7 @@
       "StoreURL": "https://store.steampowered.com/app/3010850",
       "Metacritic": 83,
       "AddedCount": 115,
-      "Rating": 82.85633806139379,
+      "Rating": 82.82738648714783,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoft.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsofq.jpg",
@@ -129,6 +129,37 @@
         "Shooter",
         "Role-playing (RPG)",
         "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 389434,
+      "Title": "Castlevania: Belmont's Curse",
+      "ReleaseDate": "2026-10-15",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod4r0.jpg",
+      "StoreURL": "https://store.steampowered.com/app/4231820",
+      "Metacritic": 0,
+      "AddedCount": 81,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x74.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x75.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x76.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x77.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x78.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x6z.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x70.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x71.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x72.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x73.jpg"
+      ],
+      "Genres": [
+        "Platform",
+        "Role-playing (RPG)",
+        "Hack and slash/Beat 'em up"
       ],
       "Tags": [],
       "Platforms": [
@@ -307,34 +338,6 @@
       ]
     },
     {
-      "ID": 322158,
-      "Title": "Active Matter",
-      "ReleaseDate": "2026-09-15",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocv7g.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2887580",
-      "Metacritic": 0,
-      "AddedCount": 39,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scufvh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scufvn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scufvi.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scufvm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scufvl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scufvj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scufvk.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Simulator",
-        "Tactical"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 381222,
       "Title": "Order of the Sinking Star",
       "ReleaseDate": "2026-10-08",
@@ -455,22 +458,20 @@
       "ID": 344669,
       "Title": "Warhammer 40,000: Boltgun 2",
       "ReleaseDate": "2026-10-14",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9uam.jpg",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod57o.jpg",
       "StoreURL": "https://store.steampowered.com/app/3115160",
       "Metacritic": 0,
       "AddedCount": 26,
       "Rating": 0.0,
       "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc101je.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc101jf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc101jn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13b01.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13b02.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13b03.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13b04.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13b05.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13b06.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13b07.jpg"
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15u6m.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15u6l.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15u6k.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15u6i.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15u6j.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15u6n.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15u6o.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15u6p.jpg"
       ],
       "Genres": [
         "Shooter",
@@ -561,6 +562,28 @@
       "Genres": [
         "Adventure",
         "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 259339,
+      "Title": "Ratatan",
+      "ReleaseDate": "2026-10-15",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob22x.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2949320",
+      "Metacritic": 0,
+      "AddedCount": 18,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scno5i.jpg"
+      ],
+      "Genres": [
+        "Music",
+        "Role-playing (RPG)",
+        "Strategy"
       ],
       "Tags": [],
       "Platforms": [
@@ -819,37 +842,6 @@
       ],
       "Genres": [
         "Shooter",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 309862,
-      "Title": "TCG Card Shop Simulator",
-      "ReleaseDate": "2026-09-15",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8o8l.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3070070",
-      "Metacritic": 78,
-      "AddedCount": 12,
-      "Rating": 78.29259675728028,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct6re.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct6rm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct6ro.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct6r9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct6rb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct6ra.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct6rc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct6rn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct6rf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct6rg.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Strategy",
         "Indie"
       ],
       "Tags": [],
@@ -1414,7 +1406,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cococe.jpg",
       "StoreURL": "https://store.steampowered.com/app/4115450",
       "Metacritic": 0,
-      "AddedCount": 215,
+      "AddedCount": 219,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmngq.jpg",
@@ -1428,37 +1420,6 @@
         "Role-playing (RPG)",
         "Hack and slash/Beat 'em up",
         "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 389434,
-      "Title": "Castlevania: Belmont's Curse",
-      "ReleaseDate": "2026-10-15",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocrky.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4231820",
-      "Metacritic": 0,
-      "AddedCount": 80,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x74.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x75.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x76.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x77.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x78.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x6z.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x70.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x71.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x72.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x73.jpg"
-      ],
-      "Genres": [
-        "Platform",
-        "Role-playing (RPG)",
-        "Hack and slash/Beat 'em up"
       ],
       "Tags": [],
       "Platforms": [
@@ -1575,6 +1536,26 @@
       ]
     },
     {
+      "ID": 372154,
+      "Title": "Bellum",
+      "ReleaseDate": "2026-12-31",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coan5y.jpg",
+      "StoreURL": "",
+      "Metacritic": 0,
+      "AddedCount": 42,
+      "Rating": 0.0,
+      "ShortScreenshots": [],
+      "Genres": [
+        "Shooter",
+        "Strategy",
+        "Tactical"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 186613,
       "Title": "Showa American Story",
       "ReleaseDate": "2026-12-31",
@@ -1599,26 +1580,6 @@
         "Role-playing (RPG)",
         "Adventure",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 372154,
-      "Title": "Bellum",
-      "ReleaseDate": "2026-12-31",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coan5y.jpg",
-      "StoreURL": "",
-      "Metacritic": 0,
-      "AddedCount": 40,
-      "Rating": 0.0,
-      "ShortScreenshots": [],
-      "Genres": [
-        "Shooter",
-        "Strategy",
-        "Tactical"
       ],
       "Tags": [],
       "Platforms": [
@@ -2772,6 +2733,31 @@
       ],
       "Genres": [
         "Platform",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 310336,
+      "Title": "Nocturnal II",
+      "ReleaseDate": "2026-11-10",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9vk5.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2847780",
+      "Metacritic": 0,
+      "AddedCount": 10,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvvi4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11mdn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvvi6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvvi5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvvi7.jpg"
+      ],
+      "Genres": [
+        "Adventure",
         "Indie"
       ],
       "Tags": [],
