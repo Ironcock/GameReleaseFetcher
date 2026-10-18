@@ -8,7 +8,7 @@
       "StoreURL": "https://store.steampowered.com/app/3669870",
       "Metacritic": 78,
       "AddedCount": 242,
-      "Rating": 77.74663516281781,
+      "Rating": 77.81859920311972,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10td0.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10td1.jpg",
@@ -35,7 +35,7 @@
       "StoreURL": "https://store.steampowered.com/app/3010850",
       "Metacritic": 83,
       "AddedCount": 115,
-      "Rating": 82.82738648714783,
+      "Rating": 82.86528034423021,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoft.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsofq.jpg",
@@ -200,7 +200,7 @@
       "StoreURL": "https://store.steampowered.com/app/1551980",
       "Metacritic": 89,
       "AddedCount": 61,
-      "Rating": 89.49720796350435,
+      "Rating": 89.38179079323176,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15h7u.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15h80.jpg",
@@ -426,9 +426,9 @@
       "ReleaseDate": "2026-09-29",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc75p.jpg",
       "StoreURL": "https://store.steampowered.com/app/1912410",
-      "Metacritic": 72,
+      "Metacritic": 73,
       "AddedCount": 26,
-      "Rating": 71.56995295240986,
+      "Rating": 72.61000887288222,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15f23.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15f27.jpg",
@@ -1538,13 +1538,44 @@
       ]
     },
     {
+      "ID": 305550,
+      "Title": "Acts of Blood",
+      "ReleaseDate": "2026-12-04",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc6oq.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3031890",
+      "Metacritic": 0,
+      "AddedCount": 58,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsv25.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsv26.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsv27.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsv2i.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsv2c.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsv2d.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsv2e.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsv2f.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsv2g.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsv2h.jpg"
+      ],
+      "Genres": [
+        "Fighting",
+        "Hack and slash/Beat 'em up",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 403310,
       "Title": "Call of Duty: Modern Warfare 4",
       "ReleaseDate": "2026-10-23",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4mu.jpg",
       "StoreURL": "https://store.steampowered.com/app/4435490",
       "Metacritic": 0,
-      "AddedCount": 51,
+      "AddedCount": 52,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3n.jpg",
@@ -2566,6 +2597,37 @@
       ]
     },
     {
+      "ID": 380440,
+      "Title": "Inkblood",
+      "ReleaseDate": "2026-12-31",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coay9l.jpg",
+      "StoreURL": "https://store.steampowered.com/app/4114100",
+      "Metacritic": 0,
+      "AddedCount": 11,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxo.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxs.jpg"
+      ],
+      "Genres": [
+        "Point-and-click",
+        "Puzzle",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 361053,
       "Title": "The Road of Dust and Sorrow",
       "ReleaseDate": "2026-12-03",
@@ -2649,37 +2711,6 @@
       ]
     },
     {
-      "ID": 380440,
-      "Title": "Inkblood",
-      "ReleaseDate": "2026-12-31",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coay9l.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4114100",
-      "Metacritic": 0,
-      "AddedCount": 10,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxo.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxs.jpg"
-      ],
-      "Genres": [
-        "Point-and-click",
-        "Puzzle",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 370711,
       "Title": "Parasite Mutant",
       "ReleaseDate": "2026-12-31",
@@ -2728,34 +2759,6 @@
       ],
       "Genres": [
         "Strategy",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 314420,
-      "Title": "Croak",
-      "ReleaseDate": "2026-12-31",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8pqa.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2616540",
-      "Metacritic": 0,
-      "AddedCount": 10,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoxc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoxd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoxf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoxg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoxb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoxh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoxe.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoxi.jpg"
-      ],
-      "Genres": [
-        "Platform",
         "Indie"
       ],
       "Tags": [],
