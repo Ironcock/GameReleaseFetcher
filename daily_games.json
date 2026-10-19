@@ -172,9 +172,9 @@
       "ReleaseDate": "2026-10-06",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobihx.jpg",
       "StoreURL": "https://store.steampowered.com/app/4078430",
-      "Metacritic": 0,
+      "Metacritic": 87,
       "AddedCount": 81,
-      "Rating": 0.0,
+      "Rating": 86.73469387755102,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10te0.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tdy.jpg",
@@ -200,7 +200,7 @@
       "StoreURL": "https://store.steampowered.com/app/1551980",
       "Metacritic": 89,
       "AddedCount": 61,
-      "Rating": 89.38179079323176,
+      "Rating": 89.35196163970856,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15h7u.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15h80.jpg",
@@ -1113,6 +1113,36 @@
       ]
     },
     {
+      "ID": 340570,
+      "Title": "Nomad Drive",
+      "ReleaseDate": "2026-09-30",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc9al.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2223980",
+      "Metacritic": 0,
+      "AddedCount": 6,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd50.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd51.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd52.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd53.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd55.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd56.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd54.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd57.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd58.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 277846,
       "Title": "EVE Vanguard",
       "ReleaseDate": "2026-09-30",
@@ -1281,36 +1311,6 @@
       ]
     },
     {
-      "ID": 340570,
-      "Title": "Nomad Drive",
-      "ReleaseDate": "2026-09-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc9al.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2223980",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd50.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd51.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd52.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd53.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd55.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd56.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd54.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd57.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd58.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 316943,
       "Title": "BloomTale",
       "ReleaseDate": "2026-10-01",
@@ -1400,7 +1400,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cococe.jpg",
       "StoreURL": "https://store.steampowered.com/app/4115450",
       "Metacritic": 0,
-      "AddedCount": 219,
+      "AddedCount": 220,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmngq.jpg",
@@ -1427,7 +1427,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobu6l.jpg",
       "StoreURL": "https://store.steampowered.com/app/4260840",
       "Metacritic": 0,
-      "AddedCount": 114,
+      "AddedCount": 116,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ujs.jpg",
@@ -1575,7 +1575,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4mu.jpg",
       "StoreURL": "https://store.steampowered.com/app/4435490",
       "Metacritic": 0,
-      "AddedCount": 52,
+      "AddedCount": 53,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3n.jpg",
@@ -2212,33 +2212,6 @@
       ]
     },
     {
-      "ID": 335684,
-      "Title": "Phase Zero",
-      "ReleaseDate": "2026-12-31",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocanl.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3462190",
-      "Metacritic": 0,
-      "AddedCount": 17,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvrbb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvrbc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvrb9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvrba.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvrbd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvrbe.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvrbf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvrbg.jpg"
-      ],
-      "Genres": [
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 393015,
       "Title": "We Were Here Tomorrow",
       "ReleaseDate": "2026-10-20",
@@ -2759,6 +2732,34 @@
       ],
       "Genres": [
         "Strategy",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 314420,
+      "Title": "Croak",
+      "ReleaseDate": "2026-12-31",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8pqa.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2616540",
+      "Metacritic": 0,
+      "AddedCount": 10,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoxc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoxd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoxf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoxg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoxb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoxh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoxe.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoxi.jpg"
+      ],
+      "Genres": [
+        "Platform",
         "Indie"
       ],
       "Tags": [],
