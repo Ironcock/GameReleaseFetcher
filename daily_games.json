@@ -8,7 +8,7 @@
       "StoreURL": "https://store.steampowered.com/app/3669870",
       "Metacritic": 78,
       "AddedCount": 242,
-      "Rating": 77.81859920311972,
+      "Rating": 77.8383893932945,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10td0.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10td1.jpg",
@@ -63,7 +63,7 @@
       "StoreURL": "https://store.steampowered.com/app/1636440",
       "Metacritic": 73,
       "AddedCount": 105,
-      "Rating": 73.08741366943056,
+      "Rating": 73.09171815131494,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjfq5.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x88.jpg",
@@ -564,7 +564,7 @@
       "StoreURL": "https://store.steampowered.com/app/3699590",
       "Metacritic": 80,
       "AddedCount": 17,
-      "Rating": 79.82911489408541,
+      "Rating": 79.82942661802254,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyfuv.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyfv1.jpg",
@@ -607,6 +607,32 @@
       "Genres": [
         "Simulator",
         "Strategy"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 393015,
+      "Title": "We Were Here Tomorrow",
+      "ReleaseDate": "2026-10-20",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobwi7.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2315050",
+      "Metacritic": 0,
+      "AddedCount": 15,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12et4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12et5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12et6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12et2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12et3.jpg"
+      ],
+      "Genres": [
+        "Puzzle",
+        "Adventure",
+        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -984,6 +1010,31 @@
       ]
     },
     {
+      "ID": 342011,
+      "Title": "Mycopunk",
+      "ReleaseDate": "2026-10-20",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9qrc.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3247750",
+      "Metacritic": 0,
+      "AddedCount": 7,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwlxv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwlxw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwlxx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwlxy.jpg"
+      ],
+      "Genres": [
+        "Shooter",
+        "Tactical",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 314419,
       "Title": "Mars Attracts",
       "ReleaseDate": "2026-09-24",
@@ -1067,9 +1118,9 @@
       "ReleaseDate": "2026-09-25",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coclf3.jpg",
       "StoreURL": "https://store.steampowered.com/app/4080220",
-      "Metacritic": 0,
+      "Metacritic": 32,
       "AddedCount": 6,
-      "Rating": 0.0,
+      "Rating": 31.55245603395997,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14etq.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14etr.jpg",
@@ -1087,10 +1138,37 @@
       ]
     },
     {
+      "ID": 405102,
+      "Title": "Star Trek: Outposts Unknown",
+      "ReleaseDate": "2026-10-20",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc74n.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3469910",
+      "Metacritic": 0,
+      "AddedCount": 6,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13pad.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13pae.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13paf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13pag.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13pah.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13pai.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13paj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13pak.jpg"
+      ],
+      "Genres": [
+        "Strategy"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 354409,
       "Title": "Penguin Colony",
       "ReleaseDate": "2026-10-16",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa483.jpg",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod6o5.jpg",
       "StoreURL": "https://store.steampowered.com/app/3695930",
       "Metacritic": 0,
       "AddedCount": 6,
@@ -1167,6 +1245,33 @@
         "Shooter",
         "Strategy",
         "Tactical"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 265390,
+      "Title": "Blue Ridge Hunting",
+      "ReleaseDate": "2026-10-20",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9qkv.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2434930",
+      "Metacritic": 0,
+      "AddedCount": 6,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwlcp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwlcq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwlcr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwlcs.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwlct.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwlcu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwlcv.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -1280,111 +1385,6 @@
       "Genres": [
         "Real Time Strategy (RTS)",
         "Strategy"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 345195,
-      "Title": "Gravebound",
-      "ReleaseDate": "2026-09-22",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocyh9.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3613050",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15bjd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15bje.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15bjg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15bja.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15bjb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15bjc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15bjf.jpg"
-      ],
-      "Genres": [],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 316943,
-      "Title": "BloomTale",
-      "ReleaseDate": "2026-10-01",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8toy.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3168520",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctxgz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctxh0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctxh1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctxgw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14r01.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14r02.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14qzz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14r00.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14r05.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14r06.jpg"
-      ],
-      "Genres": [
-        "Point-and-click",
-        "Simulator"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 303382,
-      "Title": "Burn With Me",
-      "ReleaseDate": "2026-10-12",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4t8.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2954010",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13imy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13imx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13imu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13imv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13imt.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13imw.jpg"
-      ],
-      "Genres": [
-        "Puzzle",
-        "Strategy",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 290107,
-      "Title": "Echo Weaver",
-      "ReleaseDate": "2026-10-08",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod3qs.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2184080",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqzsb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqzsc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqzsd.jpg"
-      ],
-      "Genres": [
-        "Platform",
-        "Puzzle",
-        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -1575,7 +1575,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4mu.jpg",
       "StoreURL": "https://store.steampowered.com/app/4435490",
       "Metacritic": 0,
-      "AddedCount": 53,
+      "AddedCount": 55,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3n.jpg",
@@ -1805,7 +1805,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8xgc.jpg",
       "StoreURL": "https://store.steampowered.com/app/3218230",
       "Metacritic": 0,
-      "AddedCount": 31,
+      "AddedCount": 32,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu5gu.jpg",
@@ -2212,32 +2212,6 @@
       ]
     },
     {
-      "ID": 393015,
-      "Title": "We Were Here Tomorrow",
-      "ReleaseDate": "2026-10-20",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobwi7.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2315050",
-      "Metacritic": 0,
-      "AddedCount": 15,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12et4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12et5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12et6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12et2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12et3.jpg"
-      ],
-      "Genres": [
-        "Puzzle",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 380410,
       "Title": "About Fishing",
       "ReleaseDate": "2026-12-31",
@@ -2486,6 +2460,64 @@
       ]
     },
     {
+      "ID": 380440,
+      "Title": "Inkblood",
+      "ReleaseDate": "2026-12-31",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coay9l.jpg",
+      "StoreURL": "https://store.steampowered.com/app/4114100",
+      "Metacritic": 0,
+      "AddedCount": 12,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxo.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxs.jpg"
+      ],
+      "Genres": [
+        "Point-and-click",
+        "Puzzle",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 361053,
+      "Title": "The Road of Dust and Sorrow",
+      "ReleaseDate": "2026-12-03",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob3pt.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3895110",
+      "Metacritic": 0,
+      "AddedCount": 12,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyjx7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyjx8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyjx9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyjxa.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyjxb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyjxc.jpg"
+      ],
+      "Genres": [
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 360263,
       "Title": "Casualties: Unknown",
       "ReleaseDate": "2026-12-31",
@@ -2542,6 +2574,33 @@
       ]
     },
     {
+      "ID": 265267,
+      "Title": "Tom the Postgirl",
+      "ReleaseDate": "2026-10-29",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8bj6.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2257440",
+      "Metacritic": 0,
+      "AddedCount": 12,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scod5e.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scod5j.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scod59.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scod5b.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scod5o.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scod5r.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie",
+        "Visual Novel"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 120387,
       "Title": "Last Moon",
       "ReleaseDate": "2026-12-31",
@@ -2561,64 +2620,6 @@
       ],
       "Genres": [
         "Role-playing (RPG)",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 380440,
-      "Title": "Inkblood",
-      "ReleaseDate": "2026-12-31",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coay9l.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4114100",
-      "Metacritic": 0,
-      "AddedCount": 11,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxo.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxs.jpg"
-      ],
-      "Genres": [
-        "Point-and-click",
-        "Puzzle",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 361053,
-      "Title": "The Road of Dust and Sorrow",
-      "ReleaseDate": "2026-12-03",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob3pt.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3895110",
-      "Metacritic": 0,
-      "AddedCount": 11,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyjx7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyjx8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyjx9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyjxa.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyjxb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyjxc.jpg"
-      ],
-      "Genres": [
-        "Puzzle",
         "Adventure",
         "Indie"
       ],
@@ -2657,26 +2658,30 @@
       ]
     },
     {
-      "ID": 265267,
-      "Title": "Tom the Postgirl",
-      "ReleaseDate": "2026-10-29",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8bj6.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2257440",
+      "ID": 252349,
+      "Title": "Toxic Crusaders",
+      "ReleaseDate": "2026-12-31",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6lgy.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2303850",
       "Metacritic": 0,
       "AddedCount": 11,
       "Rating": 0.0,
       "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scod5e.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scod5j.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scod59.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scod5b.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scod5o.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scod5r.jpg"
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmv28.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmv2a.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmv2c.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmv2d.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmv2e.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmv2g.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmv2f.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmv2h.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmv29.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmv2b.jpg"
       ],
       "Genres": [
+        "Hack and slash/Beat 'em up",
         "Adventure",
-        "Indie",
-        "Visual Novel"
+        "Indie"
       ],
       "Tags": [],
       "Platforms": [
