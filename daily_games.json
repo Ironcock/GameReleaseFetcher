@@ -6,9 +6,9 @@
       "ReleaseDate": "2026-09-24",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc64f.jpg",
       "StoreURL": "https://store.steampowered.com/app/3669870",
-      "Metacritic": 78,
+      "Metacritic": 79,
       "AddedCount": 242,
-      "Rating": 77.8383893932945,
+      "Rating": 79.07126343177941,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10td0.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10td1.jpg",
@@ -506,6 +506,31 @@
       ]
     },
     {
+      "ID": 381212,
+      "Title": "Stupid Never Dies",
+      "ReleaseDate": "2026-10-21",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc8br.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3486530",
+      "Metacritic": 0,
+      "AddedCount": 24,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tbd.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tbe.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tbg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tbh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tbf.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 309799,
       "Title": "Truckful",
       "ReleaseDate": "2026-10-09",
@@ -812,33 +837,6 @@
       ]
     },
     {
-      "ID": 365465,
-      "Title": "Dressmaker",
-      "ReleaseDate": "2026-09-21",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocxtp.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4019220",
-      "Metacritic": 0,
-      "AddedCount": 11,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyxzx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyxzy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyxzz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyy00.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyy01.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyy03.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyy02.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 315689,
       "Title": "Spam",
       "ReleaseDate": "2026-10-07",
@@ -1035,6 +1033,36 @@
       ]
     },
     {
+      "ID": 340570,
+      "Title": "Nomad Drive",
+      "ReleaseDate": "2026-09-30",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc9al.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2223980",
+      "Metacritic": 0,
+      "AddedCount": 7,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd50.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd51.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd52.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd53.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd55.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd56.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd54.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd57.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd58.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 314419,
       "Title": "Mars Attracts",
       "ReleaseDate": "2026-09-24",
@@ -1182,36 +1210,6 @@
       ],
       "Genres": [
         "Platform",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 340570,
-      "Title": "Nomad Drive",
-      "ReleaseDate": "2026-09-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc9al.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2223980",
-      "Metacritic": 0,
-      "AddedCount": 6,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd50.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd51.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd52.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd53.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd55.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd56.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd54.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd57.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd58.jpg"
-      ],
-      "Genres": [
-        "Simulator",
         "Adventure",
         "Indie"
       ],
@@ -1538,6 +1536,32 @@
       ]
     },
     {
+      "ID": 403310,
+      "Title": "Call of Duty: Modern Warfare 4",
+      "ReleaseDate": "2026-10-23",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4mu.jpg",
+      "StoreURL": "https://store.steampowered.com/app/4435490",
+      "Metacritic": 0,
+      "AddedCount": 58,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3n.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3o.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3p.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3q.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3r.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3s.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3t.jpg"
+      ],
+      "Genres": [
+        "Shooter"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 305550,
       "Title": "Acts of Blood",
       "ReleaseDate": "2026-12-04",
@@ -1562,32 +1586,6 @@
         "Fighting",
         "Hack and slash/Beat 'em up",
         "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 403310,
-      "Title": "Call of Duty: Modern Warfare 4",
-      "ReleaseDate": "2026-10-23",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4mu.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4435490",
-      "Metacritic": 0,
-      "AddedCount": 55,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3n.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3o.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3p.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3q.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3r.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3s.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3t.jpg"
-      ],
-      "Genres": [
-        "Shooter"
       ],
       "Tags": [],
       "Platforms": [
@@ -1772,6 +1770,33 @@
       ]
     },
     {
+      "ID": 317622,
+      "Title": "ArcheAge Chronicles",
+      "ReleaseDate": "2026-12-31",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8xgc.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3218230",
+      "Metacritic": 0,
+      "AddedCount": 33,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu5gu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu5gv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu5gw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu5gx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu5gy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu5gz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu5h0.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 381208,
       "Title": "TankRat",
       "ReleaseDate": "2027-01-15",
@@ -1791,33 +1816,6 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tam.jpg"
       ],
       "Genres": [
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 317622,
-      "Title": "ArcheAge Chronicles",
-      "ReleaseDate": "2026-12-31",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8xgc.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3218230",
-      "Metacritic": 0,
-      "AddedCount": 32,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu5gu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu5gv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu5gw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu5gx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu5gy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu5gz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu5h0.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
         "Adventure"
       ],
       "Tags": [],
@@ -1872,31 +1870,6 @@
       "Genres": [
         "Simulator",
         "Visual Novel"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 381212,
-      "Title": "Stupid Never Dies",
-      "ReleaseDate": "2026-10-21",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc8br.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3486530",
-      "Metacritic": 0,
-      "AddedCount": 25,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tbd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tbe.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tbg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tbh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tbf.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -2460,37 +2433,6 @@
       ]
     },
     {
-      "ID": 380440,
-      "Title": "Inkblood",
-      "ReleaseDate": "2026-12-31",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coay9l.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4114100",
-      "Metacritic": 0,
-      "AddedCount": 12,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxo.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10oxs.jpg"
-      ],
-      "Genres": [
-        "Point-and-click",
-        "Puzzle",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 361053,
       "Title": "The Road of Dust and Sorrow",
       "ReleaseDate": "2026-12-03",
@@ -2745,27 +2687,80 @@
       ]
     },
     {
-      "ID": 314420,
-      "Title": "Croak",
-      "ReleaseDate": "2026-12-31",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8pqa.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2616540",
+      "ID": 310336,
+      "Title": "Nocturnal II",
+      "ReleaseDate": "2026-11-10",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9vk5.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2847780",
       "Metacritic": 0,
       "AddedCount": 10,
       "Rating": 0.0,
       "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoxc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoxd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoxf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoxg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoxb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoxh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoxe.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoxi.jpg"
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvvi4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11mdn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvvi6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvvi5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scvvi7.jpg"
       ],
       "Genres": [
-        "Platform",
+        "Adventure",
         "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 305031,
+      "Title": "Petal Runner",
+      "ReleaseDate": "2026-12-31",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8bj0.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2795110",
+      "Metacritic": 0,
+      "AddedCount": 10,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnxq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnxu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsny0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnxy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsny2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnxs.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsny5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsnxw.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 252793,
+      "Title": "Surviving Deponia",
+      "ReleaseDate": "2026-12-31",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6lw1.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2464520",
+      "Metacritic": 0,
+      "AddedCount": 10,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwgx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwgv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwgz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwgt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwgw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwgu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwgy.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
