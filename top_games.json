@@ -652,7 +652,7 @@
       "StoreURL": "https://store.steampowered.com/app/271590",
       "Metacritic": 90,
       "AddedCount": 0,
-      "Rating": 89.63850151352483,
+      "Rating": 89.63850461275236,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/n3t2agwuxlqggp3kryf9.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10f91.jpg",
@@ -744,7 +744,7 @@
       "StoreURL": "https://store.steampowered.com/app/1145360",
       "Metacritic": 89,
       "AddedCount": 3,
-      "Rating": 89.43301585217955,
+      "Rating": 89.43305758204944,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8lik.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8lim.jpg",
@@ -913,7 +913,7 @@
       "StoreURL": "https://store.steampowered.com/app/2358720",
       "Metacritic": 89,
       "AddedCount": 180,
-      "Rating": 88.60673071318567,
+      "Rating": 88.60557447685727,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8i9c.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8i9d.jpg",
@@ -1247,7 +1247,7 @@
       "StoreURL": "https://store.steampowered.com/app/1205520",
       "Metacritic": 87,
       "AddedCount": 5,
-      "Rating": 87.3737468971153,
+      "Rating": 87.37411105009494,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sclwtv.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sclwtw.jpg",
@@ -1586,7 +1586,7 @@
       "StoreURL": "https://store.steampowered.com/app/33230",
       "Metacritic": 87,
       "AddedCount": 0,
-      "Rating": 86.71419628182278,
+      "Rating": 86.71388565136682,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/dxb4yiwyhvwehvsisy7a.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/zvhehvzfakxb7aob8j7m.jpg",
@@ -1611,7 +1611,7 @@
       "StoreURL": "https://store.steampowered.com/app/7670",
       "Metacritic": 87,
       "AddedCount": 1,
-      "Rating": 86.68702432719031,
+      "Rating": 86.68814234694507,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/usn4aw2k54ym8jcjbkmg.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/yg3j0yco50gq3wfcxujb.jpg",
@@ -1775,7 +1775,7 @@
       "StoreURL": "https://store.steampowered.com/app/52003",
       "Metacritic": 86,
       "AddedCount": 0,
-      "Rating": 86.40792081373021,
+      "Rating": 86.40794463875109,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/oycbiasvmiewjxncqlgd.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/gdgj7p0vo52jpwoxtm3v.jpg",
@@ -2053,7 +2053,7 @@
       "StoreURL": "https://store.steampowered.com/app/1462040",
       "Metacritic": 86,
       "AddedCount": 2,
-      "Rating": 85.98456153358767,
+      "Rating": 85.98384337009301,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc9382.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc9383.jpg",
@@ -2625,7 +2625,7 @@
       "StoreURL": "",
       "Metacritic": 85,
       "AddedCount": 0,
-      "Rating": 85.19484689795412,
+      "Rating": 85.19512646532067,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8d2z.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8d30.jpg",
@@ -2892,32 +2892,6 @@
         "Puzzle",
         "Role-playing (RPG)",
         "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 9898,
-      "Title": "Total War: Warhammer",
-      "ReleaseDate": "2016-05-24",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2rq0.jpg",
-      "StoreURL": "https://store.steampowered.com/app/364360",
-      "Metacritic": 85,
-      "AddedCount": 7,
-      "Rating": 84.88116686346365,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/acdizxsx0dw023jvwor3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/eehu4la3n780xcm12x1g.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/z4b20pr0vee0mta5j4us.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/ho0tpmlyybvvrjoyjqbl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/l8jgn8dibfdxdy53qa0j.jpg"
-      ],
-      "Genres": [
-        "Real Time Strategy (RTS)",
-        "Role-playing (RPG)",
-        "Strategy"
       ],
       "Tags": [],
       "Platforms": [
@@ -3298,6 +3272,32 @@
       "Genres": [
         "Hack and slash/Beat 'em up",
         "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 9898,
+      "Title": "Total War: Warhammer",
+      "ReleaseDate": "2016-05-24",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2rq0.jpg",
+      "StoreURL": "https://store.steampowered.com/app/364360",
+      "Metacritic": 84,
+      "AddedCount": 7,
+      "Rating": 84.43553747716189,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/acdizxsx0dw023jvwor3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/eehu4la3n780xcm12x1g.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/z4b20pr0vee0mta5j4us.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/ho0tpmlyybvvrjoyjqbl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/l8jgn8dibfdxdy53qa0j.jpg"
+      ],
+      "Genres": [
+        "Real Time Strategy (RTS)",
+        "Role-playing (RPG)",
+        "Strategy"
       ],
       "Tags": [],
       "Platforms": [
@@ -3882,7 +3882,7 @@
       "StoreURL": "https://store.steampowered.com/app/213670",
       "Metacritic": 84,
       "AddedCount": 16,
-      "Rating": 83.73844086134007,
+      "Rating": 83.73846032332047,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/bjwrnizsisnykyj2unls.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/vevt14vztlsidoewcrip.jpg",
@@ -4138,7 +4138,7 @@
       "StoreURL": "https://store.steampowered.com/app/12210",
       "Metacritic": 83,
       "AddedCount": 0,
-      "Rating": 83.48801621953893,
+      "Rating": 83.48802459825961,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/kpaqc6q3il0dtjhrdpcd.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/rfvuzw0pjfkxq1d820a4.jpg",

@@ -113,9 +113,9 @@
       "ReleaseDate": "2026-10-13",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaazc.jpg",
       "StoreURL": "https://store.steampowered.com/app/2828710",
-      "Metacritic": 0,
+      "Metacritic": 80,
       "AddedCount": 88,
-      "Rating": 0.0,
+      "Rating": 79.95023074834856,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym6w.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym6x.jpg",
@@ -200,7 +200,7 @@
       "StoreURL": "https://store.steampowered.com/app/1551980",
       "Metacritic": 89,
       "AddedCount": 61,
-      "Rating": 89.35196163970856,
+      "Rating": 89.37994121034878,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15h7u.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15h80.jpg",
@@ -367,7 +367,7 @@
       "ID": 216692,
       "Title": "Tenebris Somnia",
       "ReleaseDate": "2026-10-16",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocur0.jpg",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod754.jpg",
       "StoreURL": "https://store.steampowered.com/app/2121510",
       "Metacritic": 0,
       "AddedCount": 28,
@@ -385,35 +385,6 @@
       "Genres": [
         "Adventure",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 397817,
-      "Title": "Graveyard Keeper II",
-      "ReleaseDate": "2026-09-22",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobwhy.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4358690",
-      "Metacritic": 0,
-      "AddedCount": 27,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12xli.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12xlj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12xlk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12xll.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12xlm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12xln.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12xlo.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12xlp.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Simulator",
-        "Strategy"
       ],
       "Tags": [],
       "Platforms": [
@@ -472,32 +443,6 @@
       ],
       "Genres": [
         "Shooter",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 380416,
-      "Title": "Rivage",
-      "ReleaseDate": "2026-09-22",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coay6k.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4094660",
-      "Metacritic": 0,
-      "AddedCount": 25,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10osy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ot0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10osx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10osz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ot1.jpg"
-      ],
-      "Genres": [
-        "Puzzle",
-        "Adventure",
         "Indie"
       ],
       "Tags": [],
@@ -575,35 +520,6 @@
         "Music",
         "Role-playing (RPG)",
         "Strategy"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 360075,
-      "Title": "Well Dweller",
-      "ReleaseDate": "2026-09-22",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa8qh.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3699590",
-      "Metacritic": 80,
-      "AddedCount": 17,
-      "Rating": 79.82942661802254,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyfuv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyfv1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyfuy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyfv0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyfuw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyfux.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyfuu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyfuz.jpg"
-      ],
-      "Genres": [
-        "Platform",
-        "Role-playing (RPG)",
-        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -1388,6 +1304,87 @@
       "Platforms": [
         "pc"
       ]
+    },
+    {
+      "ID": 316943,
+      "Title": "BloomTale",
+      "ReleaseDate": "2026-10-01",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8toy.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3168520",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctxgz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctxh0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctxh1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctxgw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14r01.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14r02.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14qzz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14r00.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14r05.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14r06.jpg"
+      ],
+      "Genres": [
+        "Point-and-click",
+        "Simulator"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 303382,
+      "Title": "Burn With Me",
+      "ReleaseDate": "2026-10-12",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4t8.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2954010",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13imy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13imx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13imu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13imv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13imt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13imw.jpg"
+      ],
+      "Genres": [
+        "Puzzle",
+        "Strategy",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 290107,
+      "Title": "Echo Weaver",
+      "ReleaseDate": "2026-10-08",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod3qs.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2184080",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqzsb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqzsc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqzsd.jpg"
+      ],
+      "Genres": [
+        "Platform",
+        "Puzzle",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
     }
   ],
   "Upcoming": [
@@ -1542,7 +1539,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4mu.jpg",
       "StoreURL": "https://store.steampowered.com/app/4435490",
       "Metacritic": 0,
-      "AddedCount": 58,
+      "AddedCount": 59,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3n.jpg",
@@ -2299,6 +2296,36 @@
       ]
     },
     {
+      "ID": 317817,
+      "Title": "Tanuki: Pon's Summer",
+      "ReleaseDate": "2026-12-31",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8uyz.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3218570",
+      "Metacritic": 0,
+      "AddedCount": 14,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0i5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0i9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0ib.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0ig.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0id.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0ii.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0if.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0i7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0ie.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0i6.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 258775,
       "Title": "Queen's Domain",
       "ReleaseDate": "2026-10-30",
@@ -2371,7 +2398,8 @@
       ],
       "Genres": [
         "Role-playing (RPG)",
-        "Indie"
+        "Indie",
+        "Arcade"
       ],
       "Tags": [],
       "Platforms": [
@@ -2396,36 +2424,6 @@
       ],
       "Genres": [
         "Tactical"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 317817,
-      "Title": "Tanuki: Pon's Summer",
-      "ReleaseDate": "2026-12-31",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8uyz.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3218570",
-      "Metacritic": 0,
-      "AddedCount": 13,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0i5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0i9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0ib.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0ig.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0id.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0ii.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0if.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0i7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0ie.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0i6.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -2462,7 +2460,7 @@
     {
       "ID": 360263,
       "Title": "Casualties: Unknown",
-      "ReleaseDate": "2026-12-31",
+      "ReleaseDate": "2026-11-09",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocbi7.jpg",
       "StoreURL": "https://store.steampowered.com/app/4576490",
       "Metacritic": 0,
@@ -2516,21 +2514,45 @@
       ]
     },
     {
+      "ID": 279615,
+      "Title": "Usual June",
+      "ReleaseDate": "2027-01-20",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7h9e.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2702430",
+      "Metacritic": 0,
+      "AddedCount": 12,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpuyo.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpuyq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpuys.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpuyu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpuyw.jpg"
+      ],
+      "Genres": [
+        "Hack and slash/Beat 'em up"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 265267,
       "Title": "Tom the Postgirl",
       "ReleaseDate": "2026-10-29",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8bj6.jpg",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod73g.jpg",
       "StoreURL": "https://store.steampowered.com/app/2257440",
       "Metacritic": 0,
       "AddedCount": 12,
       "Rating": 0.0,
       "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scod5e.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scod5j.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scod59.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scod5b.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scod5o.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scod5r.jpg"
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc160y8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc160y7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc160y9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc160ya.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc160yb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc160y6.jpg"
       ],
       "Genres": [
         "Adventure",
@@ -2564,6 +2586,32 @@
         "Role-playing (RPG)",
         "Adventure",
         "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 370711,
+      "Title": "Parasite Mutant",
+      "ReleaseDate": "2026-12-31",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob2so.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3983000",
+      "Metacritic": 0,
+      "AddedCount": 11,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfrn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfro.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfrp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfrm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfrq.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -2624,32 +2672,6 @@
         "Hack and slash/Beat 'em up",
         "Adventure",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 370711,
-      "Title": "Parasite Mutant",
-      "ReleaseDate": "2026-12-31",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob2so.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3983000",
-      "Metacritic": 0,
-      "AddedCount": 10,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfrn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfro.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfrp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfrm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczfrq.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Strategy",
-        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -2732,34 +2754,6 @@
       ],
       "Genres": [
         "Role-playing (RPG)",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 252793,
-      "Title": "Surviving Deponia",
-      "ReleaseDate": "2026-12-31",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6lw1.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2464520",
-      "Metacritic": 0,
-      "AddedCount": 10,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwgx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwgv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwgz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwgt.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwgw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwgu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwgy.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Simulator",
         "Adventure"
       ],
       "Tags": [],
