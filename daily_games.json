@@ -1,33 +1,6 @@
 {
   "NewReleases": [
     {
-      "ID": 225582,
-      "Title": "Control Resonant",
-      "ReleaseDate": "2026-09-24",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc64f.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3669870",
-      "Metacritic": 79,
-      "AddedCount": 242,
-      "Rating": 79.07126343177941,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10td0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10td1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10td2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10td3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tcz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuxut.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Hack and slash/Beat 'em up",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 305160,
       "Title": "Gears of War: E-Day",
       "ReleaseDate": "2026-10-06",
@@ -35,7 +8,7 @@
       "StoreURL": "https://store.steampowered.com/app/3010850",
       "Metacritic": 83,
       "AddedCount": 115,
-      "Rating": 82.86528034423021,
+      "Rating": 82.66179914593835,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoft.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsofq.jpg",
@@ -48,34 +21,6 @@
       ],
       "Genres": [
         "Shooter",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 222342,
-      "Title": "Silent Hill: Townfall",
-      "ReleaseDate": "2026-09-24",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc5sw.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1636440",
-      "Metacritic": 73,
-      "AddedCount": 105,
-      "Rating": 73.09171815131494,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjfq5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x88.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x82.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x83.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x84.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x85.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x86.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x87.jpg"
-      ],
-      "Genres": [
-        "Puzzle",
         "Adventure"
       ],
       "Tags": [],
@@ -193,6 +138,32 @@
       ]
     },
     {
+      "ID": 403310,
+      "Title": "Call of Duty: Modern Warfare 4",
+      "ReleaseDate": "2026-10-23",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4mu.jpg",
+      "StoreURL": "https://store.steampowered.com/app/4435490",
+      "Metacritic": 81,
+      "AddedCount": 61,
+      "Rating": 81.36752136752136,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3n.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3o.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3p.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3q.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3r.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3s.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3t.jpg"
+      ],
+      "Genres": [
+        "Shooter"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 356552,
       "Title": "Clive Barker's Hellraiser: Revival",
       "ReleaseDate": "2026-10-08",
@@ -200,7 +171,7 @@
       "StoreURL": "https://store.steampowered.com/app/1551980",
       "Metacritic": 89,
       "AddedCount": 61,
-      "Rating": 89.37994121034878,
+      "Rating": 89.2142787855272,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15h7u.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15h80.jpg",
@@ -215,32 +186,6 @@
       ],
       "Genres": [
         "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 403310,
-      "Title": "Call of Duty: Modern Warfare 4",
-      "ReleaseDate": "2026-10-23",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4mu.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4435490",
-      "Metacritic": 0,
-      "AddedCount": 60,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3n.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3o.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3p.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3q.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3r.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3s.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3t.jpg"
-      ],
-      "Genres": [
-        "Shooter"
       ],
       "Tags": [],
       "Platforms": [
@@ -1005,58 +950,6 @@
       ]
     },
     {
-      "ID": 314419,
-      "Title": "Mars Attracts",
-      "ReleaseDate": "2026-09-24",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8ppt.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2760580",
-      "Metacritic": 0,
-      "AddedCount": 7,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoy0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoxy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoy1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoy2.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoy4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoxz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoy3.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Strategy"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 279963,
-      "Title": "Dragon Shelter",
-      "ReleaseDate": "2026-09-24",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocz60.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2712590",
-      "Metacritic": 0,
-      "AddedCount": 7,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpw76.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpw78.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpw7b.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpw7c.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpw79.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 201754,
       "Title": "Among the Trolls",
       "ReleaseDate": "2026-10-14",
@@ -1270,37 +1163,6 @@
       ]
     },
     {
-      "ID": 383138,
-      "Title": "Farming Camp",
-      "ReleaseDate": "2026-09-24",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coba9t.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2985880",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1113v.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1113w.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1113x.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1113y.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11140.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11141.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11142.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11143.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11144.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14o0c.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Simulator",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 379667,
       "Title": "Cozy Builder",
       "ReleaseDate": "2026-10-14",
@@ -1385,6 +1247,147 @@
       "Platforms": [
         "pc"
       ]
+    },
+    {
+      "ID": 303382,
+      "Title": "Burn With Me",
+      "ReleaseDate": "2026-10-12",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4t8.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2954010",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13imy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13imx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13imu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13imv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13imt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13imw.jpg"
+      ],
+      "Genres": [
+        "Puzzle",
+        "Strategy",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 290107,
+      "Title": "Echo Weaver",
+      "ReleaseDate": "2026-10-08",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod3qs.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2184080",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqzsb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqzsc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqzsd.jpg"
+      ],
+      "Genres": [
+        "Platform",
+        "Puzzle",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 239002,
+      "Title": "Beyond These Stars",
+      "ReleaseDate": "2026-10-16",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7ozj.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2295060",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sclfxk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sclfxl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sclfxm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sclfxn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sclfxp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sclfxt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sclfxo.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sclfxq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sclfxv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sclfxu.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Strategy"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 207595,
+      "Title": "Neighbors: Suburban Warfare",
+      "ReleaseDate": "2026-09-29",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8wvn.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1732430",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu3wr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu3wq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu3wu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu3wv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu3wy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu3wz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu3ww.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu3ws.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu3wt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu3wx.jpg"
+      ],
+      "Genres": [
+        "Shooter",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 189014,
+      "Title": "Songs of Glimmerwick",
+      "ReleaseDate": "2026-09-30",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocwzg.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1706510",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scfh95.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scfh8n.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scfh9n.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scfh9e.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scfh90.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scfh93.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scfh9j.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scfh9l.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scfh9p.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scfh8x.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
     }
   ],
   "Upcoming": [
@@ -1395,7 +1398,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cococe.jpg",
       "StoreURL": "https://store.steampowered.com/app/4115450",
       "Metacritic": 0,
-      "AddedCount": 220,
+      "AddedCount": 222,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmngq.jpg",
@@ -1453,7 +1456,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocrlo.jpg",
       "StoreURL": "https://store.steampowered.com/app/4814120",
       "Metacritic": 0,
-      "AddedCount": 94,
+      "AddedCount": 95,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14vzg.jpg",
@@ -2354,33 +2357,6 @@
       ]
     },
     {
-      "ID": 376145,
-      "Title": "Warhammer Survivors",
-      "ReleaseDate": "2026-11-10",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coasoa.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3669620",
-      "Metacritic": 0,
-      "AddedCount": 13,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc106mp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc106mq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc106mu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc106mr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc106mt.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc106ms.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Indie",
-        "Arcade"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 368311,
       "Title": "Arkheron",
       "ReleaseDate": "2026-12-31",
@@ -2398,6 +2374,33 @@
       ],
       "Genres": [
         "Tactical"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 376145,
+      "Title": "Warhammer Survivors",
+      "ReleaseDate": "2026-11-10",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coasoa.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3669620",
+      "Metacritic": 0,
+      "AddedCount": 12,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc106mp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc106mq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc106mu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc106mr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc106mt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc106ms.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Indie",
+        "Arcade"
       ],
       "Tags": [],
       "Platforms": [
