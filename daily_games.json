@@ -86,9 +86,9 @@
       "ReleaseDate": "2026-10-15",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod5fk.jpg",
       "StoreURL": "https://store.steampowered.com/app/4231820",
-      "Metacritic": 0,
+      "Metacritic": 81,
       "AddedCount": 81,
-      "Rating": 0.0,
+      "Rating": 80.53853807671706,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x74.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x75.jpg",
@@ -171,7 +171,7 @@
       "StoreURL": "https://store.steampowered.com/app/1551980",
       "Metacritic": 89,
       "AddedCount": 61,
-      "Rating": 89.2142787855272,
+      "Rating": 89.15710066435048,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15h7u.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15h80.jpg",
@@ -283,9 +283,9 @@
       "ReleaseDate": "2026-10-08",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc954.jpg",
       "StoreURL": "https://store.steampowered.com/app/499170",
-      "Metacritic": 0,
+      "Metacritic": 91,
       "AddedCount": 30,
-      "Rating": 0.0,
+      "Rating": 91.01123595505618,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tc3.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tc8.jpg",
@@ -976,31 +976,6 @@
       ]
     },
     {
-      "ID": 408819,
-      "Title": "EA Sports FC 27",
-      "ReleaseDate": "2026-09-25",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coclf3.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4080220",
-      "Metacritic": 32,
-      "AddedCount": 6,
-      "Rating": 31.55245603395997,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14etq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14etr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14ett.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14etw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14etu.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Sport"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 405435,
       "Title": "One Piece: Grand Gourmet",
       "ReleaseDate": "2026-10-23",
@@ -1388,6 +1363,37 @@
       "Platforms": [
         "pc"
       ]
+    },
+    {
+      "ID": 403155,
+      "Title": "Online: 404",
+      "ReleaseDate": "2026-10-16",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4iv.jpg",
+      "StoreURL": "https://store.steampowered.com/app/4094350",
+      "Metacritic": 0,
+      "AddedCount": 4,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13hry.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13hrx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13hrz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13hs0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13hrr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13hrs.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13hrt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13hru.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13hrv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13hrw.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
     }
   ],
   "Upcoming": [
@@ -1456,7 +1462,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocrlo.jpg",
       "StoreURL": "https://store.steampowered.com/app/4814120",
       "Metacritic": 0,
-      "AddedCount": 95,
+      "AddedCount": 96,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14vzg.jpg",
