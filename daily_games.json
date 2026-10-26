@@ -8,7 +8,7 @@
       "StoreURL": "https://store.steampowered.com/app/3010850",
       "Metacritic": 83,
       "AddedCount": 115,
-      "Rating": 82.66179914593835,
+      "Rating": 82.6547941808316,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoft.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsofq.jpg",
@@ -171,7 +171,7 @@
       "StoreURL": "https://store.steampowered.com/app/1551980",
       "Metacritic": 89,
       "AddedCount": 61,
-      "Rating": 89.15710066435048,
+      "Rating": 89.0663201463086,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15h7u.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15h80.jpg",
@@ -253,9 +253,9 @@
       "ReleaseDate": "2026-10-08",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod2rg.jpg",
       "StoreURL": "https://store.steampowered.com/app/2333000",
-      "Metacritic": 0,
+      "Metacritic": 90,
       "AddedCount": 41,
-      "Rating": 0.0,
+      "Rating": 89.83463799866752,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15i3g.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctn0w.jpg",
@@ -812,6 +812,65 @@
       ]
     },
     {
+      "ID": 211347,
+      "Title": "Reka",
+      "ReleaseDate": "2026-10-26",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5m78.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1737870",
+      "Metacritic": 0,
+      "AddedCount": 10,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sci2bz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sci2c1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sci2c5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sci2c4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sci2c3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sci2by.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sci2c0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sci2c2.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 340570,
+      "Title": "Nomad Drive",
+      "ReleaseDate": "2026-09-30",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc9al.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2223980",
+      "Metacritic": 0,
+      "AddedCount": 9,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd50.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd51.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd52.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd53.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd55.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd56.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd54.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd57.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd58.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 325182,
       "Title": "Toem 2",
       "ReleaseDate": "2026-09-29",
@@ -864,36 +923,6 @@
       ]
     },
     {
-      "ID": 340570,
-      "Title": "Nomad Drive",
-      "ReleaseDate": "2026-09-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc9al.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2223980",
-      "Metacritic": 0,
-      "AddedCount": 8,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd50.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd51.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd52.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd53.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd55.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd56.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd54.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd57.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwd58.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 387614,
       "Title": "AGX GP",
       "ReleaseDate": "2026-09-30",
@@ -917,6 +946,37 @@
       "Genres": [
         "Racing",
         "Sport",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 378426,
+      "Title": "Night Plane",
+      "ReleaseDate": "2026-10-26",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coct8k.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3310570",
+      "Metacritic": 0,
+      "AddedCount": 7,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc162um.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc162un.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc162ul.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc162ut.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc162uu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc162uw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc162up.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc162ur.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc162us.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc162uo.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Adventure",
         "Indie"
       ],
       "Tags": [],
@@ -1021,6 +1081,30 @@
       ],
       "Genres": [
         "Strategy"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 365273,
+      "Title": "The Mailroom",
+      "ReleaseDate": "2026-10-26",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobqfv.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3965430",
+      "Metacritic": 0,
+      "AddedCount": 6,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyx41.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyx42.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyx43.jpg"
+      ],
+      "Genres": [
+        "Puzzle",
+        "Simulator",
+        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -1303,97 +1387,6 @@
       "Platforms": [
         "pc"
       ]
-    },
-    {
-      "ID": 207595,
-      "Title": "Neighbors: Suburban Warfare",
-      "ReleaseDate": "2026-09-29",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8wvn.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1732430",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu3wr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu3wq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu3wu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu3wv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu3wy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu3wz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu3ww.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu3ws.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu3wt.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu3wx.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 189014,
-      "Title": "Songs of Glimmerwick",
-      "ReleaseDate": "2026-09-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocwzg.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1706510",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scfh95.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scfh8n.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scfh9n.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scfh9e.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scfh90.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scfh93.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scfh9j.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scfh9l.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scfh9p.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scfh8x.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 403155,
-      "Title": "Online: 404",
-      "ReleaseDate": "2026-10-16",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4iv.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4094350",
-      "Metacritic": 0,
-      "AddedCount": 4,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13hry.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13hrx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13hrz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13hs0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13hrr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13hrs.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13hrt.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13hru.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13hrv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13hrw.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
     }
   ],
   "Upcoming": [
@@ -1404,7 +1397,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cococe.jpg",
       "StoreURL": "https://store.steampowered.com/app/4115450",
       "Metacritic": 0,
-      "AddedCount": 222,
+      "AddedCount": 223,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmngq.jpg",
@@ -1431,7 +1424,7 @@
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobu6l.jpg",
       "StoreURL": "https://store.steampowered.com/app/4260840",
       "Metacritic": 0,
-      "AddedCount": 116,
+      "AddedCount": 118,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13ujs.jpg",
@@ -2631,6 +2624,34 @@
       ]
     },
     {
+      "ID": 257450,
+      "Title": "Airframe Ultra",
+      "ReleaseDate": "2026-11-05",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9wpu.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2522120",
+      "Metacritic": 0,
+      "AddedCount": 11,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scnew3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scnewa.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scnew4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scnew8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scnew6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scnew7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scnew9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scnew5.jpg"
+      ],
+      "Genres": [
+        "Racing",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 252349,
       "Title": "Toxic Crusaders",
       "ReleaseDate": "2026-12-31",
@@ -2737,34 +2758,6 @@
       ],
       "Genres": [
         "Role-playing (RPG)",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 252793,
-      "Title": "Surviving Deponia",
-      "ReleaseDate": "2026-12-31",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6lw1.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2464520",
-      "Metacritic": 0,
-      "AddedCount": 10,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwgx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwgv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwgz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwgt.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwgw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwgu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwgy.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Simulator",
         "Adventure"
       ],
       "Tags": [],
