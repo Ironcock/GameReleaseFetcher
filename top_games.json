@@ -99,7 +99,7 @@
       "StoreURL": "https://store.steampowered.com/app/1174180",
       "Metacritic": 93,
       "AddedCount": 257,
-      "Rating": 93.20007633483297,
+      "Rating": 93.20000053736726,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/xegpfnsvlyeld0zkjnrc.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/kcfpf8wa8esalk0qkpo5.jpg",
@@ -186,7 +186,7 @@
       "StoreURL": "https://store.steampowered.com/app/1030300",
       "Metacritic": 92,
       "AddedCount": 220,
-      "Rating": 92.46805588442946,
+      "Rating": 92.46841001025015,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc63aa.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc63a9.jpg",
@@ -239,7 +239,7 @@
       "StoreURL": "https://store.steampowered.com/app/1593500",
       "Metacritic": 92,
       "AddedCount": 92,
-      "Rating": 91.95281134771821,
+      "Rating": 91.95260207851176,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/rm35ytrytuka9qkylqyk.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/ywrkjcrbeemmb51flsfj.jpg",
@@ -432,7 +432,7 @@
       "StoreURL": "https://store.steampowered.com/app/2322010",
       "Metacritic": 91,
       "AddedCount": 77,
-      "Rating": 90.90477494421614,
+      "Rating": 90.90470035939789,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scd71x.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scd71v.jpg",
@@ -795,6 +795,37 @@
       ]
     },
     {
+      "ID": 347668,
+      "Title": "Resident Evil Requiem",
+      "ReleaseDate": "2026-02-27",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobmj0.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3764200",
+      "Metacritic": 89,
+      "AddedCount": 309,
+      "Rating": 89.17590488942193,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tjs.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tnu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tnv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tnw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tnx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tny.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tnz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10to0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10to1.jpg"
+      ],
+      "Genres": [
+        "Shooter",
+        "Puzzle",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 434,
       "Title": "Red Dead Redemption",
       "ReleaseDate": "2010-05-18",
@@ -815,37 +846,6 @@
       "Genres": [
         "Shooter",
         "Role-playing (RPG)",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 347668,
-      "Title": "Resident Evil Requiem",
-      "ReleaseDate": "2026-02-27",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobmj0.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3764200",
-      "Metacritic": 89,
-      "AddedCount": 309,
-      "Rating": 89.14444849105591,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9r1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tjs.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tnu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tnv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tnw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tnx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tny.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tnz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10to0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10to1.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Puzzle",
         "Adventure"
       ],
       "Tags": [],
@@ -1555,7 +1555,7 @@
       "StoreURL": "https://store.steampowered.com/app/504230",
       "Metacritic": 87,
       "AddedCount": 2,
-      "Rating": 86.7149716326048,
+      "Rating": 86.71473396653926,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/loakfrjghok9fxnh59lt.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/kzx2bmkvwre0ndfgvvho.jpg",
@@ -1699,7 +1699,7 @@
       "StoreURL": "",
       "Metacritic": 87,
       "AddedCount": 1,
-      "Rating": 86.56993049064333,
+      "Rating": 86.56982885912326,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/gdplcyvz8fvgxvgu2phn.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/xov2ga3zkudrtr0sqp8n.jpg",
@@ -1775,7 +1775,7 @@
       "StoreURL": "https://store.steampowered.com/app/52003",
       "Metacritic": 86,
       "AddedCount": 0,
-      "Rating": 86.40802839608153,
+      "Rating": 86.40790733536818,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/oycbiasvmiewjxncqlgd.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/gdgj7p0vo52jpwoxtm3v.jpg",
@@ -2192,7 +2192,7 @@
       "StoreURL": "https://store.steampowered.com/app/427520",
       "Metacritic": 86,
       "AddedCount": 13,
-      "Rating": 85.80913203487214,
+      "Rating": 85.81122226983615,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct3fy.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sct3fz.jpg",
@@ -2456,7 +2456,7 @@
       "StoreURL": "",
       "Metacritic": 85,
       "AddedCount": 173,
-      "Rating": 85.42085934915858,
+      "Rating": 85.42125614293923,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bi9.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bi8.jpg",
@@ -2649,7 +2649,7 @@
       "Title": "Doom",
       "ReleaseDate": "2016-05-12",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1nc7.jpg",
-      "StoreURL": "https://store.steampowered.com/app/430910",
+      "StoreURL": "https://store.steampowered.com/app/379720",
       "Metacritic": 85,
       "AddedCount": 29,
       "Rating": 85.18052741510195,
@@ -3227,7 +3227,7 @@
       "StoreURL": "https://store.steampowered.com/app/1551360",
       "Metacritic": 85,
       "AddedCount": 16,
-      "Rating": 84.50542716930109,
+      "Rating": 84.5060135468573,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scahho.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scahhr.jpg",
@@ -3520,7 +3520,7 @@
       "StoreURL": "https://store.steampowered.com/app/892970",
       "Metacritic": 84,
       "AddedCount": 0,
-      "Rating": 84.27807112889141,
+      "Rating": 84.27840042076215,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15bho.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15bhi.jpg",
@@ -3822,7 +3822,7 @@
       "Title": "Total War: Shogun 2",
       "ReleaseDate": "2011-03-15",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2rpy.jpg",
-      "StoreURL": "https://store.steampowered.com/app/379000",
+      "StoreURL": "https://store.steampowered.com/app/201270",
       "Metacritic": 84,
       "AddedCount": 0,
       "Rating": 83.82581317153502,
@@ -3932,7 +3932,7 @@
       "Title": "Risk of Rain 2",
       "ReleaseDate": "2020-08-11",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaavb.jpg",
-      "StoreURL": "https://store.steampowered.com/app/632360",
+      "StoreURL": "https://store.steampowered.com/app/3885090",
       "Metacritic": 84,
       "AddedCount": 5,
       "Rating": 83.71605375275733,
@@ -4138,7 +4138,7 @@
       "StoreURL": "https://store.steampowered.com/app/12210",
       "Metacritic": 83,
       "AddedCount": 0,
-      "Rating": 83.48799019849567,
+      "Rating": 83.48793645022283,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/kpaqc6q3il0dtjhrdpcd.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/rfvuzw0pjfkxq1d820a4.jpg",
