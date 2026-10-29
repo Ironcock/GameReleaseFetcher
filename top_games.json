@@ -8,7 +8,7 @@
       "StoreURL": "https://store.steampowered.com/app/1086940",
       "Metacritic": 95,
       "AddedCount": 39,
-      "Rating": 95.02962191376612,
+      "Rating": 95.02759162889909,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc81fj.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxvxn.jpg",
@@ -39,7 +39,7 @@
       "StoreURL": "https://store.steampowered.com/app/292030",
       "Metacritic": 94,
       "AddedCount": 179,
-      "Rating": 93.77384287945033,
+      "Rating": 93.77388742696627,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctj8u.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/farvemmmxav0bgt6wx7t.jpg",
@@ -186,7 +186,7 @@
       "StoreURL": "https://store.steampowered.com/app/1030300",
       "Metacritic": 92,
       "AddedCount": 220,
-      "Rating": 92.46841001025015,
+      "Rating": 92.47217642490318,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc63aa.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc63a9.jpg",
@@ -1079,7 +1079,7 @@
       "StoreURL": "https://store.steampowered.com/app/72850",
       "Metacritic": 88,
       "AddedCount": 0,
-      "Rating": 87.74859773612744,
+      "Rating": 87.74876007054328,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctdy4.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/muv70yw3rds1cw8ymr5v.jpg",
@@ -1724,7 +1724,7 @@
       "StoreURL": "https://store.steampowered.com/app/3321460",
       "Metacritic": 87,
       "AddedCount": 298,
-      "Rating": 86.55580011393681,
+      "Rating": 86.55510106231682,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11et8.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11etg.jpg",
@@ -2053,7 +2053,7 @@
       "StoreURL": "https://store.steampowered.com/app/413150",
       "Metacritic": 86,
       "AddedCount": 1,
-      "Rating": 85.98387348761732,
+      "Rating": 85.9841888342412,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/rhxs1x9w5hf5kde2osf5.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/iwswpvxa9ytrpk8yjcyx.jpg",
@@ -3256,7 +3256,7 @@
       "StoreURL": "https://store.steampowered.com/app/2651280",
       "Metacritic": 84,
       "AddedCount": 18,
-      "Rating": 84.47787942335009,
+      "Rating": 84.478289308119,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwdi.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmwdk.jpg",
@@ -3330,31 +3330,6 @@
       ]
     },
     {
-      "ID": 148241,
-      "Title": "Lies of P",
-      "ReleaseDate": "2023-09-18",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6lxr.jpg",
-      "StoreURL": "https://store.steampowered.com/app/1980050",
-      "Metacritic": 84,
-      "AddedCount": 17,
-      "Rating": 84.43264520343052,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc9oa8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc9oa7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc9oa9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc9oab.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc9oaa.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 13226,
       "Title": "Keep Talking and Nobody Explodes",
       "ReleaseDate": "2015-07-16",
@@ -3372,6 +3347,31 @@
         "Puzzle",
         "Simulator",
         "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 148241,
+      "Title": "Lies of P",
+      "ReleaseDate": "2023-09-18",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6lxr.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1980050",
+      "Metacritic": 84,
+      "AddedCount": 17,
+      "Rating": 84.42864126504894,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc9oa8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc9oa7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc9oa9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc9oab.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc9oaa.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -3822,7 +3822,7 @@
       "Title": "Total War: Shogun 2",
       "ReleaseDate": "2011-03-15",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2rpy.jpg",
-      "StoreURL": "https://store.steampowered.com/app/201270",
+      "StoreURL": "https://store.steampowered.com/app/379000",
       "Metacritic": 84,
       "AddedCount": 0,
       "Rating": 83.82581317153502,
