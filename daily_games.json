@@ -33,9 +33,9 @@
       "ReleaseDate": "2026-10-06",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc77n.jpg",
       "StoreURL": "https://store.steampowered.com/app/3010850",
-      "Metacritic": 83,
+      "Metacritic": 82,
       "AddedCount": 115,
-      "Rating": 82.6547941808316,
+      "Rating": 82.45935733691437,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoft.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsofq.jpg",
@@ -48,30 +48,6 @@
       ],
       "Genres": [
         "Shooter",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 347637,
-      "Title": "End of Abyss",
-      "ReleaseDate": "2026-10-01",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocrau.jpg",
-      "StoreURL": "https://store.epicgames.com/p/e8ee7c830b4745a4a23de702f901873c",
-      "Metacritic": 79,
-      "AddedCount": 90,
-      "Rating": 78.74392408946608,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxk45.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxk46.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxk48.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxk44.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scxk47.jpg"
-      ],
-      "Genres": [
         "Adventure"
       ],
       "Tags": [],
@@ -172,7 +148,7 @@
       "StoreURL": "https://store.steampowered.com/app/4435490",
       "Metacritic": 80,
       "AddedCount": 61,
-      "Rating": 79.75948926351487,
+      "Rating": 79.86995467871802,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3n.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3o.jpg",
@@ -268,6 +244,7 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10ytl.jpg"
       ],
       "Genres": [
+        "Puzzle",
         "Adventure",
         "Indie"
       ],
@@ -543,31 +520,6 @@
         "Puzzle",
         "Adventure",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 233978,
-      "Title": "Monsters & Memories",
-      "ReleaseDate": "2026-10-01",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co62g5.jpg",
-      "StoreURL": "",
-      "Metacritic": 0,
-      "AddedCount": 15,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scksye.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scksyf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scksyh.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scksyg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scksyi.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -857,37 +809,6 @@
         "Role-playing (RPG)",
         "Strategy",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 231488,
-      "Title": "Retrospace",
-      "ReleaseDate": "2026-10-01",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod15a.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2067820",
-      "Metacritic": 0,
-      "AddedCount": 10,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sckjcg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15i3a.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15i30.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15i35.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15i2x.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15i2y.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15i2z.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15i31.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15i32.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15i33.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Simulator",
-        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -1323,36 +1244,6 @@
       ]
     },
     {
-      "ID": 316943,
-      "Title": "BloomTale",
-      "ReleaseDate": "2026-10-01",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8toy.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3168520",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctxgz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctxh0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctxh1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctxgw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14r01.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14r02.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14qzz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14r00.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14r05.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14r06.jpg"
-      ],
-      "Genres": [
-        "Point-and-click",
-        "Simulator"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 303382,
       "Title": "Burn With Me",
       "ReleaseDate": "2026-10-12",
@@ -1373,6 +1264,122 @@
         "Puzzle",
         "Strategy",
         "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 290107,
+      "Title": "Echo Weaver",
+      "ReleaseDate": "2026-10-08",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod3qs.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2184080",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqzsb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqzsc.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqzsd.jpg"
+      ],
+      "Genres": [
+        "Platform",
+        "Puzzle",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 239002,
+      "Title": "Beyond These Stars",
+      "ReleaseDate": "2026-10-16",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7ozj.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2295060",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sclfxk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sclfxl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sclfxm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sclfxn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sclfxp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sclfxt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sclfxo.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sclfxq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sclfxv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sclfxu.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Strategy"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 403155,
+      "Title": "Online: 404",
+      "ReleaseDate": "2026-10-16",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4iv.jpg",
+      "StoreURL": "https://store.steampowered.com/app/4094350",
+      "Metacritic": 0,
+      "AddedCount": 4,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13hry.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13hrx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13hrz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13hs0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13hrr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13hrs.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13hrt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13hru.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13hrv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13hrw.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 402530,
+      "Title": "Anomalith",
+      "ReleaseDate": "2026-10-28",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc3jf.jpg",
+      "StoreURL": "https://store.steampowered.com/app/4017880",
+      "Metacritic": 0,
+      "AddedCount": 4,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13f4t.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13f54.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13f53.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13f55.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13f57.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13f4x.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13f56.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13f4r.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13f4v.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13f51.jpg"
+      ],
+      "Genres": [
+        "Shooter",
+        "Role-playing (RPG)",
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -2092,6 +2099,35 @@
       ]
     },
     {
+      "ID": 404715,
+      "Title": "Attack on Titan 3",
+      "ReleaseDate": "2026-12-10",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocn7y.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2916700",
+      "Metacritic": 0,
+      "AddedCount": 15,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13nsq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13nsr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13nss.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13nsk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13nsl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13nsm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13nsn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13nso.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13nsp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13nst.jpg"
+      ],
+      "Genres": [
+        "Hack and slash/Beat 'em up"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 380410,
       "Title": "About Fishing",
       "ReleaseDate": "2026-12-31",
@@ -2171,35 +2207,6 @@
       "Genres": [
         "Simulator",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 404715,
-      "Title": "Attack on Titan 3",
-      "ReleaseDate": "2026-12-10",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocn7y.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2916700",
-      "Metacritic": 0,
-      "AddedCount": 14,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13nsq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13nsr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13nss.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13nsk.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13nsl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13nsm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13nsn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13nso.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13nsp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13nst.jpg"
-      ],
-      "Genres": [
-        "Hack and slash/Beat 'em up"
       ],
       "Tags": [],
       "Platforms": [
