@@ -35,7 +35,7 @@
       "StoreURL": "https://store.steampowered.com/app/3010850",
       "Metacritic": 82,
       "AddedCount": 115,
-      "Rating": 82.45935733691437,
+      "Rating": 82.46575411044356,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoft.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsofq.jpg",
@@ -63,7 +63,7 @@
       "StoreURL": "https://store.steampowered.com/app/2828710",
       "Metacritic": 80,
       "AddedCount": 88,
-      "Rating": 80.03580566475455,
+      "Rating": 79.76701024438344,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym6w.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scym6x.jpg",
@@ -89,9 +89,9 @@
       "ReleaseDate": "2026-10-15",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod5fk.jpg",
       "StoreURL": "https://store.steampowered.com/app/4231820",
-      "Metacritic": 87,
+      "Metacritic": 76,
       "AddedCount": 81,
-      "Rating": 86.96182815388454,
+      "Rating": 76.12371676058132,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x74.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x75.jpg",
@@ -120,9 +120,9 @@
       "ReleaseDate": "2026-10-06",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobihx.jpg",
       "StoreURL": "https://store.steampowered.com/app/4078430",
-      "Metacritic": 87,
+      "Metacritic": 80,
       "AddedCount": 81,
-      "Rating": 86.73469387755102,
+      "Rating": 80.04541606066044,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10te0.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tdy.jpg",
@@ -196,33 +196,6 @@
       ]
     },
     {
-      "ID": 381247,
-      "Title": "Ace Combat 8: Wings of Theve",
-      "ReleaseDate": "2026-10-02",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0h1.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2288340",
-      "Metacritic": 90,
-      "AddedCount": 58,
-      "Rating": 90.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tdv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tdu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tdx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tds.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tdt.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tdw.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Simulator",
-        "Arcade"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 313597,
       "Title": "Silver Pines",
       "ReleaseDate": "2026-10-08",
@@ -230,7 +203,7 @@
       "StoreURL": "https://store.steampowered.com/app/2333000",
       "Metacritic": 90,
       "AddedCount": 41,
-      "Rating": 89.84396816217297,
+      "Rating": 89.86654330545946,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15i3g.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctn0w.jpg",
@@ -865,6 +838,35 @@
       ],
       "Genres": [
         "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 341980,
+      "Title": "Demon Bluff",
+      "ReleaseDate": "2026-11-01",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobxv9.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3522600",
+      "Metacritic": 0,
+      "AddedCount": 8,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12zef.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12zeh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12zej.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12zec.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12zee.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12zed.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12zeg.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc12zei.jpg"
+      ],
+      "Genres": [
+        "Puzzle",
+        "Strategy",
+        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -2268,23 +2270,27 @@
       ]
     },
     {
-      "ID": 368311,
-      "Title": "Arkheron",
-      "ReleaseDate": "2026-12-31",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaioi.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3333850",
+      "ID": 360263,
+      "Title": "Casualties: Unknown",
+      "ReleaseDate": "2026-11-09",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocbi7.jpg",
+      "StoreURL": "https://store.steampowered.com/app/4576490",
       "Metacritic": 0,
       "AddedCount": 13,
       "Rating": 0.0,
       "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz7aq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz7au.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz7as.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz7at.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scz7ar.jpg"
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc130mv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc130mw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc130mq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc130mr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc130ms.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc130mt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc130mu.jpg"
       ],
       "Genres": [
-        "Tactical"
+        "Simulator",
+        "Adventure",
+        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -2386,34 +2392,6 @@
       ],
       "Genres": [
         "Puzzle",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 360263,
-      "Title": "Casualties: Unknown",
-      "ReleaseDate": "2026-11-09",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocbi7.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4576490",
-      "Metacritic": 0,
-      "AddedCount": 12,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc130mv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc130mw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc130mq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc130mr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc130ms.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc130mt.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc130mu.jpg"
-      ],
-      "Genres": [
-        "Simulator",
         "Adventure",
         "Indie"
       ],
@@ -2753,6 +2731,33 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10bw0.jpg"
       ],
       "Genres": [],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 375637,
+      "Title": "Object Impermanence",
+      "ReleaseDate": "2026-12-31",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob1li.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3595450",
+      "Metacritic": 0,
+      "AddedCount": 9,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1043h.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1043i.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1043j.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1043k.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1043l.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1043m.jpg"
+      ],
+      "Genres": [
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
       "Tags": [],
       "Platforms": [
         "pc"
