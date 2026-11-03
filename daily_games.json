@@ -10,12 +10,16 @@
       "AddedCount": 227,
       "Rating": 0.0,
       "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmngq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmngp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmngt.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmngr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmngs.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13652.jpg"
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc16c9n.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc16c9k.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc16c9o.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc16c9s.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc16c9t.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc16c9r.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc16c9l.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc16c9m.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc16c9p.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc16c9q.jpg"
       ],
       "Genres": [
         "Role-playing (RPG)",
@@ -203,7 +207,7 @@
       "StoreURL": "https://store.steampowered.com/app/2333000",
       "Metacritic": 90,
       "AddedCount": 41,
-      "Rating": 89.86700521941673,
+      "Rating": 89.84572952804596,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15i3g.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctn0w.jpg",
@@ -220,6 +224,33 @@
         "Puzzle",
         "Adventure",
         "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 317622,
+      "Title": "ArcheAge Chronicles",
+      "ReleaseDate": "2026-11-03",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8xgc.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3218230",
+      "Metacritic": 0,
+      "AddedCount": 33,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu5gu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu5gv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu5gw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu5gx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu5gy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu5gz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu5h0.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -562,7 +593,7 @@
       "ID": 258775,
       "Title": "Queen's Domain",
       "ReleaseDate": "2026-10-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coay8v.jpg",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coda8t.jpg",
       "StoreURL": "https://store.steampowered.com/app/1799840",
       "Metacritic": 0,
       "AddedCount": 14,
@@ -753,6 +784,35 @@
         "Adventure",
         "Indie",
         "Visual Novel"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 252774,
+      "Title": "Loftia",
+      "ReleaseDate": "2026-11-03",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaakj.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2320980",
+      "Metacritic": 0,
+      "AddedCount": 11,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scylcx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scylcy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scylcz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyld0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyld1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyld2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyld3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyld4.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -1240,6 +1300,33 @@
       ]
     },
     {
+      "ID": 400112,
+      "Title": "Wilderdark",
+      "ReleaseDate": "2026-11-03",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc03a.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2735850",
+      "Metacritic": 0,
+      "AddedCount": 5,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1358c.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1358b.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1358d.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13589.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1358a.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13588.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc1358e.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 391801,
       "Title": "Curse of Resthaven",
       "ReleaseDate": "2026-10-29",
@@ -1289,86 +1376,6 @@
       ],
       "Genres": [
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 375578,
-      "Title": "Battleplan",
-      "ReleaseDate": "2026-10-12",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coat76.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3743140",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc108r9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc108ra.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc108rb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc108rc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc108rd.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc108re.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc108rf.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc108rg.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc108rh.jpg"
-      ],
-      "Genres": [
-        "Real Time Strategy (RTS)",
-        "Strategy"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 303382,
-      "Title": "Burn With Me",
-      "ReleaseDate": "2026-10-12",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4t8.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2954010",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13imy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13imx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13imu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13imv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13imt.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13imw.jpg"
-      ],
-      "Genres": [
-        "Puzzle",
-        "Strategy",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 290107,
-      "Title": "Echo Weaver",
-      "ReleaseDate": "2026-10-08",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod3qs.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2184080",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqzsb.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqzsc.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqzsd.jpg"
-      ],
-      "Genres": [
-        "Platform",
-        "Puzzle",
-        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -1703,40 +1710,13 @@
       ]
     },
     {
-      "ID": 317622,
-      "Title": "ArcheAge Chronicles",
-      "ReleaseDate": "2026-12-31",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8xgc.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3218230",
-      "Metacritic": 0,
-      "AddedCount": 33,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu5gu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu5gv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu5gw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu5gx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu5gy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu5gz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu5h0.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 381208,
       "Title": "TankRat",
       "ReleaseDate": "2027-01-15",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0ej.jpg",
       "StoreURL": "https://store.steampowered.com/app/1637460",
       "Metacritic": 0,
-      "AddedCount": 32,
+      "AddedCount": 31,
       "Rating": 0.0,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tag.jpg",
@@ -2088,6 +2068,36 @@
       ]
     },
     {
+      "ID": 317817,
+      "Title": "Tanuki: Pon's Summer",
+      "ReleaseDate": "2026-11-10",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8uyz.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3218570",
+      "Metacritic": 0,
+      "AddedCount": 16,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0i5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0i9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0ib.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0ig.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0id.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0ii.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0if.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0i7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0ie.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0i6.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 380410,
       "Title": "About Fishing",
       "ReleaseDate": "2026-12-31",
@@ -2110,63 +2120,6 @@
       ],
       "Genres": [
         "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 321054,
-      "Title": "Animal Use Protocol",
-      "ReleaseDate": "2026-12-31",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8zro.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2591790",
-      "Metacritic": 0,
-      "AddedCount": 15,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuc6p.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuc6q.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuc6r.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuc6s.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuc6t.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuc6u.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuc6v.jpg"
-      ],
-      "Genres": [
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 317817,
-      "Title": "Tanuki: Pon's Summer",
-      "ReleaseDate": "2026-11-10",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8uyz.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3218570",
-      "Metacritic": 0,
-      "AddedCount": 15,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0i5.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0i9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0ib.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0ig.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0id.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0ii.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0if.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0i7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0ie.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu0i6.jpg"
-      ],
-      "Genres": [
-        "Simulator",
-        "Indie"
       ],
       "Tags": [],
       "Platforms": [
@@ -2232,10 +2185,37 @@
       ]
     },
     {
+      "ID": 321054,
+      "Title": "Animal Use Protocol",
+      "ReleaseDate": "2026-12-31",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8zro.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2591790",
+      "Metacritic": 0,
+      "AddedCount": 14,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuc6p.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuc6q.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuc6r.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuc6s.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuc6t.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuc6u.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scuc6v.jpg"
+      ],
+      "Genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 382400,
       "Title": "Trees Hate You",
       "ReleaseDate": "2026-11-16",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob3ai.jpg",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coda4h.jpg",
       "StoreURL": "https://store.steampowered.com/app/4171850",
       "Metacritic": 0,
       "AddedCount": 13,
@@ -2303,33 +2283,6 @@
         "Hack and slash/Beat 'em up",
         "Adventure",
         "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 376145,
-      "Title": "Warhammer Survivors",
-      "ReleaseDate": "2026-11-10",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coasoa.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3669620",
-      "Metacritic": 0,
-      "AddedCount": 12,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc106mp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc106mq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc106mu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc106mr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc106mt.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc106ms.jpg"
-      ],
-      "Genres": [
-        "Role-playing (RPG)",
-        "Indie",
-        "Arcade"
       ],
       "Tags": [],
       "Platforms": [
@@ -2433,6 +2386,33 @@
         "Role-playing (RPG)",
         "Adventure",
         "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 376145,
+      "Title": "Warhammer Survivors",
+      "ReleaseDate": "2026-11-10",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coasoa.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3669620",
+      "Metacritic": 0,
+      "AddedCount": 11,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc106mp.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc106mq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc106mu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc106mr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc106mt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc106ms.jpg"
+      ],
+      "Genres": [
+        "Role-playing (RPG)",
+        "Indie",
+        "Arcade"
       ],
       "Tags": [],
       "Platforms": [
@@ -2545,6 +2525,36 @@
       ],
       "Genres": [
         "Hack and slash/Beat 'em up",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 369843,
+      "Title": "Demi and the Fractured Dream",
+      "ReleaseDate": "2027-02-01",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coajoq.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1725710",
+      "Metacritic": 0,
+      "AddedCount": 10,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc0z.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc14.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc10.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc0v.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc0w.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc0x.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc11.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc12.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc0y.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sczc13.jpg"
+      ],
+      "Genres": [
         "Adventure",
         "Indie"
       ],
