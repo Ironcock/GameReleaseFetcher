@@ -32,34 +32,6 @@
       ]
     },
     {
-      "ID": 305160,
-      "Title": "Gears of War: E-Day",
-      "ReleaseDate": "2026-10-06",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc77n.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3010850",
-      "Metacritic": 82,
-      "AddedCount": 115,
-      "Rating": 82.40387503719455,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsoft.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsofq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsofu.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsofx.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsofs.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsofw.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsofr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scsofv.jpg"
-      ],
-      "Genres": [
-        "Shooter",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 361833,
       "Title": "Valor Mortis",
       "ReleaseDate": "2026-10-13",
@@ -95,7 +67,7 @@
       "StoreURL": "https://store.steampowered.com/app/4231820",
       "Metacritic": 76,
       "AddedCount": 81,
-      "Rating": 76.27972228979847,
+      "Rating": 76.28687926492903,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x74.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc11x75.jpg",
@@ -111,32 +83,6 @@
       "Genres": [
         "Platform",
         "Role-playing (RPG)",
-        "Hack and slash/Beat 'em up"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 381248,
-      "Title": "Star Wars: Galactic Racer",
-      "ReleaseDate": "2026-10-06",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobihx.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4078430",
-      "Metacritic": 80,
-      "AddedCount": 81,
-      "Rating": 80.04541606066044,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10te0.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tdy.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10tdz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10te1.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10te2.jpg"
-      ],
-      "Genres": [
-        "Racing",
-        "Sport",
         "Adventure"
       ],
       "Tags": [],
@@ -152,7 +98,7 @@
       "StoreURL": "https://store.steampowered.com/app/4435490",
       "Metacritic": 80,
       "AddedCount": 61,
-      "Rating": 79.86839046290854,
+      "Rating": 79.8452676641554,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3n.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13i3o.jpg",
@@ -823,6 +769,34 @@
       ]
     },
     {
+      "ID": 257450,
+      "Title": "Airframe Ultra",
+      "ReleaseDate": "2026-11-05",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9wpu.jpg",
+      "StoreURL": "https://store.steampowered.com/app/2522120",
+      "Metacritic": 0,
+      "AddedCount": 11,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scnew3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scnewa.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scnew4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scnew8.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scnew6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scnew7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scnew9.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scnew5.jpg"
+      ],
+      "Genres": [
+        "Racing",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 252774,
       "Title": "Loftia",
       "ReleaseDate": "2026-11-03",
@@ -965,6 +939,37 @@
       ]
     },
     {
+      "ID": 163456,
+      "Title": "Lightyear Frontier",
+      "ReleaseDate": "2026-11-03",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7x0f.jpg",
+      "StoreURL": "https://store.steampowered.com/app/1677110",
+      "Metacritic": 68,
+      "AddedCount": 9,
+      "Rating": 68.35429799563175,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scty5t.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sccgkq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sccgkr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sccgks.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sccgkt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sccgku.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sccgky.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sccgkw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scty5u.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sccgkv.jpg"
+      ],
+      "Genres": [
+        "Simulator",
+        "Adventure",
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 378896,
       "Title": "Lost Host",
       "ReleaseDate": "2026-11-04",
@@ -986,6 +991,35 @@
       "Genres": [
         "Adventure",
         "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 347671,
+      "Title": "Escape Academy 2: Back 2 School",
+      "ReleaseDate": "2026-11-05",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xhl.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3296060",
+      "Metacritic": 0,
+      "AddedCount": 8,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9n5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9n6.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9n3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9n1.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9n0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9n2.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9n7.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9mz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scx9n4.jpg"
+      ],
+      "Genres": [
+        "Puzzle",
+        "Adventure"
       ],
       "Tags": [],
       "Platforms": [
@@ -1260,6 +1294,35 @@
       ]
     },
     {
+      "ID": 378342,
+      "Title": "Wielders of the Essence",
+      "ReleaseDate": "2026-11-05",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocw3k.jpg",
+      "StoreURL": "https://store.steampowered.com/app/3546610",
+      "Metacritic": 0,
+      "AddedCount": 6,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc146mk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc146me.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc146mf.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc146mh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc146mj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc146ml.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc146mm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc146mn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc146mo.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc146md.jpg"
+      ],
+      "Genres": [
+        "Indie"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
       "ID": 365273,
       "Title": "The Mailroom",
       "ReleaseDate": "2026-10-26",
@@ -1332,60 +1395,6 @@
       ],
       "Genres": [
         "Role-playing (RPG)",
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 265390,
-      "Title": "Blue Ridge Hunting",
-      "ReleaseDate": "2026-10-20",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9qkv.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2434930",
-      "Metacritic": 0,
-      "AddedCount": 6,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwlcv.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwlcp.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwlcq.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwlcr.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwlcs.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwlct.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwlcu.jpg"
-      ],
-      "Genres": [
-        "Adventure",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 421011,
-      "Title": "Fart Together",
-      "ReleaseDate": "2026-10-30",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod1nc.jpg",
-      "StoreURL": "https://store.steampowered.com/app/5117550",
-      "Metacritic": 0,
-      "AddedCount": 5,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15i2a.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15i2d.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15i28.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15i29.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15i2b.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15i2c.jpg"
-      ],
-      "Genres": [
-        "Racing",
         "Adventure",
         "Indie"
       ],
@@ -2563,34 +2572,6 @@
       ]
     },
     {
-      "ID": 257450,
-      "Title": "Airframe Ultra",
-      "ReleaseDate": "2026-11-05",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9wpu.jpg",
-      "StoreURL": "https://store.steampowered.com/app/2522120",
-      "Metacritic": 0,
-      "AddedCount": 11,
-      "Rating": 0.0,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scnew3.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scnewa.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scnew4.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scnew8.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scnew6.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scnew7.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scnew9.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scnew5.jpg"
-      ],
-      "Genres": [
-        "Racing",
-        "Indie"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 252349,
       "Title": "Toxic Crusaders",
       "ReleaseDate": "2026-12-31",
@@ -2759,6 +2740,33 @@
         "Simulator",
         "Strategy"
       ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 377235,
+      "Title": "BrokenLore: Ascend",
+      "ReleaseDate": "2027-01-07",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coau0q.jpg",
+      "StoreURL": "https://store.steampowered.com/app/4051470",
+      "Metacritic": 0,
+      "AddedCount": 9,
+      "Rating": 0.0,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10bvr.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10bvs.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10bvt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10bvu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10bvv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10bvy.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10bvw.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10bvx.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10bvz.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc10bw0.jpg"
+      ],
+      "Genres": [],
       "Tags": [],
       "Platforms": [
         "pc"

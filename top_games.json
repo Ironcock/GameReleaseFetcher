@@ -99,7 +99,7 @@
       "StoreURL": "https://store.steampowered.com/app/1174180",
       "Metacritic": 93,
       "AddedCount": 257,
-      "Rating": 93.19979498489982,
+      "Rating": 93.19985665337376,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/xegpfnsvlyeld0zkjnrc.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/kcfpf8wa8esalk0qkpo5.jpg",
@@ -156,7 +156,7 @@
       "StoreURL": "https://store.steampowered.com/app/1030300",
       "Metacritic": 92,
       "AddedCount": 220,
-      "Rating": 92.47132900253106,
+      "Rating": 92.4736185658447,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc63aa.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc63a9.jpg",
@@ -623,7 +623,7 @@
       "StoreURL": "https://store.steampowered.com/app/814380",
       "Metacritic": 90,
       "AddedCount": 64,
-      "Rating": 89.70716445469834,
+      "Rating": 89.70700115864071,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sn1rmqcvrwomyuttaoyq.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/ocxemodvr6oa72argpyo.jpg",
@@ -1418,7 +1418,7 @@
       "StoreURL": "https://store.steampowered.com/app/374320",
       "Metacritic": 87,
       "AddedCount": 27,
-      "Rating": 87.13248490646272,
+      "Rating": 87.13225915983975,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/wlefrkqqtxge3lo81cis.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/nwrsu8awczsx38hmnqx7.jpg",
@@ -1431,33 +1431,6 @@
       ],
       "Genres": [
         "Role-playing (RPG)",
-        "Adventure"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
-      "ID": 185246,
-      "Title": "Alan Wake II",
-      "ReleaseDate": "2023-10-27",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6jar.jpg",
-      "StoreURL": "https://store.epicgames.com/p/06203841-704b-4a66-af9a-a49967e7aefe",
-      "Metacritic": 87,
-      "AddedCount": 16,
-      "Rating": 87.11561704130327,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmnco.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmncn.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmnck.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmncl.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmncj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmncm.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmnci.jpg"
-      ],
-      "Genres": [
-        "Shooter",
         "Adventure"
       ],
       "Tags": [],
@@ -1481,6 +1454,33 @@
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8blb.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8bhf.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8blc.jpg"
+      ],
+      "Genres": [
+        "Shooter",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 185246,
+      "Title": "Alan Wake II",
+      "ReleaseDate": "2023-10-27",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6jar.jpg",
+      "StoreURL": "https://store.epicgames.com/p/06203841-704b-4a66-af9a-a49967e7aefe",
+      "Metacritic": 87,
+      "AddedCount": 16,
+      "Rating": 87.00176454748357,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmnco.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmncn.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmnck.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmncl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmncj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmncm.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scmnci.jpg"
       ],
       "Genres": [
         "Shooter",
@@ -1901,32 +1901,6 @@
       ]
     },
     {
-      "ID": 440,
-      "Title": "Medieval II: Total War",
-      "ReleaseDate": "2006-11-10",
-      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8xje.jpg",
-      "StoreURL": "https://store.steampowered.com/app/4700",
-      "Metacritic": 86,
-      "AddedCount": 0,
-      "Rating": 86.1336751208166,
-      "ShortScreenshots": [
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/wwnwcw9hxavmh877wfxz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/x1euo6op0jydvdwoliiz.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/pwertp6gvwqmzbs020vj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/dekstjzv70yttetp4bxj.jpg",
-        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/nndkna0wxsmnlmp1xrua.jpg"
-      ],
-      "Genres": [
-        "Real Time Strategy (RTS)",
-        "Simulator",
-        "Strategy"
-      ],
-      "Tags": [],
-      "Platforms": [
-        "pc"
-      ]
-    },
-    {
       "ID": 251833,
       "Title": "Balatro",
       "ReleaseDate": "2024-02-20",
@@ -2077,7 +2051,7 @@
       "StoreURL": "https://store.steampowered.com/app/413150",
       "Metacritic": 86,
       "AddedCount": 1,
-      "Rating": 85.98374052580385,
+      "Rating": 85.98349161321265,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/rhxs1x9w5hf5kde2osf5.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/iwswpvxa9ytrpk8yjcyx.jpg",
@@ -2103,7 +2077,7 @@
       "StoreURL": "https://store.steampowered.com/app/391540",
       "Metacritic": 86,
       "AddedCount": 0,
-      "Rating": 85.97240954521016,
+      "Rating": 85.97225199800386,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/ze8i79ycm3gyymrjvxf0.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/dp7ytj3ouesyoq7ddrrx.jpg",
@@ -2283,7 +2257,7 @@
       "StoreURL": "https://store.steampowered.com/app/304430",
       "Metacritic": 86,
       "AddedCount": 11,
-      "Rating": 85.67779388276975,
+      "Rating": 85.67790824413878,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/guhljbryvlqg2kn25z7r.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/z4fkserflyby1nv5ispe.jpg",
@@ -2937,7 +2911,7 @@
       "StoreURL": "https://store.steampowered.com/app/217980",
       "Metacritic": 85,
       "AddedCount": 0,
-      "Rating": 84.8505956200625,
+      "Rating": 84.85067664310534,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/gket6hnfqf2o6btpluck.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/g7gj1dq82qv2wvv3izxg.jpg",
@@ -2963,7 +2937,7 @@
       "StoreURL": "https://store.steampowered.com/app/331470",
       "Metacritic": 85,
       "AddedCount": 0,
-      "Rating": 84.84682360548123,
+      "Rating": 84.8395368934172,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/wsllrxiirnyhpcwvz3ca.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sjcqbyzj03f6gz7wbemw.jpg",
@@ -3125,7 +3099,7 @@
       "StoreURL": "https://store.steampowered.com/app/782330",
       "Metacritic": 85,
       "AddedCount": 124,
-      "Rating": 84.61129421045035,
+      "Rating": 84.6110007788402,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/iuqr5hhkgfphav8x4uda.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/dkjdvrbqaoyyh4klvbwb.jpg",
@@ -3551,7 +3525,7 @@
       "StoreURL": "https://store.steampowered.com/app/892970",
       "Metacritic": 84,
       "AddedCount": 0,
-      "Rating": 84.27842191826875,
+      "Rating": 84.27803728493888,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15bho.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15bhi.jpg",
@@ -3662,7 +3636,7 @@
       "StoreURL": "https://store.steampowered.com/app/414340",
       "Metacritic": 84,
       "AddedCount": 18,
-      "Rating": 83.99847170509923,
+      "Rating": 83.99820056339627,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/qlkznn24xndeh1zalz5r.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/vsiwndxe6pb9mwicy6ud.jpg",
@@ -3940,7 +3914,7 @@
       "StoreURL": "https://store.steampowered.com/app/213670",
       "Metacritic": 84,
       "AddedCount": 16,
-      "Rating": 83.73829200540256,
+      "Rating": 83.73822044426744,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/bjwrnizsisnykyj2unls.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/vevt14vztlsidoewcrip.jpg",
@@ -3963,7 +3937,7 @@
       "Title": "Risk of Rain 2",
       "ReleaseDate": "2020-08-11",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaavb.jpg",
-      "StoreURL": "https://store.steampowered.com/app/3885090",
+      "StoreURL": "https://store.steampowered.com/app/632360",
       "Metacritic": 84,
       "AddedCount": 5,
       "Rating": 83.71605375275733,
@@ -4057,7 +4031,7 @@
       "StoreURL": "https://store.steampowered.com/app/501300",
       "Metacritic": 84,
       "AddedCount": 8,
-      "Rating": 83.6297610412534,
+      "Rating": 83.62969409504765,
       "ShortScreenshots": [
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/vvfjyxwyxctwik3bqoyn.jpg",
         "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqgbd.jpg",
@@ -4081,7 +4055,7 @@
       "Title": "Borderlands 2",
       "ReleaseDate": "2012-09-18",
       "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9ba3.jpg",
-      "StoreURL": "https://store.steampowered.com/app/379880",
+      "StoreURL": "https://store.steampowered.com/app/49520",
       "Metacritic": 84,
       "AddedCount": 1,
       "Rating": 83.6055557400647,
@@ -4180,6 +4154,33 @@
       "Genres": [
         "Shooter",
         "Racing",
+        "Adventure"
+      ],
+      "Tags": [],
+      "Platforms": [
+        "pc"
+      ]
+    },
+    {
+      "ID": 529,
+      "Title": "Far Cry 3",
+      "ReleaseDate": "2012-11-28",
+      "ImageURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1vpd.jpg",
+      "StoreURL": "https://store.steampowered.com/app/220240",
+      "Metacritic": 83,
+      "AddedCount": 0,
+      "Rating": 83.45563088267934,
+      "ShortScreenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/hterz13rpaszugt8spxs.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctdyj.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/kvq6cqtwbrt7hqtl04pv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/yxe6aqle2hup54tlhche.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/h3iymjjobo27kmyg649y.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/kwjtiwnlluu30knt0grv.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14x1o.jpg"
+      ],
+      "Genres": [
+        "Shooter",
         "Adventure"
       ],
       "Tags": [],
